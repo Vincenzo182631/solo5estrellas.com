@@ -1,0 +1,307 @@
+{
+  "summary": {
+    "health_score": 39,
+    "business_type": "Luxury hotel booking (travel agency, preferred-partner benefits), Spanish-language",
+    "top_findings": [
+      "No canonical tags on any crawled page; hotels linked under two URL variants (3,080 of 3,235 IDs)",
+      "Head markup broken on hotel, collection, city and chain pages: meta description lost, hreflang cut off",
+      "Legacy browse_country.cfm?countryid=64 (Turks & Caicos) earns 23% of clicks with title 'Bienvenido' and no canonical",
+      "Sitemap lists 14 URLs while 5,221 URLs are not indexed (1,963 discovered, 931 crawled, not indexed)",
+      "JSON-LD text corrupted with replacement characters on 206 pages; no Hotel schema"
+    ],
+    "quick_wins": [
+      "Close the unclosed meta title and hreflang quotes in the head template",
+      "Add self-referencing canonicals",
+      "301 legacy browse_*.cfm and slug variants",
+      "Submit a segmented sitemap and add Sitemap: to robots.txt",
+      "Translate English titles; fix 'Excusive' in 67 chain/collection titles; shorten the title suffix"
+    ],
+    "scoring_note": "Judgment-based rubric using the repo's category weights; Performance (10%) not measured and excluded, so the other six weights are renormalized."
+  },
+  "categories": [
+    {
+      "name": "Technical SEO",
+      "score": 30,
+      "what_works": [
+        "HTTPS and HTTP/2; gzip enabled",
+        "robots.txt is well structured and allows ChatGPT-User on purpose",
+        "All 399 crawled pages returned 200 (no 5xx); lang=\"es\" declared",
+        "Search Console shows indexed pages growing from 390 to 5,774 (10 Jul to 19 Sep 2026)"
+      ],
+      "findings": [
+        {
+          "title": "No canonical tag on any crawled page",
+          "severity": "Critical",
+          "description": "0 of 399 crawled pages (300 hotels, 62 collections, 17 regions, 7 cities, 6 chains, others) have rel=canonical. Search Console reports 492 pages as 'Duplicate without user-selected canonical'.",
+          "recommendation": "Output a self-referencing absolute canonical on every indexable template (one host, lowercase slug)."
+        },
+        {
+          "title": "Almost every hotel is linked under two URL variants, both returning 200",
+          "severity": "Critical",
+          "description": "3,080 of 3,235 hotel IDs seen in internal links appear with two slugs (hyphen and underscore, e.g. /hotels/4839/blackberry-farm.html and /hotels/4839/blackberry_farm.html). Any slug resolves with 200 (/hotels/1048/anything.html). Search Console shows 81 IDs indexed under 2-3 variants.",
+          "recommendation": "Pick one slug per ID, 301 all variants, return 404 for unknown IDs, canonicalize."
+        },
+        {
+          "title": "Head markup is malformed on all hotel, collection, city and chain pages",
+          "severity": "Critical",
+          "description": "289 of 300 hotel pages, 61 of 62 collections, 7 of 7 cities and 6 of 6 chains contain <meta name=\"title\" content=\" with no closing quote, which swallows the next tag; the meta description is lost (a parser finds a description on only 32 of 399 pages). The same pages contain a hreflang tag cut off at href=\"https://www.solo5estrellas.com/hotels/ >, which swallows the following script block.",
+          "recommendation": "Fix the template: close the quotes, fill the title variable or remove the tag, repair hreflang. Re-crawl and check Search Console URL Inspection."
+        },
+        {
+          "title": "Soft 404s and malformed hotel URLs",
+          "severity": "High",
+          "description": "Unknown IDs return 200 (/cities/9999/foo.html). 14 hotel links contain <br>, ** or tabs inside the slug (e.g. /hotels/2894/sonora_resort__<br>_all-inclusive.html) and return 400. Search Console: 120 pages not found (404), 65 redirect pages.",
+          "recommendation": "Sanitize slugs at the source; real 404/410 for missing IDs; fix internal links."
+        },
+        {
+          "title": "Legacy parameter URLs are indexed and carry traffic",
+          "severity": "Critical",
+          "description": "11 browse_*.cfm?id URLs appear in Search Console; browse_country.cfm?countryid=64 (Islas Turcas y Caicos) has 29 of 124 clicks and returns 200 with title 'Bienvenido', no canonical, no redirect.",
+          "recommendation": "301 each legacy URL to its clean URL, then rebuild the page."
+        },
+        {
+          "title": "Sitemap covers 14 URLs; robots.txt has no Sitemap line",
+          "severity": "High",
+          "description": "/sitemap.xml lists 14 URLs (no hotels, cities, chains, regions; identical lastmod). The crawl found about 3,235 hotel IDs from hub links alone. Search Console shows 5,221 not-indexed URLs including 1,963 'Discovered - currently not indexed' and 931 'Crawled - currently not indexed'.",
+          "recommendation": "Segmented sitemap index with real lastmod; add Sitemap: to robots.txt; submit in GSC and Bing."
+        },
+        {
+          "title": "Server response is slow on city pages",
+          "severity": "Medium",
+          "description": "City pages average 2.5 s to first byte (New York 3.4 s, London 3.0 s, Cancun 2.8 s); other templates 0.4-0.6 s.",
+          "recommendation": "Cache city pages; lazy-load hotel lists."
+        },
+        {
+          "title": "No cache headers or security headers; software disclosed",
+          "severity": "Medium",
+          "description": "Home response has no Cache-Control, ETag, Strict-Transport-Security, X-Content-Type-Options or similar; X-Powered-By: ASP.NET and Server: Microsoft-IIS/10.0 are exposed; CFID cookie expires in 2056.",
+          "recommendation": "Add caching, HSTS and standard headers; remove version headers; session cookies."
+        },
+        {
+          "title": "1,646 pages blocked by robots.txt in Search Console",
+          "severity": "Medium",
+          "description": "The crawl found 500 internal links to /booking/ (intended Disallow). Example URLs for the 1,646 are not in the export, so it is unconfirmed that only /booking/ is affected.",
+          "recommendation": "Open Page indexing > Blocked by robots.txt and confirm example URLs."
+        }
+      ]
+    },
+    {
+      "name": "Content Quality",
+      "score": 62,
+      "what_works": [
+        "Hotel pages: median 1,233 words with expert perspective, benefits comparison and FAQ",
+        "Collection pages average 2,237 words; chain pages 3,195 words; region pages 3,886 words",
+        "Spanish copy is generally readable and professional"
+      ],
+      "findings": [
+        {
+          "title": "31% of sampled hotel pages are thin",
+          "severity": "High",
+          "description": "94 of 300 hotel pages have under 300 words of visible text (about 210 words, e.g. Amanjiwo, Amankora, Conrad Dublin, W Sydney).",
+          "recommendation": "Expert text and verified benefits before indexing; noindex until improved."
+        },
+        {
+          "title": "Repetitive template text and AI-generated sections",
+          "severity": "Medium",
+          "description": "The repo's content scorer flags the sampled hotel page 'repetitive' (36 repetition score; overall 95). Pros and cons, ratings and comparisons are labeled as AI-generated.",
+          "recommendation": "Human review, unique first paragraphs and FAQ answers per hotel."
+        },
+        {
+          "title": "Spanish copy defects (see proposal section 4)",
+          "severity": "High",
+          "description": "Mixed tu/usted, Title Case, typos such as 'Excusive' in 67 of 68 chain/collection titles and 'Nnoche' in offers, English titles on core pages.",
+          "recommendation": "Spanish editorial style guide and template fixes."
+        },
+        {
+          "title": "No editorial content",
+          "severity": "High",
+          "description": "No guides, comparisons, neighborhood pages or named authors; Search Console shows head terms nearly absent (hoteles de lujo: 5 impressions).",
+          "recommendation": "City hubs and content clusters per the proposal."
+        }
+      ]
+    },
+    {
+      "name": "On-Page SEO",
+      "score": 25,
+      "what_works": [
+        "Each page type has one H1 (398 of 399; /hotels-by-flight-time/ has none)",
+        "Hotel titles are unique per hotel"
+      ],
+      "findings": [
+        {
+          "title": "Meta descriptions missing or generic",
+          "severity": "Critical",
+          "description": "367 of 399 pages have no readable meta description (head bug above); 24 carry the sitewide generic 'Los mejores hoteles de lujo de 5 estrellas del mundo'; all 17 region pages use it.",
+          "recommendation": "Unique descriptions from template fields."
+        },
+        {
+          "title": "Titles: wrong language, typo, generic, too long",
+          "severity": "High",
+          "description": "7 pages titled 'Bienvenido'; English titles on /collection/, /destinations/, /destination/; 'Preferred Partner | Official Excusive Perks' on 67 of 68 chain and collection pages (English, typo, duplicate pattern); median title length 66 characters, 275 of 399 over 60 because of the suffix '| Solo 5 Estrellas por Lorraine Travel'. 19 titles are shared by 44 pages.",
+          "recommendation": "Spanish title templates under 60 characters, brand shortened."
+        },
+        {
+          "title": "hreflang wrong everywhere",
+          "severity": "High",
+          "description": "No crawled page has a self-referencing es tag; hotel, collection, city and chain pages have a malformed es tag and no x-default; region and hub pages point es to the homepage and x-default to the English homepage.",
+          "recommendation": "Page-level reciprocal es/en pairs with WhataHotel."
+        },
+        {
+          "title": "Hotel pages have no links to their own city, country, chain or guide",
+          "severity": "Medium",
+          "description": "Hotel pages average 43 internal links, almost all global navigation; no breadcrumbs on hotel pages (BreadcrumbList on 0 of 300).",
+          "recommendation": "Template-level contextual links and breadcrumbs."
+        },
+        {
+          "title": "Loading messages are H2 headings",
+          "severity": "Low",
+          "description": "'Cargando tarifas...' and similar are <h2> on hotel pages.",
+          "recommendation": "Use non-heading elements."
+        }
+      ]
+    },
+    {
+      "name": "Schema / Structured Data",
+      "score": 40,
+      "what_works": [
+        "JSON-LD present on all 399 pages; FAQPage on 190 of 300 hotels; rich chain/collection graphs (BreadcrumbList, FAQPage, ItemList) on 67 pages"
+      ],
+      "findings": [
+        {
+          "title": "JSON-LD text is corrupted with replacement characters on 206 pages",
+          "severity": "High",
+          "description": "The schema text contains U+FFFD in place of accented letters (e.g. 'n?mero', 'Cr?dito'). It is not visible in page text, but search engines and AI systems read it.",
+          "recommendation": "Fix the encoding at the data source; re-validate."
+        },
+        {
+          "title": "No Hotel or LodgingBusiness schema; offers modeled as zero-price",
+          "severity": "High",
+          "description": "0 of 300 hotel pages have Hotel schema; 206 carry TravelAgency + Offer with price 0 and OnlineOnly availability.",
+          "recommendation": "Add Hotel entity; describe perks as visible text."
+        },
+        {
+          "title": "Organization graph points to WhataHotel profiles and omits Lorraine Travel",
+          "severity": "High",
+          "description": "sameAs lists facebook.com/whatahotel and instagram.com/whatahotel; no parentOrganization.",
+          "recommendation": "Rebuild entity graph."
+        },
+        {
+          "title": "City, region, and home pages carry only Organization and WebSite",
+          "severity": "Medium",
+          "description": "7 cities and 17 regions have no BreadcrumbList or ItemList.",
+          "recommendation": "Add on hubs where the visible list matches."
+        },
+        {
+          "title": "Chain and collection schema may over-claim",
+          "severity": "Low",
+          "description": "Chain/collection graphs include TravelAgency with OpeningHoursSpecification and GeoCoordinates on brand pages; verify these match visible content.",
+          "recommendation": "Remove properties not shown on the page."
+        }
+      ]
+    },
+    {
+      "name": "Performance (CWV)",
+      "score": null,
+      "what_works": [],
+      "findings": [
+        {
+          "title": "Core Web Vitals not measured",
+          "severity": "Info",
+          "description": "PageSpeed Insights API quota was exhausted (HTTP 429) and the audit tool's own fetchers were blocked by this sandbox's proxy guard. Server timing and page weight were measured instead: HTML 14-180 KB; city pages 2.5 s TTFB.",
+          "recommendation": "Pull CrUX and Lighthouse from Search Console or a local run."
+        }
+      ]
+    },
+    {
+      "name": "AI Search Readiness",
+      "score": 45,
+      "what_works": [
+        "robots.txt allows OAI-SearchBot, PerplexityBot and ChatGPT-User except /booking/",
+        "Search Console shows 1,343 impressions in Google AI features since 18 May 2026 (Spain 304, Mexico 238, Argentina 170)",
+        "FAQPage markup on 64% of hotels"
+      ],
+      "findings": [
+        {
+          "title": "Claims lack sources, dates and named authors",
+          "severity": "High",
+          "description": "Perks (breakfast for two, $100 credit) are stated without verification dates or program terms; no named experts.",
+          "recommendation": "Verified-benefits blocks and advisor profiles."
+        },
+        {
+          "title": "No llms.txt, no markdown alternates",
+          "severity": "Info",
+          "description": "/llms.txt returns 404. Google does not use it; the benefit is optional.",
+          "recommendation": "Low priority."
+        },
+        {
+          "title": "Brand entity unclear",
+          "severity": "High",
+          "description": "Brand queries earned 3 clicks and 137 impressions; the schema graph does not link Solo5Estrellas to Lorraine Travel.",
+          "recommendation": "Entity strategy in proposal section 18."
+        }
+      ]
+    },
+    {
+      "name": "Images",
+      "score": 20,
+      "what_works": [],
+      "findings": [
+        {
+          "title": "No hotel images in server HTML",
+          "severity": "High",
+          "description": "All 300 sampled hotel pages contain exactly 1 <img> (the logo); 323 of 399 pages have one or none. Galleries are probably JavaScript-loaded. Image alt text and lazy loading could not be assessed.",
+          "recommendation": "Server-render the hero image with alt text, dimensions and fetchpriority; lazy-load the rest. Confirm with GSC URL Inspection."
+        }
+      ]
+    }
+  ],
+  "action_plan": {
+    "phases": [
+      {
+        "name": "Phase 1: Critical Fixes",
+        "timeframe": "Week 1",
+        "items": [
+          "Repair head template (meta title quote, hreflang)",
+          "Canonical tags on all templates",
+          "One host; 301 http and alternate host",
+          "301 legacy browse_*.cfm URLs and slug variants; real 404 for unknown IDs",
+          "Export examples for 1,646 robots-blocked pages in GSC"
+        ]
+      },
+      {
+        "name": "Phase 2: High-Impact Improvements",
+        "timeframe": "Weeks 2-3",
+        "items": [
+          "Segmented sitemap index; submit to GSC and Bing",
+          "Unique Spanish titles and descriptions per template",
+          "Reciprocal es/en hreflang with WhataHotel",
+          "Fix encoding of JSON-LD text; add Hotel schema; rebuild Organization graph",
+          "Rebuild Turks & Caicos, New York, Cancun hubs"
+        ]
+      },
+      {
+        "name": "Phase 3: Content & Authority",
+        "timeframe": "Month 2",
+        "items": [
+          "City and country hubs, collections, comparison pages",
+          "Thin hotel pages: expert text or noindex",
+          "Advisor profiles and verified-benefits blocks",
+          "Server-rendered hotel images with alt text"
+        ]
+      },
+      {
+        "name": "Phase 4: Monitoring & Iteration",
+        "timeframe": "Ongoing",
+        "items": [
+          "Weekly GSC indexing and crawl review",
+          "Monthly AI visibility prompt log",
+          "Quarterly market re-ranking"
+        ]
+      }
+    ]
+  },
+  "artifacts": {
+    "findings_dir": "findings/",
+    "screenshots_dir": "screenshots/"
+  }
+}
