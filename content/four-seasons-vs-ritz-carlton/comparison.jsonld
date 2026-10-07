@@ -1,0 +1,124 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Guías",
+          "item": "https://solo5estrellas.com/guias/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Four Seasons vs Ritz-Carlton",
+          "item": "https://solo5estrellas.com/guias/four-seasons-vs-ritz-carlton/"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/guias/four-seasons-vs-ritz-carlton/#webpage",
+      "url": "https://solo5estrellas.com/guias/four-seasons-vs-ritz-carlton/",
+      "name": "Four Seasons vs Ritz-Carlton: diferencias, beneficios y cuál elegir",
+      "description": "Compare Four Seasons y Ritz-Carlton: beneficios, puntos y hoteles en México, España y EE. UU. Reserve con las ventajas de Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuál es mejor, Four Seasons o Ritz-Carlton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No hay una ganadora para todos los viajes. Elija Ritz-Carlton si acumula puntos de Marriott Bonvoy; elija Four Seasons si no depende de un programa de puntos o si viaja a un destino donde solo está Four Seasons. En nueve destinos puede comparar las dos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo acumulando puntos de Marriott Bonvoy si reservo Ritz-Carlton con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Las reservas hechas a través de Solo5Estrellas, con el programa Marriott STARS, acumulan puntos de Marriott Bonvoy y noches de nivel, y se respetan las ventajas de su nivel élite, según nuestra página de Ritz-Carlton."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Four Seasons tiene programa de puntos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Four Seasons no tiene un programa de fidelización por puntos. Las ventajas de Preferred Partner son el reconocimiento que reciben los huéspedes que reservan con una agencia autorizada como Solo5Estrellas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué beneficios incluye reservar Four Seasons y Ritz-Carlton con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las dos incluyen desayuno diario para dos, crédito de hotel de 100 USD, mejora de categoría sujeta a disponibilidad y Wi-Fi. Ritz-Carlton añade entrada anticipada, salida tardía y estatus VIP; Four Seasons añade un detalle de bienvenida y créditos de hasta 200 USD en suites."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál tiene más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En Solo5Estrellas se pueden reservar 141 hoteles de Four Seasons en 47 países y territorios y 116 de The Ritz-Carlton en 35. Cifras de nuestras páginas de cadena; ambas marcas pueden tener más propiedades."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marca tiene más hoteles en México?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Four Seasons tiene 6 (Punta Mita, Los Cabos, Tamarindo y Ciudad de México) y Ritz-Carlton 4 (Ciudad de México y las Reserve Siari y Zadun)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Y en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las dos tienen dos hoteles en esta página: Four Seasons, en Madrid y Mallorca; Ritz-Carlton, en Tenerife (The Ritz-Carlton, Abama) y en Barcelona (Hotel Arts Barcelona)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar directamente?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada del hotel y las ventajas se añaden a esa tarifa; reservar directo no incluye desayuno, crédito de hotel ni mejora de categoría en la tarifa publicada."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Ritz-Carlton Reserve?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es la submarca de refugios más pequeños de Ritz-Carlton. En nuestra selección incluye, entre otros, Zadun (Los Cabos), Siari (Riviera Nayarit), Dorado Beach (Puerto Rico) y Nekajui (Costa Rica)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Marriott STARS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Marriott International para asesores de viajes de lujo. Cubre The Ritz-Carlton, St. Regis, EDITION, Bulgari y The Luxury Collection, y las reservas se hacen a la tarifa publicada con ventajas de cortesía."
+          }
+        }
+      ]
+    }
+  ]
+}
