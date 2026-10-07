@@ -1,0 +1,113 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Europa",
+          "item": "https://solo5estrellas.com/regions/8/europe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Four Seasons Hotel Madrid",
+          "item": "https://solo5estrellas.com/hotels/3897/four-seasons-hotel-madrid.html"
+        }
+      ]
+    },
+    {
+      "@type": "Hotel",
+      "@id": "https://solo5estrellas.com/hotels/3897/four-seasons-hotel-madrid.html#hotel",
+      "name": "Four Seasons Hotel Madrid",
+      "url": "https://solo5estrellas.com/hotels/3897/four-seasons-hotel-madrid.html",
+      "description": "El Four Seasons Hotel Madrid está en la calle de Sevilla 3, entre la Puerta del Sol y el Barrio de las Letras, y es la mejor base para visitar Madrid a pie: el Prado, el Thyssen y el Reina Sofía quedan cerca. Tiene 200 habitaciones, 39 de ellas suites, un centro de bienestar de cuatro plantas y un restaurante en la azotea de Dani García.",
+      "inLanguage": "es",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle de Sevilla, 3",
+        "postalCode": "28014",
+        "addressLocality": "Madrid",
+        "addressCountry": "ES"
+      },
+      "numberOfRooms": 200,
+      "starRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "containedInPlace": {
+        "@type": "City",
+        "name": "Madrid"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Dónde está el Four Seasons Hotel Madrid?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En la calle de Sevilla 3, en el centro de Madrid, entre la Puerta del Sol y el Barrio de las Letras. Desde el hotel se llega a pie al Museo del Prado, al Thyssen-Bornemisza y al Reina Sofía."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántas habitaciones tiene el Four Seasons Hotel Madrid?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tiene 200 habitaciones, 39 de ellas suites. Las categorías van de Superior, Deluxe y Premier a Four Seasons Suite, suite de un dormitorio y Signature Suite, además de las suites Presidencial y Real."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué restaurantes tiene el hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dos: Dani Brasserie, en la azotea, del chef Dani García, e Isa. Consulte horarios y reservas con el hotel o con su asesor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene spa y piscina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Cuenta con un centro de bienestar de cuatro plantas, con spa y piscina, y una terraza con piscina."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿A qué distancia está del aeropuerto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A unos 15 km del aeropuerto Madrid-Barajas, a unos 25 minutos en coche, según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, crédito de hotel de 100 USD (100 a 200 USD en suites), mejora de categoría sujeta a disponibilidad, detalle de bienvenida y Wi-Fi premium, a la misma tarifa publicada. Se confirma al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Está en el barrio de Salamanca?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Está en el Centro de Madrid, junto a la Puerta del Sol. Si prefiere el barrio de Salamanca, pida a su asesor otras opciones en esa zona."
+          }
+        }
+      ]
+    }
+  ]
+}

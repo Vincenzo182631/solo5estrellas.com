@@ -1,0 +1,157 @@
+type,english_on_site,spanish_to_use,note
+country,United States,Estados Unidos,
+country,"Anguilla, BWI",Anguila,
+country,Argentina,Argentina,same
+country,Australia,Australia,same
+country,Azerbaijan,Azerbaiyán,
+country,Bahamas,Bahamas,same
+country,Bahrain,Baréin,
+country,Canada,Canadá,
+country,China,China,same
+country,Colombia,Colombia,same
+country,Costa Rica,Costa Rica,same
+country,Czech Republic,República Checa,
+country,Egypt,Egipto,
+country,France,Francia,
+country,French Polynesia (Tahiti),Polinesia Francesa (Tahití),
+country,Greece,Grecia,
+country,Hungary,Hungría,
+country,India,India,same
+country,Indonesia,Indonesia,same
+country,Italy,Italia,
+country,Japan,Japón,
+country,Jordan,Jordania,
+country,Kuwait,Kuwait,same
+country,Lebanon,Líbano,
+country,Malaysia,Malasia,
+country,Maldives,Maldivas,
+country,Mauritius,Mauricio,
+country,Mexico,México,
+country,Morocco,Marruecos,
+country,Portugal,Portugal,same
+country,Puerto Rico,Puerto Rico,same
+country,Qatar,Catar,
+country,Saudi Arabia,Arabia Saudita,
+country,Seychelles,Seychelles,same
+country,Singapore,Singapur,
+country,South Africa,Sudáfrica,
+country,South Korea,Corea del Sur,
+country,Spain,España,
+country,St. Kitts and Nevis,San Cristóbal y Nieves,
+country,Switzerland,Suiza,
+country,Tanzania,Tanzania,same
+country,Thailand,Tailandia,
+country,Tunisia,Túnez,
+country,Turkey,Turquía,
+country,United Arab Emirates,Emiratos Árabes Unidos,
+country,United Kingdom,Reino Unido,
+country,Vietnam,Vietnam,same
+country,Turks and Caicos,Islas Turcas y Caicos,
+country,Belize,Belice,
+country,Germany,Alemania,
+country,Austria,Austria,same
+country,Netherlands,Países Bajos,
+country,Belgium,Bélgica,
+country,Ireland,Irlanda,
+country,Scotland,Escocia,
+country,Peru,Perú,
+country,Chile,Chile,same
+country,Brazil,Brasil,
+country,Dominican Republic,República Dominicana,
+country,Jamaica,Jamaica,same
+country,Panama,Panamá,
+country,Croatia,Croacia,
+country,Russia,Rusia,
+country,Sweden,Suecia,
+country,Denmark,Dinamarca,
+country,Norway,Noruega,
+country,Finland,Finlandia,
+country,Poland,Polonia,
+country,Israel,Israel,same
+country,Oman,Omán,
+country,Sri Lanka,Sri Lanka,same
+country,Philippines,Filipinas,
+country,Cambodia,Camboya,
+country,New Zealand,Nueva Zelanda,
+country,Fiji,Fiyi,
+country,Kenya,Kenia,
+country,Namibia,Namibia,same
+country,Botswana,Botsuana,
+country,Cuba,Cuba,same
+country,Nicaragua,Nicaragua,same
+country,Guatemala,Guatemala,same
+country,Ecuador,Ecuador,same
+country,Uruguay,Uruguay,same
+city,Mexico City,Ciudad de México,
+city,New York,Nueva York,
+city,London,Londres,
+city,Paris,París,
+city,Rome,Roma,
+city,Milan,Milán,
+city,Florence,Florencia,
+city,Venice,Venecia,
+city,Lisbon,Lisboa,
+city,Prague,Praga,
+city,Athens,Atenas,
+city,Geneva,Ginebra,
+city,Istanbul,Estambul,
+city,Cairo,El Cairo,
+city,Tokyo,Tokio,
+city,Seoul,Seúl,
+city,Beijing,Pekín (Beijing),
+city,Mumbai,Bombay (Mumbai),
+city,Macau,Macao,
+city,Kuwait City,Ciudad de Kuwait,
+city,Washington DC,Washington D. C.,
+city,Cancun,Cancún,
+city,Cabo San Lucas,Cabo San Lucas,same
+city,Alexandria,Alejandría,
+city,Megeve,Megève,
+city,Amsterdam,Ámsterdam,
+city,Vienna,Viena,
+city,Brussels,Bruselas,
+city,Munich,Múnich,
+city,Copenhagen,Copenhague,
+city,Moscow,Moscú,
+city,Bogota,Bogotá,
+city,Lima,Lima,same
+city,Havana,La Habana,
+city,Marrakech,Marrakech,same
+city,Casablanca,Casablanca,same
+city,Dubai,Dubái,
+city,Abu Dhabi,Abu Dabi,
+city,Doha,Doha,same
+city,Riyadh,Riad,
+city,Singapore,Singapur,
+city,Hong Kong,Hong Kong,same
+city,Bangkok,Bangkok,same
+city,Maldives,Maldivas,
+city,Seychelles,Seychelles,same
+city,Bora Bora,Bora Bora,same
+city,Honolulu,Honolulú,
+city,Las Vegas,Las Vegas,same
+city,Los Angeles,Los Ángeles,
+city,San Francisco,San Francisco,same
+city,Miami,Miami,same
+city,Orlando,Orlando,same
+us_state,District of Columbia,Distrito de Columbia,
+us_state,Hawaii,Hawái,
+us_state,Louisiana,Luisiana,
+us_state,Missouri,Misuri,
+us_state,New Mexico,Nuevo México,
+us_state,New York,Nueva York,
+us_state,Pennsylvania,Pensilvania,
+us_state,Florida,Florida,same
+us_state,California,California,same
+us_state,Texas,Texas,same
+us_state,Colorado,Colorado,same
+us_state,Arizona,Arizona,same
+us_state,Nevada,Nevada,same
+us_state,Illinois,Illinois,same
+us_state,Georgia,Georgia,same
+us_state,Maryland,Maryland,same
+us_state,Massachusetts,Massachusetts,same
+us_state,Minnesota,Minnesota,same
+us_state,Tennessee,Tennessee,same
+us_state,Washington,Washington,same
+us_state,Wyoming,Wyoming,same
