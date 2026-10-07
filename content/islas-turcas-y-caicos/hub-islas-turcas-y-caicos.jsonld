@@ -1,0 +1,209 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "El Caribe",
+          "item": "https://solo5estrellas.com/regions/6/caribbean.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Islas Turcas y Caicos",
+          "item": "https://solo5estrellas.com/hoteles-de-lujo/islas-turcas-y-caicos/"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/hoteles-de-lujo/islas-turcas-y-caicos/#webpage",
+      "url": "https://solo5estrellas.com/hoteles-de-lujo/islas-turcas-y-caicos/",
+      "name": "Hoteles de lujo en Islas Turcas y Caicos (Turks and Caicos)",
+      "description": "15 hoteles de lujo en Islas Turcas y Caicos (Turks and Caicos): Grace Bay, islas privadas y villas. Compare zonas y reserve con desayuno para dos.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/hoteles-de-lujo/islas-turcas-y-caicos/#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/hoteles-de-lujo/islas-turcas-y-caicos/#hotels",
+      "name": "Hoteles de lujo en Islas Turcas y Caicos",
+      "numberOfItems": 15,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Grace Bay Club",
+          "url": "https://solo5estrellas.com/hotels/956/grace-bay-club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Grace Bay Club Villa Seascape",
+          "url": "https://solo5estrellas.com/hotels/3943/grace-bay-club-villa-seascape.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Grace Bay Club Villa Seaclusion",
+          "url": "https://solo5estrellas.com/hotels/3944/grace-bay-club-villa-seaclusion.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "The Palms Turks and Caicos",
+          "url": "https://solo5estrellas.com/hotels/2172/the-palms-turks-and-caicos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "West Bay Club",
+          "url": "https://solo5estrellas.com/hotels/2996/west-bay-club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Wymara Resort, Turks and Caicos",
+          "url": "https://solo5estrellas.com/hotels/3901/wymara-resort-turks-and-caicos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Ritz-Carlton, Turks & Caicos",
+          "url": "https://solo5estrellas.com/hotels/4670/ritz-carlton-turks-caicos-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Ritz-Carlton Residences, Turks & Caicos",
+          "url": "https://solo5estrellas.com/hotels/6705/ritz-carlton-residences-turks-caicos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "The Shore Club Turks and Caicos",
+          "url": "https://solo5estrellas.com/hotels/3281/the-shore-club-turks-and-caicos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Rock House",
+          "url": "https://solo5estrellas.com/hotels/6847/rock-house.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Villa Mani",
+          "url": "https://solo5estrellas.com/hotels/4180/villa-mani.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Amanyara",
+          "url": "https://solo5estrellas.com/hotels/1523/amanyara.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "COMO Parrot Cay, Turks & Caicos",
+          "url": "https://solo5estrellas.com/hotels/1057/como-parrot-cay-turks-caicos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Sailrock Resort",
+          "url": "https://solo5estrellas.com/hotels/4293/sailrock-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Salterra, a Luxury Collection Resort",
+          "url": "https://solo5estrellas.com/hotels/6684/salterra-a-luxury-collection-resort-.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuál es el mejor hotel de lujo en Islas Turcas y Caicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No hay uno solo: depende del viaje. Para un primer viaje, Grace Bay Club o The Ritz-Carlton están sobre la playa de Grace Bay. Para aislamiento, COMO Parrot Cay o Amanyara. Para buceo, Sailrock o Salterra. Nuestra selección tiene 15 hoteles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué zona es mejor para alojarse en Islas Turcas y Caicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Grace Bay, en Providenciales, para la mayoría de viajeros: reúne la playa, los restaurantes y ocho de los 15 hoteles. Elija Long Bay para kitesurf, Chalk Sound para tranquilidad, o una isla menor (Parrot Cay, South Caicos, Salt Cay) para privacidad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuándo es mejor viajar a Islas Turcas y Caicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De febrero a abril, según el organismo de turismo local, por el clima y la disponibilidad. La temporada seca y alta va de noviembre a abril. Entre enero y abril pasan las ballenas jorobadas. La temporada de huracanes va de junio a noviembre."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se llega a Islas Turcas y Caicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se vuela al aeropuerto de Providenciales (PLS). Desde Miami son unas 1 hora 40 minutos a 1 hora 50 minutos y desde Nueva York, 3 a 3 horas 50 minutos. Desde Latinoamérica y España se suele hacer escala en Estados Unidos. Algunas islas exigen además barco o vuelo chárter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hotel es mejor para una luna de miel en Islas Turcas y Caicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wymara y Rock House son los más románticos de la selección: suites con piscina privada y spa en Wymara, y un hotel boutique sobre el acantilado en Rock House. Para máxima privacidad, las villas de Grace Bay Club o COMO Parrot Cay."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según el hotel: mejora de categoría sujeta a disponibilidad, desayuno para dos, crédito de hotel, Wi-Fi y salida tarde si se solicita. De los 15 hoteles, 12 incluyen desayuno para dos. En tres hoteles los beneficios se confirman por consulta con un asesor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se dice Islas Turcas y Caicos o Turks and Caicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ambas formas se usan. En español, el nombre habitual es Islas Turcas y Caicos; en los hoteles, los mapas y las reservas aparece con frecuencia Turks and Caicos (o Turks & Caicos). Es el mismo destino."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué moneda se usa en Islas Turcas y Caicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La moneda es el dólar estadounidense. Los precios y beneficios de esta página se expresan en dólares (USD) y se confirman al pedir disponibilidad."
+          }
+        }
+      ]
+    }
+  ]
+}
