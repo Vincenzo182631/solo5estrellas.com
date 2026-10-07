@@ -1,0 +1,985 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Four Seasons",
+          "item": "https://solo5estrellas.com/hoteles-four-seasons/"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/hoteles-four-seasons/#webpage",
+      "url": "https://solo5estrellas.com/hoteles-four-seasons/",
+      "name": "Hoteles Four Seasons: 141 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 141 hoteles Four Seasons en 47 países y territorios con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Four Seasons Hotels and Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/hoteles-four-seasons/#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/hoteles-four-seasons/#hotels",
+      "name": "Hoteles Four Seasons",
+      "numberOfItems": 141,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Four Seasons Scottsdale at Troon North",
+          "url": "https://solo5estrellas.com/hotels/1089/four-seasons-scottsdale-at-troon-north.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Beverly Wilshire, A Four Seasons Hotel",
+          "url": "https://solo5estrellas.com/hotels/1453/beverly-wilshire-a-four-seasons-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Four Seasons Aviara Residence Club",
+          "url": "https://solo5estrellas.com/hotels/2543/four-seasons-aviara-residence-club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Four Seasons Hotel Los Angeles at Beverly Hills",
+          "url": "https://solo5estrellas.com/hotels/1415/four-seasons-hotel-los-angeles-at-beverly-hills.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Four Seasons Hotel San Francisco",
+          "url": "https://solo5estrellas.com/hotels/1197/four-seasons-hotel-san-francisco-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Four Seasons Hotel Silicon Valley",
+          "url": "https://solo5estrellas.com/hotels/2282/four-seasons-hotel-silicon-valley.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Four Seasons Hotel Westlake Village",
+          "url": "https://solo5estrellas.com/hotels/1790/four-seasons-hotel-westlake-village.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Four Seasons Napa Valley",
+          "url": "https://solo5estrellas.com/hotels/3617/four-seasons-napa-valley.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Four Seasons San Francisco at Embarcadero",
+          "url": "https://solo5estrellas.com/hotels/4076/four-seasons-san-francisco-at-embarcadero-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Four Seasons Santa Barbara, The Biltmore",
+          "url": "https://solo5estrellas.com/hotels/1424/four-seasons-santa-barbara-the-biltmore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Four Seasons Hotel Denver",
+          "url": "https://solo5estrellas.com/hotels/2425/four-seasons-hotel-denver.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Four Seasons Resort Vail",
+          "url": "https://solo5estrellas.com/hotels/2390/four-seasons-resort-vail.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Four Seasons Hotel Washington, DC",
+          "url": "https://solo5estrellas.com/hotels/1486/four-seasons-hotel-washington-dc.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Four Seasons Fort Lauderdale",
+          "url": "https://solo5estrellas.com/hotels/5035/four-seasons-fort-lauderdale.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Four Seasons Hotel at the Surf Club",
+          "url": "https://solo5estrellas.com/hotels/3109/four-seasons-hotel-at-the-surf-club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Four Seasons Hotel Miami",
+          "url": "https://solo5estrellas.com/hotels/1326/four-seasons-hotel-miami-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Four Seasons Naples Beach Club",
+          "url": "https://solo5estrellas.com/hotels/6813/four-seasons-naples-beach-club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Four Seasons Orlando at Walt Disney World®",
+          "url": "https://solo5estrellas.com/hotels/2878/four-seasons-orlando-at-walt-disney-world-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Four Seasons Resort Palm Beach",
+          "url": "https://solo5estrellas.com/hotels/950/four-seasons-resort-palm-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Four Seasons Yachts",
+          "url": "https://solo5estrellas.com/hotels/7009/four-seasons-yachts.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Four Seasons Hotel Atlanta",
+          "url": "https://solo5estrellas.com/hotels/1833/four-seasons-hotel-atlanta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Four Seasons Hualalai",
+          "url": "https://solo5estrellas.com/hotels/2154/four-seasons-hualalai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Four Seasons Maui at Wailea",
+          "url": "https://solo5estrellas.com/hotels/1421/four-seasons-maui-at-wailea-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Four Seasons Oahu at Ko Olina",
+          "url": "https://solo5estrellas.com/hotels/3046/four-seasons-oahu-at-ko-olina.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Four Seasons Resort Lanai",
+          "url": "https://solo5estrellas.com/hotels/1419/four-seasons-resort-lanai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Sensei Lanai, A Four Seasons Resort",
+          "url": "https://solo5estrellas.com/hotels/1418/sensei-lanai-a-four-seasons-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Four Seasons Hotel Chicago",
+          "url": "https://solo5estrellas.com/hotels/1835/four-seasons-hotel-chicago-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Four Seasons New Orleans",
+          "url": "https://solo5estrellas.com/hotels/4745/four-seasons-new-orleans.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Four Seasons Hotel Baltimore",
+          "url": "https://solo5estrellas.com/hotels/2551/four-seasons-hotel-baltimore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Four Seasons Hotel Boston",
+          "url": "https://solo5estrellas.com/hotels/1834/four-seasons-hotel-boston.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Four Seasons Hotel, One Dalton Street",
+          "url": "https://solo5estrellas.com/hotels/3701/four-seasons-hotel-one-dalton-street.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Four Seasons Hotel Minneapolis",
+          "url": "https://solo5estrellas.com/hotels/6089/four-seasons-hotel-minneapolis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Four Seasons Hotel St. Louis",
+          "url": "https://solo5estrellas.com/hotels/1931/four-seasons-hotel-st-louis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Four Seasons Las Vegas",
+          "url": "https://solo5estrellas.com/hotels/1413/four-seasons-las-vegas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Four Seasons Rancho Encantado, Santa Fe",
+          "url": "https://solo5estrellas.com/hotels/2093/four-seasons-rancho-encantado-santa-fe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Four Seasons Hotel New York",
+          "url": "https://solo5estrellas.com/hotels/1838/four-seasons-hotel-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Four Seasons New York Downtown",
+          "url": "https://solo5estrellas.com/hotels/3103/four-seasons-new-york-downtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Four Seasons Hotel Philadelphia",
+          "url": "https://solo5estrellas.com/hotels/1837/four-seasons-hotel-philadelphia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Four Seasons Nashville",
+          "url": "https://solo5estrellas.com/hotels/6104/four-seasons-nashville.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Four Seasons Hotel Austin",
+          "url": "https://solo5estrellas.com/hotels/1544/four-seasons-hotel-austin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Four Seasons Hotel Houston",
+          "url": "https://solo5estrellas.com/hotels/1546/four-seasons-hotel-houston.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Four Seasons Hotel Seattle",
+          "url": "https://solo5estrellas.com/hotels/2250/four-seasons-hotel-seattle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Four Seasons Resort Jackson Hole",
+          "url": "https://solo5estrellas.com/hotels/1325/four-seasons-resort-jackson-hole.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Four Seasons Resort Anguilla",
+          "url": "https://solo5estrellas.com/hotels/3133/four-seasons-resort-anguilla-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Four Seasons Hotel Buenos Aires",
+          "url": "https://solo5estrellas.com/hotels/1281/four-seasons-hotel-buenos-aires.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Four Seasons Hotel Sydney",
+          "url": "https://solo5estrellas.com/hotels/1166/four-seasons-hotel-sydney.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Four Seasons Hotel Baku",
+          "url": "https://solo5estrellas.com/hotels/2596/four-seasons-hotel-baku.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "The Ocean Club, A Four Seasons Resort, Bahamas",
+          "url": "https://solo5estrellas.com/hotels/1132/the-ocean-club-a-four-seasons-resort-bahamas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Four Seasons Hotel Bahrain Bay",
+          "url": "https://solo5estrellas.com/hotels/2951/four-seasons-hotel-bahrain-bay-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Four Seasons Resort Whistler",
+          "url": "https://solo5estrellas.com/hotels/1354/four-seasons-resort-whistler.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Four Seasons Hotel Toronto",
+          "url": "https://solo5estrellas.com/hotels/2595/four-seasons-hotel-toronto-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Four Seasons Hotel Montreal",
+          "url": "https://solo5estrellas.com/hotels/3621/four-seasons-hotel-montreal-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Four Seasons Hotel Beijing",
+          "url": "https://solo5estrellas.com/hotels/2642/four-seasons-hotel-beijing.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Four Seasons Hotel Dalian",
+          "url": "https://solo5estrellas.com/hotels/6591/four-seasons-hotel-dalian.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Four Seasons Hotel Guangzhou",
+          "url": "https://solo5estrellas.com/hotels/2594/four-seasons-hotel-guangzhou-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Four Seasons Hotel Hangzhou",
+          "url": "https://solo5estrellas.com/hotels/928/four-seasons-hotel-hangzhou-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Four Seasons Hotel Hangzhou at Hangzhou Centre",
+          "url": "https://solo5estrellas.com/hotels/6689/four-seasons-hotel-hangzhou-at-hangzhou-centre.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "Four Seasons Hotel Hong Kong",
+          "url": "https://solo5estrellas.com/hotels/1844/four-seasons-hotel-hong-kong.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Four Seasons Hotel Macau, Cotai Strip®",
+          "url": "https://solo5estrellas.com/hotels/2252/four-seasons-hotel-macau-cotai-strip-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "Four Seasons Hotel Shanghai at Puxi",
+          "url": "https://solo5estrellas.com/hotels/1553/four-seasons-hotel-shanghai-at-puxi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "Four Seasons Hotel Shenzhen",
+          "url": "https://solo5estrellas.com/hotels/2721/four-seasons-hotel-shenzhen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Four Seasons Hotel Suzhou",
+          "url": "https://solo5estrellas.com/hotels/6552/four-seasons-hotel-suzhou-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Four Seasons Tianjin",
+          "url": "https://solo5estrellas.com/hotels/3110/four-seasons-tianjin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "The Grand Suites at Four Seasons Macau",
+          "url": "https://solo5estrellas.com/hotels/4747/the-grand-suites-at-four-seasons-macau.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Four Seasons Hotel Bogota",
+          "url": "https://solo5estrellas.com/hotels/3069/four-seasons-hotel-bogota.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Four Seasons Hotel Casa Medina Bogota",
+          "url": "https://solo5estrellas.com/hotels/3043/four-seasons-hotel-casa-medina-bogota.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "Four Seasons Resort & Residences Cartagena",
+          "url": "https://solo5estrellas.com/hotels/6868/four-seasons-resort-residences-cartagena.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "Four Seasons Resort Costa Rica",
+          "url": "https://solo5estrellas.com/hotels/1271/four-seasons-resort-costa-rica-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Four Seasons Hotel Prague",
+          "url": "https://solo5estrellas.com/hotels/1160/four-seasons-hotel-prague.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "Four Seasons Cairo at The First Residence",
+          "url": "https://solo5estrellas.com/hotels/1137/four-seasons-cairo-at-the-first-residence.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Four Seasons Hotel Alexandria",
+          "url": "https://solo5estrellas.com/hotels/1840/four-seasons-hotel-alexandria.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "Four Seasons Hotel Cairo at Nile Plaza",
+          "url": "https://solo5estrellas.com/hotels/1410/four-seasons-hotel-cairo-at-nile-plaza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "name": "Four Seasons Resort Sharm El Sheikh",
+          "url": "https://solo5estrellas.com/hotels/1846/four-seasons-resort-sharm-el-sheikh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 74,
+          "name": "Four Seasons Les Chalets du Mont d’Arbois , Megeve",
+          "url": "https://solo5estrellas.com/hotels/3682/-four-seasons-les-chalets-du-mont-d-arbois-megeve-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 75,
+          "name": "Four Seasons Hotel Megeve",
+          "url": "https://solo5estrellas.com/hotels/3288/four-seasons-hotel-megeve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 76,
+          "name": "Four Seasons Paris, George V",
+          "url": "https://solo5estrellas.com/hotels/1096/four-seasons-paris-george-v.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 77,
+          "name": "Grand-Hotel Du Cap-Ferrat, A Four Seasons Hotel",
+          "url": "https://solo5estrellas.com/hotels/1079/grand-hotel-du-cap-ferrat-a-four-seasons-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 78,
+          "name": "Four Seasons Resort Bora Bora",
+          "url": "https://solo5estrellas.com/hotels/2280/four-seasons-resort-bora-bora.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 79,
+          "name": "Four Seasons Astir Palace Hotel Athens",
+          "url": "https://solo5estrellas.com/hotels/3466/-four-seasons-astir-palace-hotel-athens.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 80,
+          "name": "Four Seasons Resort Mykonos",
+          "url": "https://solo5estrellas.com/hotels/6852/four-seasons-resort-mykonos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 81,
+          "name": "Four Seasons Hotel Gresham Palace",
+          "url": "https://solo5estrellas.com/hotels/1324/four-seasons-hotel-gresham-palace-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 82,
+          "name": "Four Seasons Hotel Mumbai",
+          "url": "https://solo5estrellas.com/hotels/2253/four-seasons-hotel-mumbai-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 83,
+          "name": "Four Seasons Hotel Jakarta",
+          "url": "https://solo5estrellas.com/hotels/3106/four-seasons-hotel-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 84,
+          "name": "Four Seasons Resort  Bali at Sayan",
+          "url": "https://solo5estrellas.com/hotels/996/four-seasons-resort-bali-at-sayan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 85,
+          "name": "Four Seasons Resort Bali at Jimbaran Bay",
+          "url": "https://solo5estrellas.com/hotels/1438/four-seasons-resort-bali-at-jimbaran-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 86,
+          "name": "Four Seasons Danieli",
+          "url": "https://solo5estrellas.com/hotels/2561/four-seasons-danieli.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 87,
+          "name": "Four Seasons Hotel Florence",
+          "url": "https://solo5estrellas.com/hotels/1927/four-seasons-hotel-florence.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 88,
+          "name": "Four Seasons Hotel Milano",
+          "url": "https://solo5estrellas.com/hotels/995/four-seasons-hotel-milano.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 89,
+          "name": "San Domenico Palace Taormina, a Four Seasons",
+          "url": "https://solo5estrellas.com/hotels/3359/san-domenico-palace-taormina-a-four-seasons-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 90,
+          "name": "Four Seasons Hotel Kyoto",
+          "url": "https://solo5estrellas.com/hotels/3107/four-seasons-hotel-kyoto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 91,
+          "name": "Four Seasons Hotel Osaka",
+          "url": "https://solo5estrellas.com/hotels/6665/four-seasons-hotel-osaka.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 92,
+          "name": "Four Seasons Hotel Tokyo at Marunouchi",
+          "url": "https://solo5estrellas.com/hotels/1789/four-seasons-hotel-tokyo-at-marunouchi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 93,
+          "name": "Four Seasons Hotel Tokyo at Otemachi",
+          "url": "https://solo5estrellas.com/hotels/4077/four-seasons-hotel-tokyo-at-otemachi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 94,
+          "name": "Four Seasons Hotel Amman",
+          "url": "https://solo5estrellas.com/hotels/1841/four-seasons-hotel-amman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 95,
+          "name": "Four Seasons Hotel Kuwait at Burj Alshaya",
+          "url": "https://solo5estrellas.com/hotels/3123/four-seasons-hotel-kuwait-at-burj-alshaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 96,
+          "name": "Four Seasons Hotel Beirut",
+          "url": "https://solo5estrellas.com/hotels/2317/four-seasons-hotel-beirut.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 97,
+          "name": "Four Seasons Kuala Lumpur",
+          "url": "https://solo5estrellas.com/hotels/3463/four-seasons-kuala-lumpur.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 98,
+          "name": "Four Seasons Resort Langkawi",
+          "url": "https://solo5estrellas.com/hotels/1767/four-seasons-resort-langkawi-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 99,
+          "name": "Four Seasons Maldives at Kuda Huraa",
+          "url": "https://solo5estrellas.com/hotels/1849/four-seasons-maldives-at-kuda-huraa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 100,
+          "name": "Four Seasons Resort Maldives at Landaa Giraavaru",
+          "url": "https://solo5estrellas.com/hotels/1850/four-seasons-resort-maldives-at-landaa-giraavaru.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 101,
+          "name": "Four Seasons Resort Mauritius",
+          "url": "https://solo5estrellas.com/hotels/2281/four-seasons-resort-mauritius.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 102,
+          "name": "Four Seasons Cabo San Lucas @ Cabo del Sol",
+          "url": "https://solo5estrellas.com/hotels/6554/four-seasons-cabo-san-lucas-cabo-del-sol.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 103,
+          "name": "Four Seasons Hotel Mexico, D.F.",
+          "url": "https://solo5estrellas.com/hotels/1516/four-seasons-hotel-mexico-d-f-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 104,
+          "name": "Four Seasons Los Cabos at Costa Palmas",
+          "url": "https://solo5estrellas.com/hotels/3614/four-seasons-los-cabos-at-costa-palmas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 105,
+          "name": "Four Seasons Resort Punta Mita",
+          "url": "https://solo5estrellas.com/hotels/1414/four-seasons-resort-punta-mita.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 106,
+          "name": "Four Seasons Resort Tamarindo",
+          "url": "https://solo5estrellas.com/hotels/4746/four-seasons-resort-tamarindo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 107,
+          "name": "Naviva, Four Seasons, Punta Mita",
+          "url": "https://solo5estrellas.com/hotels/6103/naviva-four-seasons-punta-mita.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 108,
+          "name": "Four Seasons Hotel Casablanca",
+          "url": "https://solo5estrellas.com/hotels/3040/four-seasons-hotel-casablanca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 109,
+          "name": "Four Seasons Hotel Marrakech",
+          "url": "https://solo5estrellas.com/hotels/2492/four-seasons-hotel-marrakech.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 110,
+          "name": "Four Seasons Rabat at Kasr Al Bahr",
+          "url": "https://solo5estrellas.com/hotels/6553/four-seasons-rabat-at-kasr-al-bahr.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 111,
+          "name": "Four Seasons Hotel Ritz Lisbon",
+          "url": "https://solo5estrellas.com/hotels/1018/four-seasons-hotel-ritz-lisbon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 112,
+          "name": "Four Seasons Puerto Rico",
+          "url": "https://solo5estrellas.com/hotels/6869/four-seasons-puerto-rico.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 113,
+          "name": "Four Seasons Doha, The Pearl-Qatar",
+          "url": "https://solo5estrellas.com/hotels/6436/four-seasons-doha-the-pearl-qatar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 114,
+          "name": "Four Seasons Hotel Doha",
+          "url": "https://solo5estrellas.com/hotels/1550/four-seasons-hotel-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 115,
+          "name": "Four Seasons Hotel Riyadh",
+          "url": "https://solo5estrellas.com/hotels/1847/four-seasons-hotel-riyadh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 116,
+          "name": "Four Seasons Resort AMAALA at Triple Bay",
+          "url": "https://solo5estrellas.com/hotels/7082/four-seasons-resort-amaala-at-triple-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 117,
+          "name": "Four Seasons Resort and Residences Red Sea at Shura Island",
+          "url": "https://solo5estrellas.com/hotels/7084/four-seasons-resort-and-residences-red-sea-at-shura-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 118,
+          "name": "Four Seasons Resort Seychelles",
+          "url": "https://solo5estrellas.com/hotels/2287/four-seasons-resort-seychelles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 119,
+          "name": "Four Seasons Resort Seychelles at Desroches Island",
+          "url": "https://solo5estrellas.com/hotels/3289/four-seasons-resort-seychelles-at-desroches-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 120,
+          "name": "Four Seasons Hotel Singapore",
+          "url": "https://solo5estrellas.com/hotels/1787/four-seasons-hotel-singapore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 121,
+          "name": "The Westcliff, Four Seasons Hotel Johannesburg",
+          "url": "https://solo5estrellas.com/hotels/2889/the-westcliff-four-seasons-hotel-johannesburg-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 122,
+          "name": "Four Seasons Hotel Seoul",
+          "url": "https://solo5estrellas.com/hotels/3011/four-seasons-hotel-seoul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 123,
+          "name": "Four Seasons Hotel Madrid",
+          "url": "https://solo5estrellas.com/hotels/3897/four-seasons-hotel-madrid-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 124,
+          "name": "Four Seasons Resort Mallorca at Formentor",
+          "url": "https://solo5estrellas.com/hotels/6664/four-seasons-resort-mallorca-at-formentor.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 125,
+          "name": "Four Seasons Resort Nevis",
+          "url": "https://solo5estrellas.com/hotels/1422/four-seasons-resort-nevis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 126,
+          "name": "Four Seasons Hotel des Bergues",
+          "url": "https://solo5estrellas.com/hotels/1552/four-seasons-hotel-des-bergues.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 127,
+          "name": "Four Seasons Safari Lodge Serengeti",
+          "url": "https://solo5estrellas.com/hotels/2682/four-seasons-safari-lodge-serengeti.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 128,
+          "name": "Four Seasons Bangkok at Chao Phraya River",
+          "url": "https://solo5estrellas.com/hotels/3937/four-seasons-bangkok-at-chao-phraya-river.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 129,
+          "name": "Four Seasons Golden TriangleALL INCLUSIVE",
+          "url": "https://solo5estrellas.com/hotels/1712/four-seasons-golden-triangle-br-all-inclusive.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 130,
+          "name": "Four Seasons Resort Chiang Mai",
+          "url": "https://solo5estrellas.com/hotels/1389/four-seasons-resort-chiang-mai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 131,
+          "name": "Four Seasons Resort Koh Samui",
+          "url": "https://solo5estrellas.com/hotels/1911/four-seasons-resort-koh-samui.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 132,
+          "name": "Four Seasons Hotel Tunis",
+          "url": "https://solo5estrellas.com/hotels/3273/four-seasons-hotel-tunis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 133,
+          "name": "Four Seasons Hotel Istanbul, Bosphorus",
+          "url": "https://solo5estrellas.com/hotels/2173/four-seasons-hotel-istanbul-bosphorus-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 134,
+          "name": "Four Seasons Istanbul, Sultanahmet",
+          "url": "https://solo5estrellas.com/hotels/1095/four-seasons-istanbul-sultanahmet.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 135,
+          "name": "Four Seasons Dubai at Jumeirah Beach",
+          "url": "https://solo5estrellas.com/hotels/2903/four-seasons-dubai-at-jumeirah-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 136,
+          "name": "Four Seasons Dubai DIFC",
+          "url": "https://solo5estrellas.com/hotels/3112/four-seasons-dubai-difc.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 137,
+          "name": "Four Seasons Hotel Abu Dhabi at Al Maryah Island",
+          "url": "https://solo5estrellas.com/hotels/3105/four-seasons-hotel-abu-dhabi-at-al-maryah-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 138,
+          "name": "Four Seasons Hotel Hampshire",
+          "url": "https://solo5estrellas.com/hotels/1315/four-seasons-hotel-hampshire.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 139,
+          "name": "Four Seasons London at Park Lane",
+          "url": "https://solo5estrellas.com/hotels/1423/four-seasons-london-at-park-lane.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 140,
+          "name": "Four Seasons London at Tower Bridge",
+          "url": "https://solo5estrellas.com/hotels/3118/four-seasons-london-at-tower-bridge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 141,
+          "name": "Four Seasons Resort the Nam Hai",
+          "url": "https://solo5estrellas.com/hotels/1803/four-seasons-resort-the-nam-hai.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Four Seasons directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que Four Seasons muestra en su web, y las ventajas de Preferred Partner se añaden a esa tarifa. Reservar directo no incluye desayuno diario para dos, crédito de hotel ni detalle de bienvenida."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo conseguir beneficios VIP en Four Seasons?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Reservando a través de una agencia Preferred Partner como Solo5Estrellas. Los huéspedes reciben desayuno diario para dos, crédito de hotel, detalle de bienvenida, Wi-Fi premium y prioridad para la mejora de categoría. Four Seasons no ofrece estatus por puntos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Four Seasons tiene programa de puntos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Four Seasons no tiene un programa de fidelización por puntos, por lo que las ventajas de Preferred Partner son el reconocimiento que reciben los huéspedes habituales y los que reservan con una agencia autorizada."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto es el crédito de hotel de Four Seasons Preferred Partner?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es de 100 USD por estancia en habitación y de entre 100 y 200 USD en suites y residencias, según la categoría. Los cargos elegibles (spa, restauración u otros) varían según el hotel; se confirma al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La mejora de categoría de habitación está garantizada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Es una categoría superior si hay disponibilidad al hacer el check-in y no puede confirmarse por adelantado. Según lo publicado, los huéspedes de Preferred Partner tienen prioridad frente a otros canales de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Four Seasons?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Algunos paquetes propios del hotel y tarifas de terceros no son elegibles; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es el mejor Four Seasons en México?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende del viaje. Para playa, Four Seasons Resort Punta Mita o Four Seasons Los Cabos at Costa Palmas; para una ciudad, Four Seasons Hotel Mexico, D.F. En total hay seis hoteles de Four Seasons en México en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Four Seasons hay en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dos: Four Seasons Hotel Madrid, en la capital, y Four Seasons Resort Mallorca at Formentor, un resort en la isla de Mallorca. Ambos se pueden reservar con las ventajas de Preferred Partner."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Four Seasons se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "141 hoteles, resorts y residencias en 47 países y territorios. Estados Unidos es el país con más hoteles (43), seguido de China (12) y México (6)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se compara con American Express Fine Hotels + Resorts?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Seasons y no exige ninguna tarjeta; American Express cubre solo hoteles seleccionados y exige su tarjeta. Verifique las condiciones vigentes de cada programa antes de reservar."
+          }
+        }
+      ]
+    }
+  ]
+}
