@@ -13,7 +13,7 @@ Both live pages are a bare list of hotels (titled "Bienvenido", no description, 
 ## Findings while building them (tracker Z18-Z21)
 | ID | Finding |
 | --- | --- |
-| Z18 | Miami is split over several city records: "Miami" (20 hotels), "South Beach, Miami" (6), and hotels labeled "Miami Beach" (The Miami Beach EDITION, Fontainebleau, Faena, Four Seasons at the Surf Club) and "Coral Gables" (The Biltmore, Loews) that appear on neither Miami page. The Miami hub lists all 31, which needs a "related areas" block in the city template, and the South Beach page competes with the Miami page for the same queries. |
+| Z18 | Miami is split over several city records: "Miami" (20 hotels), "South Beach, Miami" (6), and hotels labeled "Miami Beach" (The Miami Beach EDITION, Fontainebleau, Faena, Four Seasons at the Surf Club) and "Coral Gables" (The Biltmore, Loews) that appear on neither Miami page. The Miami hub lists all 32 (incl. Bal Harbour), which needs a "related areas" block in the city template, and the South Beach page competes with the Miami page for the same queries. |
 | Z19 | The New York page says "67 hoteles" but links 74 hotel URLs (duplicates), and Google lists `/cities/192/` under three URL variants. |
 | Z20 | The collection is described as "5 estrellas" but includes hotels that are not five-star (for example Hotel Indigo, Hyatt Centric, Marriott Marquis, The Standard). The drafts say "hoteles de lujo" and never claim a star count. Use a stored star rating or drop the claim in titles and descriptions. |
 | Z21 | The city listing shows live "Habitaciones desde" nightly rates (for example 1,107 to 10,800 USD in New York). The copy does not quote prices because they are undated and volatile. |

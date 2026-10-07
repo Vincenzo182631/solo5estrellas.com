@@ -2,11 +2,11 @@
 
 > Draft for `/cities/168/Miami.html`. Title: Hoteles de lujo en Miami | Solo5Estrellas (41). Description: Compare hoteles de lujo en Miami por zona: South Beach, Mid-Beach, Brickell, Coconut Grove y Coral Gables. Reserve con beneficios de Solo5Estrellas. (148).
 
-El mejor hotel de lujo en Miami depende de la zona: en South Beach, The Setai o The Ritz-Carlton, South Beach; en Mid-Beach, Faena Hotel Miami Beach o The Miami Beach EDITION; en Brickell, el Four Seasons Hotel Miami; y en Coconut Grove o Key Biscayne, un ambiente más tranquilo. Esta página ordena por zona 31 hoteles de la colección.
+El mejor hotel de lujo en Miami depende de la zona: en South Beach, The Setai o The Ritz-Carlton, South Beach; en Mid-Beach, Faena Hotel Miami Beach o The Miami Beach EDITION; en Brickell, el Four Seasons Hotel Miami; y en Coconut Grove o Key Biscayne, un ambiente más tranquilo. Esta página ordena por zona 32 hoteles de la colección.
 
 Miami se reparte entre el continente (Brickell, el centro, Coconut Grove, Coral Gables) y la isla de Miami Beach (South Beach, Mid-Beach, Surfside), unidos por varias calzadas. La playa está en la isla; la ciudad, los negocios y los jardines, en el continente. Hemos agrupado los hoteles de la colección Solo5Estrellas por zona. Los nombres de los hoteles no se traducen.
 
-## Los 31 hoteles de la colección en Miami, por zona
+## Los 32 hoteles de la colección en Miami, por zona
 
 ### South Beach
 
@@ -21,13 +21,14 @@ Extremo sur de la isla de Miami Beach: edificios art déco, dos millas de playa 
 
 ### Mid-Beach y Surfside
 
-Más al norte en la isla: hoteles de gran tamaño frente al mar, más calma que en South Beach y buena base para una estancia de playa en pareja o en familia. The Four Seasons Hotel at the Surf Club está en Surfside.
+Más al norte en la isla: hoteles de gran tamaño frente al mar, más calma que en South Beach y buena base para una estancia de playa en pareja o en familia. The Four Seasons Hotel at the Surf Club está en Surfside y The Ritz-Carlton, Bal Harbour, en Bal Harbour, al norte de Surfside.
 
 - [Faena Hotel Miami Beach](/hotels/3494/faena-hotel-miami-beach.html)
 - [The Miami Beach EDITION](/hotels/2962/the-miami-beach-edition.html)
 - [Fontainebleau Miami Beach](/hotels/4103/fontainebleau-miami-beach.html)
 - [Thompson Miami Beach](/hotels/6770/thompson-miami-beach.html)
 - [Four Seasons Hotel at the Surf Club](/hotels/3109/four-seasons-hotel-at-the-surf-club.html)
+- [The Ritz-Carlton, Bal Harbour](/hotels/1954/the-ritz-carlton-bal-harbour.html)
 
 ### Brickell y centro de Miami
 

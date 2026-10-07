@@ -46,7 +46,7 @@
       "@type": "ItemList",
       "@id": "https://solo5estrellas.com/cities/168/miami.html#hotels",
       "name": "Hoteles de lujo en Miami",
-      "numberOfItems": 31,
+      "numberOfItems": 32,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -117,120 +117,126 @@
         {
           "@type": "ListItem",
           "position": 12,
+          "name": "The Ritz-Carlton, Bal Harbour",
+          "url": "https://solo5estrellas.com/hotels/1954/the-ritz-carlton-bal-harbour.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
           "name": "Four Seasons Hotel Miami",
           "url": "https://solo5estrellas.com/hotels/1326/four-seasons-hotel-miami-.html"
         },
         {
           "@type": "ListItem",
-          "position": 13,
+          "position": 14,
           "name": "W Miami",
           "url": "https://solo5estrellas.com/hotels/2625/w-miami.html"
         },
         {
           "@type": "ListItem",
-          "position": 14,
+          "position": 15,
           "name": "EAST Miami",
           "url": "https://solo5estrellas.com/hotels/3149/east-miami.html"
         },
         {
           "@type": "ListItem",
-          "position": 15,
+          "position": 16,
           "name": "Brickell Arch, a Luxury Collection Hotel, Miami",
           "url": "https://solo5estrellas.com/hotels/7105/brickell-arch-a-luxury-collection-hotel-miami.html"
         },
         {
           "@type": "ListItem",
-          "position": 16,
+          "position": 17,
           "name": "JW Marriott Miami",
           "url": "https://solo5estrellas.com/hotels/3735/jw-marriott-miami.html"
         },
         {
           "@type": "ListItem",
-          "position": 17,
+          "position": 18,
           "name": "JW Marriott Marquis Hotel Miami",
           "url": "https://solo5estrellas.com/hotels/3261/jw-marriott-marquis-hotel-miami.html"
         },
         {
           "@type": "ListItem",
-          "position": 18,
+          "position": 19,
           "name": "Kimpton EPIC Miami",
           "url": "https://solo5estrellas.com/hotels/2708/kimpton-epic-miami.html"
         },
         {
           "@type": "ListItem",
-          "position": 19,
+          "position": 20,
           "name": "InterContinental Miami",
           "url": "https://solo5estrellas.com/hotels/3561/intercontinental-miami.html"
         },
         {
           "@type": "ListItem",
-          "position": 20,
+          "position": 21,
           "name": "Hyatt Centric Brickell Miami",
           "url": "https://solo5estrellas.com/hotels/3933/hyatt-centric-brickell-miami.html"
         },
         {
           "@type": "ListItem",
-          "position": 21,
+          "position": 22,
           "name": "Hotel Indigo Miami Brickell",
           "url": "https://solo5estrellas.com/hotels/4820/hotel-indigo-miami-brickell.html"
         },
         {
           "@type": "ListItem",
-          "position": 22,
+          "position": 23,
           "name": "Hotel Beaux Arts Miami",
           "url": "https://solo5estrellas.com/hotels/2542/hotel-beaux-arts-miami.html"
         },
         {
           "@type": "ListItem",
-          "position": 23,
+          "position": 24,
           "name": "Ritz Carlton Coconut Grove, Miami",
           "url": "https://solo5estrellas.com/hotels/1584/ritz-carlton-coconut-grove-miami.html"
         },
         {
           "@type": "ListItem",
-          "position": 24,
+          "position": 25,
           "name": "Mayfair House Hotel & Garden",
           "url": "https://solo5estrellas.com/hotels/6424/mayfair-house-hotel-garden.html"
         },
         {
           "@type": "ListItem",
-          "position": 25,
+          "position": 26,
           "name": "Mr. C Miami - Coconut Grove",
           "url": "https://solo5estrellas.com/hotels/4186/mr-c-miami-coconut-grove.html"
         },
         {
           "@type": "ListItem",
-          "position": 26,
+          "position": 27,
           "name": "The Ritz-Carlton, Key Biscayne",
           "url": "https://solo5estrellas.com/hotels/1198/the-ritz-carlton-key-biscayne.html"
         },
         {
           "@type": "ListItem",
-          "position": 27,
+          "position": 28,
           "name": "The Biltmore Hotel, Coral Gables",
           "url": "https://solo5estrellas.com/hotels/2554/the-biltmore-hotel-coral-gables.html"
         },
         {
           "@type": "ListItem",
-          "position": 28,
+          "position": 29,
           "name": "Loews Coral Gables Hotel",
           "url": "https://solo5estrellas.com/hotels/6257/loews-coral-gables-hotel.html"
         },
         {
           "@type": "ListItem",
-          "position": 29,
+          "position": 30,
           "name": "Hyatt Regency Coral Gables",
           "url": "https://solo5estrellas.com/hotels/3639/hyatt-regency-coral-gables.html"
         },
         {
           "@type": "ListItem",
-          "position": 30,
+          "position": 31,
           "name": "Trump National Doral Miami",
           "url": "https://solo5estrellas.com/hotels/2882/trump-national-doral-miami-.html"
         },
         {
           "@type": "ListItem",
-          "position": 31,
+          "position": 32,
           "name": "JW Marriott Miami Turnberry Resort",
           "url": "https://solo5estrellas.com/hotels/3269/jw-marriott-miami-turnberry-resort.html"
         }
