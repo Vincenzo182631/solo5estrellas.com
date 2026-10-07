@@ -1,0 +1,309 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Norteamérica",
+          "item": "https://solo5estrellas.com/regions/10/north_america.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Miami",
+          "item": "https://solo5estrellas.com/cities/168/miami.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/168/miami.html#webpage",
+      "url": "https://solo5estrellas.com/cities/168/miami.html",
+      "name": "Hoteles de lujo en Miami",
+      "description": "Compare hoteles de lujo en Miami por zona: South Beach, Mid-Beach, Brickell, Coconut Grove y Coral Gables. Reserve con beneficios de Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "City",
+        "name": "Miami"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/cities/168/miami.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/cities/168/miami.html#hotels",
+      "name": "Hoteles de lujo en Miami",
+      "numberOfItems": 31,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "The Setai",
+          "url": "https://solo5estrellas.com/hotels/1387/the-setai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Ritz-Carlton, South Beach",
+          "url": "https://solo5estrellas.com/hotels/2415/the-ritz-carlton-south-beach-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Delano Hotel Miami",
+          "url": "https://solo5estrellas.com/hotels/1933/delano-hotel-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "1 Hotel South Beach",
+          "url": "https://solo5estrellas.com/hotels/6412/1-hotel-south-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Lennox Hotel Miami Beach",
+          "url": "https://solo5estrellas.com/hotels/4342/lennox-hotel-miami-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Marriott Stanton South Beach",
+          "url": "https://solo5estrellas.com/hotels/4686/marriott-stanton-south-beach-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Faena Hotel Miami Beach",
+          "url": "https://solo5estrellas.com/hotels/3494/faena-hotel-miami-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "The Miami Beach EDITION",
+          "url": "https://solo5estrellas.com/hotels/2962/the-miami-beach-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Fontainebleau Miami Beach",
+          "url": "https://solo5estrellas.com/hotels/4103/fontainebleau-miami-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Thompson Miami Beach",
+          "url": "https://solo5estrellas.com/hotels/6770/thompson-miami-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Four Seasons Hotel at the Surf Club",
+          "url": "https://solo5estrellas.com/hotels/3109/four-seasons-hotel-at-the-surf-club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Four Seasons Hotel Miami",
+          "url": "https://solo5estrellas.com/hotels/1326/four-seasons-hotel-miami-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "W Miami",
+          "url": "https://solo5estrellas.com/hotels/2625/w-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "EAST Miami",
+          "url": "https://solo5estrellas.com/hotels/3149/east-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Brickell Arch, a Luxury Collection Hotel, Miami",
+          "url": "https://solo5estrellas.com/hotels/7105/brickell-arch-a-luxury-collection-hotel-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "JW Marriott Miami",
+          "url": "https://solo5estrellas.com/hotels/3735/jw-marriott-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "JW Marriott Marquis Hotel Miami",
+          "url": "https://solo5estrellas.com/hotels/3261/jw-marriott-marquis-hotel-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Kimpton EPIC Miami",
+          "url": "https://solo5estrellas.com/hotels/2708/kimpton-epic-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "InterContinental Miami",
+          "url": "https://solo5estrellas.com/hotels/3561/intercontinental-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Hyatt Centric Brickell Miami",
+          "url": "https://solo5estrellas.com/hotels/3933/hyatt-centric-brickell-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Hotel Indigo Miami Brickell",
+          "url": "https://solo5estrellas.com/hotels/4820/hotel-indigo-miami-brickell.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Hotel Beaux Arts Miami",
+          "url": "https://solo5estrellas.com/hotels/2542/hotel-beaux-arts-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Ritz Carlton Coconut Grove, Miami",
+          "url": "https://solo5estrellas.com/hotels/1584/ritz-carlton-coconut-grove-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Mayfair House Hotel & Garden",
+          "url": "https://solo5estrellas.com/hotels/6424/mayfair-house-hotel-garden.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Mr. C Miami - Coconut Grove",
+          "url": "https://solo5estrellas.com/hotels/4186/mr-c-miami-coconut-grove.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "The Ritz-Carlton, Key Biscayne",
+          "url": "https://solo5estrellas.com/hotels/1198/the-ritz-carlton-key-biscayne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "The Biltmore Hotel, Coral Gables",
+          "url": "https://solo5estrellas.com/hotels/2554/the-biltmore-hotel-coral-gables.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Loews Coral Gables Hotel",
+          "url": "https://solo5estrellas.com/hotels/6257/loews-coral-gables-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Hyatt Regency Coral Gables",
+          "url": "https://solo5estrellas.com/hotels/3639/hyatt-regency-coral-gables.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Trump National Doral Miami",
+          "url": "https://solo5estrellas.com/hotels/2882/trump-national-doral-miami-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "JW Marriott Miami Turnberry Resort",
+          "url": "https://solo5estrellas.com/hotels/3269/jw-marriott-miami-turnberry-resort.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuál es el mejor hotel de lujo en Miami?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la zona. En South Beach, The Setai o The Ritz-Carlton, South Beach; en Mid-Beach, Faena Hotel Miami Beach o The Miami Beach EDITION; en Brickell, el Four Seasons Hotel Miami; para tranquilidad, The Ritz-Carlton, Key Biscayne."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde alojarse en Miami para unas vacaciones de lujo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Si busca playa y ambiente, en South Beach o Mid-Beach, en la isla de Miami Beach. Si prefiere ciudad, restaurantes y negocios, en Brickell. Para jardines y calma, en Coconut Grove, Key Biscayne o Coral Gables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la diferencia entre South Beach y Mid-Beach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "South Beach es la zona más animada, con art déco, Ocean Drive y vida nocturna. Mid-Beach queda más al norte, con hoteles grandes frente al mar y más calma, y es más habitual para parejas y familias."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles de lujo hay en Brickell?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Entre otros, Four Seasons Hotel Miami, W Miami, EAST Miami, Brickell Arch (a Luxury Collection Hotel) y JW Marriott Miami. Brickell es el distrito financiero y no tiene playa propia; South Beach queda al otro lado de la bahía y el trayecto depende del tráfico."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuándo es mejor viajar a Miami?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De diciembre a abril, en la temporada seca, con temperaturas de unos 20 a 25 °C. La temporada de huracanes va del 1 de junio al 30 de noviembre, con el mayor riesgo entre mediados de agosto y finales de octubre."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto se tarda del aeropuerto al hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hasta Brickell, unos 20 a 30 minutos fuera de hora punta; hasta South Beach, unos 20 a 35 minutos. En hora punta y en la calzada MacArthur durante eventos o fines de semana puede ser bastante más."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según el hotel, desayuno diario para dos, crédito de hotel y mejora de categoría sujeta a disponibilidad. Las condiciones se muestran en la ficha de cada hotel y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se puede reservar un Four Seasons en Miami?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: Four Seasons Hotel Miami, en Brickell, y Four Seasons Hotel at the Surf Club, en Surfside, en la isla de Miami Beach. Se reservan a la tarifa publicada, con las ventajas del programa Four Seasons Preferred Partner."
+          }
+        }
+      ]
+    }
+  ]
+}

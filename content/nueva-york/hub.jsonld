@@ -1,0 +1,333 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Norteamérica",
+          "item": "https://solo5estrellas.com/regions/10/north_america.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nueva York",
+          "item": "https://solo5estrellas.com/cities/192/nueva-york.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/192/nueva-york.html#webpage",
+      "url": "https://solo5estrellas.com/cities/192/nueva-york.html",
+      "name": "Hoteles de lujo en Nueva York",
+      "description": "Compare hoteles de lujo en Nueva York por zona: Midtown, Upper East Side, Tribeca, Brooklyn. Reserve con beneficios exclusivos de Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "City",
+        "name": "Nueva York"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/cities/192/nueva-york.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/cities/192/nueva-york.html#hotels",
+      "name": "Hoteles de lujo en Nueva York",
+      "numberOfItems": 35,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "The Plaza Hotel New York",
+          "url": "https://solo5estrellas.com/hotels/1920/the-plaza-hotel-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ritz-Carlton Central Park",
+          "url": "https://solo5estrellas.com/hotels/1214/ritz-carlton-central-park-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Peninsula New York",
+          "url": "https://solo5estrellas.com/hotels/1048/the-peninsula-new-york-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "St. Regis New York",
+          "url": "https://solo5estrellas.com/hotels/1437/st-regis-new-york-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Park Hyatt New York",
+          "url": "https://solo5estrellas.com/hotels/2896/park-hyatt-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Mandarin Oriental, New York",
+          "url": "https://solo5estrellas.com/hotels/1323/mandarin-oriental-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Four Seasons Hotel New York",
+          "url": "https://solo5estrellas.com/hotels/1838/four-seasons-hotel-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Aman New York",
+          "url": "https://solo5estrellas.com/hotels/6438/aman-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "The Langham, New York, Fifth Avenue",
+          "url": "https://solo5estrellas.com/hotels/2768/the-langham-new-york-fifth-avenue.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Baccarat Hotel New York City",
+          "url": "https://solo5estrellas.com/hotels/3120/baccarat-hotel-new-york-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "The Pierre, New York",
+          "url": "https://solo5estrellas.com/hotels/1425/the-pierre-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "JW Marriott Essex House New York",
+          "url": "https://solo5estrellas.com/hotels/1977/jw-marriott-essex-house-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "1 Hotel Central Park",
+          "url": "https://solo5estrellas.com/hotels/6495/1-hotel-central-park.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Le Meridien Central Park New York",
+          "url": "https://solo5estrellas.com/hotels/3921/le-meridien-central-park-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Lotte New York Palace",
+          "url": "https://solo5estrellas.com/hotels/2885/lotte-new-york-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "The Times Square EDITION",
+          "url": "https://solo5estrellas.com/hotels/3373/the-times-square-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "The Carlyle, A Rosewood Hotel",
+          "url": "https://solo5estrellas.com/hotels/1119/the-carlyle-a-rosewood-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Mark",
+          "url": "https://solo5estrellas.com/hotels/1118/the-mark-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "The Surrey, a Corinthia Hotel",
+          "url": "https://solo5estrellas.com/hotels/2438/the-surrey-a-corinthia-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "The Lowell",
+          "url": "https://solo5estrellas.com/hotels/1456/the-lowell.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Four Seasons New York Downtown",
+          "url": "https://solo5estrellas.com/hotels/3103/four-seasons-new-york-downtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "The Beekman",
+          "url": "https://solo5estrellas.com/hotels/3025/the-beekman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "The Greenwich Hotel",
+          "url": "https://solo5estrellas.com/hotels/2950/the-greenwich-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Soho Grand Hotel",
+          "url": "https://solo5estrellas.com/hotels/2278/soho-grand-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Nine Orchard",
+          "url": "https://solo5estrellas.com/hotels/7062/nine-orchard-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Conrad New York Downtown",
+          "url": "https://solo5estrellas.com/hotels/4145/conrad-new-york-downtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Casa Cipriani New York",
+          "url": "https://solo5estrellas.com/hotels/6065/casa-cipriani-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Hotel 50 Bowery",
+          "url": "https://solo5estrellas.com/hotels/3917/hotel-50-bowery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Pendry Manhattan West",
+          "url": "https://solo5estrellas.com/hotels/5021/pendry-manhattan-west.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Equinox Hotel, Hudson Yard",
+          "url": "https://solo5estrellas.com/hotels/4033/equinox-hotel-hudson-yard.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "The Standard Highline",
+          "url": "https://solo5estrellas.com/hotels/6876/the-standard-highline.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "The James NoMad",
+          "url": "https://solo5estrellas.com/hotels/3324/the-james-nomad-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "The Ritz-Carlton New York, NoMad",
+          "url": "https://solo5estrellas.com/hotels/6220/the-ritz-carlton-new-york-nomad.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "1 Hotel Brooklyn Bridge",
+          "url": "https://solo5estrellas.com/hotels/6494/1-hotel-brooklyn-bridge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "The William Vale",
+          "url": "https://solo5estrellas.com/hotels/6802/the-william-vale.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuál es el mejor hotel de lujo en Nueva York?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la zona. Junto a Central Park y la Quinta Avenida, The Plaza, el Ritz-Carlton Central Park o The Peninsula; en el Upper East Side, The Carlyle o The Mark; en el bajo Manhattan, el Four Seasons New York Downtown o The Beekman."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿En qué zona de Nueva York conviene alojarse?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Para un primer viaje, en Midtown, la Quinta Avenida o Central Park Sur: desde allí se llega a pie a las tiendas, los teatros y el parque. Si prefiere museos y calma, el Upper East Side; si prefiere restaurantes y barrio, Tribeca o SoHo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde alojarse en Nueva York para unas vacaciones de lujo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En una de las cuatro zonas de esta página: Midtown y Central Park Sur, Upper East Side, bajo Manhattan o Chelsea y Hudson Yards. Su asesor puede ayudarle a elegir según las fechas, el presupuesto y si viaja en pareja o en familia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles de lujo están junto a Central Park?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El Ritz-Carlton Central Park, 1 Hotel Central Park, Le Meridien Central Park, The Plaza y The Pierre están junto al parque o muy cerca de él. En Central Park Sur también está JW Marriott Essex House."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuándo es mejor viajar a Nueva York?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De abril a junio y de septiembre a octubre, por el clima, aunque son meses de más demanda. De enero a principios de marzo hay menos visitantes y mejores precios, salvo en festivos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto se tarda del aeropuerto al hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sin tráfico, unos 20 a 25 minutos desde LaGuardia y unos 30 a 35 desde JFK o Newark hasta Midtown. En hora punta puede ser de 60 a 90 minutos; JFK y Newark tienen AirTrain como alternativa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según el hotel, desayuno diario para dos, crédito de hotel y mejora de categoría sujeta a disponibilidad. Las condiciones se muestran en la ficha de cada hotel y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se puede reservar un hotel de Four Seasons en Nueva York?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: Four Seasons Hotel New York, en Midtown, y Four Seasons New York Downtown, en el bajo Manhattan. Se reservan a la tarifa publicada, con las ventajas del programa Four Seasons Preferred Partner."
+          }
+        }
+      ]
+    }
+  ]
+}

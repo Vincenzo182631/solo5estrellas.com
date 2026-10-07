@@ -117,7 +117,7 @@ Descriptions (155 characters maximum; cut at a word boundary; never reuse the gl
 | --- | --- |
 | Hotel (perks known: breakfast and credit) | `Reserve {Hotel} en {Ciudad} con desayuno para dos, crédito de hotel y mejora de categoría. Solo5Estrellas, de Lorraine Travel.` |
 | Hotel (otherwise) | `Reserve {Hotel} en {Ciudad}, {País}, con los beneficios exclusivos de Solo5Estrellas, operado por Lorraine Travel.` |
-| City | `Compare {N} hoteles de lujo de 5 estrellas en {Ciudad} y reserve con beneficios exclusivos. Solo5Estrellas, de Lorraine Travel desde 1948.` |
+| City | `Compare {N} hoteles de lujo en {Ciudad} y reserve con beneficios exclusivos. Solo5Estrellas, de Lorraine Travel desde 1948.` (Say "de 5 estrellas" only if the star rating is stored: the collection includes hotels that are not five-star.) |
 | Country / region | `Compare {N} hoteles de lujo en {País} y reserve con beneficios exclusivos de Solo5Estrellas, operado por Lorraine Travel.` |
 | Chain | `Reserve {N} hoteles {Cadena} en {P} países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.` |
 
