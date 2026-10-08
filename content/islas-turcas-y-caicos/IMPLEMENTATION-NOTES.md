@@ -49,3 +49,6 @@ All hotel facts come from the hotel pages on Solo5Estrellas.com, which are partl
 
 ## 8. Quality checks done
 Spanish: usted, sentence case, accents, USD stated, no translated hotel names. FAQ answers 24-49 words (the currency answer is short by design). No prices published (a trivago price forecast returned no 5-star data). No claim uses the AI-generated ratings.
+
+## Update 8 Oct: publish in place
+`browse_country.cfm?countryid=64` is Islas Turcas y Caicos and is the top organic landing page (29 clicks, 8,384 impressions) while serving the home page content. Publish this hub on that country page (`/countries/64/{slug}`), reached by a `301` from the legacy URL, instead of the new `/hoteles-de-lujo/islas-turcas-y-caicos/` URL proposed above. See `developer-spec/REDIRECT-MAPS.md`.

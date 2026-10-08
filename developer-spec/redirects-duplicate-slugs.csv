@@ -1,0 +1,950 @@
+﻿from,to_301,canonical_source,clicks,impressions
+/cities/10/Amsterdam.html,/cities/10/amsterdam.html,site link,0,2
+/cities/100/Peninsula-Papagayo.html,/cities/100/peninsula-papagayo.html,indexed variant,0,10
+/cities/1001/Casablanca.html,/cities/1001/casablanca.html,derived,0,1
+/cities/1016/Mandaluyong-.html,/cities/1016/mandaluyong-.html,derived,0,1
+/cities/1019/Sentosa-Island.html,/cities/1019/sentosa-island.html,derived,0,1
+/cities/102/Hamilton.html,/cities/102/hamilton.html,indexed variant,0,2
+/cities/1051/Lviv.html,/cities/1051/lviv.html,derived,0,2
+/cities/107/Hong-Kong.html,/cities/107/hong-kong.html,derived,0,1
+/cities/1071/Destin.html,/cities/1071/destin.html,derived,0,1
+/cities/1077/Eleuthera.html,/cities/1077/eleuthera.html,derived,0,2
+/cities/1095/Goa.html,/cities/1095/goa.html,derived,0,1
+/cities/1097/Cambridge.html,/cities/1097/cambridge.html,derived,0,2
+/cities/1107/Perth.html,/cities/1107/perth.html,derived,0,1
+/cities/1117/Qingdao.html,/cities/1117/qingdao.html,derived,0,1
+/cities/1118/Mayakoba.html,/cities/1118/mayakoba.html,derived,0,59
+/cities/1121/Stone-Town.html,/cities/1121/stone-town.html,derived,0,1
+/cities/1122/Suzhou.html,/cities/1122/suzhou.html,derived,0,1
+/cities/1125/Yerevan.html,/cities/1125/yerevan.html,derived,0,3
+/cities/113/Interlaken.html,/cities/113/interlaken.html,derived,0,2
+/cities/1139/Jebel-Akhdar.html,/cities/1139/jebel-akhdar.html,derived,0,2
+/cities/1142/Viareggio.html,/cities/1142/viareggio.html,derived,0,1
+/cities/1145/Kochi.html,/cities/1145/kochi.html,derived,0,2
+/cities/1146/Coral-Gables.html,/cities/1146/coral-gables.html,derived,0,3
+/cities/1150/Chantilly.html,/cities/1150/chantilly.html,derived,0,2
+/cities/1156/Los-Olivos.html,/cities/1156/los-olivos.html,derived,0,1
+/cities/1165/Rouen.html,/cities/1165/rouen.html,derived,0,3
+/cities/1176/Enniskerry.html,/cities/1176/enniskerry.html,derived,0,1
+/cities/1190/Holmes-Beach.html,/cities/1190/holmes-beach.html,derived,0,3
+/cities/1195/Phu-Quoc.html,/cities/1195/phu-quoc.html,derived,0,2
+/cities/1198/Iver.html,/cities/1198/iver.html,derived,0,4
+/cities/1204/Edmonton.html,/cities/1204/edmonton.html,derived,0,2
+/cities/1213/Surakarta.html,/cities/1213/surakarta.html,derived,0,1
+/cities/1216/Sochi.html,/cities/1216/sochi.html,derived,0,1
+/cities/1234/Lake-Como.html,/cities/1234/lake-como.html,derived,0,1
+/cities/1251/La-Rosiere.html,/cities/1251/la-rosiere.html,derived,0,3
+/cities/1253/Shenyang.html,/cities/1253/shenyang.html,derived,0,1
+/cities/1255/Xiamen.html,/cities/1255/xiamen.html,derived,0,3
+/cities/1259/Alexandria-Scotland.html,/cities/1259/alexandria-scotland.html,derived,0,7
+/cities/1260/Nikko.html,/cities/1260/nikko.html,derived,0,1
+/cities/1271/Corvara-in-Badia.html,/cities/1271/corvara-in-badia.html,derived,0,4
+/cities/1278/San-Luis-Potosi.html,/cities/1278/san-luis-potosi.html,derived,0,1
+/cities/1290/Laos.html,/cities/1290/laos.html,derived,0,2
+/cities/1294/Gambang.html,/cities/1294/gambang.html,derived,0,4
+/cities/1301/Port-Antonio.html,/cities/1301/port-antonio.html,derived,0,1
+/cities/1310/Pearl-Cays.html,/cities/1310/pearl-cays.html,derived,0,79
+/cities/1315/Surat-Thani.html,/cities/1315/surat-thani.html,derived,0,1
+/cities/1325/Alberton.html,/cities/1325/alberton.html,derived,0,1
+/cities/1332/Nara.html,/cities/1332/nara.html,derived,0,2
+/cities/1334/Les-Aulles.html,/cities/1334/les-aulles.html,derived,0,1
+/cities/134/La-Romana.html,/cities/134/la-romana.html,derived,0,1
+/cities/1345/Paros.html,/cities/1345/paros.html,derived,0,4
+/cities/1346/Malaga.html,/cities/1346/malaga.html,derived,0,7
+/cities/1352/Salamanca.html,/cities/1352/salamanca.html,derived,0,5
+/cities/1354/Crans-Montana.html,/cities/1354/crans-montana.html,derived,0,3
+/cities/1356/Lipperswil.html,/cities/1356/lipperswil.html,derived,0,1
+/cities/1377/Gargnano.html,/cities/1377/gargnano.html,derived,0,3
+/cities/1383/Monastero-Bormida.html,/cities/1383/monastero-bormida.html,derived,0,1
+/cities/1386/Genoa.html,/cities/1386/genoa.html,derived,0,1
+/cities/1395/Corvara.html,/cities/1395/corvara.html,derived,0,1
+/cities/141/Langkawi.html,/cities/141/langkawi.html,derived,0,3
+/cities/142/Las-Vegas.html,/cities/142/las-vegas.html,derived,0,1
+/cities/1428/Morley.html,/cities/1428/morley.html,derived,0,3
+/cities/1430/Seychelles.html,/cities/1430/seychelles.html,derived,0,36
+/cities/1431/Bozeman.html,/cities/1431/bozeman.html,derived,0,4
+/cities/1440/San-Pedro-Garza-Garcia.html,/cities/1440/san-pedro-garza-garcia.html,derived,0,2
+/cities/1445/Adelaide.html,/cities/1445/adelaide.html,derived,0,1
+/cities/1450/Escazu.html,/cities/1450/escazu.html,derived,0,3
+/cities/1451/Dhaka.html,/cities/1451/dhaka.html,derived,0,1
+/cities/1455/Lake-Tahoe.html,/cities/1455/lake-tahoe.html,derived,0,2
+/cities/1457/Ablon.html,/cities/1457/ablon.html,derived,0,1
+/cities/1461/Saint-Florent.html,/cities/1461/saint-florent.html,derived,0,2
+/cities/1463/Walland.html,/cities/1463/walland.html,derived,0,1
+/cities/1476/Luxembourg.html,/cities/1476/luxembourg.html,derived,0,2
+/cities/1478/Rabat.html,/cities/1478/rabat.html,derived,0,12
+/cities/1494/Nong-Thale.html,/cities/1494/nong-thale.html,indexed variant,0,1
+/cities/1497/Prachuap-Khiri-Khan.html,/cities/1497/prachuap-khiri-khan.html,derived,0,1
+/cities/150/London.html,/cities/150/london.html,site link,0,738
+/cities/1508/Valladolid.html,/cities/1508/valladolid.html,derived,0,2
+/cities/1512/Lecce.html,/cities/1512/lecce.html,derived,0,3
+/cities/1513/Bazaruto.html,/cities/1513/bazaruto.html,derived,0,3
+/cities/1516/Punta-Ala.html,/cities/1516/punta-ala.html,derived,0,1
+/cities/153/Los-Angeles.html,/cities/153/los-angeles.html,derived,0,3
+/cities/156/Lugano.html,/cities/156/lugano.html,derived,0,5
+/cities/161/Manchester.html,/cities/161/manchester.html,derived,0,5
+/cities/168/Miami.html,/cities/168/miami.html,derived,0,6
+/cities/17/Avignon.html,/cities/17/avignon.html,derived,0,15
+/cities/170/Milan.html,/cities/170/milan.html,derived,0,1
+/cities/174/Montego-Bay.html,/cities/174/montego-bay.html,derived,0,4
+/cities/178/Moscow.html,/cities/178/moscow.html,derived,0,3
+/cities/182/Mykonos.html,/cities/182/mykonos.html,derived,0,2
+/cities/186/Nassau.html,/cities/186/nassau.html,derived,0,2
+/cities/191/New-Orleans.html,/cities/191/new-orleans.html,derived,0,2
+/cities/192/New-York.html,/cities/192/new-york.html,derived,0,6
+/cities/194/Newport-Beach.html,/cities/194/newport-beach.html,derived,0,3
+/cities/196/Nice.html,/cities/196/nice.html,derived,0,1
+/cities/201/Orlando-and-Disney-World.html,/cities/201/orlando-and-disney-world.html,derived,0,1
+/cities/202/Ottawa.html,/cities/202/ottawa.html,derived,0,1
+/cities/204/Palm-Beach.html,/cities/204/palm-beach.html,derived,0,4
+/cities/207/Paris.html,/cities/207/paris.html,site link,0,410
+/cities/21/Baden-Baden.html,/cities/21/baden-baden.html,derived,0,1
+/cities/215/Phoenix.html,/cities/215/phoenix.html,derived,0,1
+/cities/217/Ponte-Vedra-Beach.html,/cities/217/ponte-vedra-beach.html,derived,0,1
+/cities/221/Portofino.html,/cities/221/portofino.html,derived,0,14
+/cities/224/Kauai.html,/cities/224/kauai.html,derived,0,4
+/cities/227/Puerto-Vallarta.html,/cities/227/puerto-vallarta.html,derived,0,2
+/cities/228/Punta-Mita.html,/cities/228/punta-mita.html,derived,0,3
+/cities/23/Bali.html,/cities/23/bali.html,derived,0,5
+/cities/232/Rancho-Mirage.html,/cities/232/rancho-mirage.html,derived,0,1
+/cities/239/Rio-de-Janeiro.html,/cities/239/rio-de-janeiro.html,derived,0,1
+/cities/24/Banff.html,/cities/24/banff.html,derived,0,6
+/cities/241/Rome.html,/cities/241/rome.html,site link,0,50
+/cities/243/Rotorua.html,/cities/243/rotorua.html,derived,0,1
+/cities/249/San-Francisco.html,/cities/249/san-francisco.html,derived,0,2
+/cities/25/Bangkok.html,/cities/25/bangkok.html,derived,0,4
+/cities/251/San-Jose-CR.html,/cities/251/san-jose-cr.html,derived,0,1
+/cities/2532/Bluefields.html,/cities/2532/bluefields.html,derived,0,6
+/cities/2533/Coimbra.html,/cities/2533/coimbra.html,derived,0,14
+/cities/2537/San-Jose-CA.html,/cities/2537/san-jose-ca.html,derived,0,1
+/cities/2545/Costa-Molini.html,/cities/2545/costa-molini.html,derived,0,1
+/cities/2562/Hudson-Valley.html,/cities/2562/hudson-valley.html,derived,0,1
+/cities/2569/Fukuoka.html,/cities/2569/fukuoka.html,derived,0,2
+/cities/2571/Kelso.html,/cities/2571/kelso.html,derived,0,1
+/cities/2575/West-Bay-Beach.html,/cities/2575/west-bay-beach.html,derived,0,1
+/cities/258/Santorini.html,/cities/258/santorini.html,derived,0,2
+/cities/2582/Tuscany.html,/cities/2582/tuscany.html,derived,0,2
+/cities/2588/Tamuda-Bay.html,/cities/2588/tamuda-bay.html,derived,0,6
+/cities/2590/Nagoya.html,/cities/2590/nagoya.html,derived,0,1
+/cities/2592/Taveuni-Island.html,/cities/2592/taveuni-island.html,derived,0,1
+/cities/2597/Hamptons.html,/cities/2597/hamptons.html,derived,0,1
+/cities/26/Barcelona.html,/cities/26/barcelona.html,derived,0,1
+/cities/260/Sarasota.html,/cities/260/sarasota.html,derived,0,1
+/cities/2604/Ummahat-Island.html,/cities/2604/ummahat-island.html,derived,0,4
+/cities/2606/The-Red-Sea.html,/cities/2606/the-red-sea.html,derived,0,1
+/cities/2611/Faro.html,/cities/2611/faro.html,derived,0,1
+/cities/2614/Cape-Cod.html,/cities/2614/cape-cod.html,derived,0,1
+/cities/2617/Deer-Valley.html,/cities/2617/deer-valley.html,derived,0,1
+/cities/2620/The-Dolomites.html,/cities/2620/the-dolomites.html,derived,0,2
+/cities/2622/Reno.html,/cities/2622/reno.html,derived,0,4
+/cities/2623/Tashkent.html,/cities/2623/tashkent.html,derived,0,1
+/cities/269/Seattle.html,/cities/269/seattle.html,derived,0,12
+/cities/270/Sedona.html,/cities/270/sedona.html,derived,0,5
+/cities/272/Shanghai.html,/cities/272/shanghai.html,derived,0,1
+/cities/273/Shell.html,/cities/273/shell.html,derived,0,1
+/cities/276/Singapore.html,/cities/276/singapore.html,derived,0,2
+/cities/28/Bath.html,/cities/28/bath.html,derived,0,1
+/cities/280/Sorrento.html,/cities/280/sorrento.html,derived,0,2
+/cities/287/St-James-Barbados-.html,/cities/287/st-james-barbados-.html,derived,0,2
+/cities/288/Cap-Ferrat.html,/cities/288/cap-ferrat.html,derived,0,1
+/cities/294/St-Moritz.html,/cities/294/st-moritz.html,derived,0,1
+/cities/301/Sydney.html,/cities/301/sydney.html,derived,0,3
+/cities/306/Tel-Aviv.html,/cities/306/tel-aviv.html,derived,0,6
+/cities/311/Tokyo.html,/cities/311/tokyo.html,derived,0,5
+/cities/315/Udaipur.html,/cities/315/udaipur.html,derived,0,6
+/cities/316/Vail.html,/cities/316/vail.html,derived,0,1
+/cities/321/Verona.html,/cities/321/verona.html,derived,0,2
+/cities/322/Victoria.html,/cities/322/victoria.html,derived,0,1
+/cities/327/Maui.html,/cities/327/maui.html,derived,0,2
+/cities/328/Fiji.html,/cities/328/fiji.html,derived,0,6
+/cities/33/Beverly-Hills.html,/cities/33/beverly-hills.html,derived,0,1
+/cities/332/Whistler.html,/cities/332/whistler.html,derived,0,2
+/cities/338/Zermatt.html,/cities/338/zermatt.html,derived,0,5
+/cities/34/Biarritz.html,/cities/34/biarritz.html,derived,0,1
+/cities/340/Zurich.html,/cities/340/zurich.html,derived,0,11
+/cities/35/Boca-Raton.html,/cities/35/boca-raton.html,derived,0,8
+/cities/351/Saint-Emilion.html,/cities/351/saint-emilion.html,derived,0,5
+/cities/359/Glasgow.html,/cities/359/glasgow.html,derived,0,2
+/cities/364/Marbella.html,/cities/364/marbella.html,derived,0,4
+/cities/37/Bora-Bora.html,/cities/37/bora-bora.html,derived,0,3
+/cities/38/Boston.html,/cities/38/boston.html,derived,0,1
+/cities/385/Saigon.html,/cities/385/saigon.html,derived,0,2
+/cities/39/Cotswolds.html,/cities/39/cotswolds.html,derived,0,1
+/cities/40/Brussels.html,/cities/40/brussels.html,derived,0,1
+/cities/41/Budapest.html,/cities/41/budapest.html,derived,0,6
+/cities/411/Atlanta.html,/cities/411/atlanta.html,derived,0,4
+/cities/415/San-Antonio.html,/cities/415/san-antonio.html,derived,0,1
+/cities/426/Necker-Island.html,/cities/426/necker-island.html,derived,0,33
+/cities/43/Cairo.html,/cities/43/cairo.html,derived,0,3
+/cities/437/San-Juan.html,/cities/437/san-juan.html,derived,0,1
+/cities/443/Sintra.html,/cities/443/sintra.html,derived,0,3
+/cities/446/Doha.html,/cities/446/doha.html,derived,0,15
+/cities/450/Cortina-d-Ampezzo.html,/cities/450/cortina-d-ampezzo.html,derived,0,8
+/cities/452/Lech.html,/cities/452/lech.html,derived,0,1
+/cities/456/Punta-Cana.html,/cities/456/punta-cana.html,derived,0,7
+/cities/474/Indian-Wells.html,/cities/474/indian-wells.html,derived,0,6
+/cities/476/St-John.html,/cities/476/st-john.html,derived,0,1
+/cities/49/Cape-Town.html,/cities/49/cape-town.html,derived,0,9
+/cities/507/Gstaad.html,/cities/507/gstaad.html,derived,0,1
+/cities/515/Reykjavik.html,/cities/515/reykjavik.html,derived,0,4
+/cities/542/Riga.html,/cities/542/riga.html,derived,0,1
+/cities/547/Puerto-Iguazu.html,/cities/547/puerto-iguazu.html,derived,0,1
+/cities/566/Tenerife.html,/cities/566/tenerife.html,indexed variant,0,1
+/cities/577/Placencia.html,/cities/577/placencia.html,derived,0,1
+/cities/589/Baku.html,/cities/589/baku.html,derived,0,1
+/cities/601/Jeddah.html,/cities/601/jeddah.html,derived,0,1
+/cities/611/Saint-Arcons-d-Allier.html,/cities/611/saint-arcons-d-allier.html,derived,0,1
+/cities/615/St-Louis.html,/cities/615/st-louis.html,derived,0,1
+/cities/62/Chiang-Mai.html,/cities/62/chiang-mai.html,indexed variant,0,7
+/cities/620/Moorea.html,/cities/620/moorea.html,derived,0,4
+/cities/626/Trieste.html,/cities/626/trieste.html,derived,0,1
+/cities/627/Tampa.html,/cities/627/tampa.html,derived,0,1
+/cities/63/Chicago.html,/cities/63/chicago.html,derived,0,1
+/cities/644/Luxor-Aswan-Upper-Egypt.html,/cities/644/luxor-aswan-upper-egypt.html,derived,0,6
+/cities/649/Copenhagen.html,/cities/649/copenhagen.html,derived,0,15
+/cities/652/Santo-Domingo-.html,/cities/652/santo-domingo-.html,derived,0,3
+/cities/654/Captiva-Island.html,/cities/654/captiva-island.html,derived,0,2
+/cities/656/Jackson-Hole.html,/cities/656/jackson-hole.html,derived,0,3
+/cities/658/Portland.html,/cities/658/portland.html,derived,0,1
+/cities/659/Gurgaon.html,/cities/659/gurgaon.html,derived,0,2
+/cities/666/Mexico-City.html,/cities/666/mexico-city.html,derived,0,3
+/cities/679/West-Hollywood.html,/cities/679/west-hollywood.html,derived,0,1
+/cities/68/Cork.html,/cities/68/cork.html,derived,0,6
+/cities/686/Abu-Dhabi.html,/cities/686/abu-dhabi.html,derived,0,1
+/cities/701/Taipei.html,/cities/701/taipei.html,derived,0,3
+/cities/708/Serengeti.html,/cities/708/serengeti.html,derived,0,4
+/cities/715/Menlo-Park.html,/cities/715/menlo-park.html,derived,0,1
+/cities/721/Canyon-Point.html,/cities/721/canyon-point.html,derived,0,1
+/cities/743/Masai-Mara.html,/cities/743/masai-mara.html,derived,0,29
+/cities/744/Nairobi.html,/cities/744/nairobi.html,derived,0,18
+/cities/746/Makati-.html,/cities/746/makati-.html,derived,0,2
+/cities/756/Manama.html,/cities/756/manama.html,derived,0,2
+/cities/767/Hangzhou-.html,/cities/767/hangzhou-.html,derived,0,3
+/cities/772/Casares.html,/cities/772/casares.html,derived,0,2
+/cities/779/Rio-Hato.html,/cities/779/rio-hato.html,derived,0,1
+/cities/78/Dornoch.html,/cities/78/dornoch.html,derived,0,2
+/cities/784/Krabi.html,/cities/784/krabi.html,derived,0,1
+/cities/789/Maun.html,/cities/789/maun.html,derived,0,1
+/cities/79/Dubai.html,/cities/79/dubai.html,derived,0,1
+/cities/792/Te-Awanga.html,/cities/792/te-awanga.html,derived,0,1
+/cities/794/Isla-Verde.html,/cities/794/isla-verde.html,derived,0,1
+/cities/798/Punta-Pacifica.html,/cities/798/punta-pacifica.html,derived,0,2
+/cities/80/Dublin.html,/cities/80/dublin.html,derived,0,1
+/cities/805/Taormina.html,/cities/805/taormina.html,derived,0,6
+/cities/816/Baltimore.html,/cities/816/baltimore.html,derived,0,3
+/cities/824/Bogota.html,/cities/824/bogota.html,derived,0,9
+/cities/828/Cairns.html,/cities/828/cairns.html,derived,0,1
+/cities/833/El-Calafate.html,/cities/833/el-calafate.html,derived,0,2
+/cities/834/Puerto-Natales.html,/cities/834/puerto-natales.html,derived,0,1
+/cities/838/Shenzhen.html,/cities/838/shenzhen.html,derived,0,7
+/cities/848/Quito.html,/cities/848/quito.html,derived,0,2
+/cities/853/Quebec-City.html,/cities/853/quebec-city.html,derived,0,3
+/cities/854/Helsinki.html,/cities/854/helsinki.html,derived,0,1
+/cities/855/Amalfi-Coast.html,/cities/855/amalfi-coast.html,derived,0,2
+/cities/858/Dusseldorf.html,/cities/858/dusseldorf.html,derived,0,1
+/cities/871/Naples-FL.html,/cities/871/naples-fl.html,derived,0,2
+/cities/872/Dorado.html,/cities/872/dorado.html,derived,0,2
+/cities/878/Savelletri-di-Fasano.html,/cities/878/savelletri-di-fasano.html,derived,0,2
+/cities/91/Fort-Worth.html,/cities/91/fort-worth.html,derived,0,2
+/cities/910/Porto-Cervo.html,/cities/910/porto-cervo.html,derived,0,20
+/cities/926/Jaipur.html,/cities/926/jaipur.html,derived,0,3
+/cities/929/Nusa-Dua.html,/cities/929/nusa-dua.html,derived,0,2
+/cities/931/Hollywood.html,/cities/931/hollywood.html,derived,0,1
+/cities/953/Okinawa.html,/cities/953/okinawa.html,derived,0,3
+/cities/957/Da-Nang.html,/cities/957/da-nang.html,derived,0,2
+/cities/958/Chengdu.html,/cities/958/chengdu.html,derived,0,2
+/cities/97/Great-Exuma.html,/cities/97/great-exuma.html,derived,0,1
+/cities/972/South-Beach-Miami.html,/cities/972/south-beach-miami.html,derived,0,6
+/cities/985/San-Bernardo.html,/cities/985/san-bernardo.html,derived,0,1
+/cities/993/Dubrovnik.html,/cities/993/dubrovnik.html,derived,0,2
+/cities/994/Ho-Chi-Minh.html,/cities/994/ho-chi-minh.html,derived,0,2
+/cities/996/Bratislava.html,/cities/996/bratislava.html,indexed variant,0,8
+/hotels/1001/Ciragan_Palace_Hotel_Kempinski_.html,/hotels/1001/ciragan-palace-hotel-kempinski-.html,site link,0,6
+/hotels/1004/Chateau-Saint-Martin-Spa.html,/hotels/1004/ch-teau-saint-martin-.html,indexed variant,0,10
+/hotels/1009/Hotel_Eden_.html,/hotels/1009/hotel-eden-.html,site link,0,1
+/hotels/1011/The-Palace-Madrid.html,/hotels/1011/the-palace-madrid.html,site link,0,1
+/hotels/1018/Four_Seasons_Hotel_Ritz_Lisbon.html,/hotels/1018/four-seasons-hotel-ritz-lisbon.html,site link,0,1
+/hotels/1022/The_St._Regis_Beijing.html,/hotels/1022/the-st-regis-beijing.html,site link,0,1
+/hotels/1048/The-Peninsula-New-York-.html,/hotels/1048/the-peninsula-new-york-.html,site link,0,1
+/hotels/1062/Hotel-Royal-Riviera.html,/hotels/1062/hotel-royal-riviera.html,site link,0,2
+/hotels/1073/Belmond_La_Residencia.html,/hotels/1073/belmond-la-residencia.html,site link,1,2
+/hotels/1074/Mandarin-Oriental-Ritz-Madrid.html,/hotels/1074/mandarin-oriental-ritz-madrid.html,site link,0,84
+/hotels/1078/Hotel_Helvetia_&_Bristol.html,/hotels/1078/hotel-helvetia-bristol.html,site link,0,3
+/hotels/1078/Hotel-Helvetia-Bristol.html,/hotels/1078/hotel-helvetia-bristol.html,site link,0,1
+/hotels/1093/Hotel-Sacher-Wien.html,/hotels/1093/hotel-sacher-wien.html,site link,0,36
+/hotels/1109/Rosewood_Le_Guanahani.html,/hotels/1109/rosewood-le-guanahani.html,derived,0,1
+/hotels/1122/Grand-Hotel-Tremezzo-Lake-Como-.html,/hotels/1122/grand-hotel-tremezzo-lake-como-.html,site link,0,3
+/hotels/1125/Casa-de-Campo-Resort-Villas-.html,/hotels/1125/casa-de-campo-resort-villas-.html,site link,1,54
+/hotels/1125/Casa_de_Campo_Resort_&_Villas__.html,/hotels/1125/casa-de-campo-resort-villas-.html,site link,0,5
+/hotels/1125/casa_de_campo_resort_&_villas__.html,/hotels/1125/casa-de-campo-resort-villas-.html,site link,0,1
+/hotels/1135/Point-Grace.html,/hotels/1135/point-grace.html,site link,0,6
+/hotels/1146/The-Goring-Hotel.html,/hotels/1146/the-goring-hotel.html,site link,0,2
+/hotels/1150/Sea-Island-Resort.html,/hotels/1150/sea-island-resort.html,site link,0,1
+"/hotels/1177/The_St._Regis_Hotel,_Houston.html",/hotels/1177/the-st-regis-hotel-houston.html,site link,0,10
+/hotels/1182/Baglioni-Hotel-Regina.html,/hotels/1182/baglioni-hotel-regina.html,site link,0,16
+/hotels/1187/Shutters_On_The_Beach_Hotel.html,/hotels/1187/shutters-on-the-beach-hotel.html,site link,0,6
+/hotels/1202/The-Fairmont-Chateau-Lake-Louise.html,/hotels/1202/the-fairmont-chateau-lake-louise.html,site link,0,3
+/hotels/1203/Fairmont-Banff-Springs.html,/hotels/1203/fairmont-banff-springs.html,site link,0,1
+/hotels/1205/Park-Hyatt-Washington-D-C-.html,/hotels/1205/park-hyatt-washington-d-c-.html,site link,0,1
+/hotels/1218/Curtain-Bluff-br-All-Inclusive-Resort-.html,/hotels/1218/curtain-bluff-br-all-inclusive-resort-.html,site link,0,1
+/hotels/1223/Fairmont-Kea-Lani-Maui.html,/hotels/1223/fairmont-kea-lani-maui.html,site link,0,1
+/hotels/1226/fairmont_hamilton_princess_&_beach_club.html,/hotels/1226/fairmont-hamilton-princess-beach-club.html,site link,0,1
+/hotels/1229/Fairmont-Royal-York.html,/hotels/1229/fairmont-royal-york.html,site link,0,3
+/hotels/1231/Treetops-Lodge-Estate.html,/hotels/1231/treetops-lodge-estate.html,site link,0,1
+/hotels/1243/Rosewood-Kauri-Cliffs.html,/hotels/1243/rosewood-kauri-cliffs.html,site link,0,1
+/hotels/1245/The_Peninsula_Beijing.html,/hotels/1245/the-peninsula-beijing.html,indexed variant,0,2
+/hotels/1271/Four-Seasons-Resort-Costa-Rica-.html,/hotels/1271/four-seasons-resort-costa-rica-.html,site link,0,15
+/hotels/1309/Hotel-Santa-Caterina.html,/hotels/1309/hotel-santa-caterina.html,site link,0,3
+/hotels/1312/Fairmont_Le_Montreux_Palace.html,/hotels/1312/fairmont-le-montreux-palace.html,site link,0,1
+/hotels/1327/Bellagio.html,/hotels/1327/bellagio.html,site link,0,1
+/hotels/1328/The-Langham-Huntington-Pasadena-Los-Angeles.html,/hotels/1328/the-langham-huntington-pasadena-los-angeles.html,site link,0,6
+/hotels/1337/The-Breakers-Palm-Beach.html,/hotels/1337/the-breakers-palm-beach.html,site link,0,1
+/hotels/1350/Killarney_Park_Hotel.html,/hotels/1350/killarney-park-hotel.html,site link,0,26
+/hotels/1365/The-Willard-InterContinental-.html,/hotels/1365/the-willard-intercontinental-.html,site link,0,1
+/hotels/1372/Villa-Gallici.html,/hotels/1372/villa-gallici.html,site link,0,10
+/hotels/1372/Villa_Gallici.html,/hotels/1372/villa-gallici.html,site link,0,5
+/hotels/1373/Grand_Hotel_Villa_Serbelloni.html,/hotels/1373/grand-hotel-villa-serbelloni.html,site link,0,1
+/hotels/1382/The-St-Regis-Mardavall-Mallorca-Resort.html,/hotels/1382/the-st-regis-mardavall-mallorca-resort.html,site link,0,4
+/hotels/1384/The-Balboa-Bay-Club-Resort.html,/hotels/1384/the-balboa-bay-club-resort.html,site link,0,2
+/hotels/1384/The_Balboa_Bay_Club_&_Resort.html,/hotels/1384/the-balboa-bay-club-resort.html,site link,0,1
+/hotels/1399/One-Only-Reethi-Rah.html,/hotels/1399/one-only-reethi-rah.html,derived,0,2
+"/hotels/1412/The_Ritz_Carlton,_Berlin.html",/hotels/1412/the-ritz-carlton-berlin.html,site link,0,3
+/hotels/1417/The-St-Regis-Hotel-Washington-D-C-.html,/hotels/1417/the-st-regis-hotel-washington-d-c-.html,site link,0,1
+/hotels/1418/Sensei-Lanai-A-Four-Seasons-Resort.html,/hotels/1418/sensei-lanai-a-four-seasons-resort.html,site link,0,3
+/hotels/1419/Four-Seasons-Resort-Lanai.html,/hotels/1419/four-seasons-resort-lanai.html,site link,0,3
+/hotels/1422/Four-Seasons-Resort-Nevis.html,/hotels/1422/four-seasons-resort-nevis.html,site link,0,1
+/hotels/1427/The-Peninsula-Beverly-Hills.html,/hotels/1427/the-peninsula-beverly-hills.html,site link,0,1
+/hotels/1430/The_Connaught_.html,/hotels/1430/the-connaught-.html,site link,0,1
+"/hotels/1435/Mandarin_Oriental,_Munich.html",/hotels/1435/mandarin-oriental-munich.html,site link,0,1
+/hotels/1438/four_seasons_resort_bali_at_jimbaran_bay.html,/hotels/1438/four-seasons-resort-bali-at-jimbaran-bay.html,site link,0,2
+/hotels/1438/Four_Seasons_Resort_Bali_at_Jimbaran_Bay.html,/hotels/1438/four-seasons-resort-bali-at-jimbaran-bay.html,site link,0,1
+/hotels/1440/The_Lanesborough.html,/hotels/1440/the-lanesborough.html,site link,0,1
+/hotels/1443/Trump_Turnberry_Resort.html,/hotels/1443/trump-turnberry-resort.html,site link,0,1
+/hotels/1446/The_Gleneagles_Hotel.html,/hotels/1446/the-gleneagles-hotel.html,site link,0,1
+/hotels/1449/Rancho-Valencia.html,/hotels/1449/rancho-valencia.html,site link,0,1
+/hotels/1463/Ladera-Resort.html,/hotels/1463/ladera-resort.html,site link,0,4
+/hotels/1471/La_Quinta_Resort_&_Club.html,/hotels/1471/la-quinta-resort-club.html,site link,0,1
+"/hotels/1487/santo_mauro,_a_luxury_collection_hotel.html",/hotels/1487/santo-mauro-a-luxury-collection-hotel.html,site link,0,7
+/hotels/1487/Santo-Mauro-a-Luxury-Collection-Hotel.html,/hotels/1487/santo-mauro-a-luxury-collection-hotel.html,site link,0,1
+/hotels/1505/Kempinski-Hotel-Bahia-Estepona.html,/hotels/1505/kempinski-hotel-bahia-estepona.html,site link,0,28
+/hotels/1512/Ritz-Carlton-Grand-Cayman-.html,/hotels/1512/ritz-carlton-grand-cayman-.html,site link,0,1
+/hotels/1514/Hotel_El_Convento.html,/hotels/1514/hotel-el-convento.html,site link,0,2
+/hotels/1523/Amanyara.html,/hotels/1523/amanyara.html,site link,0,19
+/hotels/1527/Amandari.html,/hotels/1527/amandari.html,site link,0,1
+/hotels/1532/Amanpulo.html,/hotels/1532/amanpulo.html,site link,0,3
+/hotels/1559/Park_Hyatt_Seoul_.html,/hotels/1559/park-hyatt-seoul-.html,site link,0,6
+/hotels/1562/The-Twelve-Apostles-Hotel-Spa.html,/hotels/1562/the-twelve-apostles-hotel-spa.html,site link,0,1
+/hotels/1608/The-Ritz-Carlton-Pentagon-City.html,/hotels/1608/the-ritz-carlton-pentagon-city.html,site link,0,3
+"/hotels/1619/The_Ritz-Carlton,_Osaka.html",/hotels/1619/the-ritz-carlton-osaka.html,site link,0,2
+"/hotels/1622/The_Ritz-Carlton,_Wolfsburg.html",/hotels/1622/the-ritz-carlton-wolfsburg.html,site link,1,1
+/hotels/1625/Ritz-Penha-Longa-Resort.html,/hotels/1625/ritz-penha-longa-resort.html,site link,0,1
+/hotels/1672/Enchantment-Resort-.html,/hotels/1672/enchantment-resort-.html,site link,0,1
+/hotels/1700/Dromoland-Castle.html,/hotels/1700/dromoland-castle.html,site link,0,36
+/hotels/1700/Dromoland_Castle.html,/hotels/1700/dromoland-castle.html,site link,0,1
+/hotels/1720/Il_San_Pietro_di_Positano_.html,/hotels/1720/il-san-pietro-di-positano-.html,site link,0,26
+/hotels/1726/San-Ysidro-Ranch.html,/hotels/1726/san-ysidro-ranch.html,site link,0,5
+/hotels/1762/Hotel_Vier_Jahreszeiten_Kempinski_Munich_.html,/hotels/1762/hotel-vier-jahreszeiten-kempinski-munich-.html,site link,0,1
+/hotels/1771/lizard-island-resort-br-all-inclusive.html,/hotels/1771/lizard-island-resort-.html,site link,0,2
+/hotels/1786/Kivotos-Mykonos.html,/hotels/1786/kivotos-mykonos.html,site link,0,2
+/hotels/1786/Kivotos_Mykonos.html,/hotels/1786/kivotos-mykonos.html,site link,0,1
+/hotels/1816/Omni-Homestead-.html,/hotels/1816/omni-homestead-.html,site link,0,60
+/hotels/1827/The-Westin-Valencia-.html,/hotels/1827/the-westin-valencia-.html,site link,0,3
+/hotels/1844/Four_Seasons_Hotel_Hong_Kong.html,/hotels/1844/four-seasons-hotel-hong-kong.html,site link,0,27
+/hotels/1879/Ashford-Castle-.html,/hotels/1879/ashford-castle-.html,site link,0,3
+/hotels/1888/The_Peninsula_Manila.html,/hotels/1888/the-peninsula-manila.html,indexed variant,0,2
+/hotels/1920/The-Plaza-Hotel-New-York.html,/hotels/1920/the-plaza-hotel-new-york.html,site link,1,137
+/hotels/1947/The_Montague_on_the_Gardens_Hotel_.html,/hotels/1947/the-montague-on-the-gardens-hotel-.html,site link,0,1
+/hotels/1962/Commune-by-The-Great-Wall.html,/hotels/1962/commune-by-the-great-wall.html,site link,0,1
+/hotels/1972/Hotel-De-La-Ville.html,/hotels/1972/hotel-de-la-ville.html,site link,0,1
+/hotels/1996/Pink-Sands-Resort.html,/hotels/1996/pink-sands-resort.html,site link,0,8
+/hotels/2001/The_Charles_Hotel.html,/hotels/2001/the-charles-hotel.html,indexed variant,0,1
+/hotels/2017/Live-Aqua-Cancun.html,/hotels/2017/live-aqua-cancun.html,site link,0,2
+/hotels/2056/Hotel-Alfonso-XIII.html,/hotels/2056/hotel-alfonso-xiii.html,site link,0,4
+/hotels/2056/Hotel_Alfonso_XIII.html,/hotels/2056/hotel-alfonso-xiii.html,site link,0,4
+/hotels/2066/Hotel-La-Perouse.html,/hotels/2066/hotel-la-perouse.html,site link,0,55
+/hotels/2072/Hotel_San_Regis_Paris.html,/hotels/2072/hotel-san-regis-paris.html,site link,0,51
+/hotels/2088/Jumeirah-Bab-Al-Shams-Desert-Resort-Spa.html,/hotels/2088/bab-al-shams-desert-resort-spa.html,site link,0,2
+/hotels/2096/Omni-La-Costa-Resort.html,/hotels/2096/omni-la-costa-resort.html,site link,1,4
+/hotels/2101/MGM-Grand-Hotel-Casino.html,/hotels/2101/mgm-grand-hotel-casino.html,site link,0,119
+/hotels/2108/Pavillon_de_la_Reine.html,/hotels/2108/pavillon-de-la-reine.html,site link,0,2
+/hotels/2108/Pavillon-de-la-Reine.html,/hotels/2108/pavillon-de-la-reine.html,site link,0,2
+/hotels/2113/Almanac_X_Alcron_Prague.html,/hotels/2113/almanac-x-alcron-prague.html,site link,0,10
+/hotels/2135/The_Fairmont_Royal_Pavilion.html,/hotels/2135/the-fairmont-royal-pavilion.html,site link,0,1
+/hotels/2141/Ritz-Carlton-Oahu-Turtle-Bay-.html,/hotels/2141/ritz-carlton-oahu-turtle-bay-.html,site link,0,1
+/hotels/2147/The-Westin-Maui-Resort-and-Spa.html,/hotels/2147/the-westin-maui-resort-and-spa.html,site link,0,1
+/hotels/2174/Grand-Hotel-des-Bains-Kempinski-St-Moritz.html,/hotels/2174/grand-hotel-des-bains-kempinski-st-moritz.html,site link,0,1
+/hotels/2212/The-St-Regis-Punta-Mita-Resort.html,/hotels/2212/the-st-regis-punta-mita-resort.html,site link,0,23
+/hotels/2214/The_Westin_Paris_Vendome.html,/hotels/2214/the-westin-paris-vendome.html,site link,0,6
+/hotels/2224/Omni-Rancho-Las-Palmas-Resort.html,/hotels/2224/omni-rancho-las-palmas-resort.html,site link,0,2
+/hotels/2236/Park-Hyatt-Beijing.html,/hotels/2236/park-hyatt-beijing.html,site link,0,1
+/hotels/2239/Savanna-Private-Game-.html,/hotels/2239/savanna-private-game-.html,site link,0,2
+/hotels/2240/The-St-Regis-Atlanta.html,/hotels/2240/the-st-regis-atlanta.html,site link,0,1
+/hotels/2276/Tabacon_Thermal_Resort_&_Spa.html,/hotels/2276/tabacon-thermal-resort-spa.html,site link,0,8
+/hotels/2280/Four_Seasons_Resort_Bora_Bora.html,/hotels/2280/four-seasons-resort-bora-bora.html,site link,0,1
+/hotels/2280/four_seasons_resort_bora_bora.html,/hotels/2280/four-seasons-resort-bora-bora.html,site link,0,1
+/hotels/2290/One-Only-Cape-Town-.html,/hotels/2290/one-only-cape-town-.html,indexed variant,0,23
+/hotels/2291/Verdura-Golf-Spa-Resort.html,/hotels/2291/verdura-golf-spa-resort.html,indexed variant,0,39
+/hotels/2293/Terranea-Resort.html,/hotels/2293/terranea-resort.html,site link,0,1
+/hotels/2297/Grand-Velas-Riviera-Maya.html,/hotels/2297/grand-velas-riviera-maya.html,site link,0,4
+/hotels/2316/The-Peninsula-Shanghai.html,/hotels/2316/the-peninsula-shanghai.html,indexed variant,0,2
+/hotels/2322/Waldorf-Astoria-Orlando.html,/hotels/2322/waldorf-astoria-orlando.html,site link,0,6
+/hotels/2327/Amantaka.html,/hotels/2327/amantaka.html,site link,0,1
+/hotels/2349/The-St-Regis-Deer-Valley.html,/hotels/2349/the-st-regis-deer-valley.html,site link,0,1
+/hotels/2355/Mandarin_Oriental_Barcelona.html,/hotels/2355/mandarin-oriental-barcelona.html,site link,0,2
+/hotels/2376/Fairmont-Mount-Kenya-Safari-Club-.html,/hotels/2376/fairmont-mount-kenya-safari-club-.html,site link,0,5
+/hotels/2383/Kempinski-Hotel-Amman.html,/hotels/2383/kempinski-hotel-amman.html,site link,0,2
+/hotels/2394/Montage-Deer-Valley.html,/hotels/2394/montage-deer-valley.html,site link,0,1
+/hotels/2419/The-Waldorf-Astoria-New-York.html,/hotels/2419/the-waldorf-astoria-new-york.html,site link,0,8
+/hotels/2426/the_st._regis_bahia_beach_resort_.html,/hotels/2426/the-st-regis-bahia-beach-resort-.html,site link,0,6
+/hotels/2429/El-Palace-Hotel.html,/hotels/2429/el-palace-hotel.html,site link,0,7
+/hotels/2437/Bristol-Panama-.html,/hotels/2437/bristol-panama-.html,site link,0,32
+"/hotels/2440/Trump_Hotel,_Doonbeg_Ireland.html",/hotels/2440/trump-hotel-doonbeg-ireland.html,indexed variant,0,3
+"/hotels/2448/The_Ritz-Carlton_Shanghai,_Pudong.html",/hotels/2448/the-ritz-carlton-shanghai-pudong.html,site link,0,6
+"/hotels/2493/saxon_hotel,_villas_&_spa_.html",/hotels/2493/saxon-hotel-villas-spa-.html,site link,0,2
+/hotels/2493/Saxon-Hotel-Villas-Spa-.html,/hotels/2493/saxon-hotel-villas-spa-.html,site link,0,1
+/hotels/2494/L-Auberge-Del-Mar.html,/hotels/2494/l-auberge-del-mar.html,site link,0,1
+/hotels/2512/Hotel-President-Wilson.html,/hotels/2512/hotel-president-wilson.html,site link,0,1
+/hotels/2534/The-Westin-Reserva-Conchal.html,/hotels/2534/the-westin-reserva-conchal.html,site link,0,81
+/hotels/2545/Mandarin-Oriental-Canouan-.html,/hotels/2545/mandarin-oriental-canouan-.html,site link,0,6
+/hotels/2546/cap_maison_resort_and_spa.html,/hotels/2546/cap-maison-resort-and-spa.html,site link,0,7
+/hotels/2552/Mazagan-Beach-Golf-Resort.html,/hotels/2552/mazagan-beach-golf-resort.html,site link,0,10
+/hotels/2556/Carmel-Valley-Ranch.html,/hotels/2556/carmel-valley-ranch.html,site link,0,54
+/hotels/2563/Belmond-Cap-Juluca.html,/hotels/2563/belmond-cap-juluca.html,site link,0,7
+/hotels/2569/Fairmont_Beijing_.html,/hotels/2569/fairmont-beijing-.html,site link,0,1
+/hotels/2576/Omni-Mount-Washington-Resort.html,/hotels/2576/omni-mount-washington-resort.html,site link,0,1
+/hotels/2583/Castille_Paris.html,/hotels/2583/castille-paris.html,site link,0,3
+/hotels/2616/JW-Marriott-Guanacaste-Resort-Spa.html,/hotels/2616/jw-marriott-guanacaste-resort-spa.html,site link,0,20
+/hotels/2626/The-Park-Lane-Hotel.html,/hotels/2626/the-park-lane-hotel.html,site link,0,1
+/hotels/2638/zoetry_agua_punta_cana.html,/hotels/2638/zoetry-agua-punta-cana.html,site link,0,2
+/hotels/2638/Zoetry_Agua_Punta_Cana.html,/hotels/2638/zoetry-agua-punta-cana.html,site link,0,2
+/hotels/2652/Monastero-Santa-Rosa-.html,/hotels/2652/monastero-santa-rosa-.html,site link,0,1
+"/hotels/2664/The_Ritz-Carlton,_Vienna.html",/hotels/2664/the-ritz-carlton-vienna.html,site link,0,1
+/hotels/2674/The-Resort-at-Pelican-Hill-.html,/hotels/2674/the-resort-at-pelican-hill-.html,site link,0,1
+/hotels/2683/Mauna-Lani-Resort-Auberge-Collection.html,/hotels/2683/mauna-lani-resort-auberge-collection.html,site link,0,1
+"/hotels/2705/dorado_beach,_a_ritz_carlton_reserve_.html",/hotels/2705/dorado-beach-a-ritz-carlton-reserve-.html,site link,0,6
+/hotels/2706/Andaz-Maui-at-Wailea.html,/hotels/2706/andaz-maui-at-wailea.html,site link,0,1
+/hotels/2710/Canaves-Oia-Epitome.html,/hotels/2710/canaves-oia-epitome.html,site link,0,1
+/hotels/2737/Westin-Lima-Hotel-Convention-Center.html,/hotels/2737/westin-lima-hotel-convention-center.html,site link,0,2
+/hotels/2760/Andaz-Costa-Rica-Resort-at-Peninsula-Papagayo.html,/hotels/2760/andaz-costa-rica-resort-at-peninsula-papagayo.html,site link,0,3
+/hotels/2807/Castillo_Hotel_Son_Vida.html,/hotels/2807/castillo-hotel-son-vida.html,site link,1,3
+"/hotels/2811/Pine_Cliffs_Residence,_Luxury_Collection.html",/hotels/2811/pine-cliffs-residence-luxury-collection.html,site link,0,2
+/hotels/2836/The_St._Regis_Sanya_Yalong_Bay_Resort.html,/hotels/2836/the-st-regis-sanya-yalong-bay-resort.html,site link,0,12
+/hotels/2841/W-Atlanta-Downtown.html,/hotels/2841/w-atlanta-downtown.html,site link,0,116
+/hotels/2844/W_Chicago-Lakeshore.html,/hotels/2844/w-chicago-lakeshore.html,site link,0,6
+/hotels/2849/Nizuc_Resort_&_Spa_.html,/hotels/2849/nizuc-resort-spa-.html,site link,0,1
+/hotels/2882/Trump_National_Doral_Miami_.html,/hotels/2882/trump-national-doral-miami-.html,indexed variant,0,2
+/hotels/2882/Trump-National-Doral-Miami-.html,/hotels/2882/trump-national-doral-miami-.html,indexed variant,0,1
+/hotels/2885/Lotte-New-York-Palace.html,/hotels/2885/lotte-new-york-palace.html,site link,0,2
+/hotels/2894/Sonora-Resort-br-All-Inclusive.html,/hotels/2894/sonora-resort-br-all-inclusive.html,site link,0,13
+/hotels/2910/InterContinental-Danang-Sun-Peninsula-Resort.html,/hotels/2910/intercontinental-danang-sun-peninsula-resort.html,site link,0,3
+/hotels/2911/Hermitage_Bay_.html,/hotels/2911/hermitage-bay-.html,site link,0,3
+/hotels/2916/The_St._Regis_Chengdu.html,/hotels/2916/the-st-regis-chengdu.html,site link,0,1
+/hotels/2920/Rosewood-Villa-Magna.html,/hotels/2920/rosewood-villa-magna.html,site link,0,3
+/hotels/2925/Mayflower-Inn-Spa.html,/hotels/2925/mayflower-inn-spa-auberge-collection.html,site link,0,2
+/hotels/2925/Mayflower-Inn-Spa-Auberge-Collection.html,/hotels/2925/mayflower-inn-spa-auberge-collection.html,site link,0,1
+/hotels/2927/Grace-Santorini-Auberge-Collection.html,/hotels/2927/grace-santorini-auberge-collection.html,site link,0,2
+"/hotels/2930/The_Ritz-Carlton,_Chengdu.html",/hotels/2930/the-ritz-carlton-chengdu.html,site link,0,1
+/hotels/2940/Bvlgari_Hotel_London.html,/hotels/2940/bvlgari-hotel-london.html,site link,0,2
+"/hotels/2945/Aman_Canal_Grande,_Venice.html",/hotels/2945/aman-canal-grande-venice.html,site link,0,2
+/hotels/2946/Amanzoe.html,/hotels/2946/amanzoe.html,site link,0,3
+/hotels/2948/Cape-Cadogan-Boutique-Hotel.html,/hotels/2948/cape-cadogan-boutique-hotel.html,site link,0,2
+/hotels/2950/The-Greenwich-Hotel.html,/hotels/2950/the-greenwich-hotel.html,site link,0,1
+/hotels/2954/Kowloon-Shangri-La-Hong-Kong.html,/hotels/2954/kowloon-shangri-la-hong-kong.html,site link,0,1
+/hotels/2960/Aman_Tokyo.html,/hotels/2960/aman-tokyo.html,site link,0,6
+/hotels/2963/The-London-EDITION.html,/hotels/2963/the-london-edition.html,site link,0,1
+"/hotels/2965/Mandapa,_A_Ritz_Carlton_Reserve.html",/hotels/2965/mandapa-a-ritz-carlton-reserve.html,site link,0,2
+/hotels/2983/Borgo-dei-Conti-Resort.html,/hotels/2983/borgo-dei-conti-resort.html,site link,0,2
+/hotels/3001/Hotel-Unico-Madrid.html,/hotels/3001/hotel-unico-madrid.html,site link,0,4
+"/hotels/3001/Hotel_Unico,_Madrid.html",/hotels/3001/hotel-unico-madrid.html,site link,0,1
+/hotels/3005/Grand_Hotel_Central_Barcelona.html,/hotels/3005/grand-hotel-central-barcelona.html,site link,0,1
+/hotels/3010/Amanera.html,/hotels/3010/amanera.html,site link,0,4
+/hotels/3011/Four-Seasons-Hotel-Seoul.html,/hotels/3011/four-seasons-hotel-seoul.html,site link,0,1
+/hotels/3015/The-Westin-Punta-Cana-Resort-Club-.html,/hotels/3015/the-westin-punta-cana-resort-club-.html,site link,0,14
+/hotels/3022/Villa-Dubrovnik.html,/hotels/3022/villa-dubrovnik.html,site link,0,1
+"/hotels/3034/Caresse,_a_Luxury_Collection_Resort.html",/hotels/3034/caresse-a-luxury-collection-resort.html,site link,0,2
+/hotels/3039/Hacienda-AltaGracia-Auberge-Collection.html,/hotels/3039/hacienda-altagracia-auberge-collection.html,site link,0,2
+/hotels/3042/The_GWEN.html,/hotels/3042/the-gwen.html,site link,0,1
+/hotels/3048/Mandalay-Bay-Resort-Casino.html,/hotels/3048/mandalay-bay-resort-casino.html,site link,0,1
+/hotels/3067/La_Mirande.html,/hotels/3067/la-mirande.html,site link,0,2
+/hotels/3074/The-Prince-Gallery-Tokyo-Kioicho.html,/hotels/3074/the-prince-gallery-tokyo-kioicho.html,site link,0,3
+"/hotels/3093/Shangri-La_at_the_Fort,_Manila.html",/hotels/3093/shangri-la-at-the-fort-manila.html,site link,0,1
+/hotels/3093/Shangri-La-at-the-Fort-Manila.html,/hotels/3093/shangri-la-at-the-fort-manila.html,site link,0,1
+/hotels/3094/Shangri-La-Hotel-Doha.html,/hotels/3094/shangri-la-hotel-doha.html,indexed variant,0,7
+"/hotels/3098/Shangri-La's_Far_Eastern_Plaza_Hotel,_Taipei.html",/hotels/3098/shangri-la-s-far-eastern-plaza-hotel-taipei.html,site link,0,3
+/hotels/3100/Shangri-La-Hotel-Chiang-Mai.html,/hotels/3100/shangri-la-hotel-chiang-mai.html,site link,0,3
+/hotels/3117/The_Lodhi-Shima-Shi.html,/hotels/3117/the-lodhi-shima-shi.html,site link,0,2
+/hotels/3117/The-Lodhi-Shima-Shi.html,/hotels/3117/the-lodhi-shima-shi.html,site link,0,1
+/hotels/3129/Hotel_du_Collectionneur_Arc_de_Triomphe_Paris.html,/hotels/3129/hotel-du-collectionneur-arc-de-triomphe-paris.html,site link,0,63
+/hotels/3146/Palazzo-Versace-Dubai.html,/hotels/3146/palazzo-versace-dubai.html,site link,0,1
+/hotels/3155/The-Seagate-Hotel-Spa.html,/hotels/3155/the-seagate-hotel-spa.html,site link,0,1
+/hotels/3158/Wequassett_Resort_&_Golf_Club.html,/hotels/3158/wequassett-resort-golf-club.html,site link,0,1
+/hotels/3161/Hotel_Sans_Souci_Wien.html,/hotels/3161/hotel-sans-souci-wien.html,site link,0,1
+/hotels/3165/The_Opposite_House.html,/hotels/3165/the-opposite-house.html,site link,0,4
+/hotels/3180/Castello-di-Casole.html,/hotels/3180/castello-di-casole.html,site link,0,3
+/hotels/3198/The-Maybourne-Beverly-Hills.html,/hotels/3198/the-maybourne-beverly-hills.html,site link,0,1
+/hotels/3202/Chicago_Athletic_Association_Hotel.html,/hotels/3202/chicago-athletic-association-hotel.html,site link,0,2
+/hotels/3208/Mont-Rochelle-Hotel.html,/hotels/3208/mont-rochelle-hotel.html,site link,0,1
+/hotels/3212/Leela_Palace_Hotel_New_Delhi.html,/hotels/3212/leela-palace-hotel-new-delhi.html,site link,0,2
+/hotels/3213/Siam-Kempinski-Hotel-Bangkok.html,/hotels/3213/siam-kempinski-hotel-bangkok.html,site link,0,19
+/hotels/3228/Hotel-Molitor-Paris.html,/hotels/3228/hotel-molitor-paris.html,site link,0,1
+/hotels/3242/Waldorf-Astoria-Amsterdam.html,/hotels/3242/waldorf-astoria-amsterdam.html,site link,0,3
+/hotels/3247/Renaissance-Tuscany-Il-Ciocco-Resort-Spa.html,/hotels/3247/renaissance-tuscany-il-ciocco-resort-spa.html,site link,0,4
+/hotels/3251/JW_Marriott_Venice_Resort_&_Spa.html,/hotels/3251/jw-marriott-venice-resort-spa.html,site link,0,3
+/hotels/3253/The_Glasshouse_Edinburgh.html,/hotels/3253/the-glasshouse-edinburgh.html,site link,0,1
+/hotels/3268/JW-Marriott-Orlando-Grande-Lakes.html,/hotels/3268/jw-marriott-orlando-grande-lakes.html,site link,0,8
+/hotels/3276/Rosewood_Sanya.html,/hotels/3276/rosewood-sanya.html,site link,1,2
+/hotels/3281/The-Shore-Club-Turks-and-Caicos.html,/hotels/3281/the-shore-club-turks-and-caicos.html,site link,0,1
+/hotels/3285/Cameron_House_on_Loch_Lomond.html,/hotels/3285/cameron-house-on-loch-lomond.html,site link,0,2
+/hotels/3296/Omni-Grove-Park-Inn.html,/hotels/3296/omni-grove-park-inn.html,site link,0,1
+/hotels/3298/the_cove_eleuthera.html,/hotels/3298/the-cove-eleuthera.html,site link,0,5
+/hotels/3300/Sagamore_Pendry_Baltimore.html,/hotels/3300/sagamore-pendry-baltimore.html,site link,0,1
+/hotels/3307/La-Cantera-Resort-Spa.html,/hotels/3307/la-cantera-resort-spa.html,site link,0,1
+/hotels/3312/Park-Hyatt-Bangkok.html,/hotels/3312/park-hyatt-bangkok.html,site link,0,1
+/hotels/3316/Nobis_Hotel_Copenhagen.html,/hotels/3316/nobis-hotel-copenhagen.html,site link,0,1
+/hotels/3332/Intercontinental-Los-Angeles-Downtown.html,/hotels/3332/intercontinental-los-angeles-downtown.html,site link,0,15
+/hotels/3338/Nanuku_Resort_Fiji.html,/hotels/3338/nanuku-resort-fiji.html,site link,0,3
+/hotels/3350/Myconian-Ambassador-Resort.html,/hotels/3350/myconian-ambassador-resort.html,site link,0,4
+/hotels/3383/Andaz_London_Liverpool_Street_.html,/hotels/3383/andaz-london-liverpool-street-.html,site link,0,2
+/hotels/3395/Hyatt-Regency-Danang-Resort-Spa.html,/hotels/3395/hyatt-regency-danang-resort-spa.html,site link,0,2
+/hotels/3424/Hyatt_Regency_Hakone_Resort_&_Spa.html,/hotels/3424/hyatt-regency-hakone-resort-spa.html,site link,0,1
+/hotels/3446/Park_Hyatt_Sanya_Sunny_Bay_.html,/hotels/3446/park-hyatt-sanya-sunny-bay-.html,site link,0,3
+/hotels/3459/Park_Hyatt_Busan.html,/hotels/3459/park-hyatt-busan.html,site link,0,4
+/hotels/3483/Rosewood-Miramar-Beach-Hotel.html,/hotels/3483/rosewood-miramar-beach-hotel.html,site link,0,6
+/hotels/3488/The_Sanya_EDITION.html,/hotels/3488/the-sanya-edition.html,site link,0,1
+/hotels/3494/Faena-Hotel-Miami-Beach.html,/hotels/3494/faena-hotel-miami-beach.html,site link,0,5
+/hotels/3506/The_Post_Oak_Hotel_at_Uptown_Houston.html,/hotels/3506/the-post-oak-hotel-at-uptown-houston.html,site link,0,2
+/hotels/3506/The-Post-Oak-Hotel-at-Uptown-Houston.html,/hotels/3506/the-post-oak-hotel-at-uptown-houston.html,site link,0,1
+/hotels/3526/The_Santa_Maria_Hotel_&_Golf_Resort.html,/hotels/3526/the-santa-maria-hotel-golf-resort.html,site link,0,12
+"/hotels/3537/Hotel_De_Berri,_Luxury_Collection_Hotel.html",/hotels/3537/hotel-de-berri-luxury-collection-hotel.html,site link,0,3
+/hotels/3547/Miraval-Austin-Resort-Spa.html,/hotels/3547/miraval-austin-resort-spa.html,site link,1,87
+/hotels/3553/Hotel-Bennett.html,/hotels/3553/hotel-bennett.html,site link,0,5
+/hotels/3554/EB-Hotel-Miami.html,/hotels/3554/eb-hotel-miami.html,derived,0,4
+/hotels/3577/Aurora_Anguilla_Resort_&_Golf_Club_.html,/hotels/3577/aurora-anguilla-resort-golf-club-.html,site link,0,6
+/hotels/3577/Aurora-Anguilla-Resort-Golf-Club-.html,/hotels/3577/aurora-anguilla-resort-golf-club-.html,site link,0,1
+/hotels/3580/six_senses_laamu.html,/hotels/3580/six-senses-laamu.html,site link,0,5
+/hotels/3585/Borgo-Pignano.html,/hotels/3585/borgo-pignano.html,site link,0,1
+/hotels/3599/The_Principal_Madrid_Hotel.html,/hotels/3599/the-principal-madrid-hotel.html,site link,0,8
+/hotels/3609/InterContinental-Hayman-Island-Resort.html,/hotels/3609/intercontinental-hayman-island-resort.html,site link,0,3
+/hotels/3615/Majestic-Hotel-Spa-Barcelona.html,/hotels/3615/majestic-hotel-spa-barcelona.html,site link,0,1
+/hotels/3616/El-Mangroove-Autograph-Collection.html,/hotels/3616/el-mangroove-autograph-collection.html,site link,0,8
+"/hotels/3623/Azerai_La_Residence,_Hue.html",/hotels/3623/azerai-la-residence-hue.html,site link,0,1
+/hotels/3629/le_barthelemy_hotel_&_spa.html,/hotels/3629/le-barthelemy-hotel-spa.html,site link,0,3
+/hotels/3631/Rosewood-Hong-Kong.html,/hotels/3631/rosewood-hong-kong.html,site link,0,2
+/hotels/3663/Alohilani-Resort-Waikiki-Beach.html,/hotels/3663/alohilani-resort-waikiki-beach.html,site link,0,12
+/hotels/3671/The_Capitol_Hotel_Tokyu.html,/hotels/3671/the-capitol-hotel-tokyu.html,site link,0,1
+/hotels/3696/The-Lodge-Spa-at-Brush-Creek-Ranch.html,/hotels/3696/the-lodge-spa-at-brush-creek-ranch.html,site link,0,72
+/hotels/3703/Zadun-a-Ritz-Carlton-Reserve-.html,/hotels/3703/zadun-a-ritz-carlton-reserve-.html,site link,0,5
+"/hotels/3708/The_Westin_Siray_Bay_Resort_&_Spa,_Phuket.html",/hotels/3708/the-westin-siray-bay-resort-spa-phuket.html,site link,0,2
+/hotels/3715/JW-Marriott-Hotel-Hong-Kong.html,/hotels/3715/jw-marriott-hotel-hong-kong.html,site link,0,2
+/hotels/3723/jw_marriott_khao_lak_resort_&_spa.html,/hotels/3723/jw-marriott-khao-lak-resort-spa.html,site link,0,2
+/hotels/3730/JW-Marriott-Desert-Springs-Resort-Spa.html,/hotels/3730/jw-marriott-desert-springs-resort-spa.html,site link,0,1
+/hotels/3735/JW-Marriott-Miami.html,/hotels/3735/jw-marriott-miami.html,site link,0,12
+/hotels/3756/Le_M%C3%A9ridien_Vienna.html,/hotels/3756/le-m-ridien-vienna.html,site link,0,1
+/hotels/3759/w_koh_samui.html,/hotels/3759/w-koh-samui.html,site link,0,3
+/hotels/3770/The-Westin-St-Francis-San-Francisco-on-Union-Square.html,/hotels/3770/the-westin-st-francis-san-francisco-on-union-square.html,site link,0,1
+/hotels/3776/St-Ermin-s-Hotel.html,/hotels/3776/st-ermin-s-hotel.html,site link,0,2
+/hotels/3793/London-Marriott-Hotel-Grosvenor-Square.html,/hotels/3793/london-marriott-hotel-grosvenor-square.html,site link,0,3
+/hotels/3793/London_Marriott_Hotel_Grosvenor_Square.html,/hotels/3793/london-marriott-hotel-grosvenor-square.html,site link,0,1
+/hotels/3803/Yiwu-Marriott-Hotel.html,/hotels/3803/yiwu-marriott-hotel.html,site link,0,1
+/hotels/3810/JW-Marriott-Parq-Vancouver.html,/hotels/3810/jw-marriott-parq-vancouver.html,site link,0,1
+/hotels/3814/Le_Meridien_Stuttgart.html,/hotels/3814/le-meridien-stuttgart.html,site link,0,1
+/hotels/3841/Arelauquen-Lodge-a-Tribute-Portfolio.html,/hotels/3841/arelauquen-lodge-a-tribute-portfolio.html,site link,0,2
+/hotels/3879/The_Ritz_Carlton_Residences_at_Dorado_Beach.html,/hotels/3879/the-ritz-carlton-residences-at-dorado-beach.html,site link,0,4
+/hotels/3879/The-Ritz-Carlton-Residences-at-Dorado-Beach.html,/hotels/3879/the-ritz-carlton-residences-at-dorado-beach.html,site link,0,2
+/hotels/3879/the_ritz_carlton_residences_at_dorado_beach.html,/hotels/3879/the-ritz-carlton-residences-at-dorado-beach.html,site link,0,1
+/hotels/3885/The-St-Regis-Amman.html,/hotels/3885/the-st-regis-amman.html,site link,0,2
+/hotels/3896/W-Costa-Rica-Reserva-Conchal.html,/hotels/3896/w-costa-rica-reserva-conchal.html,site link,0,4
+/hotels/3939/Eden-Roc-Cap-Cana-.html,/hotels/3939/eden-roc-cap-cana-.html,site link,0,8
+/hotels/3939/Eden_Roc_Cap_Cana_.html,/hotels/3939/eden-roc-cap-cana-.html,site link,0,2
+/hotels/3941/Hapuku_Lodge_&_Tree_Houses.html,/hotels/3941/hapuku-lodge-tree-houses.html,site link,0,8
+/hotels/3953/The-Ranch-at-Laguna-Beach.html,/hotels/3953/the-ranch-at-laguna-beach.html,site link,0,1
+/hotels/3957/Alila_Anji.html,/hotels/3957/alila-anji.html,site link,0,1
+/hotels/3959/Alila_Diwa_Goa.html,/hotels/3959/alila-diwa-goa.html,site link,0,1
+/hotels/3960/Alila_Fort_Bishangarh.html,/hotels/3960/alila-fort-bishangarh.html,site link,0,1
+/hotels/3961/Alila_Manggis.html,/hotels/3961/alila-manggis.html,site link,0,3
+/hotels/3971/Hyatt_Regency_Istanbul_Atakoy.html,/hotels/3971/hyatt-regency-istanbul-atakoy.html,site link,0,5
+/hotels/3978/W_Ibiza.html,/hotels/3978/w-ibiza.html,site link,0,1
+/hotels/4007/InterContinental_Century_City_Chengdu_.html,/hotels/4007/intercontinental-century-city-chengdu-.html,site link,0,1
+/hotels/4024/Kimpton_De_Witt_Amsterdam_.html,/hotels/4024/kimpton-de-witt-amsterdam-.html,site link,0,1
+"/hotels/4033/Equinox_Hotel,_Hudson_Yard.html",/hotels/4033/equinox-hotel-hudson-yard.html,site link,0,1
+"/hotels/4037/Palacio_de_los_Duques,_a_Gran_Meli%C3%A1_Hotel.html",/hotels/4037/palacio-de-los-duques-a-gran-meli-hotel.html,site link,0,1
+/hotels/4037/Palacio-de-los-Duques-a-Gran-Meli-Hotel.html,/hotels/4037/palacio-de-los-duques-a-gran-meli-hotel.html,site link,0,1
+/hotels/4040/Ritz-Carlton-Xi-an.html,/hotels/4040/ritz-carlton-xi-an.html,site link,0,1
+"/hotels/4040/Ritz-Carlton,_Xi'an.html",/hotels/4040/ritz-carlton-xi-an.html,site link,0,1
+/hotels/4050/The-Ritz-Carlton-Mexico-City.html,/hotels/4050/the-ritz-carlton-mexico-city.html,site link,0,4
+/hotels/4054/Bvlgari_Hotel_Paris.html,/hotels/4054/bvlgari-hotel-paris.html,site link,0,1
+"/hotels/4079/Hotel_Ercilla_de_Bilbao,_Autograph_Collection.html",/hotels/4079/hotel-ercilla-de-bilbao-autograph-collection.html,site link,0,22
+/hotels/4082/Rocco-Forte-Masseria-Torre-Maizza.html,/hotels/4082/rocco-forte-masseria-torre-maizza.html,site link,0,23
+/hotels/4085/Nantipa_Beach_&_Resort.html,/hotels/4085/nantipa-beach-resort.html,site link,0,9
+/hotels/4090/71-Nyhavn-Hotel.html,/hotels/4090/71-nyhavn-hotel.html,site link,0,3
+/hotels/4091/Auberge_du_Jeu_de_Paume.html,/hotels/4091/auberge-du-jeu-de-paume.html,site link,0,4
+/hotels/4091/Auberge-du-Jeu-de-Paume.html,/hotels/4091/auberge-du-jeu-de-paume.html,site link,0,1
+/hotels/4097/Unico-20-87-Hotel-Riviera-Maya.html,/hotels/4097/unico-20-87-hotel-riviera-maya.html,site link,0,1
+/hotels/4103/Fontainebleau-Miami-Beach.html,/hotels/4103/fontainebleau-miami-beach.html,site link,2,47
+/hotels/4112/Hyatt-Regency-Hesperia-Madrid.html,/hotels/4112/hyatt-regency-hesperia-madrid.html,site link,0,4
+/hotels/4124/Hotel_Keppler.html,/hotels/4124/hotel-keppler-.html,site link,0,3
+/hotels/4126/Conrad_Guangzhou.html,/hotels/4126/conrad-guangzhou.html,site link,0,2
+/hotels/4129/Conrad_Hangzhou_Tonglu.html,/hotels/4129/conrad-hangzhou-tonglu.html,site link,0,3
+/hotels/4134/Conrad_Sanya_Haitang_Bay.html,/hotels/4134/conrad-sanya-haitang-bay.html,site link,0,1
+/hotels/4135/Waldorf-Astoria-Panama.html,/hotels/4135/waldorf-astoria-panama.html,site link,0,68
+/hotels/4135/Waldorf_Astoria_Panama.html,/hotels/4135/waldorf-astoria-panama.html,site link,0,6
+/hotels/4155/Conrad_Beijing.html,/hotels/4155/conrad-beijing.html,site link,0,1
+/hotels/4168/Waldorf_Astoria_Beijing.html,/hotels/4168/waldorf-astoria-beijing.html,site link,0,8
+/hotels/4169/Waldorf_Astoria_Berlin.html,/hotels/4169/waldorf-astoria-berlin.html,site link,0,2
+/hotels/4180/villa_mani.html,/hotels/4180/villa-mani.html,site link,0,1
+/hotels/4186/Mr-C-Miami-Coconut-Grove.html,/hotels/4186/mr-c-miami-coconut-grove.html,site link,0,3
+/hotels/4189/Due-Torri-Hotel.html,/hotels/4189/due-torri-hotel.html,site link,0,1
+/hotels/4189/Due_Torri_Hotel.html,/hotels/4189/due-torri-hotel.html,site link,0,1
+/hotels/4193/Anantara-Al-Jabal-Al-Akhdar-Resort.html,/hotels/4193/anantara-al-jabal-al-akhdar-resort.html,site link,0,17
+/hotels/4198/Hyatt-Regency-Grand-Reserve-Puerto-Rico.html,/hotels/4198/hyatt-regency-grand-reserve-puerto-rico.html,site link,0,10
+/hotels/4224/Son-Bunyola.html,/hotels/4224/son-bunyola.html,site link,0,89
+"/hotels/4226/Madeline_Hotel_&_Residences,_Auberge_Collection.html",/hotels/4226/madeline-hotel-residences-auberge-collection.html,site link,0,2
+/hotels/4230/Glenlo-Abbey-Hotel-Estate.html,/hotels/4230/glenlo-abbey-hotel-estate.html,derived,0,1
+/hotels/4241/Royal_Hotel_Sanremo.html,/hotels/4241/royal-hotel-sanremo.html,site link,0,2
+/hotels/4265/Sofitel_Mexico_City_Reforma.html,/hotels/4265/sofitel-mexico-city-reforma.html,site link,0,2
+/hotels/4277/Mangala_Resort_&_Spa.html,/hotels/4277/mangala-resort-spa.html,indexed variant,0,1
+/hotels/4280/Sublime-Samana-Hotel-Residences.html,/hotels/4280/sublime-samana-hotel-residences.html,site link,0,5
+/hotels/4285/the_trident_hotel.html,/hotels/4285/the-trident-hotel.html,site link,0,1
+/hotels/4312/Aleenta-Resort-Spa-Phuket.html,/hotels/4312/aleenta-resort-spa-phuket.html,site link,0,4
+/hotels/4319/Garrya_Tongsai_Bay_Samui.html,/hotels/4319/garrya-tongsai-bay-samui.html,site link,0,1
+/hotels/4321/Naxian_Collection_Luxury_Villas_&_Suites.html,/hotels/4321/naxian-collection-luxury-villas-suites.html,site link,0,1
+/hotels/4325/Boheme_Mykonos.html,/hotels/4325/boheme-mykonos.html,site link,0,1
+/hotels/4327/Movich-Casa-de-Alferez.html,/hotels/4327/movich-casa-de-alferez.html,site link,0,1
+/hotels/4333/S-Hotel-Jamaica.html,/hotels/4333/s-hotel-jamaica.html,site link,0,13
+/hotels/4333/S_Hotel_Jamaica.html,/hotels/4333/s-hotel-jamaica.html,site link,0,9
+/hotels/4366/Hotel-Juana.html,/hotels/4366/hotel-juana.html,site link,0,1
+/hotels/4373/Honor-Resort-Yun-Shu-Dali.html,/hotels/4373/honor-resort-yun-shu-dali.html,site link,0,1
+/hotels/4390/Bank_Hotel.html,/hotels/4390/bank-hotel.html,site link,0,1
+/hotels/4399/Le_Narcisse_Blanc_Hotel_&_Spa.html,/hotels/4399/le-narcisse-blanc-hotel-spa.html,site link,0,2
+/hotels/4411/Eagles-Villas.html,/hotels/4411/eagles-villas.html,site link,0,1
+/hotels/4418/Palacio_Solecio.html,/hotels/4418/palacio-solecio.html,site link,0,7
+/hotels/4424/Hotel-Ranga.html,/hotels/4424/hotel-ranga.html,site link,0,1
+/hotels/4429/Magna-Pars-Suites-Hotel.html,/hotels/4429/magna-pars-suites-hotel.html,site link,0,1
+/hotels/4431/Il_Melograno.html,/hotels/4431/il-melograno.html,site link,0,1
+/hotels/4437/Finca_Serena_Mallorca.html,/hotels/4437/finca-serena-mallorca.html,site link,0,2
+/hotels/4440/Chateau_d'Ouchy_Hotel.html,/hotels/4440/chateau-d-ouchy-hotel.html,site link,0,1
+/hotels/4442/Eastwest-Hotel.html,/hotels/4442/eastwest-hotel.html,site link,0,2
+/hotels/4444/Hotel-Schweizerhof-Zermatt.html,/hotels/4444/hotel-schweizerhof-zermatt.html,site link,0,1
+/hotels/4444/Hotel_Schweizerhof_Zermatt.html,/hotels/4444/hotel-schweizerhof-zermatt.html,site link,0,1
+/hotels/4458/Great-Fosters.html,/hotels/4458/great-fosters.html,site link,0,3
+/hotels/4476/Tylney-Hall-Hotel-Gardens.html,/hotels/4476/tylney-hall-hotel-gardens.html,site link,0,1
+/hotels/4501/Sina_Palazzo_Sant_Angelo.html,/hotels/4501/sina-palazzo-sant-angelo.html,site link,0,2
+/hotels/4506/Villa_di_Piazzano.html,/hotels/4506/villa-di-piazzano.html,site link,0,2
+/hotels/4536/Lesante_Classic_Luxury_Hotel_&_Spa.html,/hotels/4536/lesante-classic-luxury-hotel-spa.html,site link,0,2
+/hotels/4555/Hotel-Wellington-Madrid.html,/hotels/4555/hotel-wellington-madrid.html,site link,0,1
+/hotels/4566/Hotel_Vincci_Seleccion_Posada_del_Patio.html,/hotels/4566/hotel-vincci-seleccion-posada-del-patio.html,site link,0,3
+/hotels/4566/Hotel-Vincci-Seleccion-Posada-del-Patio.html,/hotels/4566/hotel-vincci-seleccion-posada-del-patio.html,site link,0,2
+/hotels/4574/Hawks-Cay-Resort.html,/hotels/4574/hawks-cay-resort.html,site link,0,1
+/hotels/4581/Riggs-Hotel-Washington-DC.html,/hotels/4581/riggs-hotel-washington-dc.html,site link,0,26
+/hotels/4582/Woodstock-Inn-Resort.html,/hotels/4582/woodstock-inn-resort.html,site link,0,1
+/hotels/4583/Palais_de_Chine_Hotel.html,/hotels/4583/palais-de-chine-hotel.html,site link,0,4
+/hotels/4585/Hotel_Diplomat_Stockholm.html,/hotels/4585/hotel-diplomat-stockholm.html,site link,1,2
+/hotels/4585/Hotel-Diplomat-Stockholm.html,/hotels/4585/hotel-diplomat-stockholm.html,site link,0,2
+/hotels/4590/coral_reef_club.html,/hotels/4590/coral-reef-club.html,site link,0,1
+/hotels/4596/Alentejo_Marmoris_Hotel_&_Spa.html,/hotels/4596/alentejo-marmoris-hotel-spa.html,site link,0,1
+/hotels/4600/Mykonos-Grand-Hotel-Resort.html,/hotels/4600/mykonos-grand-hotel-resort.html,site link,0,1
+/hotels/4606/Susafa_Hotel.html,/hotels/4606/susafa-hotel.html,site link,0,1
+/hotels/4609/Everline-Resort-Spa.html,/hotels/4609/everline-resort-spa.html,site link,0,6
+/hotels/4612/Hotel-Villa-Soligo.html,/hotels/4612/hotel-villa-soligo.html,site link,0,1
+/hotels/4622/Hyatt_Regency_Tysons_Corner_Center.html,/hotels/4622/hyatt-regency-tysons-corner-center.html,derived,0,2
+/hotels/4623/The-Last-Hotel-.html,/hotels/4623/the-last-hotel-.html,derived,0,2
+/hotels/4634/Harbor-View-Hotel-Martha-s-Vineyard.html,/hotels/4634/harbor-view-hotel-martha-s-vineyard.html,site link,0,7
+/hotels/4669/Waikiki-Beachcomber-by-Outrigger.html,/hotels/4669/waikiki-beachcomber-by-outrigger.html,site link,0,2
+"/hotels/4670/ritz-carlton,_turks_&_caicos_.html",/hotels/4670/ritz-carlton-turks-caicos-.html,site link,0,9
+"/hotels/4678/The_Slaak_Rotterdam,_a_Tribute_Portfolio_Hotel.html",/hotels/4678/the-slaak-rotterdam-a-tribute-portfolio-hotel.html,site link,0,4
+/hotels/4687/JW-Marriott-Panama.html,/hotels/4687/jw-marriott-panama.html,site link,0,31
+/hotels/4691/Renaissance_Bali_Uluwatu_Resort_&_Spa.html,/hotels/4691/renaissance-bali-uluwatu-resort-spa.html,site link,0,2
+/hotels/4693/Santa-Marta-Marriott-Resort-Playa-Dormida.html,/hotels/4693/santa-marta-marriott-resort-playa-dormida.html,site link,0,8
+/hotels/4698/JW-Marriott-Hotel-Santo-Domingo.html,/hotels/4698/jw-marriott-hotel-santo-domingo.html,site link,0,4
+/hotels/4701/The-Clancy-Autograph-Collection.html,/hotels/4701/the-clancy-autograph-collection.html,site link,0,1
+/hotels/4708/Sheraton-Maui-Resort-Spa.html,/hotels/4708/sheraton-maui-resort-spa.html,site link,0,1
+/hotels/4709/W-Algarve-Hotel-Residences.html,/hotels/4709/w-algarve-hotel-residences.html,site link,0,5
+/hotels/4721/Sheraton-Kauai-Coconut-Beach-Resort-.html,/hotels/4721/sheraton-kauai-coconut-beach-resort-.html,site link,0,2
+/hotels/4725/JW-Marriott-Hotel-Rio-de-Janeiro.html,/hotels/4725/jw-marriott-hotel-rio-de-janeiro.html,site link,0,1
+/hotels/4733/Walt-Disney-World-Swan.html,/hotels/4733/walt-disney-world-swan.html,site link,0,1
+/hotels/4746/Four-Seasons-Resort-Tamarindo.html,/hotels/4746/four-seasons-resort-tamarindo.html,site link,0,2
+/hotels/4749/hyatt_zilara_cap_cana.html,/hotels/4749/hyatt-zilara-cap-cana.html,derived,0,1
+/hotels/4750/Hyatt-Ziva-Cap-Cana.html,/hotels/4750/hyatt-ziva-cap-cana.html,derived,0,2
+/hotels/4751/Regent_Phu_Quoc.html,/hotels/4751/regent-phu-quoc.html,site link,0,2
+/hotels/4758/Regent-Shanghai-Pudong.html,/hotels/4758/regent-shanghai-pudong.html,site link,0,1
+/hotels/4772/InterContinental_Chongqing_Raffles_City.html,/hotels/4772/intercontinental-chongqing-raffles-city.html,site link,0,7
+/hotels/4781/Lighthouse_Hotel.html,/hotels/4781/lighthouse-hotel.html,site link,0,1
+/hotels/4783/InterContinental-Costa-Rica-at-Multiplaza-Mall.html,/hotels/4783/intercontinental-costa-rica-at-multiplaza-mall.html,site link,0,2
+/hotels/4788/InterContinental-Fiji-Golf-Resort-Spa.html,/hotels/4788/intercontinental-fiji-golf-resort-spa.html,site link,0,1
+/hotels/4829/Domes_White_Coast_Milos.html,/hotels/4829/domes-white-coast-milos.html,site link,0,1
+/hotels/4838/The-St-Regis-Bermuda-Resort.html,/hotels/4838/the-st-regis-bermuda-resort.html,site link,0,3
+/hotels/4839/Blackberry-Farm.html,/hotels/4839/blackberry-farm.html,site link,0,1
+/hotels/4848/Hotel_Fairmont_Le_Manoir_Richelieu.html,/hotels/4848/hotel-fairmont-le-manoir-richelieu.html,site link,0,1
+/hotels/4852/Sofitel-Bogota-Victoria-Regia.html,/hotels/4852/sofitel-bogota-victoria-regia.html,site link,0,3
+/hotels/4857/Hotel_Sofitel_Montevideo_Casino_Carrasco_and_Spa.html,/hotels/4857/hotel-sofitel-montevideo-casino-carrasco-and-spa.html,site link,0,11
+/hotels/4858/Sofitel-Buenos-Aires-Recoleta-.html,/hotels/4858/sofitel-buenos-aires-recoleta-.html,site link,0,1
+/hotels/4861/21c_Museum_Hotel_Chicago.html,/hotels/4861/21c-museum-hotel-chicago.html,derived,0,3
+/hotels/4863/21c-Museum-Hotel-Durham.html,/hotels/4863/21c-museum-hotel-durham.html,derived,0,2
+/hotels/4901/movenpick_resort_and_marine_spa_sousse.html,/hotels/4901/movenpick-resort-and-marine-spa-sousse.html,indexed variant,0,3
+/hotels/4928/Sofitel-Dubai-The-Obelisk.html,/hotels/4928/sofitel-dubai-the-obelisk.html,site link,0,3
+/hotels/4934/Palmaia-The-House-of-AiA.html,/hotels/4934/palmaia-the-house-of-aia.html,site link,0,47
+/hotels/4938/Amartera_Villa_Bali_Nusa_Dua_-_MGallery.html,/hotels/4938/amartera-villa-bali-nusa-dua-mgallery.html,site link,0,3
+/hotels/4960/SO-Bangkok.html,/hotels/4960/so-bangkok.html,indexed variant,0,5
+/hotels/4965/Sofitel_Phnom_Penh_Phokeethra.html,/hotels/4965/sofitel-phnom-penh-phokeethra.html,site link,0,21
+/hotels/4997/The-Glenmark-Glendale-a-Tribute-Portfolio-Hotel.html,/hotels/4997/the-glenmark-glendale-a-tribute-portfolio-hotel.html,site link,0,1
+/hotels/5007/The-Otis-Hotel-Autograph-Collection.html,/hotels/5007/the-otis-hotel-autograph-collection.html,site link,0,2
+/hotels/5010/W-Melbourne-.html,/hotels/5010/w-melbourne-.html,site link,0,1
+/hotels/5012/The_Westin_Josun_Seoul.html,/hotels/5012/the-westin-josun-seoul.html,site link,0,4
+/hotels/5022/Kempinski_Palace_Engelberg.html,/hotels/5022/kempinski-palace-engelberg.html,site link,0,3
+/hotels/5029/The_Westin_London_City.html,/hotels/5029/the-westin-london-city.html,site link,0,1
+/hotels/5034/Fogo-Island-Inn.html,/hotels/5034/fogo-island-inn.html,site link,0,29
+/hotels/5035/Four-Seasons-Fort-Lauderdale.html,/hotels/5035/four-seasons-fort-lauderdale.html,site link,0,1
+/hotels/5041/Park-Hotel-Kenmare.html,/hotels/5041/park-hotel-kenmare.html,site link,0,9
+/hotels/5043/Risorgimento-Resort.html,/hotels/5043/risorgimento-resort.html,site link,0,13
+/hotels/5044/Baglioni-Resort-Sardinia.html,/hotels/5044/baglioni-resort-sardinia.html,site link,0,14
+/hotels/5058/Radisson-Collection-Hotel-Magdalena-Plaza-Sevilla.html,/hotels/5058/radisson-collection-hotel-magdalena-plaza-sevilla.html,indexed variant,0,35
+/hotels/5060/Kimpton-Fitzroy-London.html,/hotels/5060/kimpton-fitzroy-london.html,site link,0,1
+/hotels/6065/Casa-Cipriani-New-York.html,/hotels/6065/casa-cipriani-new-york.html,site link,0,5
+/hotels/6066/Emeline-Hotel.html,/hotels/6066/emeline-hotel.html,site link,0,1
+/hotels/6070/Ca-di-Dio.html,/hotels/6070/ca-di-dio.html,site link,0,2
+/hotels/6071/The_Wilder_Townhouse.html,/hotels/6071/the-wilder-townhouse.html,site link,0,1
+/hotels/6072/Itz-ana-Resort.html,/hotels/6072/itz-ana-resort.html,site link,0,45
+/hotels/6077/A77-Suites-an-SLH-Hotel.html,/hotels/6077/a77-suites-an-slh-hotel.html,site link,0,3
+/hotels/6078/Crown-Towers-Melbourne.html,/hotels/6078/crown-towers-melbourne.html,site link,0,12
+/hotels/6079/Crown-Towers-Perth.html,/hotels/6079/crown-towers-perth.html,site link,0,27
+/hotels/6163/Fable-Auckland-MGallery.html,/hotels/6163/fable-auckland-mgallery.html,site link,0,2
+/hotels/6164/Manto_Hotel_Lima_-_Mgallery.html,/hotels/6164/manto-hotel-lima-mgallery.html,site link,0,1
+/hotels/6169/Casa_Delfino_Hotel_&_Spa.html,/hotels/6169/casa-delfino-hotel-spa.html,site link,0,2
+/hotels/6177/Euphoria_Retreat.html,/hotels/6177/euphoria-retreat.html,site link,0,1
+/hotels/6178/Hotel_&_Spa_des_Pecheur.html,/hotels/6178/hotel-spa-des-pecheur.html,site link,0,1
+/hotels/6181/bluefields_bay_villas.html,/hotels/6181/bluefields-bay-villas.html,site link,0,6
+/hotels/6200/Hotel-Clio-A-Luxury-Collection-Hotel-Denver-Cherry-Creek-.html,/hotels/6200/hotel-clio-a-luxury-collection-hotel-denver-cherry-creek-.html,site link,0,2
+"/hotels/6205/mandarin_oriental,_jakarta.html",/hotels/6205/mandarin-oriental-jakarta.html,site link,0,3
+/hotels/6215/Cordis-Hotel-Auckland.html,/hotels/6215/cordis-hotel-auckland.html,derived,1,65
+/hotels/6219/Baglioni-Masseria-Muzza.html,/hotels/6219/baglioni-masseria-muzza.html,site link,1,20
+/hotels/6244/Six_Senses_Kocatas_Mansions.html,/hotels/6244/six-senses-kocatas-mansions.html,site link,0,1
+/hotels/6266/The_Danna_Langkawi.html,/hotels/6266/the-danna-langkawi.html,site link,0,1
+/hotels/6271/Toscana-Resort-Castelfalfi-.html,/hotels/6271/toscana-resort-castelfalfi-.html,site link,0,1
+/hotels/6274/Gaylord-National-Resort-Convention-Center.html,/hotels/6274/gaylord-national-resort-convention-center.html,site link,0,1
+/hotels/6290/The-St-Regis-Kanai-Resort-Riviera-Maya.html,/hotels/6290/the-st-regis-kanai-resort-riviera-maya.html,site link,0,20
+/hotels/6295/The_Amauris_Vienna.html,/hotels/6295/the-amauris-vienna.html,site link,0,1
+/hotels/6298/Sun_Gardens_Dubrovnik.html,/hotels/6298/sun-gardens-dubrovnik.html,site link,0,2
+/hotels/6299/Anantara-Plaza-Nice.html,/hotels/6299/anantara-plaza-nice.html,site link,0,1
+/hotels/6300/Kimpton_St_Honore_Paris.html,/hotels/6300/kimpton-st-honore-paris.html,site link,1,4
+/hotels/6300/Kimpton-St-Honore-Paris.html,/hotels/6300/kimpton-st-honore-paris.html,site link,0,1
+"/hotels/6303/Matild_Palace,a_Luxury_Collection_Hotel,_Budapest.html",/hotels/6303/matild-palace-a-luxury-collection-hotel-budapest.html,site link,0,3
+/hotels/6307/Six-Senses-Kaplankaya.html,/hotels/6307/six-senses-kaplankaya.html,site link,0,5
+/hotels/6307/Six_Senses_Kaplankaya.html,/hotels/6307/six-senses-kaplankaya.html,site link,0,1
+/hotels/6311/Habitas_Bacalar.html,/hotels/6311/habitas-bacalar.html,site link,0,6
+/hotels/6312/Habitas-Tulum.html,/hotels/6312/habitas-tulum.html,site link,0,1
+/hotels/6314/Mount-Lofty-House-.html,/hotels/6314/mount-lofty-house-.html,site link,0,1
+/hotels/6318/Kimpton-Kitalay-Samui.html,/hotels/6318/kimpton-kitalay-samui.html,site link,0,2
+"/hotels/6321/Waldorf_Astoria_Lusail,_Doha_.html",/hotels/6321/waldorf-astoria-lusail-doha-.html,site link,0,1
+/hotels/6340/Radisson-Collection-Hotel-Gran-Via-Bilbao.html,/hotels/6340/radisson-collection-hotel-gran-via-bilbao.html,derived,0,2
+/hotels/6342/The_Springs_Resort_&_Spa.html,/hotels/6342/the-springs-resort-spa.html,site link,0,5
+/hotels/6347/The-Peninsula-Istanbul.html,/hotels/6347/the-peninsula-istanbul.html,derived,0,1
+/hotels/6349/le_sereno_hotel_st._barths.html,/hotels/6349/le-sereno-hotel-st-barths.html,site link,0,3
+/hotels/6357/Hotel_Palacio_Del_Carmen_.html,/hotels/6357/hotel-palacio-del-carmen-.html,site link,0,1
+/hotels/6377/Nobu-Hotel-Marrakech.html,/hotels/6377/nobu-hotel-marrakech.html,site link,0,1
+/hotels/6379/Barracuda-Hotel-and-Villas.html,/hotels/6379/barracuda-hotel-and-villas.html,site link,0,43
+/hotels/6391/The-Lodge-Mallorca.html,/hotels/6391/the-lodge-mallorca.html,site link,0,12
+/hotels/6410/JW_Marriott_Jeju_Resort_&_Spa.html,/hotels/6410/jw-marriott-jeju-resort-spa.html,site link,0,1
+/hotels/6421/Hotel-Las-Islas-Baru.html,/hotels/6421/hotel-las-islas-baru.html,site link,0,1
+/hotels/6429/JW_Marriott_Clearwater_Beach_Resort_&_Spa.html,/hotels/6429/jw-marriott-clearwater-beach-resort-spa.html,site link,0,7
+/hotels/6435/Rosewood_Munich.html,/hotels/6435/rosewood-munich.html,site link,0,11
+/hotels/6435/Rosewood-Munich.html,/hotels/6435/rosewood-munich.html,site link,0,2
+/hotels/6439/The-Westin-Charlotte.html,/hotels/6439/the-westin-charlotte.html,site link,0,2
+"/hotels/6442/Rissai_Valley,_a_Ritz-Carlton_Reserve.html",/hotels/6442/rissai-valley-a-ritz-carlton-reserve.html,site link,0,16
+/hotels/6446/Palladio-Hotel-Buenos-Aires-MGallery.html,/hotels/6446/palladio-hotel-buenos-aires-mgallery.html,site link,0,11
+/hotels/6462/Mondrian-Cannes.html,/hotels/6462/mondrian-cannes.html,site link,0,2
+/hotels/6465/Buahan-A-Banyan-Tree-Escape.html,/hotels/6465/buahan-a-banyan-tree-escape.html,indexed variant,0,1
+/hotels/6472/la_miniera_pool_villas_pattaya.html,/hotels/6472/la-miniera-pool-villas-pattaya.html,site link,0,1
+/hotels/6473/Gran_Melia_Palacio_de_Isora.html,/hotels/6473/gran-melia-palacio-de-isora.html,site link,0,3
+"/hotels/6492/The_Ven_at_Embassy_Row,_Washington,_DC.html",/hotels/6492/the-ven-at-embassy-row-washington-dc.html,site link,0,1
+/hotels/6500/1-Hotel-Mayfair.html,/hotels/6500/1-hotel-mayfair.html,site link,0,1
+/hotels/6502/Paris_Marriott_Opera_Ambassador_Hotel.html,/hotels/6502/paris-marriott-opera-ambassador-hotel.html,site link,0,2
+/hotels/6537/W-Hotel-Edinburgh.html,/hotels/6537/w-hotel-edinburgh.html,site link,0,6
+/hotels/6538/Yacht-Club-at-The-Boca-Raton.html,/hotels/6538/yacht-club-at-the-boca-raton.html,site link,0,1
+/hotels/6547/The-Riviera-Maya-EDITION-at-Kanai.html,/hotels/6547/the-riviera-maya-edition-at-kanai.html,site link,1,2
+/hotels/6550/Anantara-Convento-di-Amalfi-Grand-Hotel.html,/hotels/6550/anantara-convento-di-amalfi-grand-hotel.html,site link,0,1
+/hotels/6554/Four-Seasons-Cabo-San-Lucas-Cabo-del-Sol.html,/hotels/6554/four-seasons-cabo-san-lucas-cabo-del-sol.html,site link,0,1
+/hotels/6567/Sanctuary-Cap-Cana-Adult-All-Inclusive-Resort.html,/hotels/6567/sanctuary-cap-cana-adult-all-inclusive-resort.html,site link,0,20
+/hotels/6574/Nha-Trang-Marriott-Resort-Spa-Hon-Tre-Island.html,/hotels/6574/nha-trang-marriott-resort-spa-hon-tre-island.html,site link,0,1
+/hotels/6575/Sanasaryan-Han-a-Luxury-Collection-Hotel-Istanbul.html,/hotels/6575/sanasaryan-han-a-luxury-collection-hotel-istanbul.html,site link,0,23
+/hotels/6581/Bardessono-Hotel-and-Spa.html,/hotels/6581/bardessono-hotel-and-spa.html,site link,0,1
+/hotels/6589/Six-Senses-La-Sagesse.html,/hotels/6589/six-senses-la-sagesse.html,site link,0,1
+/hotels/6593/Impression_Moxch%C3%A9_by_Secrets.html,/hotels/6593/impression-moxch%c3%a9-by-secrets.html,derived,0,1
+/hotels/6595/The-Global-Ambassador.html,/hotels/6595/the-global-ambassador.html,site link,0,1
+"/hotels/6597/Bellustar_Tokyo,_A_Pan_Pacific_Hotel.html",/hotels/6597/bellustar-tokyo-a-pan-pacific-hotel.html,site link,0,2
+/hotels/6608/Sofitel-Baru-Calablanca-Beach-Resort.html,/hotels/6608/sofitel-baru-calablanca-beach-resort.html,site link,0,131
+/hotels/6610/Fairmont_Tazi_Palace_Tangier.html,/hotels/6610/fairmont-tazi-palace-tangier.html,site link,0,2
+/hotels/6616/Fairmont-La-Marina-Rabat-Sale.html,/hotels/6616/fairmont-la-marina-rabat-sale.html,site link,0,3
+/hotels/6618/Thompson-Palm-Springs.html,/hotels/6618/thompson-palm-springs.html,site link,0,3
+/hotels/6621/Fontainebleau-Las-Vegas.html,/hotels/6621/fontainebleau-las-vegas.html,site link,0,2
+/hotels/6623/Koro-Sun-Resort-and-Rainforest-Spa.html,/hotels/6623/koro-sun-resort-and-rainforest-spa.html,site link,0,1
+/hotels/6631/Virgin-Hotels-Edinburgh.html,/hotels/6631/virgin-hotels-edinburgh.html,site link,0,9
+/hotels/6631/Virgin_Hotels_Edinburgh.html,/hotels/6631/virgin-hotels-edinburgh.html,site link,0,1
+/hotels/6633/Meneghetti_Wine_Hotel_&_Winery.html,/hotels/6633/meneghetti-wine-hotel-winery.html,site link,0,2
+/hotels/6638/Hotel-Colonnade-Coral-Gables-Autograph-Collection.html,/hotels/6638/hotel-colonnade-coral-gables-autograph-collection.html,site link,0,1
+/hotels/6645/The-Royal-Sonesta-San-Juan.html,/hotels/6645/the-royal-sonesta-san-juan.html,site link,0,6
+/hotels/6645/The_Royal_Sonesta_San_Juan.html,/hotels/6645/the-royal-sonesta-san-juan.html,site link,0,1
+/hotels/6650/Hotel-AKA-Boston-Common.html,/hotels/6650/hotel-aka-boston-common.html,site link,0,1
+/hotels/6652/Ritz-Carlton-Yacht-Collection.html,/hotels/6652/ritz-carlton-yacht-collection.html,site link,0,97
+/hotels/6654/singita_sasakwa_lodge.html,/hotels/6654/singita-sasakwa-lodge.html,site link,0,2
+/hotels/6655/Singita-Faru-Faru-Lodge.html,/hotels/6655/singita-faru-faru-lodge.html,site link,0,5
+/hotels/6656/The-Tokyo-EDITION-Ginza.html,/hotels/6656/the-tokyo-edition-ginza.html,site link,0,36
+/hotels/6659/The-St-Regis-Longboat-Key-Resort.html,/hotels/6659/the-st-regis-longboat-key-resort.html,site link,0,43
+/hotels/6665/Four_Seasons_Hotel_Osaka.html,/hotels/6665/four-seasons-hotel-osaka.html,site link,0,2
+/hotels/6690/The-Dunlin-Kiawah-River-Auberge-Collection.html,/hotels/6690/the-dunlin-kiawah-river-auberge-collection.html,site link,0,1
+/hotels/6697/Rocco-Forte-House-Milan.html,/hotels/6697/rocco-forte-house-milan.html,site link,2,127
+/hotels/6702/St._Regis_Cap_Cana.html,/hotels/6702/st-regis-cap-cana.html,site link,0,3
+"/hotels/6707/Almare,_a_Luxury_Collection_Hotel.html",/hotels/6707/almare-a-luxury-collection-hotel.html,site link,0,1
+/hotels/6710/The_Apurva_Kempinski_Bali.html,/hotels/6710/the-apurva-kempinski-bali.html,site link,0,7
+/hotels/6718/Adero_Scottsdale_Resort.html,/hotels/6718/adero-scottsdale-resort.html,site link,0,1
+/hotels/6718/Adero-Scottsdale-Resort.html,/hotels/6718/adero-scottsdale-resort.html,site link,0,1
+/hotels/6721/Park_Hyatt_Changsha.html,/hotels/6721/park-hyatt-changsha.html,site link,0,3
+/hotels/6727/SLS-Playa-Mujeres.html,/hotels/6727/sls-playa-mujeres.html,site link,0,2
+/hotels/6728/JW_Marriott_Hotel_Berlin.html,/hotels/6728/jw-marriott-hotel-berlin.html,site link,0,5
+"/hotels/6729/Cardo_Brussels,_Autograph_Collection.html",/hotels/6729/cardo-brussels-autograph-collection.html,site link,0,6
+/hotels/6729/Cardo-Brussels-Autograph-Collection.html,/hotels/6729/cardo-brussels-autograph-collection.html,site link,0,2
+/hotels/6731/Casa-Pestagua.html,/hotels/6731/casa-pestagua.html,site link,0,2
+/hotels/6732/Meadowstone-Manor.html,/hotels/6732/meadowstone-manor.html,site link,0,2
+/hotels/6738/Collegio-alla-Querce-Auberge-Collection.html,/hotels/6738/collegio-alla-querce-auberge-collection.html,site link,0,1
+/hotels/6741/Six_Senses_Southern_Dunes.html,/hotels/6741/six-senses-southern-dunes.html,site link,0,15
+/hotels/6748/Six-Senses-Krabey-Island.html,/hotels/6748/six-senses-krabey-island.html,site link,1,10
+/hotels/6756/The-Prince-Kitano-New-York.html,/hotels/6756/the-prince-kitano-new-york.html,site link,0,1
+/hotels/6781/Nekajui-A-Ritz-Carlton-Reserve.html,/hotels/6781/nekajui-a-ritz-carlton-reserve.html,site link,1,28
+/hotels/6785/Rosewood-Amsterdam.html,/hotels/6785/rosewood-amsterdam.html,site link,0,7
+/hotels/6787/Jean-Michel-Cousteau-Resort.html,/hotels/6787/jean-michel-cousteau-resort.html,site link,0,2
+/hotels/6788/Fairmont-La-Hacienda-Costa-Del-Sol.html,/hotels/6788/fairmont-la-hacienda-costa-del-sol.html,site link,0,76
+/hotels/6790/100-Princes-Street.html,/hotels/6790/100-princes-street.html,site link,0,6
+/hotels/6792/St._Regis_Aruba_Resort.html,/hotels/6792/st-regis-aruba-resort.html,site link,0,8
+/hotels/6794/W-Sao-Paulo.html,/hotels/6794/w-sao-paulo.html,site link,0,3
+/hotels/6798/SLS-Barcelona.html,/hotels/6798/sls-barcelona.html,indexed variant,0,33
+/hotels/6803/Only_YOU_Hotel_Valencia.html,/hotels/6803/only-you-hotel-valencia.html,site link,0,2
+/hotels/6826/Tivoli-la-Caleta-Tenerife-Resort.html,/hotels/6826/tivoli-la-caleta-tenerife-resort.html,site link,0,4
+"/hotels/6829/One&Only_Moonlight_Basin,_Montana.html","/hotels/6829/one&only-moonlight-basin,-montana.html",derived,0,3
+/hotels/6834/Forte-de-Gaia-Autograph-Collection-.html,/hotels/6834/forte-de-gaia-autograph-collection-.html,site link,0,1
+/hotels/6835/The-Westin-Salgados-Beach-Resort-Algarve.html,/hotels/6835/the-westin-salgados-beach-resort-algarve.html,site link,0,11
+/hotels/6848/ESPACIO-The-Jewel-of-Waikiki.html,/hotels/6848/espacio-the-jewel-of-waikiki.html,site link,0,17
+/hotels/6850/Waldorf-Astoria-Costa-Rica-Punta-Cacique.html,/hotels/6850/waldorf-astoria-costa-rica-punta-cacique.html,site link,0,67
+/hotels/6852/Four-Seasons-Resort-Mykonos.html,/hotels/6852/four-seasons-resort-mykonos.html,site link,0,105
+/hotels/6855/The-Inn-at-Little-Washington.html,/hotels/6855/the-inn-at-little-washington.html,site link,0,2
+/hotels/6857/Paradero-Todos-Santos.html,/hotels/6857/paradero-todos-santos.html,site link,0,1
+/hotels/6859/Waldorf-Astoria-Riviera-Maya.html,/hotels/6859/waldorf-astoria-riviera-maya.html,site link,0,1
+/hotels/6862/paradisus_palma_real_resort.html,/hotels/6862/paradisus-palma-real-resort.html,site link,0,3
+/hotels/6862/Paradisus-Palma-Real-Resort.html,/hotels/6862/paradisus-palma-real-resort.html,site link,0,2
+/hotels/6864/Grand_Hotel_Centenari.html,/hotels/6864/grand-hotel-centenari.html,derived,0,1
+/hotels/6866/Alai-Crete.html,/hotels/6866/alai-crete.html,site link,0,1
+/hotels/6869/Four-Seasons-Puerto-Rico.html,/hotels/6869/four-seasons-puerto-rico.html,site link,0,12
+/hotels/6871/Cavalta-Boutique-Hotel.html,/hotels/6871/cavalta-boutique-hotel.html,site link,0,23
+/hotels/6872/The-St-Regis-Al-Mouj-Muscat-Resort.html,/hotels/6872/the-st-regis-al-mouj-muscat-resort.html,site link,0,7
+/hotels/6885/The-Fairmount-San-Antonio.html,/hotels/6885/the-fairmount-san-antonio.html,site link,0,25
+/hotels/6896/Lefay_Resort_&_SPA_Dolomiti.html,/hotels/6896/lefay-resort-spa-dolomiti.html,site link,0,1
+/hotels/6897/Sheraton_Puerto_Rico_Resort_&_Casino.html,/hotels/6897/sheraton-puerto-rico-resort-casino.html,site link,0,6
+/hotels/6897/Sheraton-Puerto-Rico-Resort-Casino.html,/hotels/6897/sheraton-puerto-rico-resort-casino.html,site link,0,6
+/hotels/6899/Orient-Express-Palazzo-Dona-Giovannelli.html,/hotels/6899/orient-express-palazzo-dona-giovannelli.html,derived,0,1
+/hotels/6910/JW-Marriott-Hotel-Tokyo.html,/hotels/6910/jw-marriott-hotel-tokyo.html,site link,0,11
+"/hotels/6912/Sthala,_a_Tribute_Portfolio_Hotel,_Ubud_Bali.html",/hotels/6912/sthala-a-tribute-portfolio-hotel-ubud-bali.html,site link,0,1
+/hotels/6914/Dorothea-Hotel-Budapest-Autograph-Collection.html,/hotels/6914/dorothea-hotel-budapest-autograph-collection.html,site link,0,2
+/hotels/6915/W-Budapest.html,/hotels/6915/w-budapest.html,site link,0,2
+/hotels/6919/Le-Parchamp-Paris-Boulogne-a-Tribute-Portfolio-Hotel.html,/hotels/6919/le-parchamp-paris-boulogne-a-tribute-portfolio-hotel.html,site link,0,1
+/hotels/6920/Hotel-U14-Autograph-Collection.html,/hotels/6920/hotel-u14-autograph-collection.html,site link,0,41
+"/hotels/6930/cicada_resort_bali_ubud,_autograph_collection.html",/hotels/6930/cicada-resort-bali-ubud-autograph-collection.html,site link,0,1
+/hotels/6931/Le-M-ridien-Bali-Jimbaran.html,/hotels/6931/le-m-ridien-bali-jimbaran.html,site link,0,3
+/hotels/6936/Burgenstock_Hotel_&_Alpine_Spa.html,/hotels/6936/burgenstock-hotel-alpine-spa.html,site link,0,6
+/hotels/6942/Marriott-Miches-Beach-An-All-Inclusive-Resort.html,/hotels/6942/marriott-miches-beach-an-all-inclusive-resort.html,site link,0,5
+/hotels/6944/The-Westin-Denver-Downtown.html,/hotels/6944/the-westin-denver-downtown.html,site link,0,1
+/hotels/6955/Rosewood-Courchevel-Le-Jardin-Alpin.html,/hotels/6955/rosewood-courchevel-le-jardin-alpin.html,site link,1,13
+/hotels/6960/Old-Town-Chambers.html,/hotels/6960/old-town-chambers.html,site link,0,8
+/hotels/6966/Hotel_Espa%C3%B1a.html,/hotels/6966/hotel-espa%c3%b1a.html,derived,0,1
+/hotels/6975/ME-Lisbon.html,/hotels/6975/me-lisbon.html,site link,0,1
+/hotels/6977/Victoria_Golf_Resort_&_Spa.html,/hotels/6977/victoria-golf-resort-spa.html,site link,0,2
+/hotels/6977/Victoria-Golf-Resort-Spa.html,/hotels/6977/victoria-golf-resort-spa.html,site link,0,1
+/hotels/6982/The-Fifth-Avenue-Hotel.html,/hotels/6982/the-fifth-avenue-hotel.html,site link,0,1
+/hotels/6987/Six-Senses-London.html,/hotels/6987/six-senses-london.html,site link,0,1
+/hotels/6988/Kimpton_Tsim_Sha_Tsui_Hong_Kong.html,/hotels/6988/kimpton-tsim-sha-tsui-hong-kong.html,site link,0,2
+/hotels/6988/Kimpton-Tsim-Sha-Tsui-Hong-Kong.html,/hotels/6988/kimpton-tsim-sha-tsui-hong-kong.html,site link,0,1
+/hotels/6989/-Hyatt-Regency-Zadar.html,/hotels/6989/-hyatt-regency-zadar.html,site link,0,6
+/hotels/6989/_Hyatt_Regency_Zadar.html,/hotels/6989/-hyatt-regency-zadar.html,site link,0,2
+/hotels/6995/Hotel-La-Compa-a-de-Valle.html,/hotels/6995/hotel-la-compa-a-de-valle.html,site link,0,47
+/hotels/6997/Secrets-Papagayo-Costa-Rica.html,/hotels/6997/secrets-papagayo-costa-rica.html,indexed variant,0,1
+/hotels/6998/Thompson_Shanghai_Expo.html,/hotels/6998/thompson-shanghai-expo.html,site link,1,13
+"/hotels/7007/Ritz-Carlton,_Masai_Mara_Safari_Camp.html",/hotels/7007/ritz-carlton-masai-mara-safari-camp.html,site link,0,22
+/hotels/7009/four-seasons-yacht.html,/hotels/7009/four-seasons-yachts.html,site link,0,60
+"/hotels/7014/The_St._Regis_Costa_Mujeres_Resort,_Cancun.html",/hotels/7014/the-st-regis-costa-mujeres-resort-cancun.html,site link,0,11
+/hotels/7019/The_Shilla_Seoul.html,/hotels/7019/the-shilla-seoul.html,site link,0,4
+/hotels/7023/Sheraton_Bratislava_Hotel.html,/hotels/7023/sheraton-bratislava-hotel.html,site link,0,2
+/hotels/7028/Horseshoe-Bay-Resort.html,/hotels/7028/horseshoe-bay-resort.html,site link,0,25
+/hotels/7029/Fairmont-Breakers-Long-Beach.html,/hotels/7029/fairmont-breakers-long-beach.html,site link,0,1
+/hotels/7032/Mandarin-Oriental-Punta-Negra-Mallorca.html,/hotels/7032/mandarin-oriental-punta-negra-mallorca.html,site link,0,4
+/hotels/7034/Tommy-Bahama-Miramonte-Resort-Spa.html,/hotels/7034/tommy-bahama-miramonte-resort-spa.html,site link,0,14
+/hotels/7040/Frasers-House-Singapore-a-Luxury-Collection-Hotel.html,/hotels/7040/frasers-house-singapore-a-luxury-collection-hotel.html,site link,0,5
+"/hotels/7040/Frasers_House_Singapore,_a_Luxury_Collection_Hotel.html",/hotels/7040/frasers-house-singapore-a-luxury-collection-hotel.html,site link,0,1
+/hotels/7042/Imperial-Hotel-Kyoto.html,/hotels/7042/imperial-hotel-kyoto.html,site link,0,27
+"/hotels/7042/Imperial_Hotel,_Kyoto.html",/hotels/7042/imperial-hotel-kyoto.html,site link,0,4
+/hotels/7047/Mandarin_Oriental_Desaru_Coast.html,/hotels/7047/mandarin-oriental-desaru-coast.html,site link,0,1
+/hotels/7048/Mandarin_Oriental_Qianmen.html,/hotels/7048/mandarin-oriental-beijing-qianmen.html,site link,0,6
+/hotels/7049/Mandarin-Oriental-Shenzhen.html,/hotels/7049/mandarin-oriental-shenzhen.html,site link,0,7
+/hotels/7049/mandarin_oriental_shenzhen.html,/hotels/7049/mandarin-oriental-shenzhen.html,site link,0,2
+/hotels/7051/Kempinski_Dresden_-_Hotel_Taschenbergpalais_.html,/hotels/7051/kempinski-dresden-hotel-taschenbergpalais-.html,site link,0,1
+/hotels/7052/Anantara-Stanley-and-Livingstone-Victoria-Falls-Hotel.html,/hotels/7052/anantara-stanley-and-livingstone-victoria-falls-hotel.html,site link,0,8
+/hotels/7052/anantara_stanley_and_livingstone_victoria_falls_hotel.html,/hotels/7052/anantara-stanley-and-livingstone-victoria-falls-hotel.html,site link,0,1
+/hotels/7053/The-Mitsui-Kyoto-a-Luxury-Collection-Hotel-Spa.html,/hotels/7053/the-mitsui-kyoto-a-luxury-collection-hotel-spa.html,site link,0,5
+/hotels/7055/Kimpton-Era-Midtown.html,/hotels/7055/kimpton-era-midtown.html,site link,0,3
+/hotels/7059/The_Feathers_Hotel.html,/hotels/7059/the-feathers-hotel.html,site link,0,1
+"/hotels/7060/Higashiyama_Niseko_Village,_a_Ritz_Carlton_Reserve.html",/hotels/7060/higashiyama-niseko-village-a-ritz-carlton-reserve.html,site link,0,1
+/hotels/7062/Nine-Orchard-.html,/hotels/7062/nine-orchard-.html,site link,0,11
+/hotels/7066/Kempinski_Hotel_Brazzaville_.html,/hotels/7066/kempinski-hotel-brazzaville-.html,site link,0,7
+/hotels/7069/Hacienda_Son_Antem_Golf_Resort.html,/hotels/7069/hacienda-son-antem-golf-resort.html,site link,1,6
+/hotels/7075/Fouquet-s-Mykonos.html,/hotels/7075/fouquet-s-mykonos.html,site link,0,36
+/hotels/7075/Fouquet's_Mykonos.html,/hotels/7075/fouquet-s-mykonos.html,site link,0,13
+/hotels/7076/Omni-Fort-Lauderdale-Hotel.html,/hotels/7076/omni-fort-lauderdale-hotel.html,site link,0,8
+/hotels/7080/Omni_Tucson_National_Resort_&_Spa.html,/hotels/7080/omni-tucson-national-resort-spa.html,site link,0,2
+/hotels/7082/Four_Seasons_Resort_AMAALA_at_Triple_Bay.html,/hotels/7082/four-seasons-resort-amaala-at-triple-bay.html,site link,0,3
+/hotels/7084/Four_Seasons_Resort_and_Residences_Red_Sea_at_Shura_Island.html,/hotels/7084/four-seasons-resort-and-residences-red-sea-at-shura-island.html,site link,0,10
+/hotels/7087/A_Mandria_di_Murtoli.html,/hotels/7087/a-mandria-di-murtoli.html,site link,0,13
+/hotels/7089/Jing-An-Shangri-La-West-Shanghai.html,/hotels/7089/jing-an-shangri-la-west-shanghai.html,site link,0,1
+"/hotels/7090/Pudong_Shangri-La,_East_Shanghai.html",/hotels/7090/pudong-shangri-la-east-shanghai.html,site link,0,2
+/hotels/7091/D_Maris_Bay.html,/hotels/7091/d-maris-bay.html,site link,0,2
+/hotels/7093/Johannesburg-Marriott-Hotel-Melrose-Arch.html,/hotels/7093/johannesburg-marriott-hotel-melrose-arch.html,site link,0,5
+/hotels/7093/Johannesburg_Marriott_Hotel_Melrose_Arch.html,/hotels/7093/johannesburg-marriott-hotel-melrose-arch.html,site link,0,3
+"/hotels/7094/Vinpearl_Landmark_81,_Autograph_Collection.html",/hotels/7094/vinpearl-landmark-81-autograph-collection.html,site link,0,1
+/hotels/7096/Ka_La'i_Waikiki_Beach.html,/hotels/7096/ka-la'i-waikiki-beach.html,derived,0,1
+/hotels/7099/Grotta-Giusti-Thermal-Spa-Resort-Tuscany-Autograph-Collection.html,/hotels/7099/grotta-giusti-thermal-spa-resort-tuscany-autograph-collection.html,site link,0,10
+"/hotels/7099/Grotta_Giusti_Thermal_Spa_Resort_Tuscany,_Autograph_Collection.html",/hotels/7099/grotta-giusti-thermal-spa-resort-tuscany-autograph-collection.html,site link,0,3
+/hotels/7100/Andronis-Luxury-Suites.html,/hotels/7100/andronis-luxury-suites.html,site link,0,18
+/hotels/7100/Andronis_Luxury_Suites.html,/hotels/7100/andronis-luxury-suites.html,site link,0,1
+/hotels/7101/Kimpton-Atlantico-Algarve.html,/hotels/7101/kimpton-atlantico-algarve.html,site link,0,6
+/hotels/7102/Andronis-Arcadia.html,/hotels/7102/andronis-arcadia.html,site link,0,103
+/hotels/7103/Principessa-Forte-dei-Marmi-Autograph-Collection.html,/hotels/7103/principessa-forte-dei-marmi-autograph-collection.html,site link,0,3
+/hotels/7104/The-St-Regis-London.html,/hotels/7104/the-st-regis-london.html,site link,0,6
+/hotels/7104/The_St._Regis_London.html,/hotels/7104/the-st-regis-london.html,site link,0,5
+/hotels/7105/Brickell-Arch-a-Luxury-Collection-Hotel-Miami.html,/hotels/7105/brickell-arch-a-luxury-collection-hotel-miami.html,derived,0,1
+"/hotels/7106/Hotel_Thaynes,_a_Tribute_Portfolio_Hotel.html",/hotels/7106/hotel-thaynes-a-tribute-portfolio-hotel.html,site link,0,2
+/hotels/7107/Sheraton_Hong_Kong_Hotel_&_Towers.html,/hotels/7107/sheraton-hong-kong-hotel-towers.html,site link,0,7
+/hotels/7107/Sheraton-Hong-Kong-Hotel-Towers.html,/hotels/7107/sheraton-hong-kong-hotel-towers.html,site link,0,6
+/hotels/7108/Sheraton-Istanbul-Levent.html,/hotels/7108/sheraton-istanbul-levent.html,site link,1,14
+/hotels/7110/JW-Marriott-Hotel-Beijing-Chaoyang-District.html,/hotels/7110/jw-marriott-hotel-beijing-chaoyang-district.html,site link,0,4
+/hotels/7111/L-Escape-a-Luxury-Collection-Hotel.html,/hotels/7111/l-escape-a-luxury-collection-hotel.html,site link,0,8
+/hotels/7113/Sheraton-Grand-Danang-Beach-Resort-Spa.html,/hotels/7113/sheraton-grand-danang-beach-resort-spa.html,site link,0,4
+/hotels/7114/Rosewood-AMAALA.html,/hotels/7114/rosewood-amaala.html,site link,1,15
+/hotels/7117/The-Anam-Mui-Ne.html,/hotels/7117/the-anam-mui-ne.html,site link,0,9
+/hotels/7127/The-Residences-at-The-St-Regis-Cap-Cana-Resort.html,/hotels/7127/the-residences-at-the-st-regis-cap-cana-resort.html,site link,0,6
+/hotels/7139/Orient-Express-Sailing-Yachts.html,/hotels/7139/orient-express-sailing-yachts.html,site link,0,1
+/hotels/935/Sandy-Lane.html,/hotels/935/sandy-lane.html,site link,0,8
+/hotels/937/the_wellesley_knightsbridge.html,/hotels/937/the-wellesley-knightsbridge.html,site link,0,2
+/hotels/937/The-Wellesley-Knightsbridge.html,/hotels/937/the-wellesley-knightsbridge.html,site link,0,1
+/hotels/938/jamaica_inn.html,/hotels/938/jamaica-inn.html,site link,0,1
+/hotels/942/Belmond_Copacabana_Palace.html,/hotels/942/belmond-copacabana-palace.html,site link,0,12
+/hotels/955/The_Athenaeum_Hotel.html,/hotels/955/the-athenaeum-hotel.html,site link,0,8
+/hotels/962/Hotel-Ritz-Paris.html,/hotels/962/hotel-ritz-paris.html,site link,1,193
+/hotels/964/Necker-Island.html,/hotels/964/necker-island.html,site link,1,183
+/hotels/964/necker_island.html,/hotels/964/necker-island.html,site link,0,110
+"/hotels/971/The_Ritz-Carlton,_Marina_del_Rey.html",/hotels/971/the-ritz-carlton-marina-del-rey.html,site link,0,1
+/hotels/981/The-Stafford-London-.html,/hotels/981/the-stafford-london-.html,site link,0,1
+/hotels/989/round_hill_hotel_&_villas.html,/hotels/989/round-hill-hotel-villas.html,site link,0,2
+/hotels/991/Victoria-Jungfrau-Grand-Hotel-Spa.html,/hotels/991/victoria-jungfrau-grand-hotel-spa.html,site link,0,1
+/regions/14/Hawaii.html,/regions/14/hawaii.html,site link,0,1
+/regions/18/Middle_East.html,/regions/18/middle-east.html,site link,0,2
+/regions/4/Asia-y-El-Pac-fico.html,/regions/4/asia-and-the-pacific.html,site link,1,8
+/regions/4/Asia_Pacific.html,/regions/4/asia-and-the-pacific.html,site link,0,377
+/regions/5/Australia-y-Nueva-Zeland-a.html,/regions/5/oceania.html,site link,0,89
+/regions/6/Caribbean.html,/regions/6/caribbean.html,site link,0,134
+/regions/6/El_Caribe.html,/regions/6/caribbean.html,site link,0,38
+/regions/8/Europe.html,/regions/8/europe.html,site link,0,1012
