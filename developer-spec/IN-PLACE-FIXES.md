@@ -99,7 +99,7 @@ Today: 7 pages are titled "Bienvenido"; `/collection/`, `/destinations/`, `/faq.
 | Country | `Hoteles de lujo en {País} \| Solo5Estrellas` | `Hoteles de lujo en Islas Turcas y Caicos \| Solo5Estrellas` (57) |
 | Region | `Hoteles de lujo en {Región} \| Solo5Estrellas` | `Hoteles de lujo en Europa \| Solo5Estrellas` (42) |
 | Chain / collection | `Hoteles {Cadena}: beneficios exclusivos \| Solo5Estrellas`; fallback `Hoteles {Cadena} \| Solo5Estrellas` | `Hoteles Four Seasons: beneficios exclusivos \| Solo5Estrellas` (60) |
-| `/collection/` | `La colección: hoteles de lujo de 5 estrellas \| Solo5Estrellas` | |
+| `/collection/` | `La colección: hoteles de lujo \| Solo5Estrellas` | |
 | `/destinations/` | `Destinos de lujo en el mundo \| Solo5Estrellas` | |
 | `/specials/` | `Ofertas en hoteles de lujo \| Solo5Estrellas` | |
 | `/homes/` | `Villas y residencias de lujo \| Solo5Estrellas` | |
@@ -120,6 +120,8 @@ Descriptions (155 characters maximum; cut at a word boundary; never reuse the gl
 | City | `Compare {N} hoteles de lujo en {Ciudad} y reserve con beneficios exclusivos. Solo5Estrellas, de Lorraine Travel desde 1948.` (Say "de 5 estrellas" only if the star rating is stored: the collection includes hotels that are not five-star.) |
 | Country / region | `Compare {N} hoteles de lujo en {País} y reserve con beneficios exclusivos de Solo5Estrellas, operado por Lorraine Travel.` |
 | Chain | `Reserve {N} hoteles {Cadena} en {P} países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.` |
+
+**Full set, checked by script:** `titles-descriptions.csv` lists every template with an example, title, description and character counts (titles 60 or fewer, descriptions 155 or fewer). Rules it applies: use title variant A, then B, then C by length; skip the city in the hotel title when the hotel name already contains it (`Four Seasons Hotel Madrid`, not `Four Seasons Hotel Madrid, Madrid`); the chain title falls back to `Hoteles {Cadena} | Solo5Estrellas` (The Ritz-Carlton is 64 characters in the long form); the `/collection/` title drops "de 5 estrellas" (it was 61 characters, and the collection includes hotels that are not five-star).
 
 Use the Spanish city and country names (Nueva York, Londres, Estambul; not New York, London, Istanbul) from a lookup table; never translate hotel or brand names. The page `<h1>` stays as is. I will send the lookup table of Spanish place names on request.
 
