@@ -8,6 +8,7 @@ Everything here is read-only guidance written from public pages (no code or serv
 | `IN-PLACE-FIXES.md` | The 10 fixes, in release order, with snippets and checks |
 | `verify.sh` | 44 read-only checks; run against staging with `./verify.sh https://staging-host` |
 | `titles-descriptions.csv` | Title and description for every template (lengths checked) |
+| `SCHEMA-HOTEL.md` | Hotel and breadcrumb JSON-LD, social tags, what to remove |
 | `REDIRECT-MAPS.md` + 2 CSVs | Slug and legacy-URL redirect rules, with a test set |
 | `../style-guide/` | Spanish style guide and place-name list (156 names) |
 | `../content/` | Page drafts for the editor, not for the developer |
