@@ -1,0 +1,605 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Fairmont",
+          "item": "https://solo5estrellas.com/collection/1/fairmont-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/1/fairmont-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/1/fairmont-hotels-resorts.html",
+      "name": "Hoteles Fairmont: 79 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 79 hoteles Fairmont en 29 países y territorios con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Fairmont Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/1/fairmont-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/1/fairmont-hotels-resorts.html#hotels",
+      "name": "Hoteles Fairmont",
+      "numberOfItems": 79,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Fairmont Scottsdale Princess",
+          "url": "https://solo5estrellas.com/hotels/1639/fairmont-scottsdale-princess.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Fairmont Breakers Long Beach",
+          "url": "https://solo5estrellas.com/hotels/7029/fairmont-breakers-long-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Fairmont Century Plaza",
+          "url": "https://solo5estrellas.com/hotels/2080/fairmont-century-plaza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Fairmont Grand Del Mar",
+          "url": "https://solo5estrellas.com/hotels/2238/fairmont-grand-del-mar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Fairmont Heritage Place, Ghirardelli Sq.",
+          "url": "https://solo5estrellas.com/hotels/2520/fairmont-heritage-place-ghirardelli-sq-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Fairmont Miramar Hotel & Bungalows",
+          "url": "https://solo5estrellas.com/hotels/2133/fairmont-miramar-hotel-bungalows-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Fairmont Sonoma Mission Inn & Spa",
+          "url": "https://solo5estrellas.com/hotels/1136/fairmont-sonoma-mission-inn-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "The Claremont Resort",
+          "url": "https://solo5estrellas.com/hotels/4850/the-claremont-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "The Fairmont San Francisco",
+          "url": "https://solo5estrellas.com/hotels/2136/the-fairmont-san-francisco.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Fairmont Heritage Place Franz Klammer Lodge",
+          "url": "https://solo5estrellas.com/hotels/6692/fairmont-heritage-place-franz-klammer-lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Fairmont Washington, D.C. Georgetown",
+          "url": "https://solo5estrellas.com/hotels/2137/fairmont-washington-d-c-georgetown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Fairmont Kea Lani, Maui",
+          "url": "https://solo5estrellas.com/hotels/1223/fairmont-kea-lani-maui.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Fairmont Orchid",
+          "url": "https://solo5estrellas.com/hotels/1638/fairmont-orchid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Fairmont Chicago Millennium Park",
+          "url": "https://solo5estrellas.com/hotels/2003/fairmont-chicago-millennium-park.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "The Fairmont Copley Plaza",
+          "url": "https://solo5estrellas.com/hotels/2004/the-fairmont-copley-plaza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "The Plaza Hotel New York",
+          "url": "https://solo5estrellas.com/hotels/1920/the-plaza-hotel-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Fairmont Pittsburgh",
+          "url": "https://solo5estrellas.com/hotels/6140/fairmont-pittsburgh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Fairmont Austin",
+          "url": "https://solo5estrellas.com/hotels/3325/fairmont-austin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Fairmont Dallas",
+          "url": "https://solo5estrellas.com/hotels/2736/fairmont-dallas-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Fairmont Olympic Seattle",
+          "url": "https://solo5estrellas.com/hotels/1483/fairmont-olympic-seattle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Fairmont Baku Flame Towers",
+          "url": "https://solo5estrellas.com/hotels/4873/fairmont-baku-flame-towers.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "The Fairmont Royal Pavilion",
+          "url": "https://solo5estrellas.com/hotels/2135/the-fairmont-royal-pavilion.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Fairmont Hamilton Princess & Beach Club",
+          "url": "https://solo5estrellas.com/hotels/1226/fairmont-hamilton-princess-beach-club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Fairmont Rio de Janeiro Copacabana",
+          "url": "https://solo5estrellas.com/hotels/4849/fairmont-rio-de-janeiro-copacabana-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Fairmont Banff Springs",
+          "url": "https://solo5estrellas.com/hotels/1203/fairmont-banff-springs.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Fairmont Hotel Macdonald",
+          "url": "https://solo5estrellas.com/hotels/6139/fairmont-hotel-macdonald.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Hotel Fairmont Palliser",
+          "url": "https://solo5estrellas.com/hotels/4846/hotel-fairmont-palliser.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "The Fairmont Chateau Lake Louise",
+          "url": "https://solo5estrellas.com/hotels/1202/the-fairmont-chateau-lake-louise.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "The Fairmont Jasper Park Lodge",
+          "url": "https://solo5estrellas.com/hotels/1459/the-fairmont-jasper-park-lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Fairmont Empress",
+          "url": "https://solo5estrellas.com/hotels/1637/fairmont-empress.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Fairmont Pacific Rim",
+          "url": "https://solo5estrellas.com/hotels/2362/fairmont-pacific-rim-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Fairmont Waterfront",
+          "url": "https://solo5estrellas.com/hotels/1882/fairmont-waterfront-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "The Fairmont Chateau Whistler",
+          "url": "https://solo5estrellas.com/hotels/1026/the-fairmont-chateau-whistler.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "The Fairmont Hotel Vancouver",
+          "url": "https://solo5estrellas.com/hotels/1208/the-fairmont-hotel-vancouver.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "The Fairmont Vancouver Airport",
+          "url": "https://solo5estrellas.com/hotels/2157/the-fairmont-vancouver-airport.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Hotel Fairmont Winnipeg",
+          "url": "https://solo5estrellas.com/hotels/4847/hotel-fairmont-winnipeg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Fairmont Chateau Laurier",
+          "url": "https://solo5estrellas.com/hotels/1234/fairmont-chateau-laurier.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Fairmont Royal York",
+          "url": "https://solo5estrellas.com/hotels/1229/fairmont-royal-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Fairmont Le Chateau Frontenac",
+          "url": "https://solo5estrellas.com/hotels/1200/fairmont-le-chateau-frontenac.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Fairmont Le Chateau Montebello",
+          "url": "https://solo5estrellas.com/hotels/4844/fairmont-le-chateau-montebello.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Fairmont The Queen Elizabeth Hotel",
+          "url": "https://solo5estrellas.com/hotels/1209/fairmont-the-queen-elizabeth-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Fairmont Tremblant",
+          "url": "https://solo5estrellas.com/hotels/4845/fairmont-tremblant.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Hotel Fairmont Le Manoir Richelieu",
+          "url": "https://solo5estrellas.com/hotels/4848/hotel-fairmont-le-manoir-richelieu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Fairmont Beijing",
+          "url": "https://solo5estrellas.com/hotels/2569/fairmont-beijing-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Fairmont Chengdu",
+          "url": "https://solo5estrellas.com/hotels/4905/fairmont-chengdu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Fairmont Peace Hotel",
+          "url": "https://solo5estrellas.com/hotels/2639/fairmont-peace-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Fairmont Sanya Haitang Bay",
+          "url": "https://solo5estrellas.com/hotels/6128/fairmont-sanya-haitang-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Fairmont Wuhan",
+          "url": "https://solo5estrellas.com/hotels/6130/fairmont-wuhan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Fairmont Golden Prague",
+          "url": "https://solo5estrellas.com/hotels/6900/fairmont-golden-prague.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Fairmont Nile City Hotel",
+          "url": "https://solo5estrellas.com/hotels/6131/fairmont-nile-city-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Fairmont Jakarta",
+          "url": "https://solo5estrellas.com/hotels/4935/fairmont-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Carton House - A Fairmont Hotel",
+          "url": "https://solo5estrellas.com/hotels/4888/carton-house-a-fairmont-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Hotel Fairmont Amman",
+          "url": "https://solo5estrellas.com/hotels/6132/hotel-fairmont-amman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Fairmont Mara Safari Club",
+          "url": "https://solo5estrellas.com/hotels/2373/fairmont-mara-safari-club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Fairmont Mount Kenya Safari Club",
+          "url": "https://solo5estrellas.com/hotels/2376/fairmont-mount-kenya-safari-club-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Fairmont The Norfolk",
+          "url": "https://solo5estrellas.com/hotels/2375/fairmont-the-norfolk-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Fairmont Heritage Place Mayakoba",
+          "url": "https://solo5estrellas.com/hotels/4823/fairmont-heritage-place-mayakoba.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "Fairmont Mayakoba",
+          "url": "https://solo5estrellas.com/hotels/1717/fairmont-mayakoba.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Fairmont Monte Carlo",
+          "url": "https://solo5estrellas.com/hotels/2650/fairmont-monte-carlo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "Fairmont Royal Palm Marrakech",
+          "url": "https://solo5estrellas.com/hotels/4886/fairmont-royal-palm-marrakech-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "Fairmont Taghazout Bay",
+          "url": "https://solo5estrellas.com/hotels/4884/fairmont-taghazout-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Fairmont Makati",
+          "url": "https://solo5estrellas.com/hotels/4967/fairmont-makati.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Fairmont El San Juan Hotel",
+          "url": "https://solo5estrellas.com/hotels/1940/fairmont-el-san-juan-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "Fairmont Doha",
+          "url": "https://solo5estrellas.com/hotels/6642/fairmont-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Fairmont Riyadh",
+          "url": "https://solo5estrellas.com/hotels/6134/fairmont-riyadh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Fairmont St. Andrews",
+          "url": "https://solo5estrellas.com/hotels/3605/fairmont-st-andrews-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "Fairmont Singapore",
+          "url": "https://solo5estrellas.com/hotels/2038/fairmont-singapore-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "Fairmont Ambassador Seoul",
+          "url": "https://solo5estrellas.com/hotels/4948/fairmont-ambassador-seoul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Fairmont La Hacienda Costa Del Sol",
+          "url": "https://solo5estrellas.com/hotels/6788/fairmont-la-hacienda-costa-del-sol.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "Fairmont Le Montreux Palace",
+          "url": "https://solo5estrellas.com/hotels/1312/fairmont-le-montreux-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Fairmont Quasar Istanbul",
+          "url": "https://solo5estrellas.com/hotels/4916/fairmont-quasar-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "Fairmont Grand Hotel Kyiv",
+          "url": "https://solo5estrellas.com/hotels/4900/fairmont-grand-hotel-kyiv.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "name": "Fairmont Ajman",
+          "url": "https://solo5estrellas.com/hotels/4926/fairmont-ajman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 74,
+          "name": "Fairmont Bab Al Bahr",
+          "url": "https://solo5estrellas.com/hotels/4922/fairmont-bab-al-bahr-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 75,
+          "name": "Fairmont Dubai Hotel",
+          "url": "https://solo5estrellas.com/hotels/4924/fairmont-dubai-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 76,
+          "name": "Fairmont Fujairah Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/4925/fairmont-fujairah-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 77,
+          "name": "Fairmont The Palm Dubai",
+          "url": "https://solo5estrellas.com/hotels/4923/fairmont-the-palm-dubai-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 78,
+          "name": "Fairmont Windsor Park",
+          "url": "https://solo5estrellas.com/hotels/4902/fairmont-windsor-park.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 79,
+          "name": "The Savoy",
+          "url": "https://solo5estrellas.com/hotels/2434/the-savoy.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Fairmont directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Fairmont con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD para restauración o spa, mejora de categoría, y entrada anticipada y salida tardía sujetas a disponibilidad. El desayuno y el crédito se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Accor ALL al reservar Fairmont con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página de cada hotel, sí: se añade su número de Accor ALL a la reserva y los puntos y noches de nivel se suman en esa estancia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Fairmont se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "79 hoteles en 29 países y territorios. Estados Unidos tiene 20, Canadá 19 y China 5."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Fairmont hay en México?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dos, en Mayakoba, en la Riviera Maya: Fairmont Mayakoba y Fairmont Heritage Place Mayakoba. Ambos se pueden reservar con las ventajas de esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Fairmont hay en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uno: Fairmont La Hacienda Costa Del Sol, en Málaga. Se puede reservar con las ventajas de esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La mayoría de los hoteles no exige estancia mínima, aunque algunos resorts pueden pedir dos noches en temporada alta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Fairmont?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué Fairmont elegir si busco un hotel histórico?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Entre los más conocidos están Fairmont Banff Springs, Fairmont Empress, Fairmont Royal York, The Savoy, en Londres, y Fairmont Peace Hotel, en Shanghái."
+          }
+        }
+      ]
+    }
+  ]
+}
