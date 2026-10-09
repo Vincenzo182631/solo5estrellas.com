@@ -1,0 +1,251 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Aman",
+          "item": "https://solo5estrellas.com/chains/21/aman-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/chains/21/aman-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/chains/21/aman-resorts.html",
+      "name": "Hoteles Aman: 20 resorts con desayuno para dos y crédito de hotel",
+      "description": "Reserve 20 hoteles Aman en 14 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Aman"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/chains/21/aman-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/chains/21/aman-resorts.html#hotels",
+      "name": "Hoteles Aman",
+      "numberOfItems": 20,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Aman New York",
+          "url": "https://solo5estrellas.com/hotels/6438/aman-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amangiri",
+          "url": "https://solo5estrellas.com/hotels/2320/amangiri.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Amangani",
+          "url": "https://solo5estrellas.com/hotels/1401/amangani.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Amansara",
+          "url": "https://solo5estrellas.com/hotels/1534/amansara.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Amanera",
+          "url": "https://solo5estrellas.com/hotels/3010/amanera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Aman at Sea, Amangati",
+          "url": "https://solo5estrellas.com/hotels/7138/aman-at-sea-amangati.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Amanzoe",
+          "url": "https://solo5estrellas.com/hotels/2946/amanzoe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Amandari",
+          "url": "https://solo5estrellas.com/hotels/1527/amandari.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Amanjiwo",
+          "url": "https://solo5estrellas.com/hotels/1539/amanjiwo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Amankila",
+          "url": "https://solo5estrellas.com/hotels/1530/amankila.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Aman Canal Grande, Venice",
+          "url": "https://solo5estrellas.com/hotels/2945/aman-canal-grande-venice.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Aman Kyoto",
+          "url": "https://solo5estrellas.com/hotels/4084/aman-kyoto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Aman Tokyo",
+          "url": "https://solo5estrellas.com/hotels/2960/aman-tokyo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Amanemu",
+          "url": "https://solo5estrellas.com/hotels/3597/amanemu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Amankora",
+          "url": "https://solo5estrellas.com/hotels/1531/amankora.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Amantaka",
+          "url": "https://solo5estrellas.com/hotels/2327/amantaka.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Amanpulo",
+          "url": "https://solo5estrellas.com/hotels/1532/amanpulo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Amanpuri",
+          "url": "https://solo5estrellas.com/hotels/1533/amanpuri.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Amanyara",
+          "url": "https://solo5estrellas.com/hotels/1523/amanyara.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Amanoi",
+          "url": "https://solo5estrellas.com/hotels/2944/amanoi.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Aman directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa flexible publicada que Aman, y las ventajas se añaden a esa tarifa. La tarifa publicada no incluye desayuno diario para dos ni crédito para gastos en el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Aman tiene programa de puntos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Aman no tiene un programa de fidelización por puntos. Aman Club es una membresía privada aparte, con invitaciones y prioridad de reserva para sus socios, no un programa de puntos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Aman con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, crédito para gastos en el hotel (normalmente 100 USD, según el hotel), mejora de categoría sujeta a disponibilidad, entrada anticipada y salida tardía según disponibilidad, y reconocimiento VIP. Las condiciones se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Aman se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "20 hoteles en 14 países: tres en Estados Unidos, tres en Indonesia, tres en Japón y uno en cada uno de los demás. Aman tiene más hoteles y proyectos; esta página reúne los que se reservan con estas ventajas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Aman hay en Japón?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aman Tokyo, en la capital; Aman Kyoto, en Kioto, y Amanemu, en Shima. Los tres se pueden reservar con las ventajas de Aman Preferred Partner."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Aman hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aman New York, en Nueva York; Amangiri, en Utah, y Amangani, en Wyoming, en la zona de Jackson Hole."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La mejora de categoría de Aman está garantizada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Es una categoría superior si hay disponibilidad al hacer el check-in y no se confirma por adelantado."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Aman?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál fue el primer hotel Aman?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Amanpuri, en Phuket (Tailandia), que abrió en 1988. Se puede reservar con las ventajas de esta página."
+          }
+        }
+      ]
+    }
+  ]
+}
