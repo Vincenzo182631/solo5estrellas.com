@@ -1,0 +1,185 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bulgari",
+          "item": "https://solo5estrellas.com/collection/71/bvlgari-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/71/bvlgari-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/71/bvlgari-hotels-resorts.html",
+      "name": "Hoteles Bulgari: 9 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 9 hoteles Bulgari en 7 países con desayuno para dos, crédito de hotel y mejora de categoría, y siga sumando puntos Marriott Bonvoy.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Bulgari Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/71/bvlgari-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/71/bvlgari-hotels-resorts.html#hotels",
+      "name": "Hoteles Bulgari",
+      "numberOfItems": 9,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Bvlgari Hotel Beijing",
+          "url": "https://solo5estrellas.com/hotels/3508/-Bvlgari-Hotel-Beijing.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Bvlgari Shanghai",
+          "url": "https://solo5estrellas.com/hotels/3364/Bvlgari-Shanghai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bvlgari Hotel Paris",
+          "url": "https://solo5estrellas.com/hotels/4054/Bvlgari-Hotel-Paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Bvlgari Resort Bali",
+          "url": "https://solo5estrellas.com/hotels/1736/Bvlgari-Resort-Bali-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bvlgari Hotel Roma",
+          "url": "https://solo5estrellas.com/hotels/6592/Bvlgari-Hotel-Roma.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Bvlgari Hotel, Milano",
+          "url": "https://solo5estrellas.com/hotels/1295/Bvlgari-Hotel-Milano.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Bvlgari Hotel Tokyo",
+          "url": "https://solo5estrellas.com/hotels/6368/Bvlgari-Hotel-Tokyo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Bvlgari Hotel, Dubai",
+          "url": "https://solo5estrellas.com/hotels/3492/Bvlgari-Hotel-Dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Bvlgari Hotel London",
+          "url": "https://solo5estrellas.com/hotels/2940/Bvlgari-Hotel-London.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Bulgari directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Bulgari con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, mejora de habitación con prioridad sujeta a disponibilidad, detalle de bienvenida, reconocimiento VIP y Wi-Fi de cortesía. Excepto la mejora, las ventajas se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Marriott Bonvoy al reservar Bulgari con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Las reservas hechas con Solo5Estrellas siguen acumulando puntos y noches de nivel de Marriott Bonvoy; su número de socio se añade a la reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Bulgari se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "9 hoteles en 7 países: dos en Italia y dos en China, y uno en cada uno de los demás."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Bulgari hay en Italia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bvlgari Hotel Milano, en Milán, y Bvlgari Hotel Roma, en Roma. Los dos se pueden reservar con las ventajas de esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál fue el primer hotel Bulgari?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El de Milán, que abrió en 2004. Se puede reservar con las ventajas de esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Marriott STARS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Marriott International para asesores de viaje de lujo; cubre Bulgari, Ritz-Carlton, St. Regis, The Luxury Collection y EDITION. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay Bulgari en Asia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: Bvlgari Hotel Tokyo, Bvlgari Hotel Beijing, Bvlgari Shanghai y Bvlgari Resort Bali."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Bulgari?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
