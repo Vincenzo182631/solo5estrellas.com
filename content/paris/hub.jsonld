@@ -1,0 +1,453 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Europa",
+          "item": "https://solo5estrellas.com/regions/8/europe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "París",
+          "item": "https://solo5estrellas.com/cities/207/paris.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/207/paris.html#webpage",
+      "url": "https://solo5estrellas.com/cities/207/paris.html",
+      "name": "Hoteles de lujo en París",
+      "description": "Compare hoteles de lujo en París por barrio: Triángulo de Oro, Tullerías, Saint-Germain y Torre Eiffel. Reserve con beneficios de Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "City",
+        "name": "París"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/cities/207/paris.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/cities/207/paris.html#hotels",
+      "name": "Hoteles de lujo en París",
+      "numberOfItems": 55,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Four Seasons Paris, George V",
+          "url": "https://solo5estrellas.com/hotels/1096/four-seasons-paris-george-v.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel Plaza Athenee Paris",
+          "url": "https://solo5estrellas.com/hotels/1008/hotel-plaza-athenee-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Le Royal Monceau - Raffles Paris",
+          "url": "https://solo5estrellas.com/hotels/4875/le-royal-monceau-raffles-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hotel Prince de Galles",
+          "url": "https://solo5estrellas.com/hotels/2801/hotel-prince-de-galles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Le Bristol Paris",
+          "url": "https://solo5estrellas.com/hotels/1452/le-bristol-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "La Reserve Paris",
+          "url": "https://solo5estrellas.com/hotels/2389/la-reserve-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Bvlgari Hotel Paris",
+          "url": "https://solo5estrellas.com/hotels/4054/bvlgari-hotel-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Fouquet's Paris",
+          "url": "https://solo5estrellas.com/hotels/2435/fouquet-s-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Hotel San Regis Paris",
+          "url": "https://solo5estrellas.com/hotels/2072/hotel-san-regis-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Hotel de Berri Champs-Elysees",
+          "url": "https://solo5estrellas.com/hotels/6724/hotel-de-berri-champs-elysees.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Hotel du Collectionneur Arc de Triomphe Paris",
+          "url": "https://solo5estrellas.com/hotels/3129/hotel-du-collectionneur-arc-de-triomphe-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Hotel Napoleon Paris",
+          "url": "https://solo5estrellas.com/hotels/3130/hotel-napoleon-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Hyatt Paris Madeleine",
+          "url": "https://solo5estrellas.com/hotels/4608/hyatt-paris-madeleine.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Hotel Sofitel Le Faubourg",
+          "url": "https://solo5estrellas.com/hotels/1131/hotel-sofitel-le-faubourg-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Paris Marriott Champs Elysees Hotel",
+          "url": "https://solo5estrellas.com/hotels/3757/paris-marriott-champs-elysees-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Sofitel Paris Arc de Triomphe",
+          "url": "https://solo5estrellas.com/hotels/4878/sofitel-paris-arc-de-triomphe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Renaissance Paris Arc de Triomphe Hotel",
+          "url": "https://solo5estrellas.com/hotels/3761/renaissance-paris-arc-de-triomphe-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Intercontinental Paris - Avenue Marceau",
+          "url": "https://solo5estrellas.com/hotels/3541/intercontinental-paris-avenue-marceau.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Hotel Keppler",
+          "url": "https://solo5estrellas.com/hotels/4124/hotel-keppler-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Le Meurice",
+          "url": "https://solo5estrellas.com/hotels/1121/le-meurice.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Hotel de Crillon",
+          "url": "https://solo5estrellas.com/hotels/1448/hotel-de-crillon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Castille Paris",
+          "url": "https://solo5estrellas.com/hotels/2583/castille-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Mandarin Oriental Paris",
+          "url": "https://solo5estrellas.com/hotels/2525/mandarin-oriental-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Hotel Regina - Paris",
+          "url": "https://solo5estrellas.com/hotels/3131/hotel-regina-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Hotel Du Louvre",
+          "url": "https://solo5estrellas.com/hotels/3641/hotel-du-louvre.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Grand Hotel du Palais Royal",
+          "url": "https://solo5estrellas.com/hotels/2719/grand-hotel-du-palais-royal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Cheval Blanc Paris",
+          "url": "https://solo5estrellas.com/hotels/4840/cheval-blanc-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Hotel Madame Reve",
+          "url": "https://solo5estrellas.com/hotels/7056/hotel-madame-reve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Hotel Ritz Paris",
+          "url": "https://solo5estrellas.com/hotels/962/hotel-ritz-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Park Hyatt Paris-Vendome",
+          "url": "https://solo5estrellas.com/hotels/1259/park-hyatt-paris-vendome.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "The Westin Paris Vendome",
+          "url": "https://solo5estrellas.com/hotels/2214/the-westin-paris-vendome.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Renaissance Paris Vendome Hotel",
+          "url": "https://solo5estrellas.com/hotels/3763/renaissance-paris-vendome-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "InterContinental Paris Le Grand Hotel",
+          "url": "https://solo5estrellas.com/hotels/1359/intercontinental-paris-le-grand-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Paris Marriott Opera Ambassador Hotel",
+          "url": "https://solo5estrellas.com/hotels/6502/paris-marriott-opera-ambassador-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Mandarin Oriental Lutetia Paris",
+          "url": "https://solo5estrellas.com/hotels/1006/mandarin-oriental-lutetia-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Hotel Pont Royal",
+          "url": "https://solo5estrellas.com/hotels/2071/hotel-pont-royal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Hotel Bel Ami",
+          "url": "https://solo5estrellas.com/hotels/2522/hotel-bel-ami-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Pavillon Faubourg Saint-Germain",
+          "url": "https://solo5estrellas.com/hotels/6301/pavillon-faubourg-saint-germain.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Le Narcisse Blanc Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4399/le-narcisse-blanc-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "L'Hotel",
+          "url": "https://solo5estrellas.com/hotels/4367/l-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "The Peninsula Paris",
+          "url": "https://solo5estrellas.com/hotels/2881/the-peninsula-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Shangri-La Hotel Paris",
+          "url": "https://solo5estrellas.com/hotels/2490/shangri-la-hotel-paris-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Sofitel Paris Baltimore Tour Eiffel",
+          "url": "https://solo5estrellas.com/hotels/4877/sofitel-paris-baltimore-tour-eiffel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Renaissance Paris Nobel Tour Eiffel Hotel",
+          "url": "https://solo5estrellas.com/hotels/4988/renaissance-paris-nobel-tour-eiffel-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Le Dokhan's, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/3842/le-dokhan-s-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Le Metropolitan, A Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/3843/le-metropolitan-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Pavillon de la Reine",
+          "url": "https://solo5estrellas.com/hotels/2108/pavillon-de-la-reine.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Renaissance Paris Republique Hotel",
+          "url": "https://solo5estrellas.com/hotels/3812/renaissance-paris-republique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Château des Fleurs",
+          "url": "https://solo5estrellas.com/hotels/6760/ch-teau-des-fleurs-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Grand Powers",
+          "url": "https://solo5estrellas.com/hotels/4363/grand-powers.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Hotel Molitor Paris",
+          "url": "https://solo5estrellas.com/hotels/3228/hotel-molitor-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Hotel Norman Paris",
+          "url": "https://solo5estrellas.com/hotels/6761/hotel-norman-paris-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Kimpton St Honore Paris",
+          "url": "https://solo5estrellas.com/hotels/6300/kimpton-st-honore-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Maison Delano Paris",
+          "url": "https://solo5estrellas.com/hotels/6460/maison-delano-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "SO/Paris",
+          "url": "https://solo5estrellas.com/hotels/6343/so-paris.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuál es el mejor hotel de lujo en París?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende del barrio. En el Triángulo de Oro, el Four Seasons Hotel George V, Le Bristol o el Hôtel Plaza Athénée; junto a las Tullerías y la plaza Vendôme, Le Meurice, el Ritz Paris o el Hôtel de Crillon; en la orilla izquierda, el Mandarin Oriental Lutetia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿En qué barrio de París conviene alojarse?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Para un primer viaje, en el Triángulo de Oro o cerca de las Tullerías y el Louvre: tiendas, museos y buen acceso en metro. Si prefiere cafés y calma, Saint-Germain; si quiere ver la Torre Eiffel, el Trocadéro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde alojarse en París para unas vacaciones de lujo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En uno de los barrios de esta página. Su asesor puede ayudarle a elegir según las fechas, el presupuesto y si viaja en pareja o en familia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles de lujo hay cerca de la Torre Eiffel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Peninsula Paris, Shangri-La Hotel Paris, Sofitel Paris Baltimore Tour Eiffel y Renaissance Paris Nobel Tour Eiffel Hotel, entre otros de la zona de Torre Eiffel y Trocadéro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuándo es mejor viajar a París?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De abril a junio y de septiembre a octubre, por el clima, aunque son meses de más demanda. En julio y agosto hace calor y algunos restaurantes locales cierran; en diciembre hay luces de Navidad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto se tarda del aeropuerto al hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desde Charles de Gaulle, el RER B tarda unos 30 a 50 minutos y el taxi depende del tráfico. Desde Orly, la línea 14 del metro llega a Châtelet-Les Halles en unos 25 a 30 minutos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según el hotel, desayuno diario para dos, crédito de hotel y mejora de categoría sujeta a disponibilidad. Las condiciones se muestran en la ficha de cada hotel y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se puede reservar un Four Seasons en París?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: Four Seasons Paris, George V, en el Triángulo de Oro. Se reserva a la tarifa publicada, con las ventajas del programa Four Seasons Preferred Partner."
+          }
+        }
+      ]
+    }
+  ]
+}
