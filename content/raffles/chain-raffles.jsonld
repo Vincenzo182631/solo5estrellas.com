@@ -1,0 +1,257 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Raffles",
+          "item": "https://solo5estrellas.com/collection/11/raffles-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/11/raffles-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/11/raffles-hotels-resorts.html",
+      "name": "Hoteles Raffles: 21 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 21 hoteles Raffles en 16 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Raffles Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/11/raffles-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/11/raffles-hotels-resorts.html#hotels",
+      "name": "Hoteles Raffles",
+      "numberOfItems": 21,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Raffles Boston Back Bay Hotel",
+          "url": "https://solo5estrellas.com/hotels/6443/raffles-boston-back-bay-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Raffles Grand Hotel d'Angkor",
+          "url": "https://solo5estrellas.com/hotels/1040/raffles-grand-hotel-d-angkor.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Raffles Hotel Le Royal",
+          "url": "https://solo5estrellas.com/hotels/1039/raffles-hotel-le-royal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Raffles Hainan",
+          "url": "https://solo5estrellas.com/hotels/4910/raffles-hainan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Raffles Shenzhen",
+          "url": "https://solo5estrellas.com/hotels/4909/raffles-shenzhen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Le Royal Monceau - Raffles Paris",
+          "url": "https://solo5estrellas.com/hotels/4875/le-royal-monceau-raffles-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Raffles Udaipur",
+          "url": "https://solo5estrellas.com/hotels/4882/raffles-udaipur.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Raffles Bali",
+          "url": "https://solo5estrellas.com/hotels/4937/raffles-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Raffles Jakarta",
+          "url": "https://solo5estrellas.com/hotels/4940/raffles-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Raffles Maldives Meradhoo Resort",
+          "url": "https://solo5estrellas.com/hotels/4945/raffles-maldives-meradhoo-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Raffles Makati",
+          "url": "https://solo5estrellas.com/hotels/4968/raffles-makati.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Raffles Europejski Warsaw",
+          "url": "https://solo5estrellas.com/hotels/4087/raffles-europejski-warsaw.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Raffles Doha",
+          "url": "https://solo5estrellas.com/hotels/6471/raffles-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Raffles Makkah Palace",
+          "url": "https://solo5estrellas.com/hotels/6475/raffles-makkah-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Raffles Seychelles",
+          "url": "https://solo5estrellas.com/hotels/4898/raffles-seychelles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Raffles Hotel Singapore",
+          "url": "https://solo5estrellas.com/hotels/1051/raffles-hotel-singapore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Raffles Sentosa Singapore",
+          "url": "https://solo5estrellas.com/hotels/6830/raffles-sentosa-singapore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Raffles Istanbul",
+          "url": "https://solo5estrellas.com/hotels/2914/raffles-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Raffles Dubai",
+          "url": "https://solo5estrellas.com/hotels/1891/raffles-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Raffles The Palm Dubai",
+          "url": "https://solo5estrellas.com/hotels/6137/raffles-the-palm-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Raffles London at The OWO",
+          "url": "https://solo5estrellas.com/hotels/6444/raffles-london-at-the-owo.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Raffles directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Raffles con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, entrada anticipada y salida tardía según disponibilidad, detalle de bienvenida y Wi-Fi de cortesía. El desayuno, el crédito, el detalle y el Wi-Fi se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Accor ALL al reservar Raffles con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página de cada hotel, sí: se añade su número de Accor ALL a la reserva y los puntos y noches de nivel se suman en esa estancia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Raffles se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "21 hoteles en 16 países. Singapur, Camboya, China, Indonesia y los Emiratos Árabes Unidos tienen dos cada uno; los demás países, uno."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Raffles hay en Europa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le Royal Monceau - Raffles Paris, Raffles London at The OWO, Raffles Europejski Warsaw y Raffles Istanbul."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es el hotel Raffles más antiguo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Raffles Hotel Singapore. La marca toma su nombre de este hotel, que abrió en 1887."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Raffles hay en Singapur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Raffles Hotel Singapore y Raffles Sentosa Singapore, en la isla de Sentosa. Los dos se pueden reservar con las ventajas de esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Raffles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay Raffles en América?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uno en esta página: Raffles Boston Back Bay Hotel, en Boston."
+          }
+        }
+      ]
+    }
+  ]
+}
