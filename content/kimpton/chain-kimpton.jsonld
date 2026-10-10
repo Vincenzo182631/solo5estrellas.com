@@ -1,0 +1,299 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kimpton",
+          "item": "https://solo5estrellas.com/collection/87/kimpton-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/87/kimpton-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/87/kimpton-hotels.html",
+      "name": "Hoteles Kimpton: 28 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 28 hoteles Kimpton en 11 países y territorios con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Kimpton Hotels & Restaurants"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/87/kimpton-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/87/kimpton-hotels.html#hotels",
+      "name": "Hoteles Kimpton",
+      "numberOfItems": 28,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Kimpton Canary Hotel",
+          "url": "https://solo5estrellas.com/hotels/2021/kimpton-canary-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kimpton La Peer Hotel",
+          "url": "https://solo5estrellas.com/hotels/3548/kimpton-la-peer-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kimpton Rowan Palm Springs Hotel",
+          "url": "https://solo5estrellas.com/hotels/3328/kimpton-rowan-palm-springs-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Kimpton EPIC Miami",
+          "url": "https://solo5estrellas.com/hotels/2708/kimpton-epic-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kimpton Gray Hotel Chicago",
+          "url": "https://solo5estrellas.com/hotels/3660/kimpton-gray-hotel-chicago.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Kimpton Armory Hotel",
+          "url": "https://solo5estrellas.com/hotels/4665/kimpton-armory-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Kimpton Cottonwood Hotel",
+          "url": "https://solo5estrellas.com/hotels/6063/kimpton-cottonwood-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Kimpton Era Midtown",
+          "url": "https://solo5estrellas.com/hotels/7055/kimpton-era-midtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Kimpton Riverplace Hotel",
+          "url": "https://solo5estrellas.com/hotels/4019/kimpton-riverplace-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Kimpton Hotel Monaco Philadelphia",
+          "url": "https://solo5estrellas.com/hotels/4017/kimpton-hotel-monaco-philadelphia-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Kimpton Hotel Palomar Philadelphia",
+          "url": "https://solo5estrellas.com/hotels/4018/kimpton-hotel-palomar-philadelphia-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Kimpton Harper Hotel",
+          "url": "https://solo5estrellas.com/hotels/6068/kimpton-harper-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Kimpton Pittman Hotel",
+          "url": "https://solo5estrellas.com/hotels/4807/kimpton-pittman-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Kimpton Santo",
+          "url": "https://solo5estrellas.com/hotels/6717/kimpton-santo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Kimpton Tsim Sha Tsui Hong Kong",
+          "url": "https://solo5estrellas.com/hotels/6988/kimpton-tsim-sha-tsui-hong-kong.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Kimpton St Honore Paris",
+          "url": "https://solo5estrellas.com/hotels/6300/kimpton-st-honore-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Kimpton Seafire Resort",
+          "url": "https://solo5estrellas.com/hotels/3214/kimpton-seafire-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Kimpton Grand Roatan Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6423/kimpton-grand-roatan-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Kimpton Shinjuku Tokyo",
+          "url": "https://solo5estrellas.com/hotels/6765/kimpton-shinjuku-tokyo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Kimpton De Witt Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/4024/kimpton-de-witt-amsterdam-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Kimpton Blythswood Square Hotel",
+          "url": "https://solo5estrellas.com/hotels/3606/kimpton-blythswood-square-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Kimpton Charlotte Square",
+          "url": "https://solo5estrellas.com/hotels/3610/kimpton-charlotte-square.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Kimpton Aysla Mallorca",
+          "url": "https://solo5estrellas.com/hotels/6306/kimpton-aysla-mallorca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Kimpton Vividora Barcelona",
+          "url": "https://solo5estrellas.com/hotels/6258/kimpton-vividora-barcelona-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Kimpton Kitalay Samui",
+          "url": "https://solo5estrellas.com/hotels/6318/kimpton-kitalay-samui.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Kimpton Maa-Lai Bangkok",
+          "url": "https://solo5estrellas.com/hotels/4666/kimpton-maa-lai-bangkok.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Kimpton Clocktower, Manchester",
+          "url": "https://solo5estrellas.com/hotels/6713/kimpton-clocktower-manchester.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Kimpton Fitzroy London",
+          "url": "https://solo5estrellas.com/hotels/5060/kimpton-fitzroy-london.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Kimpton directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Kimpton con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, mejora de habitación sujeta a disponibilidad, entrada anticipada y salida tardía según disponibilidad, y detalle de bienvenida. El desayuno, el crédito y el detalle se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de IHG One Rewards al reservar Kimpton con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Las reservas hechas con Solo5Estrellas siguen acumulando puntos y noches de nivel de IHG One Rewards; su número de socio se añade a la reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Kimpton se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "28 hoteles en 11 países y territorios: 14 en Estados Unidos, dos en España, dos en Escocia, dos en el Reino Unido y dos en Tailandia, y uno en cada uno de los demás."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Kimpton hay en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kimpton Aysla Mallorca, en Mallorca, y Kimpton Vividora Barcelona, en Barcelona. Los dos se pueden reservar con las ventajas de esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Kimpton hay en Europa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kimpton St Honore Paris, Kimpton Fitzroy London, Kimpton De Witt Amsterdam, Kimpton Charlotte Square, en Edimburgo, Kimpton Blythswood Square Hotel, en Glasgow, y Kimpton Clocktower, en Mánchester, además de los dos de España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es IHG Destined?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de IHG para asesores de viaje de lujo; cubre Kimpton, Six Senses, Regent, InterContinental y otras marcas. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La mayoría de los hoteles no exige estancia mínima, aunque algunos resorts pueden pedir dos noches en temporada alta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Kimpton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
