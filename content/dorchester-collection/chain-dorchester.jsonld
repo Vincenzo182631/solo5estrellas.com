@@ -1,0 +1,185 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dorchester Collection",
+          "item": "https://solo5estrellas.com/collection/37/dorchester-collection.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/37/dorchester-collection.html#webpage",
+      "url": "https://solo5estrellas.com/collection/37/dorchester-collection.html",
+      "name": "Hoteles Dorchester Collection: 9 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 9 hoteles Dorchester Collection en 5 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Dorchester Collection"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/37/dorchester-collection.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/37/dorchester-collection.html#hotels",
+      "name": "Hoteles Dorchester Collection",
+      "numberOfItems": 9,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hotel Bel-Air",
+          "url": "https://solo5estrellas.com/hotels/1005/Hotel-Bel-Air.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Beverly Hills Hotel",
+          "url": "https://solo5estrellas.com/hotels/1035/The-Beverly-Hills-Hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hotel Plaza Athenee Paris",
+          "url": "https://solo5estrellas.com/hotels/1008/Hotel-Plaza-Athenee-Paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Le Meurice",
+          "url": "https://solo5estrellas.com/hotels/1121/Le-Meurice.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hotel Eden",
+          "url": "https://solo5estrellas.com/hotels/1009/Hotel-Eden-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Hotel Principe di Savoia Milano",
+          "url": "https://solo5estrellas.com/hotels/1032/Hotel-Principe-di-Savoia-Milano-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Lana Dubai",
+          "url": "https://solo5estrellas.com/hotels/6583/The-Lana-Dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "45 Park Lane",
+          "url": "https://solo5estrellas.com/hotels/3622/45-Park-Lane.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "The Dorchester",
+          "url": "https://solo5estrellas.com/hotels/1002/The-Dorchester.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Dorchester Collection directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Dorchester Collection con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, entrada anticipada y salida tardía según disponibilidad, y una bienvenida de la dirección del hotel. El desayuno, el crédito y la bienvenida se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dorchester Collection tiene programa de puntos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Dorchester Collection no tiene un programa de fidelización por puntos; las ventajas de Diamond Club son el reconocimiento que recibe en cada estancia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles de Dorchester Collection se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Dorchester y 45 Park Lane, en Londres; Le Meurice y el Hôtel Plaza Athénée, en París; Hotel Eden, en Roma; Hotel Principe di Savoia, en Milán; The Beverly Hills Hotel y Hotel Bel-Air, en Los Ángeles, y The Lana, en Dubái."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles de Dorchester Collection hay en París?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le Meurice y el Hôtel Plaza Athénée. Los dos se pueden reservar con las ventajas de esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles de Dorchester Collection hay en Londres?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Dorchester y 45 Park Lane, los dos en Mayfair."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Dorchester Collection Diamond Club?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Dorchester Collection para asesores de viaje seleccionados. Las reservas se hacen a las tarifas publicadas del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué tarifas no son elegibles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según las condiciones habituales del programa, no aplican las tarifas prepagadas, las reservas en agencias en línea, las estancias con puntos ni las tarifas corporativas. El motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Dorchester Collection?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta."
+          }
+        }
+      ]
+    }
+  ]
+}
