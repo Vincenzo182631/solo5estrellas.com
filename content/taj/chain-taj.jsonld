@@ -1,0 +1,203 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taj",
+          "item": "https://solo5estrellas.com/collection/26/taj-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/26/taj-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/26/taj-hotels.html",
+      "name": "Hoteles Taj: 12 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 12 hoteles Taj en 6 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Taj Hotels"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/26/taj-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/26/taj-hotels.html#hotels",
+      "name": "Hoteles Taj",
+      "numberOfItems": 12,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Taj Campton Place",
+          "url": "https://solo5estrellas.com/hotels/932/Taj-Campton-Place-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Pierre, New York",
+          "url": "https://solo5estrellas.com/hotels/1425/The-Pierre-New-York.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rambagh Palace",
+          "url": "https://solo5estrellas.com/hotels/1664/Rambagh-Palace-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Taj Lake Palace",
+          "url": "https://solo5estrellas.com/hotels/1332/Taj-Lake-Palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Taj Mahal New Delhi",
+          "url": "https://solo5estrellas.com/hotels/1714/Taj-Mahal-New-Delhi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "The Taj Mahal Palace, Mumbai",
+          "url": "https://solo5estrellas.com/hotels/1161/The-Taj-Mahal-Palace-Mumbai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Umaid Bhawan Palace",
+          "url": "https://solo5estrellas.com/hotels/1581/Umaid-Bhawan-Palace-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Taj Exotica Resort & Spa Maldives",
+          "url": "https://solo5estrellas.com/hotels/1246/Taj-Exotica-Resort-Spa-Maldives-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Taj Cape Town",
+          "url": "https://solo5estrellas.com/hotels/2887/Taj-Cape-Town.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Taj Dubai",
+          "url": "https://solo5estrellas.com/hotels/3006/Taj-Dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Taj Exotica Resort & Spa, The Palm, Dubai",
+          "url": "https://solo5estrellas.com/hotels/6316/Taj-Exotica-Resort-Spa-The-Palm-Dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Taj 51 Buckingham Gate",
+          "url": "https://solo5estrellas.com/hotels/1157/Taj-51-Buckingham-Gate-.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Taj directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Taj con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, entrada anticipada y salida tardía según disponibilidad, y un detalle de bienvenida. El desayuno, el crédito y el detalle se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Taj InnerCircle al reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se confirma al hacer la reserva, así que facilite su número de socio. Según las condiciones de Taj InnerCircle, los puntos se acumulan en reservas hechas por los canales de Taj; pregunte antes de reservar si esta reserva los suma."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Taj se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En India: The Taj Mahal Palace, en Bombay; Taj Mahal, en Nueva Delhi; Rambagh Palace, en Jaipur; Taj Lake Palace, en Udaipur, y Umaid Bhawan Palace, en Jodhpur. Fuera de India: The Pierre, en Nueva York; Taj Campton Place, en San Francisco; Taj 51 Buckingham Gate, en Londres; Taj Dubai y Taj Exotica The Palm, en Dubái; Taj Exotica Maldives y Taj Cape Town."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es el hotel Taj más antiguo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El Taj Mahal Palace de Bombay, con el que nació la marca en 1903. Se puede reservar con las ventajas de esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Taj hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Pierre, en Nueva York, y Taj Campton Place, en San Francisco."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué Taj elegir para ver los palacios de India?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rambagh Palace, en Jaipur; Taj Lake Palace, en Udaipur; Umaid Bhawan Palace, en Jodhpur, y The Taj Mahal Palace, en Bombay."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima o fechas excluidas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Taj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
