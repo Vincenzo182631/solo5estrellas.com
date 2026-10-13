@@ -1,0 +1,383 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rosewood",
+          "item": "https://solo5estrellas.com/collection/10/rosewood-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/10/rosewood-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/10/rosewood-hotels-resorts.html",
+      "name": "Hoteles Rosewood: 42 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 42 hoteles Rosewood en 23 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Rosewood Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/10/rosewood-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/10/rosewood-hotels-resorts.html#hotels",
+      "name": "Hoteles Rosewood",
+      "numberOfItems": 42,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Rosewood Miramar Beach Hotel",
+          "url": "https://solo5estrellas.com/hotels/3483/rosewood-miramar-beach-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rosewood Sand Hill",
+          "url": "https://solo5estrellas.com/hotels/2295/rosewood-sand-hill.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rosewood Washington, D.C.",
+          "url": "https://solo5estrellas.com/hotels/3092/rosewood-washington-d-c-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Kona Village, A Rosewood Resort",
+          "url": "https://solo5estrellas.com/hotels/6370/kona-village-a-rosewood-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rosewood Inn of the Anasazi",
+          "url": "https://solo5estrellas.com/hotels/1907/rosewood-inn-of-the-anasazi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "The Carlyle, A Rosewood Hotel",
+          "url": "https://solo5estrellas.com/hotels/1119/the-carlyle-a-rosewood-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Rosewood Mansion On Turtle Creek",
+          "url": "https://solo5estrellas.com/hotels/1439/rosewood-mansion-on-turtle-creek-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Rosewood Schloss Fuschl",
+          "url": "https://solo5estrellas.com/hotels/1728/rosewood-schloss-fuschl-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Rosewood Vienna",
+          "url": "https://solo5estrellas.com/hotels/6291/rosewood-vienna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Rosewood Baha Mar",
+          "url": "https://solo5estrellas.com/hotels/2982/rosewood-baha-mar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Rosewood Bermuda",
+          "url": "https://solo5estrellas.com/hotels/2460/rosewood-bermuda.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Rosewood Sao Paulo",
+          "url": "https://solo5estrellas.com/hotels/6069/rosewood-sao-paulo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Rosewood Little Dix Bay",
+          "url": "https://solo5estrellas.com/hotels/3938/rosewood-little-dix-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Rosewood Phnom Penh",
+          "url": "https://solo5estrellas.com/hotels/3481/rosewood-phnom-penh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Rosewood Hotel Georgia",
+          "url": "https://solo5estrellas.com/hotels/2470/rosewood-hotel-georgia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Rosewood Beijing",
+          "url": "https://solo5estrellas.com/hotels/2918/rosewood-beijing.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Rosewood Guangzhou",
+          "url": "https://solo5estrellas.com/hotels/3946/rosewood-guangzhou.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Rosewood Hong Kong",
+          "url": "https://solo5estrellas.com/hotels/3631/rosewood-hong-kong.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Rosewood Sanya",
+          "url": "https://solo5estrellas.com/hotels/3276/rosewood-sanya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Hotel de Crillon",
+          "url": "https://solo5estrellas.com/hotels/1448/hotel-de-crillon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Rosewood Courchevel Le Jardin Alpin",
+          "url": "https://solo5estrellas.com/hotels/6955/rosewood-courchevel-le-jardin-alpin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Rosewood Munich",
+          "url": "https://solo5estrellas.com/hotels/6435/rosewood-munich.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Rosewood Castiglion del Bosco",
+          "url": "https://solo5estrellas.com/hotels/2265/rosewood-castiglion-del-bosco.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Rosewood Miyakojima",
+          "url": "https://solo5estrellas.com/hotels/6779/rosewood-miyakojima.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Rosewood Luang Prabang",
+          "url": "https://solo5estrellas.com/hotels/3482/rosewood-luang-prabang.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Las Ventanas Al Paraiso",
+          "url": "https://solo5estrellas.com/hotels/985/las-ventanas-al-paraiso.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Rosewood Mandarina",
+          "url": "https://solo5estrellas.com/hotels/6764/rosewood-mandarina.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Rosewood Mayakoba",
+          "url": "https://solo5estrellas.com/hotels/1896/rosewood-mayakoba.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Rosewood San Miguel Allende",
+          "url": "https://solo5estrellas.com/hotels/3479/rosewood-san-miguel-allende.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Rosewood Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/6785/rosewood-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Rosewood Cape Kidnappers",
+          "url": "https://solo5estrellas.com/hotels/2468/rosewood-cape-kidnappers.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Rosewood Kauri Cliffs",
+          "url": "https://solo5estrellas.com/hotels/1243/rosewood-kauri-cliffs.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Rosewood Matakauri Lodge",
+          "url": "https://solo5estrellas.com/hotels/1255/rosewood-matakauri-lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Rosewood Doha",
+          "url": "https://solo5estrellas.com/hotels/6895/rosewood-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Rosewood AMAALA",
+          "url": "https://solo5estrellas.com/hotels/7114/rosewood-amaala.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Rosewood Jeddah",
+          "url": "https://solo5estrellas.com/hotels/1910/rosewood-jeddah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Rosewood Villa Magna",
+          "url": "https://solo5estrellas.com/hotels/2920/rosewood-villa-magna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Rosewood Bangkok",
+          "url": "https://solo5estrellas.com/hotels/3661/rosewood-bangkok.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Rosewood Phuket",
+          "url": "https://solo5estrellas.com/hotels/3278/rosewood-phuket.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Rosewood Abu Dhabi",
+          "url": "https://solo5estrellas.com/hotels/2707/rosewood-abu-dhabi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Rosewood London",
+          "url": "https://solo5estrellas.com/hotels/2766/rosewood-london.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "The Chancery Rosewood",
+          "url": "https://solo5estrellas.com/hotels/6837/the-chancery-rosewood.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Rosewood directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Rosewood con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, entrada anticipada y salida tardía según disponibilidad, un detalle de bienvenida y Wi-Fi de cortesía. Las condiciones dependen del hotel y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Rosewood tiene programa de puntos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Rosewood no tiene un programa de fidelización por puntos; las ventajas de Rosewood Elite son el reconocimiento que recibe en cada estancia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Rosewood se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "42 hoteles en 23 países y territorios. Los países con más hoteles son Estados Unidos, China, México."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Rosewood hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: Las Ventanas Al Paraiso, Rosewood Mandarina, Rosewood Mayakoba, Rosewood San Miguel Allende. En España: Rosewood Villa Magna."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Rosewood hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "7 hoteles: Rosewood Miramar Beach Hotel, Rosewood Sand Hill, Rosewood Washington, D.C., Kona Village, A Rosewood Resort, Rosewood Inn of the Anasazi, The Carlyle, A Rosewood Hotel, Rosewood Mansion On Turtle Creek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Rosewood Elite?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Rosewood Hotel Group para asesores de viaje seleccionados. Las reservas se hacen a las tarifas publicadas del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y la prioridad para la mejora de habitación."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Rosewood?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -23,3 +23,6 @@ Hotel, city and region URLs that Google has indexed under more than one slug for
 curl -sI "https://solo5estrellas.com/browse_country.cfm?countryid=64" | grep -i '^location'
 curl -sI "https://solo5estrellas.com/hotels/962/Hotel-Ritz-Paris.html" | grep -iE '^HTTP|^location'
 ```
+
+## Protect the pages that already rank
+`/collection/26/Taj_Hotels.html` ranks at position 7.6 for "taj hotels" (112 impressions) and at 6.3 for "hoteles taj". When release 3 consolidates slugs, redirect `Taj_Hotels.html` and `taj-hotels.html` to **one** canonical in a **single 301 step** (no chains), keep the page content unchanged in the same release, and check Search Console for 14 days afterwards. Do the same for any page ranked in the top 10 (the Turks & Caicos country page is the other one).

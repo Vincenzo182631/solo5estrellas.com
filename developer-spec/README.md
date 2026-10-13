@@ -31,6 +31,8 @@ Order reason: release 1 fixes what every page shares and can't break a URL; rele
 4. Deploy; run `verify.sh` on production; send the output to SEO.
 5. Request a recrawl in Search Console for the home page and one page of each template.
 
+Pages that already rank (Taj at position 7.6, Turks & Caicos) get a single 301 step and unchanged content in release 3; see `REDIRECT-MAPS.md`.
+
 ## Rollback
 Releases 1 to 2 are template and server settings; revert the change. Release 3 is the only one that changes URLs: keep the old router behind a switch for 48 hours. Never remove a 301 once Google has seen it.
 
