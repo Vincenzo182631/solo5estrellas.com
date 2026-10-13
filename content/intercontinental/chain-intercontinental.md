@@ -129,7 +129,7 @@ InterContinental Hotels & Resorts es la marca de lujo de IHG, fundada en 1946 po
 - [InterContinental London Park Lane](/hotels/3983/intercontinental-london-park-lane-.html) (Londres)
 - [Nomad London](/hotels/6734/nomad-london.html) (Londres)
 
-### Oriente Medio y Egipto
+### Oriente Medio y norte de África
 
 **Baréin (1)**
 - [InterContinental Bahrain](/hotels/4755/intercontinental-bahrain.html) (Manama)
@@ -259,7 +259,7 @@ En México: InterContinental Presidente Cancun Resort, Intercontinental Presiden
 
 **¿Qué hoteles InterContinental hay en Estados Unidos?**
 
-11 hoteles: Intercontinental Los Angeles Downtown, InterContinental San Francisco, InterContinental Washington D.C. - The Wharf, The Willard InterContinental, Hotel Zamora, InterContinental Miami, Lighthouse Hotel, InterContinental Buckhead Atlanta, InterContinental Chicago Magnificent Mile, InterContinental Minneapolis – St Paul Airport, InterContinental New York Barclay.
+11 hoteles, entre ellos Intercontinental Los Angeles Downtown, InterContinental San Francisco, InterContinental Washington D.C. - The Wharf, The Willard InterContinental, Hotel Zamora, InterContinental Miami y 5 más; la lista completa está en esta página.
 
 **¿Qué es IHG Destined?**
 

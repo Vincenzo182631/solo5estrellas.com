@@ -98,7 +98,7 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 - [Rosewood London](/hotels/2766/rosewood-london.html) (Londres)
 - [The Chancery Rosewood](/hotels/6837/the-chancery-rosewood.html) (Londres)
 
-### Oriente Medio y Egipto
+### Oriente Medio y norte de África
 
 **Catar (1)**
 - [Rosewood Doha](/hotels/6895/rosewood-doha.html) (Doha)
@@ -173,7 +173,7 @@ En México: Las Ventanas Al Paraiso, Rosewood Mandarina, Rosewood Mayakoba, Rose
 
 **¿Qué hoteles Rosewood hay en Estados Unidos?**
 
-7 hoteles: Rosewood Miramar Beach Hotel, Rosewood Sand Hill, Rosewood Washington, D.C., Kona Village, A Rosewood Resort, Rosewood Inn of the Anasazi, The Carlyle, A Rosewood Hotel, Rosewood Mansion On Turtle Creek.
+7 hoteles, entre ellos Rosewood Miramar Beach Hotel, Rosewood Sand Hill, Rosewood Washington, D.C., Kona Village, A Rosewood Resort, Rosewood Inn of the Anasazi, The Carlyle, A Rosewood Hotel y 1 más; la lista completa está en esta página.
 
 **¿Qué es Rosewood Elite?**
 

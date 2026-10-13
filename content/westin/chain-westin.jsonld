@@ -1,0 +1,443 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Westin",
+          "item": "https://solo5estrellas.com/collection/17/westin-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/17/westin-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/17/westin-hotels-resorts.html",
+      "name": "Hoteles Westin: 52 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 52 hoteles Westin en 23 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Westin Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/17/westin-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/17/westin-hotels-resorts.html#hotels",
+      "name": "Hoteles Westin",
+      "numberOfItems": 52,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "The Westin Kierland Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3854/the-westin-kierland-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Westin Phoenix Downtown",
+          "url": "https://solo5estrellas.com/hotels/5011/the-westin-phoenix-downtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Westin Tempe",
+          "url": "https://solo5estrellas.com/hotels/6441/the-westin-tempe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "The Westin Anaheim Resort",
+          "url": "https://solo5estrellas.com/hotels/4228/the-westin-anaheim-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Westin Carlsbad Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3898/the-westin-carlsbad-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "The Westin Mission Hills Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/2146/the-westin-mission-hills-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Westin Pasadena",
+          "url": "https://solo5estrellas.com/hotels/7092/the-westin-pasadena.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "The Westin St. Francis San Francisco on Union Square",
+          "url": "https://solo5estrellas.com/hotels/3770/the-westin-st-francis-san-francisco-on-union-square.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "The Westin Riverfront Resort & Spa at Beaver Creek Mountain",
+          "url": "https://solo5estrellas.com/hotels/3865/the-westin-riverfront-resort-spa-at-beaver-creek-mountain.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "The Westin Fort Lauderdale Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/2347/the-westin-fort-lauderdale-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Walt Disney World Swan",
+          "url": "https://solo5estrellas.com/hotels/4733/walt-disney-world-swan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Westin Cape Coral at Marina Village",
+          "url": "https://solo5estrellas.com/hotels/6426/westin-cape-coral-at-marina-village.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Moana Surfrider, a Westin Resort",
+          "url": "https://solo5estrellas.com/hotels/2102/moana-surfrider-a-westin-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "The Westin Hapuna Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/2052/the-westin-hapuna-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "The Westin Maui Resort and Spa",
+          "url": "https://solo5estrellas.com/hotels/2147/the-westin-maui-resort-and-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "The Westin Michigan Avenue",
+          "url": "https://solo5estrellas.com/hotels/2162/the-westin-michigan-avenue.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "The Westin Copley Place",
+          "url": "https://solo5estrellas.com/hotels/4690/the-westin-copley-place.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Westin Edina Galleria",
+          "url": "https://solo5estrellas.com/hotels/3858/the-westin-edina-galleria.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "The Westin Jackson",
+          "url": "https://solo5estrellas.com/hotels/4732/the-westin-jackson.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "The Westin Lake Las Vegas Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3848/the-westin-lake-las-vegas-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "The Westin Charlotte",
+          "url": "https://solo5estrellas.com/hotels/6439/the-westin-charlotte.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "The Westin Philadelphia",
+          "url": "https://solo5estrellas.com/hotels/3853/the-westin-philadelphia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "The Westin Nashville",
+          "url": "https://solo5estrellas.com/hotels/6810/-the-westin-nashville.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "The Westin Austin Downtown",
+          "url": "https://solo5estrellas.com/hotels/7020/the-westin-austin-downtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "The Westin Riverwalk",
+          "url": "https://solo5estrellas.com/hotels/2203/the-westin-riverwalk.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Westin Galleria Houston",
+          "url": "https://solo5estrellas.com/hotels/6240/westin-galleria-houston.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "The Westin Perth",
+          "url": "https://solo5estrellas.com/hotels/6525/the-westin-perth.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "The Westin Miyako Kyoto",
+          "url": "https://solo5estrellas.com/hotels/3817/the-westin-miyako-kyoto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "The Westin Reserva Conchal",
+          "url": "https://solo5estrellas.com/hotels/2534/the-westin-reserva-conchal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "The Westin Punta Cana Resort & Club",
+          "url": "https://solo5estrellas.com/hotels/3015/the-westin-punta-cana-resort-club-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "The Westin Cairo Golf Resort & Spa, Katameya Dunes",
+          "url": "https://solo5estrellas.com/hotels/6921/the-westin-cairo-golf-resort-spa-katameya-dunes.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "The Westin Paris Vendome",
+          "url": "https://solo5estrellas.com/hotels/2214/the-westin-paris-vendome.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "The Westin Bora Bora Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6918/the-westin-bora-bora-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "The Westin Hamburg",
+          "url": "https://solo5estrellas.com/hotels/4675/the-westin-hamburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "The Westin Grand Cayman Seven Mile Beach Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3788/the-westin-grand-cayman-seven-mile-beach-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "The Westin Resort, Costa Navarino",
+          "url": "https://solo5estrellas.com/hotels/5028/the-westin-resort-costa-navarino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "The Westin Resort & Spa, Himalayas",
+          "url": "https://solo5estrellas.com/hotels/7120/the-westin-resort-spa-himalayas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "The Westin Resort & Spa Ubud, Bali",
+          "url": "https://solo5estrellas.com/hotels/4672/the-westin-resort-spa-ubud-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "The Westin Resort Nusa Dua, Bali",
+          "url": "https://solo5estrellas.com/hotels/6932/the-westin-resort-nusa-dua-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "The Westin Dublin",
+          "url": "https://solo5estrellas.com/hotels/1289/the-westin-dublin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "The Westin Excelsior Rome",
+          "url": "https://solo5estrellas.com/hotels/1038/the-westin-excelsior-rome.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "The Westin Dragonara Resort, Malta",
+          "url": "https://solo5estrellas.com/hotels/3731/the-westin-dragonara-resort-malta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "The Westin Playa Vallarta, an All-Inclusive Resort  <br> Accepting Bookings starting May 2026 <br>",
+          "url": "https://solo5estrellas.com/hotels/3779/the-westin-playa-vallarta-an-all-inclusive-resort-br-accepting-bookings-starting-may-2026-br-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Westin Santa Fe Mexico City",
+          "url": "https://solo5estrellas.com/hotels/6891/westin-santa-fe-mexico-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "The Westin Salgados Beach Resort , Algarve",
+          "url": "https://solo5estrellas.com/hotels/6835/the-westin-salgados-beach-resort-algarve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "The Westin Josun Seoul",
+          "url": "https://solo5estrellas.com/hotels/5012/the-westin-josun-seoul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "The Westin La Quinta Golf Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6546/the-westin-la-quinta-golf-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "The Westin Valencia",
+          "url": "https://solo5estrellas.com/hotels/1827/the-westin-valencia-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "The Westin Grande Sukhumvit",
+          "url": "https://solo5estrellas.com/hotels/5013/the-westin-grande-sukhumvit.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "The Westin Siray Bay Resort & Spa, Phuket",
+          "url": "https://solo5estrellas.com/hotels/3708/the-westin-siray-bay-resort-spa-phuket.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "The Westin London City",
+          "url": "https://solo5estrellas.com/hotels/5029/the-westin-london-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "The Westin Beach Resort & Spa at Frenchman’s Reef",
+          "url": "https://solo5estrellas.com/hotels/6658/the-westin-beach-resort-spa-at-frenchman-s-reef-.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Westin directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Westin con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de hasta 200 USD, mejora de habitación según disponibilidad en el check-in, entrada anticipada y salida tardía con prioridad según disponibilidad, y un regalo de bienvenida VIP. Las condiciones se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Marriott Bonvoy al reservar Westin con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página de cada hotel, sí: se añade su número de Marriott Bonvoy a la reserva. Confirme al reservar que esa tarifa suma puntos y noches de nivel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Westin se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "52 hoteles en 23 países y territorios. Los países con más hoteles son Estados Unidos, Indonesia, México."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Westin hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: The Westin Playa Vallarta, an All-Inclusive Resort  <br> Accepting Bookings starting May 2026 <br>, Westin Santa Fe Mexico City. En España: The Westin La Quinta Golf Resort & Spa, The Westin Valencia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Westin hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "26 hoteles, entre ellos The Westin Kierland Resort & Spa, The Westin Phoenix Downtown, The Westin Tempe, The Westin Anaheim Resort, The Westin Carlsbad Resort & Spa, The Westin Mission Hills Resort & Spa y 20 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Marriott Luminous?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Marriott International para asesores de viaje de las marcas premium, como Westin, Renaissance, Sheraton, JW Marriott, W Hotels, Le Méridien y Autograph Collection. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos; solo participan hoteles seleccionados."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Westin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -87,7 +87,7 @@ Renaissance Hotels es una marca lifestyle de Marriott International, de hoteles 
 **España (1)**
 - [Renaissance Barcelona Hotel](/hotels/6901/renaissance-barcelona-hotel.html) (Barcelona)
 
-### Oriente Medio y Egipto
+### Oriente Medio y norte de África
 
 **Egipto (1)**
 - [Renaissance Cairo Mirage City Hotel](/hotels/6922/renaissance-cairo-mirage-city-hotel.html) (El Cairo)
@@ -144,7 +144,7 @@ Esta página no incluye hoteles en México. En España: Renaissance Barcelona Ho
 
 **¿Qué hoteles Renaissance hay en Estados Unidos?**
 
-11 hoteles: Renaissance Esmeralda Resort & Spa at Indian Wells, Renaissance Orlando at SeaWorld, Renaissance Chicago Downtown Hotel, Hotel de la Poste – French Quarter, A Renaissance Hotel, Renaissance Boston Seaport District, Renaissance Reno Downtown Hotel & Spa, Renaissance New York Times Square Hotel, Renaissance Charleston Historic District Hotel, Renaissance Nashville Hotel, Renaissance Dallas Hotel, The Worthington Renaissance Fort Worth Hotel.
+11 hoteles, entre ellos Renaissance Esmeralda Resort & Spa at Indian Wells, Renaissance Orlando at SeaWorld, Renaissance Chicago Downtown Hotel, Hotel de la Poste – French Quarter, A Renaissance Hotel, Renaissance Boston Seaport District, Renaissance Reno Downtown Hotel & Spa y 5 más; la lista completa está en esta página.
 
 **¿Qué es Marriott Luminous?**
 
