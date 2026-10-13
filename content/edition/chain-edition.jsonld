@@ -1,0 +1,263 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "EDITION",
+          "item": "https://solo5estrellas.com/collection/74/edition-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/74/edition-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/74/edition-hotels.html",
+      "name": "Hoteles EDITION: 22 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 22 hoteles EDITION en 12 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "EDITION Hotels"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/74/edition-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/74/edition-hotels.html#hotels",
+      "name": "Hoteles EDITION",
+      "numberOfItems": 22,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "The West Hollywood EDITION",
+          "url": "https://solo5estrellas.com/hotels/3375/the-west-hollywood-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Miami Beach EDITION",
+          "url": "https://solo5estrellas.com/hotels/2962/the-miami-beach-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Tampa EDITION",
+          "url": "https://solo5estrellas.com/hotels/6239/the-tampa-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "The New York EDITION",
+          "url": "https://solo5estrellas.com/hotels/2992/the-new-york-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Times Square EDITION",
+          "url": "https://solo5estrellas.com/hotels/3373/the-times-square-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "The Dali EDITION",
+          "url": "https://solo5estrellas.com/hotels/7109/the-dali-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Sanya EDITION",
+          "url": "https://solo5estrellas.com/hotels/3488/the-sanya-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "The Shanghai EDITION",
+          "url": "https://solo5estrellas.com/hotels/3367/the-shanghai-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "The Reykjavík EDITION",
+          "url": "https://solo5estrellas.com/hotels/4049/the-reykjav-k-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "The Lake Como EDITION",
+          "url": "https://solo5estrellas.com/hotels/6909/the-lake-como-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "The Rome EDITION",
+          "url": "https://solo5estrellas.com/hotels/4052/the-rome-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "The Tokyo EDITION Toranomon",
+          "url": "https://solo5estrellas.com/hotels/4183/the-tokyo-edition-toranomon-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "The Tokyo EDITION, Ginza",
+          "url": "https://solo5estrellas.com/hotels/6656/the-tokyo-edition-ginza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "The Riviera Maya EDITION at Kanai",
+          "url": "https://solo5estrellas.com/hotels/6547/the-riviera-maya-edition-at-kanai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "The Red Sea EDITION",
+          "url": "https://solo5estrellas.com/hotels/7039/the-red-sea-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "The Singapore EDITION",
+          "url": "https://solo5estrellas.com/hotels/6577/the-singapore-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "The Barcelona EDITION",
+          "url": "https://solo5estrellas.com/hotels/3369/the-barcelona-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Madrid EDITION",
+          "url": "https://solo5estrellas.com/hotels/6213/the-madrid-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "The Bodrum EDITION",
+          "url": "https://solo5estrellas.com/hotels/3371/the-bodrum-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "The Abu Dhabi EDITION",
+          "url": "https://solo5estrellas.com/hotels/3468/the-abu-dhabi-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "The Dubai EDITION",
+          "url": "https://solo5estrellas.com/hotels/4053/the-dubai-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "The London EDITION",
+          "url": "https://solo5estrellas.com/hotels/2963/the-london-edition.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar EDITION directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar EDITION con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, mejora de habitación a la llegada, entrada anticipada y salida tardía con prioridad según disponibilidad, y un regalo de bienvenida VIP. El desayuno, el crédito y el regalo se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Marriott Bonvoy al reservar EDITION con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Las reservas hechas con Solo5Estrellas siguen acumulando puntos y noches de nivel de Marriott Bonvoy; su número de socio se añade a la reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles EDITION se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "22 hoteles en 12 países y territorios. Los países con más hoteles son Estados Unidos, China, Italia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles EDITION hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: The Riviera Maya EDITION at Kanai. En España: The Barcelona EDITION, The Madrid EDITION."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles EDITION hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "5 hoteles: The West Hollywood EDITION, The Miami Beach EDITION, The Tampa EDITION, The New York EDITION, The Times Square EDITION."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Marriott STARS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Marriott International para asesores de viaje de lujo; cubre EDITION, Ritz-Carlton, St. Regis, Bulgari, The Luxury Collection y Ritz-Carlton Reserve. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de EDITION?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
