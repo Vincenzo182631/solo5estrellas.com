@@ -1,0 +1,167 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Montage",
+          "item": "https://solo5estrellas.com/collection/93/montage-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/93/montage-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/93/montage-hotels-resorts.html",
+      "name": "Hoteles Montage: 6 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 6 hoteles Montage en 2 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Montage Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/93/montage-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/93/montage-hotels-resorts.html#hotels",
+      "name": "Hoteles Montage",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Montage Healdsburg",
+          "url": "https://solo5estrellas.com/hotels/4575/Montage-Healdsburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Montage Laguna Beach",
+          "url": "https://solo5estrellas.com/hotels/1253/Montage-Laguna-Beach-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Montage Big Sky",
+          "url": "https://solo5estrellas.com/hotels/6238/Montage-Big-Sky.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Montage Palmetto Bluff",
+          "url": "https://solo5estrellas.com/hotels/1569/Montage-Palmetto-Bluff.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Montage Deer Valley",
+          "url": "https://solo5estrellas.com/hotels/2394/Montage-Deer-Valley.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Montage Los Cabos, Mexico",
+          "url": "https://solo5estrellas.com/hotels/3337/Montage-Los-Cabos-Mexico.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Montage directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Montage con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, entrada anticipada y salida tardía según disponibilidad, reconocimiento VIP y Wi-Fi de cortesía. Las condiciones se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Montage tiene programa de puntos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Montage no tiene un programa de fidelización por puntos; las ventajas de socio preferente son el reconocimiento que recibe en cada estancia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Montage se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "6 hoteles en 2 países y territorios. Los países con más hoteles son Estados Unidos, México."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Montage hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: Montage Los Cabos, Mexico. Esta página no incluye hoteles en España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Montage hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "5 hoteles: Montage Healdsburg, Montage Laguna Beach, Montage Big Sky, Montage Palmetto Bluff, Montage Deer Valley."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es el programa de socio preferente de Montage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Montage trabaja con un número reducido de agencias de viaje socias preferentes, y Solo5Estrellas es una de ellas. Las reservas se hacen a las tarifas publicadas del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Montage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
