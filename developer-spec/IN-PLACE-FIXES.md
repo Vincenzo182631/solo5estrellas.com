@@ -140,12 +140,15 @@ About 200 hotel pages carry the replacement character (U+FFFD) in place of accen
 ## 10. Headers and cookies
 Add `Strict-Transport-Security: max-age=31536000` (after fix 3 is stable), `X-Content-Type-Options: nosniff`, `Referrer-Policy: strict-origin-when-cross-origin`; remove `X-Powered-By`; add `Cache-Control` for static assets and for city, chain and collection pages; make the `CFID`/`CFTOKEN` cookies session cookies (they currently expire in 2056). Consider caching the city pages: New York, London and Cancún take 2.8-3.4 s to first byte (other templates take about 0.6 s).
 
+## 11. Amanyara: hide booking until reopening is confirmed (client decision, 14 Oct)
+Aman's own site says Amanyara is temporarily closed until 1 November 2026. Until the client confirms the reopening date with Aman, hide the rate and booking widget on `/hotels/1523/` in both the Spanish and English templates (or replace it with a notice: "Amanyara está cerrado temporalmente; consulte con nosotros las fechas de reapertura"). Keep the page indexable and the URL unchanged. Restore the widget once the date is confirmed. Check: the page returns 200 and shows no "Consultar disponibilidad" form.
+
 ## What not to change yet
 Do not launch the new URLs from the content drafts (`/hoteles-de-lujo/...`, `/hoteles-four-seasons/`); do not change `robots.txt` Disallow rules; do not noindex anything until fixes 1-5 are live and re-crawled.
 
 ## Release plan
 1. Staging: fixes 1, 2, 7 first (template only). Run `verify.sh <staging>`.
-2. Production: fixes 1, 2, 7; run `verify.sh`; request re-indexing of the home page and 10 sample pages in Search Console.
+2. Production: fixes 1, 2, 7 (and fix 11, Amanyara booking, as soon as the client says so); run `verify.sh`; request re-indexing of the home page and 10 sample pages in Search Console.
 3. Fixes 3-5 together (redirects); keep a rollback copy of the old rules; watch Search Console coverage daily for two weeks.
 4. Fixes 6, 8, 9, 10.
 Report the `verify.sh` result after each step.

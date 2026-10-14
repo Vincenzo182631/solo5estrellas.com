@@ -8,7 +8,7 @@
 
 **Problema en la ficha actual:** en español la página es solo un muro de inicio de sesión (sin texto del experto, sin tabla de ventajas, sin preguntas frecuentes). La versión en inglés (`whatahotel.com/hotels/1523/`) sí tiene todo el contenido. Los bloques siguientes usan solo datos de la web de Aman y de la tabla de ventajas ya publicada.
 
-> **[VERIFICAR antes de publicar: reapertura.]** La web de Aman indica que Amanyara está "temporalmente cerrado hasta el 1 de noviembre de 2026" por obras de mejora. No publique la ficha como reservable sin confirmar la fecha de reapertura (Z50).
+> **[VERIFICAR antes de publicar: reapertura.]** La web de Aman indica que Amanyara está "temporalmente cerrado hasta el 1 de noviembre de 2026" por obras de mejora. **Decisión del cliente (14 oct): ocultar la reserva hasta confirmar la fecha** (Z50, arreglo 11 de `IN-PLACE-FIXES.md`).
 
 **La perspectiva del experto**
 Amanyara ocupa el extremo oeste de Providenciales, frente al Parque Nacional Marino de Northwest Point, en las Islas Turcas y Caicos.

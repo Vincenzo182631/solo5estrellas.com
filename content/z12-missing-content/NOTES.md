@@ -16,7 +16,7 @@
 The English Amanyara page claims a "3,000-acre" reserve, "Amanyara Marine Conservation Program", a "Fish House" dock dinner, a "Reef Discovery" sunrise snorkel and "Grace Bay minutes away". None of these appear on Aman's page. Not carried over. No ratings, prices or "best" claims.
 
 ## New findings
-- **Z50:** Amanyara is temporarily closed until 1 Nov 2026 per Aman; the live page and the English page both sell it.
+- **Z50:** Amanyara is temporarily closed until 1 Nov 2026 per Aman; the live page and the English page both sell it. **Client decision 14 Oct: hide booking until the reopening date is confirmed** (Approved; IN-PLACE-FIXES fix 11).
 - **Z51:** Residences perks attributed to Marriott STARS with no public confirmation; "100 USD (200 USD suites)" contradicts the table.
 - **Z52:** Villa Mani says "steps from Grace Bay" (it is on the south shore) and shows booking perks while saying it cannot be booked online.
 - **Z53:** English Amanyara text gives 3,000 acres; Aman gives 18,000.

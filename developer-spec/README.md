@@ -5,7 +5,7 @@ Everything here is read-only guidance written from public pages (no code or serv
 ## Files
 | File | Use |
 | --- | --- |
-| `IN-PLACE-FIXES.md` | The 10 fixes, in release order, with snippets and checks |
+| `IN-PLACE-FIXES.md` | The 11 fixes, in release order, with snippets and checks |
 | `verify.sh` | 44 read-only checks; run against staging with `./verify.sh https://staging-host` |
 | `titles-descriptions.csv` | Title and description for every template (lengths checked) |
 | `titles-descriptions-chains.csv` | Title and description for all 62 chain and collection pages, with flags (programme names, count mismatches) |
