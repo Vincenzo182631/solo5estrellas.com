@@ -1,0 +1,1853 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Small Luxury Hotels of the World",
+          "item": "https://solo5estrellas.com/collection/47/small-luxury-hotels-of-the-world.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/47/small-luxury-hotels-of-the-world.html#webpage",
+      "url": "https://solo5estrellas.com/collection/47/small-luxury-hotels-of-the-world.html",
+      "name": "Hoteles Small Luxury Hotels of the World: 287 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 287 hoteles Small Luxury Hotels of the World en 60 países con desayuno para dos, crédito de hotel y mejora de categoría.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Small Luxury Hotels of the World"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/47/small-luxury-hotels-of-the-world.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/47/small-luxury-hotels-of-the-world.html#hotels",
+      "name": "Hoteles Small Luxury Hotels of the World",
+      "numberOfItems": 287,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Castle Hot Springs Resort",
+          "url": "https://solo5estrellas.com/hotels/4330/castle-hot-springs-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Appellation Healdsburg",
+          "url": "https://solo5estrellas.com/hotels/7097/appellation-healdsburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lennox Hotel Miami Beach",
+          "url": "https://solo5estrellas.com/hotels/4342/lennox-hotel-miami-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "The Grady Hotel",
+          "url": "https://solo5estrellas.com/hotels/6170/the-grady-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "RiverView Ranch",
+          "url": "https://solo5estrellas.com/hotels/4354/riverview-ranch.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "The Frederick Hotel",
+          "url": "https://solo5estrellas.com/hotels/4344/the-frederick-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Iroquois New York",
+          "url": "https://solo5estrellas.com/hotels/4346/the-iroquois-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "The Roundtree, Amagansett",
+          "url": "https://solo5estrellas.com/hotels/6187/the-roundtree-amagansett.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Wentworth Mansion",
+          "url": "https://solo5estrellas.com/hotels/4332/wentworth-mansion.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "The Lodge at St Edward State Park",
+          "url": "https://solo5estrellas.com/hotels/6512/the-lodge-at-st-edward-state-park.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "The Inn at English Harbour",
+          "url": "https://solo5estrellas.com/hotels/4272/the-inn-at-english-harbour.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Altstadt Vienna",
+          "url": "https://solo5estrellas.com/hotels/6179/altstadt-vienna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "DasPosthotel",
+          "url": "https://solo5estrellas.com/hotels/4336/dasposthotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Grossarler Hof",
+          "url": "https://solo5estrellas.com/hotels/4338/grossarler-hof.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Kristiania Lech",
+          "url": "https://solo5estrellas.com/hotels/4339/kristiania-lech.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Severins – The Alpine Retreat",
+          "url": "https://solo5estrellas.com/hotels/4340/severins-the-alpine-retreat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Coral Reef Club",
+          "url": "https://solo5estrellas.com/hotels/4590/coral-reef-club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Sandpiper",
+          "url": "https://solo5estrellas.com/hotels/4591/the-sandpiper.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Hotel de Tuilereen",
+          "url": "https://solo5estrellas.com/hotels/6376/hotel-de-tuilereen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Hotel De Witte Lelie",
+          "url": "https://solo5estrellas.com/hotels/4348/hotel-de-witte-lelie.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Juliana Hotel Brussels",
+          "url": "https://solo5estrellas.com/hotels/6417/juliana-hotel-brussels.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Barracuda Hotel and Villas",
+          "url": "https://solo5estrellas.com/hotels/6379/barracuda-hotel-and-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Kenoa Beach Spa and Resort",
+          "url": "https://solo5estrellas.com/hotels/2778/kenoa-beach-spa-and-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "The Luang Say Residence",
+          "url": "https://solo5estrellas.com/hotels/4273/the-luang-say-residence.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Eclat Hotel Beijing",
+          "url": "https://solo5estrellas.com/hotels/4372/eclat-hotel-beijing.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Honor Resort Yun Shu Dali",
+          "url": "https://solo5estrellas.com/hotels/4373/honor-resort-yun-shu-dali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Lanson Place Hotel",
+          "url": "https://solo5estrellas.com/hotels/4377/lanson-place-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "The Sukhothai Shanghai",
+          "url": "https://solo5estrellas.com/hotels/4376/the-sukhothai-shanghai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Movich Cartagena de Indias",
+          "url": "https://solo5estrellas.com/hotels/4328/movich-cartagena-de-indias.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Movich Casa de Alferez",
+          "url": "https://solo5estrellas.com/hotels/4327/movich-casa-de-alferez.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Los Altos Resort",
+          "url": "https://solo5estrellas.com/hotels/3342/los-altos-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Tabacon Thermal Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/2276/tabacon-thermal-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Three Sixty Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/4295/three-sixty-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Hotel Bellevue Dubrovnik",
+          "url": "https://solo5estrellas.com/hotels/6841/hotel-bellevue-dubrovnik.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Hotel Vestibul Palace",
+          "url": "https://solo5estrellas.com/hotels/4349/hotel-vestibul-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Palazzo Rainis Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/6174/palazzo-rainis-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Casale Panayiotis",
+          "url": "https://solo5estrellas.com/hotels/6413/casale-panayiotis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "BoHo Hotel Prague",
+          "url": "https://solo5estrellas.com/hotels/4743/boho-hotel-prague.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Sublime Samana Hotel & Residences",
+          "url": "https://solo5estrellas.com/hotels/4280/sublime-samana-hotel-residences.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Padaste Manor",
+          "url": "https://solo5estrellas.com/hotels/4352/padaste-manor.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Raiwasa Private Resort",
+          "url": "https://solo5estrellas.com/hotels/6517/raiwasa-private-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "A Mandria di Murtoli",
+          "url": "https://solo5estrellas.com/hotels/7087/a-mandria-di-murtoli.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "A’mare Corsica",
+          "url": "https://solo5estrellas.com/hotels/6511/a-mare-corsica.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Auberge de Cassagne & Spa",
+          "url": "https://solo5estrellas.com/hotels/4358/auberge-de-cassagne-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Château des Fleurs",
+          "url": "https://solo5estrellas.com/hotels/6760/ch-teau-des-fleurs-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Chateau Hotel & Spa Grand Barrail",
+          "url": "https://solo5estrellas.com/hotels/4361/chateau-hotel-spa-grand-barrail.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Domaine de Manville",
+          "url": "https://solo5estrellas.com/hotels/4359/domaine-de-manville.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Grand Powers",
+          "url": "https://solo5estrellas.com/hotels/4363/grand-powers.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Hotel & Spa des Pecheur",
+          "url": "https://solo5estrellas.com/hotels/6178/hotel-spa-des-pecheur.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Hotel Crillon le Brave",
+          "url": "https://solo5estrellas.com/hotels/4365/hotel-crillon-le-brave.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Hotel Juana",
+          "url": "https://solo5estrellas.com/hotels/4366/hotel-juana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Hotel La Perouse",
+          "url": "https://solo5estrellas.com/hotels/2066/hotel-la-perouse.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Hotel La Roya",
+          "url": "https://solo5estrellas.com/hotels/4833/hotel-la-roya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Hotel Le Strato",
+          "url": "https://solo5estrellas.com/hotels/4392/hotel-le-strato.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Hotel Norman Paris",
+          "url": "https://solo5estrellas.com/hotels/6761/hotel-norman-paris-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Le M de Megeve",
+          "url": "https://solo5estrellas.com/hotels/4397/le-m-de-megeve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Le Narcisse Blanc Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4399/le-narcisse-blanc-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "Le Relais de Chambord",
+          "url": "https://solo5estrellas.com/hotels/4401/le-relais-de-chambord.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Le Vallon de Valrugues Hotel Spa and Villas",
+          "url": "https://solo5estrellas.com/hotels/4402/le-vallon-de-valrugues-hotel-spa-and-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "Les Bords De Mer",
+          "url": "https://solo5estrellas.com/hotels/4403/les-bords-de-mer.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "L'Hotel",
+          "url": "https://solo5estrellas.com/hotels/4367/l-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Pavillon de la Reine",
+          "url": "https://solo5estrellas.com/hotels/2108/pavillon-de-la-reine.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Refuge de la Traye",
+          "url": "https://solo5estrellas.com/hotels/6190/refuge-de-la-traye.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "Tiara Miramar Beach Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4405/tiara-miramar-beach-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Breidenbacher Hof, a Capella Hotel",
+          "url": "https://solo5estrellas.com/hotels/2671/breidenbacher-hof-a-capella-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Schlosshotel Kronberg",
+          "url": "https://solo5estrellas.com/hotels/4407/schlosshotel-kronberg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "100 Rizes Luxury Seaside Resort",
+          "url": "https://solo5estrellas.com/hotels/4408/100-rizes-luxury-seaside-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "A77 Suites, an SLH Hotel",
+          "url": "https://solo5estrellas.com/hotels/6077/a77-suites-an-slh-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Andronis Minois",
+          "url": "https://solo5estrellas.com/hotels/6419/andronis-minois.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "Archipelagos Hotel",
+          "url": "https://solo5estrellas.com/hotels/4599/archipelagos-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Aressana Spa Hotel and Suites",
+          "url": "https://solo5estrellas.com/hotels/4383/aressana-spa-hotel-and-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "Boheme Mykonos",
+          "url": "https://solo5estrellas.com/hotels/4325/boheme-mykonos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "name": "Canaves Oia Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/3627/canaves-oia-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 74,
+          "name": "Canaves Oia Epitome",
+          "url": "https://solo5estrellas.com/hotels/2710/canaves-oia-epitome.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 75,
+          "name": "Canaves Oia Suites",
+          "url": "https://solo5estrellas.com/hotels/3628/canaves-oia-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 76,
+          "name": "Carpe Diem Santorini",
+          "url": "https://solo5estrellas.com/hotels/3620/carpe-diem-santorini.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 77,
+          "name": "Casa Del Mar Mykonos",
+          "url": "https://solo5estrellas.com/hotels/4326/casa-del-mar-mykonos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 78,
+          "name": "Casa Delfino Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/6169/casa-delfino-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 79,
+          "name": "Cosmopolitan Suites",
+          "url": "https://solo5estrellas.com/hotels/4389/cosmopolitan-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 80,
+          "name": "Domes White Coast Milos",
+          "url": "https://solo5estrellas.com/hotels/4829/domes-white-coast-milos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 81,
+          "name": "Eagles Villas",
+          "url": "https://solo5estrellas.com/hotels/4411/eagles-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 82,
+          "name": "Elounda Gulf Villas & Suites",
+          "url": "https://solo5estrellas.com/hotels/3360/elounda-gulf-villas-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 83,
+          "name": "Euphoria Retreat",
+          "url": "https://solo5estrellas.com/hotels/6177/euphoria-retreat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 84,
+          "name": "Liostasi Hotel and Suites",
+          "url": "https://solo5estrellas.com/hotels/6418/liostasi-hotel-and-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 85,
+          "name": "Mykonos Ammos Hotel",
+          "url": "https://solo5estrellas.com/hotels/4381/mykonos-ammos-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 86,
+          "name": "Mykonos Grand Hotel & Resort",
+          "url": "https://solo5estrellas.com/hotels/4600/mykonos-grand-hotel-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 87,
+          "name": "Naxian Collection Luxury Villas & Suites",
+          "url": "https://solo5estrellas.com/hotels/4321/naxian-collection-luxury-villas-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 88,
+          "name": "NEMA Design Hotel & Spa - Adults Only",
+          "url": "https://solo5estrellas.com/hotels/7116/nema-design-hotel-spa-adults-only.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 89,
+          "name": "Nido",
+          "url": "https://solo5estrellas.com/hotels/4413/nido.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 90,
+          "name": "ON Residence",
+          "url": "https://solo5estrellas.com/hotels/6262/on-residence.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 91,
+          "name": "On The Rocks Santorini",
+          "url": "https://solo5estrellas.com/hotels/4423/on-the-rocks-santorini.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 92,
+          "name": "Porto Zante Villas & Spa",
+          "url": "https://solo5estrellas.com/hotels/6075/porto-zante-villas-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 93,
+          "name": "Rimondi Boutique Hotels",
+          "url": "https://solo5estrellas.com/hotels/6175/rimondi-boutique-hotels.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 94,
+          "name": "Rodos Park Suites & Spa",
+          "url": "https://solo5estrellas.com/hotels/4322/rodos-park-suites-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 95,
+          "name": "San Antonio Hotel",
+          "url": "https://solo5estrellas.com/hotels/4386/san-antonio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 96,
+          "name": "Hotel Ranga",
+          "url": "https://solo5estrellas.com/hotels/4424/hotel-ranga.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 97,
+          "name": "Gdas Bali Health and Wellness Resort",
+          "url": "https://solo5estrellas.com/hotels/6416/gdas-bali-health-and-wellness-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 98,
+          "name": "Cahernane House Hotel - Killarney Hotel",
+          "url": "https://solo5estrellas.com/hotels/6260/cahernane-house-hotel-killarney-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 99,
+          "name": "Culloden Estate and Spa",
+          "url": "https://solo5estrellas.com/hotels/4832/culloden-estate-and-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 100,
+          "name": "Dylan Hotel Dublin",
+          "url": "https://solo5estrellas.com/hotels/6840/dylan-hotel-dublin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 101,
+          "name": "The Wilder Townhouse",
+          "url": "https://solo5estrellas.com/hotels/6071/the-wilder-townhouse.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 102,
+          "name": "The American Colony Hotel",
+          "url": "https://solo5estrellas.com/hotels/4826/the-american-colony-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 103,
+          "name": "Albergo Pietrasanta",
+          "url": "https://solo5estrellas.com/hotels/6168/albergo-pietrasanta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 104,
+          "name": "Alpin Royal Wellness Refugium & Resort Hotel",
+          "url": "https://solo5estrellas.com/hotels/6259/alpin-royal-wellness-refugium-resort-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 105,
+          "name": "Byblos Art Hotel Villa Amista",
+          "url": "https://solo5estrellas.com/hotels/4427/byblos-art-hotel-villa-amista.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 106,
+          "name": "Ca' di Dio",
+          "url": "https://solo5estrellas.com/hotels/6070/ca-di-dio.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 107,
+          "name": "Ca' Sagredo Hotel",
+          "url": "https://solo5estrellas.com/hotels/4428/ca-sagredo-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 108,
+          "name": "Cascioni Eco Retreat",
+          "url": "https://solo5estrellas.com/hotels/6414/cascioni-eco-retreat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 109,
+          "name": "CPH Pevero Hotel",
+          "url": "https://solo5estrellas.com/hotels/6415/cph-pevero-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 110,
+          "name": "Donna Carmela Resort & Lodge",
+          "url": "https://solo5estrellas.com/hotels/6957/donna-carmela-resort-lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 111,
+          "name": "Eight Hotel Portofino",
+          "url": "https://solo5estrellas.com/hotels/4433/eight-hotel-portofino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 112,
+          "name": "Forestis Dolomites",
+          "url": "https://solo5estrellas.com/hotels/6261/forestis-dolomites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 113,
+          "name": "Furore Grand Hotel",
+          "url": "https://solo5estrellas.com/hotels/7002/furore-grand-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 114,
+          "name": "Galleria Vik Milano",
+          "url": "https://solo5estrellas.com/hotels/6514/galleria-vik-milano.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 115,
+          "name": "Grand Hotel Bristol Spa Resort",
+          "url": "https://solo5estrellas.com/hotels/6510/grand-hotel-bristol-spa-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 116,
+          "name": "Grand Hotel Cocumella",
+          "url": "https://solo5estrellas.com/hotels/4601/grand-hotel-cocumella.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 117,
+          "name": "Grand Hotel Victoria Concept & Spa",
+          "url": "https://solo5estrellas.com/hotels/4602/grand-hotel-victoria-concept-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 118,
+          "name": "Hotel ai Reali de Venezia, Venice",
+          "url": "https://solo5estrellas.com/hotels/4492/hotel-ai-reali-de-venezia-venice.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 119,
+          "name": "Hotel and Palazzo Vilon",
+          "url": "https://solo5estrellas.com/hotels/4834/hotel-and-palazzo-vilon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 120,
+          "name": "Hotel De Ricci",
+          "url": "https://solo5estrellas.com/hotels/4493/hotel-de-ricci.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 121,
+          "name": "Hotel La Peschiera",
+          "url": "https://solo5estrellas.com/hotels/4477/hotel-la-peschiera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 122,
+          "name": "Hotel Lungarno",
+          "url": "https://solo5estrellas.com/hotels/1220/hotel-lungarno.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 123,
+          "name": "Hotel Lupaia",
+          "url": "https://solo5estrellas.com/hotels/6182/hotel-lupaia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 124,
+          "name": "Hotel Miramalfi",
+          "url": "https://solo5estrellas.com/hotels/6762/hotel-miramalfi-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 125,
+          "name": "Hotel Regency",
+          "url": "https://solo5estrellas.com/hotels/4420/hotel-regency.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 126,
+          "name": "Hotel Villa Carlotta",
+          "url": "https://solo5estrellas.com/hotels/4503/hotel-villa-carlotta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 127,
+          "name": "Hotel Villa Soligo",
+          "url": "https://solo5estrellas.com/hotels/4612/hotel-villa-soligo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 128,
+          "name": "Hotel Zur Goldenen Rose",
+          "url": "https://solo5estrellas.com/hotels/4607/hotel-zur-goldenen-rose.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 129,
+          "name": "Il Melograno",
+          "url": "https://solo5estrellas.com/hotels/4431/il-melograno.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 130,
+          "name": "La Roqqa",
+          "url": "https://solo5estrellas.com/hotels/6515/la-roqqa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 131,
+          "name": "La Villa del Re Hotel",
+          "url": "https://solo5estrellas.com/hotels/4481/la-villa-del-re-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 132,
+          "name": "Lord Byron Hotel",
+          "url": "https://solo5estrellas.com/hotels/4490/lord-byron-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 133,
+          "name": "Maalot Hotel",
+          "url": "https://solo5estrellas.com/hotels/6385/maalot-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 134,
+          "name": "Magna Pars Suites Hotel",
+          "url": "https://solo5estrellas.com/hotels/4429/magna-pars-suites-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 135,
+          "name": "Margutta 19 Hotel",
+          "url": "https://solo5estrellas.com/hotels/4494/margutta-19-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 136,
+          "name": "Palazzo Manfredi",
+          "url": "https://solo5estrellas.com/hotels/4495/palazzo-manfredi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 137,
+          "name": "Palazzo Vecchietti",
+          "url": "https://solo5estrellas.com/hotels/4496/palazzo-vecchietti.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 138,
+          "name": "Palm Suite Hotel",
+          "url": "https://solo5estrellas.com/hotels/4497/palm-suite-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 139,
+          "name": "Praia Art Resort",
+          "url": "https://solo5estrellas.com/hotels/4498/praia-art-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 140,
+          "name": "Reschio Hotel, Umbria",
+          "url": "https://solo5estrellas.com/hotels/6956/reschio-hotel-umbria.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 141,
+          "name": "Rosapetra Spa Resort",
+          "url": "https://solo5estrellas.com/hotels/6183/rosapetra-spa-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 142,
+          "name": "Sina Centurion Palace",
+          "url": "https://solo5estrellas.com/hotels/4500/sina-centurion-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 143,
+          "name": "Sina Palazzo Sant Angelo",
+          "url": "https://solo5estrellas.com/hotels/4501/sina-palazzo-sant-angelo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 144,
+          "name": "Sina The Gray Hotel",
+          "url": "https://solo5estrellas.com/hotels/4502/sina-the-gray-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 145,
+          "name": "Susafa Hotel",
+          "url": "https://solo5estrellas.com/hotels/4606/susafa-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 146,
+          "name": "Taormina Hotel Villa Ducale",
+          "url": "https://solo5estrellas.com/hotels/4505/taormina-hotel-villa-ducale.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 147,
+          "name": "Viesca Toscana",
+          "url": "https://solo5estrellas.com/hotels/6264/viesca-toscana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 148,
+          "name": "Villa Athena Resort",
+          "url": "https://solo5estrellas.com/hotels/4603/villa-athena-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 149,
+          "name": "Villa di Piazzano",
+          "url": "https://solo5estrellas.com/hotels/4506/villa-di-piazzano.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 150,
+          "name": "Villa Eden Park Retreat",
+          "url": "https://solo5estrellas.com/hotels/4507/villa-eden-park-retreat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 151,
+          "name": "Villa Franca",
+          "url": "https://solo5estrellas.com/hotels/6999/villa-franca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 152,
+          "name": "Villa Helios Capri",
+          "url": "https://solo5estrellas.com/hotels/7129/villa-helios-capri.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 153,
+          "name": "Villa La Madonna",
+          "url": "https://solo5estrellas.com/hotels/4508/villa-la-madonna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 154,
+          "name": "Villa Neri Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/4504/villa-neri-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 155,
+          "name": "Villa Spalletti Trivelli Dimora d'Epoca",
+          "url": "https://solo5estrellas.com/hotels/4489/villa-spalletti-trivelli-dimora-d-epoca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 156,
+          "name": "VISTA Verona",
+          "url": "https://solo5estrellas.com/hotels/6263/vista-verona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 157,
+          "name": "Bluefields Bay Villas",
+          "url": "https://solo5estrellas.com/hotels/6181/bluefields-bay-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 158,
+          "name": "S Hotel Jamaica",
+          "url": "https://solo5estrellas.com/hotels/4333/s-hotel-jamaica.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 159,
+          "name": "The Trident Hotel",
+          "url": "https://solo5estrellas.com/hotels/4285/the-trident-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 160,
+          "name": "Kasara Niseko Village Townhouse",
+          "url": "https://solo5estrellas.com/hotels/4384/kasara-niseko-village-townhouse.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 161,
+          "name": "Sowaka",
+          "url": "https://solo5estrellas.com/hotels/6420/sowaka.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 162,
+          "name": "The Terrace Club at Busena",
+          "url": "https://solo5estrellas.com/hotels/4388/the-terrace-club-at-busena.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 163,
+          "name": "The Tokyo Station Hotel",
+          "url": "https://solo5estrellas.com/hotels/4387/the-tokyo-station-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 164,
+          "name": "The Tower Hotel Nagoya",
+          "url": "https://solo5estrellas.com/hotels/6513/the-tower-hotel-nagoya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 165,
+          "name": "Diamonds Dream of Africa",
+          "url": "https://solo5estrellas.com/hotels/4486/diamonds-dream-of-africa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 166,
+          "name": "Hemingways Nairobi",
+          "url": "https://solo5estrellas.com/hotels/6073/hemingways-nairobi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 167,
+          "name": "O MONOT Luxury Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/4484/o-monot-luxury-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 168,
+          "name": "Aleenta Resort & Spa Phuket",
+          "url": "https://solo5estrellas.com/hotels/4312/aleenta-resort-spa-phuket.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 169,
+          "name": "Gaya Island Resort",
+          "url": "https://solo5estrellas.com/hotels/4275/gaya-island-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 170,
+          "name": "Pangkor Laut Resort",
+          "url": "https://solo5estrellas.com/hotels/4279/pangkor-laut-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 171,
+          "name": "Tanjong Jara Resort",
+          "url": "https://solo5estrellas.com/hotels/4281/tanjong-jara-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 172,
+          "name": "The Danna Langkawi",
+          "url": "https://solo5estrellas.com/hotels/6266/the-danna-langkawi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 173,
+          "name": "The Edison George Town",
+          "url": "https://solo5estrellas.com/hotels/4282/the-edison-george-town.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 174,
+          "name": "Baros Maldives",
+          "url": "https://solo5estrellas.com/hotels/4283/baros-maldives.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 175,
+          "name": "Milaidhoo Island Maldives",
+          "url": "https://solo5estrellas.com/hotels/4284/milaidhoo-island-maldives.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 176,
+          "name": "French Coco",
+          "url": "https://solo5estrellas.com/hotels/4288/french-coco.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 177,
+          "name": "Heritage Le Telfair Golf & Wellness Resort",
+          "url": "https://solo5estrellas.com/hotels/4287/heritage-le-telfair-golf-wellness-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 178,
+          "name": "Paradise Cove Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/4289/paradise-cove-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 179,
+          "name": "Hacienda Pena Pobre",
+          "url": "https://solo5estrellas.com/hotels/4297/hacienda-pena-pobre.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 180,
+          "name": "La Casa que Canta",
+          "url": "https://solo5estrellas.com/hotels/1978/la-casa-que-canta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 181,
+          "name": "Villa Maria Cristina",
+          "url": "https://solo5estrellas.com/hotels/4300/villa-maria-cristina.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 182,
+          "name": "Boutique Hotel Villa Geba",
+          "url": "https://solo5estrellas.com/hotels/4438/boutique-hotel-villa-geba.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 183,
+          "name": "Hotel Sahrai",
+          "url": "https://solo5estrellas.com/hotels/4468/hotel-sahrai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 184,
+          "name": "Ksar Char-Bagh",
+          "url": "https://solo5estrellas.com/hotels/4469/ksar-char-bagh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 185,
+          "name": "Nobu Hotel Marrakech",
+          "url": "https://solo5estrellas.com/hotels/6377/nobu-hotel-marrakech.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 186,
+          "name": "Canal House",
+          "url": "https://solo5estrellas.com/hotels/4475/canal-house.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 187,
+          "name": "Op Oost - Boutique Hotel & Restaurant",
+          "url": "https://solo5estrellas.com/hotels/6090/op-oost-boutique-hotel-restaurant.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 188,
+          "name": "Pillows Grand Boutique Hotel Maurits at the Park",
+          "url": "https://solo5estrellas.com/hotels/6095/pillows-grand-boutique-hotel-maurits-at-the-park.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 189,
+          "name": "Bay of Many Coves",
+          "url": "https://solo5estrellas.com/hotels/3063/bay-of-many-coves.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 190,
+          "name": "Blanket Bay",
+          "url": "https://solo5estrellas.com/hotels/1782/blanket-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 191,
+          "name": "Eichardt's Private Hotel",
+          "url": "https://solo5estrellas.com/hotels/4303/eichardt-s-private-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 192,
+          "name": "The George",
+          "url": "https://solo5estrellas.com/hotels/4301/the-george.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 193,
+          "name": "Calala Island",
+          "url": "https://solo5estrellas.com/hotels/4296/calala-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 194,
+          "name": "Opus XVI Hotel",
+          "url": "https://solo5estrellas.com/hotels/4457/opus-xvi-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 195,
+          "name": "Royal Park Hotel Lima",
+          "url": "https://solo5estrellas.com/hotels/4329/royal-park-hotel-lima.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 196,
+          "name": "Anya Resort Tagaytay",
+          "url": "https://solo5estrellas.com/hotels/4304/anya-resort-tagaytay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 197,
+          "name": "Alentejo Marmoris Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4596/alentejo-marmoris-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 198,
+          "name": "Hospes Infante Sagres Porto",
+          "url": "https://solo5estrellas.com/hotels/4467/hospes-infante-sagres-porto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 199,
+          "name": "Hotel Casa Palmela",
+          "url": "https://solo5estrellas.com/hotels/6074/hotel-casa-palmela.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 200,
+          "name": "Hotel Quinta das Lágrimas",
+          "url": "https://solo5estrellas.com/hotels/6184/hotel-quinta-das-l-grimas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 201,
+          "name": "Palácio do Governador",
+          "url": "https://solo5estrellas.com/hotels/6763/pal-cio-do-governador-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 202,
+          "name": "Praia do Canal Nature Resort",
+          "url": "https://solo5estrellas.com/hotels/6267/praia-do-canal-nature-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 203,
+          "name": "Quinta da Casa Branca",
+          "url": "https://solo5estrellas.com/hotels/4421/quinta-da-casa-branca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 204,
+          "name": "The Lumiares Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4597/the-lumiares-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 205,
+          "name": "The Rebello Hotel",
+          "url": "https://solo5estrellas.com/hotels/6519/the-rebello-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 206,
+          "name": "Hotel El Convento",
+          "url": "https://solo5estrellas.com/hotels/1514/hotel-el-convento.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 207,
+          "name": "Yiu Teung Mansion",
+          "url": "https://solo5estrellas.com/hotels/6176/yiu-teung-mansion.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 208,
+          "name": "Crossbasket Castle",
+          "url": "https://solo5estrellas.com/hotels/4479/crossbasket-castle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 209,
+          "name": "Greywalls Hotel",
+          "url": "https://solo5estrellas.com/hotels/1652/greywalls-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 210,
+          "name": "Isle of Eriska Hotel, Spa and Island",
+          "url": "https://solo5estrellas.com/hotels/1780/isle-of-eriska-hotel-spa-and-island-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 211,
+          "name": "Nira Caledonia",
+          "url": "https://solo5estrellas.com/hotels/4480/nira-caledonia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 212,
+          "name": "Saint Ten Hotel",
+          "url": "https://solo5estrellas.com/hotels/4459/saint-ten-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 213,
+          "name": "The Outpost Hotel Sentosa",
+          "url": "https://solo5estrellas.com/hotels/4306/the-outpost-hotel-sentosa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 214,
+          "name": "The Marine Hermanus",
+          "url": "https://solo5estrellas.com/hotels/4465/the-marine-hermanus.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 215,
+          "name": "Aguas de Ibiza Grand Luxe Hotel",
+          "url": "https://solo5estrellas.com/hotels/4456/aguas-de-ibiza-grand-luxe-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 216,
+          "name": "Cavalta Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/6871/cavalta-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 217,
+          "name": "Finca Serena Mallorca",
+          "url": "https://solo5estrellas.com/hotels/4437/finca-serena-mallorca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 218,
+          "name": "Grand Hotel Central Barcelona",
+          "url": "https://solo5estrellas.com/hotels/3005/grand-hotel-central-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 219,
+          "name": "Hacienda Zorita Wine Hotel & Organic Farm",
+          "url": "https://solo5estrellas.com/hotels/4436/hacienda-zorita-wine-hotel-organic-farm.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 220,
+          "name": "Hotel Claris, Barcelona",
+          "url": "https://solo5estrellas.com/hotels/1258/hotel-claris-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 221,
+          "name": "Hotel Torre del Marques",
+          "url": "https://solo5estrellas.com/hotels/4828/hotel-torre-del-marques.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 222,
+          "name": "Hotel Unico, Madrid",
+          "url": "https://solo5estrellas.com/hotels/3001/hotel-unico-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 223,
+          "name": "La Torre del Canonigo",
+          "url": "https://solo5estrellas.com/hotels/4741/la-torre-del-canonigo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 224,
+          "name": "Palacio Solecio",
+          "url": "https://solo5estrellas.com/hotels/4418/palacio-solecio.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 225,
+          "name": "Teranka Formentera",
+          "url": "https://solo5estrellas.com/hotels/6518/teranka-formentera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 226,
+          "name": "The Lodge Mallorca",
+          "url": "https://solo5estrellas.com/hotels/6391/the-lodge-mallorca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 227,
+          "name": "The Principal Madrid Hotel",
+          "url": "https://solo5estrellas.com/hotels/3599/the-principal-madrid-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 228,
+          "name": "The Wittmore",
+          "url": "https://solo5estrellas.com/hotels/4417/the-wittmore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 229,
+          "name": "URSO Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4416/urso-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 230,
+          "name": "The Fortress Sri Lanka",
+          "url": "https://solo5estrellas.com/hotels/4307/the-fortress-sri-lanka.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 231,
+          "name": "Petit St. Vincent",
+          "url": "https://solo5estrellas.com/hotels/4292/petit-st-vincent.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 232,
+          "name": "The Liming Bequia",
+          "url": "https://solo5estrellas.com/hotels/4291/the-liming-bequia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 233,
+          "name": "Bank Hotel",
+          "url": "https://solo5estrellas.com/hotels/4390/bank-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 234,
+          "name": "Ett Hem",
+          "url": "https://solo5estrellas.com/hotels/6180/ett-hem.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 235,
+          "name": "Grace La Margna, St Moritz",
+          "url": "https://solo5estrellas.com/hotels/6979/-grace-la-margna-st-moritz.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 236,
+          "name": "Bergwelt Grindelwald",
+          "url": "https://solo5estrellas.com/hotels/4830/bergwelt-grindelwald.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 237,
+          "name": "Chateau d'Ouchy Hotel",
+          "url": "https://solo5estrellas.com/hotels/4440/chateau-d-ouchy-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 238,
+          "name": "Crans Ambassador",
+          "url": "https://solo5estrellas.com/hotels/4441/crans-ambassador.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 239,
+          "name": "Eastwest Hotel",
+          "url": "https://solo5estrellas.com/hotels/4442/eastwest-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 240,
+          "name": "Grand Hotel Villa Castagnola",
+          "url": "https://solo5estrellas.com/hotels/4443/grand-hotel-villa-castagnola.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 241,
+          "name": "Hotel Schweizerhof Zermatt",
+          "url": "https://solo5estrellas.com/hotels/4444/hotel-schweizerhof-zermatt.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 242,
+          "name": "Le Grand Bellevue",
+          "url": "https://solo5estrellas.com/hotels/4445/le-grand-bellevue.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 243,
+          "name": "The View Lugano",
+          "url": "https://solo5estrellas.com/hotels/4446/the-view-lugano.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 244,
+          "name": "Villa Orselina",
+          "url": "https://solo5estrellas.com/hotels/4447/villa-orselina.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 245,
+          "name": "Wellnesshotel Golf Panorama",
+          "url": "https://solo5estrellas.com/hotels/4448/wellnesshotel-golf-panorama.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 246,
+          "name": "Union House Lukang",
+          "url": "https://solo5estrellas.com/hotels/4309/union-house-lukang.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 247,
+          "name": "Amani Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/4449/amani-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 248,
+          "name": "137 Pillars Suites & Residences Bangkok",
+          "url": "https://solo5estrellas.com/hotels/4593/137-pillars-suites-residences-bangkok.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 249,
+          "name": "AMANOR Hotel Chiang Mai",
+          "url": "https://solo5estrellas.com/hotels/4311/amanor-hotel-chiang-mai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 250,
+          "name": "Garrya Tongsai Bay Samui",
+          "url": "https://solo5estrellas.com/hotels/4319/garrya-tongsai-bay-samui.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 251,
+          "name": "Keemala",
+          "url": "https://solo5estrellas.com/hotels/4315/keemala.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 252,
+          "name": "La Miniera Pool Villas Pattaya",
+          "url": "https://solo5estrellas.com/hotels/6472/la-miniera-pool-villas-pattaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 253,
+          "name": "MUU Bangkok Hotel",
+          "url": "https://solo5estrellas.com/hotels/4310/muu-bangkok-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 254,
+          "name": "Pimalai Resort and Spa",
+          "url": "https://solo5estrellas.com/hotels/4316/pimalai-resort-and-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 255,
+          "name": "The Racha",
+          "url": "https://solo5estrellas.com/hotels/4317/the-racha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 256,
+          "name": "The Sukhothai Bangkok",
+          "url": "https://solo5estrellas.com/hotels/4318/the-sukhothai-bangkok.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 257,
+          "name": "Twinpalms MontAzure Phuket Resort",
+          "url": "https://solo5estrellas.com/hotels/4334/twinpalms-montazure-phuket-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 258,
+          "name": "Twinpalms Surin Phuket Resort",
+          "url": "https://solo5estrellas.com/hotels/4320/twinpalms-surin-phuket-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 259,
+          "name": "VALA Hua Hin",
+          "url": "https://solo5estrellas.com/hotels/4594/vala-hua-hin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 260,
+          "name": "Maison Dedine",
+          "url": "https://solo5estrellas.com/hotels/6171/maison-dedine.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 261,
+          "name": "Vakko Hotel and Residences",
+          "url": "https://solo5estrellas.com/hotels/6265/vakko-hotel-and-residences-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 262,
+          "name": "Sailrock Resort",
+          "url": "https://solo5estrellas.com/hotels/4293/sailrock-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 263,
+          "name": "Alexander House & Utopia Spa",
+          "url": "https://solo5estrellas.com/hotels/4453/alexander-house-utopia-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 264,
+          "name": "Ashdown Park Hotel",
+          "url": "https://solo5estrellas.com/hotels/4454/ashdown-park-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 265,
+          "name": "Bishopstrow Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/6091/bishopstrow-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 266,
+          "name": "Cromlix Hotel",
+          "url": "https://solo5estrellas.com/hotels/4478/cromlix-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 267,
+          "name": "Dormy House Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4455/dormy-house-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 268,
+          "name": "Flemings Mayfair",
+          "url": "https://solo5estrellas.com/hotels/2039/flemings-mayfair-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 269,
+          "name": "Foxhill Manor",
+          "url": "https://solo5estrellas.com/hotels/7058/foxhill-manor.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 270,
+          "name": "Grand Hotel",
+          "url": "https://solo5estrellas.com/hotels/4472/grand-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 271,
+          "name": "Great Fosters",
+          "url": "https://solo5estrellas.com/hotels/4458/great-fosters.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 272,
+          "name": "Monkey Island Estate",
+          "url": "https://solo5estrellas.com/hotels/4461/monkey-island-estate.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 273,
+          "name": "Rothay Manor Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/6185/rothay-manor-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 274,
+          "name": "Stoke Park",
+          "url": "https://solo5estrellas.com/hotels/4463/stoke-park.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 275,
+          "name": "The Ampersand Hotel",
+          "url": "https://solo5estrellas.com/hotels/6242/the-ampersand-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 276,
+          "name": "The Arden Hotel",
+          "url": "https://solo5estrellas.com/hotels/4464/the-arden-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 277,
+          "name": "The Capital Hotel",
+          "url": "https://solo5estrellas.com/hotels/1428/the-capital-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 278,
+          "name": "The Feathers Hotel",
+          "url": "https://solo5estrellas.com/hotels/7059/the-feathers-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 279,
+          "name": "The Fish Hotel",
+          "url": "https://solo5estrellas.com/hotels/7057/the-fish-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 280,
+          "name": "The Gainsborough Bath & Spa",
+          "url": "https://solo5estrellas.com/hotels/7001/the-gainsborough-bath-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 281,
+          "name": "The Nare Hotel",
+          "url": "https://solo5estrellas.com/hotels/4474/the-nare-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 282,
+          "name": "The Prince Akatoki London",
+          "url": "https://solo5estrellas.com/hotels/6076/the-prince-akatoki-london.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 283,
+          "name": "The Retreat Elcot Park",
+          "url": "https://solo5estrellas.com/hotels/6094/the-retreat-elcot-park.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 284,
+          "name": "The Roseate Edinburgh",
+          "url": "https://solo5estrellas.com/hotels/4827/the-roseate-edinburgh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 285,
+          "name": "Tylney Hall Hotel & Gardens",
+          "url": "https://solo5estrellas.com/hotels/4476/tylney-hall-hotel-gardens.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 286,
+          "name": "Vintry and Mercer",
+          "url": "https://solo5estrellas.com/hotels/4452/vintry-and-mercer.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 287,
+          "name": "The Anam Mui Ne",
+          "url": "https://solo5estrellas.com/hotels/7117/the-anam-mui-ne.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Small Luxury Hotels of the World directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Small Luxury Hotels of the World con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, mejora de categoría según disponibilidad, un detalle de bienvenida y Wi-Fi de cortesía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Small Luxury Hotels of the World tiene programa de fidelización?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Los hoteles miembros son de propiedad independiente, así que el reconocimiento de fidelización varía según el hotel. Si puede asociar un número de socio a la reserva se confirma al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Small Luxury Hotels of the World se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "287 hoteles en 60 países y territorios. Los países con más hoteles son Italia, Grecia, Reino Unido."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Small Luxury Hotels of the World hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: Hacienda Pena Pobre, La Casa que Canta, Villa Maria Cristina. En España: Aguas de Ibiza Grand Luxe Hotel, Cavalta Boutique Hotel, Finca Serena Mallorca, Grand Hotel Central Barcelona, Hacienda Zorita Wine Hotel & Organic Farm, Hotel Claris, Barcelona y 9 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Small Luxury Hotels of the World hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "10 hoteles, entre ellos Castle Hot Springs Resort, Appellation Healdsburg, Lennox Hotel Miami Beach, The Grady Hotel, RiverView Ranch, The Frederick Hotel y 4 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es el programa de socios preferentes de Small Luxury Hotels of the World?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el acuerdo de Small Luxury Hotels of the World con asesores de viaje seleccionados. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Small Luxury Hotels of the World?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
