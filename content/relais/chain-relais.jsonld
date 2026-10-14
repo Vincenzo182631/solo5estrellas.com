@@ -1,0 +1,281 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Relais & Châteaux",
+          "item": "https://solo5estrellas.com/collection/12/relais-chateaux.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/12/relais-chateaux.html#webpage",
+      "url": "https://solo5estrellas.com/collection/12/relais-chateaux.html",
+      "name": "Hoteles Relais & Châteaux: 25 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 25 hoteles Relais & Châteaux en 14 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Relais & Châteaux"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/12/relais-chateaux.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/12/relais-chateaux.html#hotels",
+      "name": "Hoteles Relais & Châteaux",
+      "numberOfItems": 25,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Meadowood Napa Valley",
+          "url": "https://solo5estrellas.com/hotels/1145/meadowood-napa-valley.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blackberry Farm",
+          "url": "https://solo5estrellas.com/hotels/4839/blackberry-farm.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Blackberry Mountain",
+          "url": "https://solo5estrellas.com/hotels/6533/blackberry-mountain.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "The Inn at Little Washington",
+          "url": "https://solo5estrellas.com/hotels/6855/the-inn-at-little-washington.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Amauris Vienna",
+          "url": "https://solo5estrellas.com/hotels/6295/the-amauris-vienna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Wedgewood Hotel and Spa",
+          "url": "https://solo5estrellas.com/hotels/6293/wedgewood-hotel-and-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Casa Pestagua",
+          "url": "https://solo5estrellas.com/hotels/6731/casa-pestagua.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Meneghetti Wine Hotel & Winery",
+          "url": "https://solo5estrellas.com/hotels/6633/meneghetti-wine-hotel-winery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Secret Bay",
+          "url": "https://solo5estrellas.com/hotels/7027/secret-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Eden Roc Cap Cana",
+          "url": "https://solo5estrellas.com/hotels/3939/eden-roc-cap-cana-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Le Taha'a Island Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/1346/le-taha-a-island-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Myconian Ambassador Resort",
+          "url": "https://solo5estrellas.com/hotels/3350/myconian-ambassador-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Myconian Utopia Resort",
+          "url": "https://solo5estrellas.com/hotels/3354/myconian-utopia-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Sheen Falls Lodge",
+          "url": "https://solo5estrellas.com/hotels/1053/sheen-falls-lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Borgo dei Conti Resort",
+          "url": "https://solo5estrellas.com/hotels/2983/borgo-dei-conti-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Hotel Londra Palace",
+          "url": "https://solo5estrellas.com/hotels/1222/hotel-londra-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Hotel Plaza e de Russie",
+          "url": "https://solo5estrellas.com/hotels/6632/hotel-plaza-e-de-russie.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Il Borro",
+          "url": "https://solo5estrellas.com/hotels/6474/il-borro.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Il San Pietro di Positano",
+          "url": "https://solo5estrellas.com/hotels/1720/il-san-pietro-di-positano-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Bela Vista Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4218/bela-vista-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Hotel Casa da Calçada Relais & Chateaux",
+          "url": "https://solo5estrellas.com/hotels/3220/hotel-casa-da-cal-ada-relais-chateaux.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "L’AND Vineyards Relais & Châteaux",
+          "url": "https://solo5estrellas.com/hotels/6974/l-and-vineyards-relais-ch-teaux.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Hotel Neri Barcelona",
+          "url": "https://solo5estrellas.com/hotels/3221/hotel-neri-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "The Goring Hotel",
+          "url": "https://solo5estrellas.com/hotels/1146/the-goring-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "The Royal Crescent Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/2387/the-royal-crescent-hotel-spa.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Relais & Châteaux directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Relais & Châteaux con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de hasta 100 USD, mejora de categoría, entrada anticipada y salida tardía según disponibilidad, un detalle de bienvenida y Wi-Fi de cortesía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Relais & Châteaux tiene programa de fidelización?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No hay un programa de puntos de Relais & Châteaux, así que las ventajas son el reconocimiento que recibe en cada estancia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Relais & Châteaux se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "25 hoteles en 14 países y territorios. Los países con más hoteles son Italia, Estados Unidos, Portugal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Relais & Châteaux hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en México. En España: Hotel Neri Barcelona."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Relais & Châteaux hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 hoteles: Meadowood Napa Valley, Blackberry Farm, Blackberry Mountain, The Inn at Little Washington."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es el programa de socios preferentes de Relais & Châteaux?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el acuerdo de Relais & Châteaux con asesores de viaje seleccionados. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; las ventajas pueden variar según el establecimiento."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Relais & Châteaux?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
