@@ -1,0 +1,563 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hyatt Regency",
+          "item": "https://solo5estrellas.com/collection/29/hyatt-regency-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/29/hyatt-regency-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/29/hyatt-regency-hotels.html",
+      "name": "Hoteles Hyatt Regency: 72 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 72 hoteles Hyatt Regency en 34 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Hyatt Regency"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/29/hyatt-regency-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/29/hyatt-regency-hotels.html#hotels",
+      "name": "Hoteles Hyatt Regency",
+      "numberOfItems": 72,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hyatt Regency Scottsdale Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3456/hyatt-regency-scottsdale-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hyatt Regency Huntington Beach",
+          "url": "https://solo5estrellas.com/hotels/2082/hyatt-regency-huntington-beach-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hyatt Regency Monterey Hotel and Spa on Del Monte Golf Course",
+          "url": "https://solo5estrellas.com/hotels/2194/hyatt-regency-monterey-hotel-and-spa-on-del-monte-golf-course.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hyatt Regency San Francisco",
+          "url": "https://solo5estrellas.com/hotels/3640/hyatt-regency-san-francisco.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hyatt Regency San Francisco Downtown SOMA",
+          "url": "https://solo5estrellas.com/hotels/6401/hyatt-regency-san-francisco-downtown-soma.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Hyatt Regency Sonoma Wine Country",
+          "url": "https://solo5estrellas.com/hotels/3650/hyatt-regency-sonoma-wine-country.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Hyatt Regency Westlake",
+          "url": "https://solo5estrellas.com/hotels/3968/hyatt-regency-westlake.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Hyatt Regency Washington on Capitol Hill",
+          "url": "https://solo5estrellas.com/hotels/3462/hyatt-regency-washington-on-capitol-hill.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Hyatt Regency Clearwater Beach Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3368/hyatt-regency-clearwater-beach-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Hyatt Regency Coconut Point Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3393/hyatt-regency-coconut-point-resort-spa-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Hyatt Regency Coral Gables",
+          "url": "https://solo5estrellas.com/hotels/3639/hyatt-regency-coral-gables.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Hyatt Regency Savannah",
+          "url": "https://solo5estrellas.com/hotels/3642/hyatt-regency-savannah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Hyatt Regency Maui Resort and Spa",
+          "url": "https://solo5estrellas.com/hotels/2084/hyatt-regency-maui-resort-and-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Hyatt Regency Waikiki Beach",
+          "url": "https://solo5estrellas.com/hotels/2086/hyatt-regency-waikiki-beach-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Hyatt Regency Chesapeake Bay",
+          "url": "https://solo5estrellas.com/hotels/2540/hyatt-regency-chesapeake-bay-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Hyatt Regency Boston",
+          "url": "https://solo5estrellas.com/hotels/4197/hyatt-regency-boston.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Hyatt Regency Lake Tahoe Resort",
+          "url": "https://solo5estrellas.com/hotels/1781/hyatt-regency-lake-tahoe-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Hyatt Regency Tamaya Resort",
+          "url": "https://solo5estrellas.com/hotels/1796/hyatt-regency-tamaya-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Hyatt at the Bellevue",
+          "url": "https://solo5estrellas.com/hotels/3418/hyatt-at-the-bellevue.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Hyatt Regency Austin",
+          "url": "https://solo5estrellas.com/hotels/2457/hyatt-regency-austin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Hyatt Regency Hill Country Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/1604/hyatt-regency-hill-country-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Hyatt Regency Lost Pines Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3436/hyatt-regency-lost-pines-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Hyatt Regency San Antonio Riverwalk",
+          "url": "https://solo5estrellas.com/hotels/3651/hyatt-regency-san-antonio-riverwalk.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Hyatt Regency Lake Washington",
+          "url": "https://solo5estrellas.com/hotels/4633/hyatt-regency-lake-washington.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Hyatt Regency Aruba Resort & Casino",
+          "url": "https://solo5estrellas.com/hotels/2078/hyatt-regency-aruba-resort-casino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Hyatt Regency Perth",
+          "url": "https://solo5estrellas.com/hotels/3438/hyatt-regency-perth.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Hyatt Regency Calgary",
+          "url": "https://solo5estrellas.com/hotels/3420/hyatt-regency-calgary.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Hyatt Regency Montreal",
+          "url": "https://solo5estrellas.com/hotels/3441/hyatt-regency-montreal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Hyatt Regency Hong Kong, Sha Tin",
+          "url": "https://solo5estrellas.com/hotels/3426/hyatt-regency-hong-kong-sha-tin-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Hyatt Regency Hong Kong, Tsim Sha Tsui",
+          "url": "https://solo5estrellas.com/hotels/3427/hyatt-regency-hong-kong-tsim-sha-tsui.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Hyatt Regency Cartagena",
+          "url": "https://solo5estrellas.com/hotels/3648/hyatt-regency-cartagena.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Hyatt Regency Zadar",
+          "url": "https://solo5estrellas.com/hotels/6989/-hyatt-regency-zadar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Santa Barbara Beach & Golf Resort",
+          "url": "https://solo5estrellas.com/hotels/2360/santa-barbara-beach-golf-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Hyatt Regency Chantilly",
+          "url": "https://solo5estrellas.com/hotels/3652/hyatt-regency-chantilly.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Hyatt Regency Nice Palais de la Méditerranée",
+          "url": "https://solo5estrellas.com/hotels/1333/hyatt-regency-nice-palais-de-la-m-diterran-e.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Hyatt Regency Cologne",
+          "url": "https://solo5estrellas.com/hotels/3394/hyatt-regency-cologne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Hyatt Regency Dusseldorf",
+          "url": "https://solo5estrellas.com/hotels/3422/hyatt-regency-dusseldorf.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Hyatt Regency Mainz",
+          "url": "https://solo5estrellas.com/hotels/3437/hyatt-regency-mainz.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Hyatt Regency Thessaloniki",
+          "url": "https://solo5estrellas.com/hotels/3461/hyatt-regency-thessaloniki.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Hyatt Regency Guam",
+          "url": "https://solo5estrellas.com/hotels/3423/hyatt-regency-guam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Hyatt Regency Ahmedabad",
+          "url": "https://solo5estrellas.com/hotels/4113/hyatt-regency-ahmedabad.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Hyatt Regency Chennai",
+          "url": "https://solo5estrellas.com/hotels/3365/hyatt-regency-chennai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Hyatt Regency Jaipur Mansarovar",
+          "url": "https://solo5estrellas.com/hotels/6395/hyatt-regency-jaipur-mansarovar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Hyatt Ziva Rose Hall",
+          "url": "https://solo5estrellas.com/hotels/3304/hyatt-ziva-rose-hall.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Hyatt Regency Hakone Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3424/hyatt-regency-hakone-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Hyatt Regency Kyoto",
+          "url": "https://solo5estrellas.com/hotels/1817/hyatt-regency-kyoto-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Hyatt Regency Seragaki Island, Okinawa",
+          "url": "https://solo5estrellas.com/hotels/3645/hyatt-regency-seragaki-island-okinawa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Hyatt Regency Tokyo",
+          "url": "https://solo5estrellas.com/hotels/4200/hyatt-regency-tokyo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Hyatt Regency Aqaba Ayla",
+          "url": "https://solo5estrellas.com/hotels/4204/hyatt-regency-aqaba-ayla.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Hyatt Regency Mexico City",
+          "url": "https://solo5estrellas.com/hotels/3297/hyatt-regency-mexico-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Hyatt Regency Casablanca",
+          "url": "https://solo5estrellas.com/hotels/3970/hyatt-regency-casablanca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Hyatt Regency Kathmandu",
+          "url": "https://solo5estrellas.com/hotels/3431/hyatt-regency-kathmandu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Hyatt Regency Saipan",
+          "url": "https://solo5estrellas.com/hotels/3444/hyatt-regency-saipan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Hyatt Regency Lisbon",
+          "url": "https://solo5estrellas.com/hotels/6127/hyatt-regency-lisbon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Hyatt Regency Grand Reserve Puerto Rico",
+          "url": "https://solo5estrellas.com/hotels/4198/hyatt-regency-grand-reserve-puerto-rico.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Hyatt Regency Moscow Petrovsky Park",
+          "url": "https://solo5estrellas.com/hotels/3644/hyatt-regency-moscow-petrovsky-park.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Hyatt Regency Sochi",
+          "url": "https://solo5estrellas.com/hotels/3972/hyatt-regency-sochi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "Hyatt Regency Riyadh Olaya",
+          "url": "https://solo5estrellas.com/hotels/4199/hyatt-regency-riyadh-olaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Jabal Omar Hyatt Regency Makkah",
+          "url": "https://solo5estrellas.com/hotels/3649/jabal-omar-hyatt-regency-makkah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "Hyatt Regency Cape Town",
+          "url": "https://solo5estrellas.com/hotels/6523/hyatt-regency-cape-town.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "Hyatt Regency Barcelona Tower",
+          "url": "https://solo5estrellas.com/hotels/4222/hyatt-regency-barcelona-tower.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Hyatt Regency Hesperia Madrid",
+          "url": "https://solo5estrellas.com/hotels/4112/hyatt-regency-hesperia-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Hyatt Regency Zurich Airport The Circle",
+          "url": "https://solo5estrellas.com/hotels/6767/hyatt-regency-zurich-airport-the-circle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "Hyatt Regency Dar es Salaam, The Kilimanjaro",
+          "url": "https://solo5estrellas.com/hotels/3653/hyatt-regency-dar-es-salaam-the-kilimanjaro.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Hyatt Regency Hua Hin & Barai Spa",
+          "url": "https://solo5estrellas.com/hotels/3428/hyatt-regency-hua-hin-barai-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Hyatt Regency Phuket Resort",
+          "url": "https://solo5estrellas.com/hotels/3443/hyatt-regency-phuket-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "Hyatt Regency Istanbul Atakoy",
+          "url": "https://solo5estrellas.com/hotels/3971/hyatt-regency-istanbul-atakoy.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "Hyatt Regency Kiev",
+          "url": "https://solo5estrellas.com/hotels/3432/hyatt-regency-kiev.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Hyatt Regency Dubai Creek Heights",
+          "url": "https://solo5estrellas.com/hotels/3398/hyatt-regency-dubai-creek-heights-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "Hyatt Regency London Blackfriars",
+          "url": "https://solo5estrellas.com/hotels/6672/hyatt-regency-london-blackfriars.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Hyatt Regency London Churchill",
+          "url": "https://solo5estrellas.com/hotels/3434/hyatt-regency-london-churchill-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "Hyatt Regency Danang Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3395/hyatt-regency-danang-resort-spa.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Hyatt Regency directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Hyatt Regency con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, crédito de hotel (entre 25 y 100 USD), mejora de habitación (prioritaria, sujeta a disponibilidad), entrada anticipada y salida tardía según disponibilidad y detalle de bienvenida. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de World of Hyatt al reservar Hyatt Regency con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Según la página de la marca, las reservas hechas a través de Hyatt Privé siguen sumando puntos y noches de nivel de World of Hyatt. Añada su número de socio a la reserva y confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Hyatt Regency se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "72 hoteles en 34 países y territorios. Los países con más hoteles son Estados Unidos, Japón, Alemania."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Hyatt Regency hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: Hyatt Regency Mexico City. En España: Hyatt Regency Barcelona Tower, Hyatt Regency Hesperia Madrid."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Hyatt Regency hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "24 hoteles, entre ellos Hyatt Regency Scottsdale Resort & Spa, Hyatt Regency Huntington Beach, Hyatt Regency Monterey Hotel and Spa on Del Monte Golf Course, Hyatt Regency San Francisco, Hyatt Regency San Francisco Downtown SOMA, Hyatt Regency Sonoma Wine Country y 18 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Hyatt Privé?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Hyatt Hotels Corporation para asesores de viajes de lujo. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; en algunas marcas solo participan hoteles seleccionados."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Hyatt Regency?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

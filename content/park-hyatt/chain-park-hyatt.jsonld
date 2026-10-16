@@ -1,0 +1,437 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Park Hyatt",
+          "item": "https://solo5estrellas.com/collection/8/park-hyatt-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/8/park-hyatt-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/8/park-hyatt-hotels.html",
+      "name": "Hoteles Park Hyatt: 51 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 51 hoteles Park Hyatt en 29 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Park Hyatt"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/8/park-hyatt-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/8/park-hyatt-hotels.html#hotels",
+      "name": "Hoteles Park Hyatt",
+      "numberOfItems": 51,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Park Hyatt Aviara Resort, Golf Club & Spa",
+          "url": "https://solo5estrellas.com/hotels/1020/park-hyatt-aviara-resort-golf-club-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Park Hyatt Beaver Creek Resort and Spa",
+          "url": "https://solo5estrellas.com/hotels/1262/park-hyatt-beaver-creek-resort-and-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Park Hyatt Washington D.C.",
+          "url": "https://solo5estrellas.com/hotels/1205/park-hyatt-washington-d-c-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Park Hyatt Chicago",
+          "url": "https://solo5estrellas.com/hotels/1123/park-hyatt-chicago.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Park Hyatt New York",
+          "url": "https://solo5estrellas.com/hotels/2896/park-hyatt-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Palacio Duhau - Park Hyatt Buenos Aires",
+          "url": "https://solo5estrellas.com/hotels/1810/palacio-duhau-park-hyatt-buenos-aires-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Park Hyatt Mendoza Hotel",
+          "url": "https://solo5estrellas.com/hotels/1811/park-hyatt-mendoza-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Park Hyatt Canberra",
+          "url": "https://solo5estrellas.com/hotels/3419/park-hyatt-canberra.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Park Hyatt Melbourne",
+          "url": "https://solo5estrellas.com/hotels/1895/park-hyatt-melbourne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Park Hyatt Sydney",
+          "url": "https://solo5estrellas.com/hotels/986/park-hyatt-sydney.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Park Hyatt Vienna",
+          "url": "https://solo5estrellas.com/hotels/2905/park-hyatt-vienna-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Park Hyatt Siem Reap",
+          "url": "https://solo5estrellas.com/hotels/2062/park-hyatt-siem-reap.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Hyatt Vancouver Downtown Alberni",
+          "url": "https://solo5estrellas.com/hotels/6992/hyatt-vancouver-downtown-alberni.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Park Hyatt Toronto",
+          "url": "https://solo5estrellas.com/hotels/1362/park-hyatt-toronto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Park Hyatt Beijing",
+          "url": "https://solo5estrellas.com/hotels/2236/park-hyatt-beijing.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Park Hyatt Changbaishan",
+          "url": "https://solo5estrellas.com/hotels/3460/park-hyatt-changbaishan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Park Hyatt Changsha",
+          "url": "https://solo5estrellas.com/hotels/6721/park-hyatt-changsha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Park Hyatt Guangzhou",
+          "url": "https://solo5estrellas.com/hotels/3974/park-hyatt-guangzhou.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Park Hyatt Hangzhou",
+          "url": "https://solo5estrellas.com/hotels/3451/park-hyatt-hangzhou-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Park Hyatt Ningbo Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3447/park-hyatt-ningbo-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Park Hyatt Sanya Sunny Bay",
+          "url": "https://solo5estrellas.com/hotels/3446/park-hyatt-sanya-sunny-bay-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Park Hyatt Shanghai",
+          "url": "https://solo5estrellas.com/hotels/2275/park-hyatt-shanghai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Park Hyatt Shenzhen",
+          "url": "https://solo5estrellas.com/hotels/3910/park-hyatt-shenzhen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Park Hyatt Suzhou",
+          "url": "https://solo5estrellas.com/hotels/4201/park-hyatt-suzhou.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Park Hyatt Paris-Vendome",
+          "url": "https://solo5estrellas.com/hotels/1259/park-hyatt-paris-vendome.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Park Hyatt Chennai",
+          "url": "https://solo5estrellas.com/hotels/3453/park-hyatt-chennai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Park Hyatt Hyderabad",
+          "url": "https://solo5estrellas.com/hotels/3450/park-hyatt-hyderabad.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Park Hyatt Jakarta",
+          "url": "https://solo5estrellas.com/hotels/6231/park-hyatt-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Park Hyatt Milan",
+          "url": "https://solo5estrellas.com/hotels/1320/park-hyatt-milan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Park Hyatt Kyoto",
+          "url": "https://solo5estrellas.com/hotels/3975/park-hyatt-kyoto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Park Hyatt Niseko Hanazono",
+          "url": "https://solo5estrellas.com/hotels/4121/park-hyatt-niseko-hanazono.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Park Hyatt Tokyo",
+          "url": "https://solo5estrellas.com/hotels/983/park-hyatt-tokyo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Park Hyatt Kuala Lumpur",
+          "url": "https://solo5estrellas.com/hotels/6819/park-hyatt-kuala-lumpur.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Park Hyatt Maldives Hadahaa",
+          "url": "https://solo5estrellas.com/hotels/3449/park-hyatt-maldives-hadahaa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Park Hyatt Los Cabos at Cabo del Sol",
+          "url": "https://solo5estrellas.com/hotels/6820/park-hyatt-los-cabos-at-cabo-del-sol.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Park Hyatt Auckland",
+          "url": "https://solo5estrellas.com/hotels/3655/park-hyatt-auckland.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Park Hyatt Doha",
+          "url": "https://solo5estrellas.com/hotels/4117/park-hyatt-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Ararat Park Hyatt Moscow",
+          "url": "https://solo5estrellas.com/hotels/3389/ararat-park-hyatt-moscow-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Park Hyatt Jeddah Marina Club & Spa",
+          "url": "https://solo5estrellas.com/hotels/3448/park-hyatt-jeddah-marina-club-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Park Hyatt Johannesburg",
+          "url": "https://solo5estrellas.com/hotels/6772/park-hyatt-johannesburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Park Hyatt Busan",
+          "url": "https://solo5estrellas.com/hotels/3459/park-hyatt-busan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Park Hyatt Seoul",
+          "url": "https://solo5estrellas.com/hotels/1559/park-hyatt-seoul-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Park Hyatt St. Kitts",
+          "url": "https://solo5estrellas.com/hotels/3108/park-hyatt-st-kitts.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Park Hyatt Zurich",
+          "url": "https://solo5estrellas.com/hotels/1500/park-hyatt-zurich.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Park Hyatt Zanzibar",
+          "url": "https://solo5estrellas.com/hotels/3445/park-hyatt-zanzibar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Park Hyatt Bangkok",
+          "url": "https://solo5estrellas.com/hotels/3312/park-hyatt-bangkok.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Park Hyatt Istanbul – Macka Palas",
+          "url": "https://solo5estrellas.com/hotels/2329/park-hyatt-istanbul-macka-palas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Park Hyatt Abu Dhabi Hotel and Villas",
+          "url": "https://solo5estrellas.com/hotels/3902/park-hyatt-abu-dhabi-hotel-and-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Park Hyatt Dubai",
+          "url": "https://solo5estrellas.com/hotels/1644/park-hyatt-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Park Hyatt London River Thames",
+          "url": "https://solo5estrellas.com/hotels/6694/park-hyatt-london-river-thames.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Park Hyatt Saigon",
+          "url": "https://solo5estrellas.com/hotels/1560/park-hyatt-saigon.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Park Hyatt directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Park Hyatt con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, crédito de hotel (100 USD para restauración por estancia), mejora de habitación (confirmada en 24 horas, según ocupación), entrada anticipada y salida tardía según disponibilidad, detalle de bienvenida y Wi-Fi de cortesía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de World of Hyatt al reservar Park Hyatt con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Según la página de la marca, las reservas hechas a través de Hyatt Privé siguen sumando puntos y noches de nivel de World of Hyatt. Añada su número de socio a la reserva y confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Park Hyatt se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "51 hoteles en 29 países y territorios. Los países con más hoteles son China, Estados Unidos, Australia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Park Hyatt hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: Park Hyatt Los Cabos at Cabo del Sol. Esta página no incluye hoteles en España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Park Hyatt hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "5 hoteles: Park Hyatt Aviara Resort, Golf Club & Spa, Park Hyatt Beaver Creek Resort and Spa, Park Hyatt Washington D.C., Park Hyatt Chicago, Park Hyatt New York."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Hyatt Privé?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Hyatt Hotels Corporation para asesores de viajes de lujo. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; en algunas marcas solo participan hoteles seleccionados."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Park Hyatt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Andaz",
+          "item": "https://solo5estrellas.com/collection/54/andaz-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/54/andaz-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/54/andaz-hotels.html",
+      "name": "Hoteles Andaz: 29 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 29 hoteles Andaz en 17 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Andaz"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/54/andaz-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/54/andaz-hotels.html#hotels",
+      "name": "Hoteles Andaz",
+      "numberOfItems": 29,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Andaz Scottsdale Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3231/andaz-scottsdale-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Andaz Napa",
+          "url": "https://solo5estrellas.com/hotels/3382/andaz-napa-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Andaz San Diego",
+          "url": "https://solo5estrellas.com/hotels/3380/andaz-san-diego.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Andaz West Hollywood",
+          "url": "https://solo5estrellas.com/hotels/2254/andaz-west-hollywood-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Andaz Miami Beach",
+          "url": "https://solo5estrellas.com/hotels/6768/andaz-miami-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Andaz Savannah",
+          "url": "https://solo5estrellas.com/hotels/2974/andaz-savannah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Andaz Maui at Wailea",
+          "url": "https://solo5estrellas.com/hotels/2706/andaz-maui-at-wailea.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Andaz 5th Avenue",
+          "url": "https://solo5estrellas.com/hotels/3381/andaz-5th-avenue.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Andaz Vienna Am Belvedere",
+          "url": "https://solo5estrellas.com/hotels/3635/andaz-vienna-am-belvedere-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Andaz Ottawa Byward Market",
+          "url": "https://solo5estrellas.com/hotels/3379/andaz-ottawa-byward-market.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Andaz Shenzhen Bay",
+          "url": "https://solo5estrellas.com/hotels/4616/andaz-shenzhen-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Andaz Singapore",
+          "url": "https://solo5estrellas.com/hotels/3385/andaz-singapore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Andaz Xiamen",
+          "url": "https://solo5estrellas.com/hotels/4619/andaz-xiamen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Andaz Xintiandi",
+          "url": "https://solo5estrellas.com/hotels/3387/andaz-xintiandi-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Andaz Costa Rica Resort at Peninsula Papagayo",
+          "url": "https://solo5estrellas.com/hotels/2760/andaz-costa-rica-resort-at-peninsula-papagayo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Andaz Prague",
+          "url": "https://solo5estrellas.com/hotels/6096/andaz-prague.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Andaz Munich Schwabinger Tor",
+          "url": "https://solo5estrellas.com/hotels/3634/andaz-munich-schwabinger-tor.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Andaz Delhi",
+          "url": "https://solo5estrellas.com/hotels/3378/andaz-delhi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Andaz Bali",
+          "url": "https://solo5estrellas.com/hotels/6229/andaz-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Andaz Tokyo Toranomon Hills",
+          "url": "https://solo5estrellas.com/hotels/3386/andaz-tokyo-toranomon-hills-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Andaz Mayakoba Resort Riviera Maya",
+          "url": "https://solo5estrellas.com/hotels/3302/andaz-mayakoba-resort-riviera-maya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Andaz Amsterdam, Prinsengracht",
+          "url": "https://solo5estrellas.com/hotels/3377/andaz-amsterdam-prinsengracht.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Andaz Lisbon",
+          "url": "https://solo5estrellas.com/hotels/6934/andaz-lisbon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Andaz Seoul Gangnam",
+          "url": "https://solo5estrellas.com/hotels/4108/andaz-seoul-gangnam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Andaz One Bangkok",
+          "url": "https://solo5estrellas.com/hotels/7132/andaz-one-bangkok.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Andaz Pattaya Jomtien Beach",
+          "url": "https://solo5estrellas.com/hotels/6393/andaz-pattaya-jomtien-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Andaz Capital Gate, Abu Dhabi",
+          "url": "https://solo5estrellas.com/hotels/3633/andaz-capital-gate-abu-dhabi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Andaz Dubai The Palm",
+          "url": "https://solo5estrellas.com/hotels/4122/andaz-dubai-the-palm.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Andaz London Liverpool Street",
+          "url": "https://solo5estrellas.com/hotels/3383/andaz-london-liverpool-street-.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Andaz directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Andaz con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, crédito de hotel (normalmente 100 USD por estancia), mejora de habitación (confirmada en 24 horas), entrada anticipada y salida tardía según disponibilidad, detalle de bienvenida y Wi-Fi de cortesía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de World of Hyatt al reservar Andaz con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Según la página de la marca, las reservas hechas a través de Hyatt Privé siguen sumando puntos y noches de nivel de World of Hyatt. Añada su número de socio a la reserva y confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Andaz se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "29 hoteles en 17 países y territorios. Los países con más hoteles son Estados Unidos, China, Tailandia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Andaz hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: Andaz Mayakoba Resort Riviera Maya. Esta página no incluye hoteles en España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Andaz hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "8 hoteles, entre ellos Andaz Scottsdale Resort & Spa, Andaz Napa, Andaz San Diego, Andaz West Hollywood, Andaz Miami Beach, Andaz Savannah y 2 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Hyatt Privé?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Hyatt Hotels Corporation para asesores de viajes de lujo. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; en algunas marcas solo participan hoteles seleccionados."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Andaz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

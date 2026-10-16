@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Thompson Hotels",
+          "item": "https://solo5estrellas.com/collection/75/thompson-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/75/thompson-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/75/thompson-hotels.html",
+      "name": "Hoteles Thompson Hotels: 16 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 16 hoteles Thompson Hotels en 5 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Thompson Hotels"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/75/thompson-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/75/thompson-hotels.html#hotels",
+      "name": "Hoteles Thompson Hotels",
+      "numberOfItems": 16,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Thompson Denver",
+          "url": "https://solo5estrellas.com/hotels/6228/thompson-denver.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Thompson Washington D.C.",
+          "url": "https://solo5estrellas.com/hotels/4196/thompson-washington-d-c-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Thompson Miami Beach",
+          "url": "https://solo5estrellas.com/hotels/6770/thompson-miami-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Thompson Savannah",
+          "url": "https://solo5estrellas.com/hotels/6268/thompson-savannah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Thompson Chicago",
+          "url": "https://solo5estrellas.com/hotels/2912/thompson-chicago.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Gild Hall",
+          "url": "https://solo5estrellas.com/hotels/3916/gild-hall-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Beekman",
+          "url": "https://solo5estrellas.com/hotels/3025/the-beekman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Thompson Central Park New York",
+          "url": "https://solo5estrellas.com/hotels/6088/thompson-central-park-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Thompson Nashville",
+          "url": "https://solo5estrellas.com/hotels/3927/thompson-nashville.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Thompson Austin",
+          "url": "https://solo5estrellas.com/hotels/6277/thompson-austin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Thompson Dallas",
+          "url": "https://solo5estrellas.com/hotels/4626/thompson-dallas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Thompson Seattle",
+          "url": "https://solo5estrellas.com/hotels/3203/thompson-seattle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Thompson Shanghai Expo",
+          "url": "https://solo5estrellas.com/hotels/6998/thompson-shanghai-expo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "The Cape",
+          "url": "https://solo5estrellas.com/hotels/3013/the-cape.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Thompson Zihuatanejo",
+          "url": "https://solo5estrellas.com/hotels/3931/thompson-zihuatanejo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Thompson Madrid",
+          "url": "https://solo5estrellas.com/hotels/6118/thompson-madrid.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Thompson Hotels directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Thompson Hotels con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, crédito de hotel (100 USD), mejora de habitación (prioritaria, sujeta a disponibilidad), detalle de bienvenida y Wi-Fi de cortesía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de World of Hyatt al reservar Thompson Hotels con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Según la página de la marca, las reservas hechas a través de Hyatt Privé siguen sumando puntos y noches de nivel de World of Hyatt. Añada su número de socio a la reserva y confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Thompson Hotels se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "16 hoteles en 5 países y territorios. Los países con más hoteles son Estados Unidos, China, México."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Thompson Hotels hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: The Cape. En España: Thompson Madrid."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Thompson Hotels hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "12 hoteles, entre ellos Thompson Denver, Thompson Washington D.C., Thompson Miami Beach, Thompson Savannah, Thompson Chicago, Gild Hall y 6 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Hyatt Privé?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Hyatt Hotels Corporation para asesores de viajes de lujo. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; en algunas marcas solo participan hoteles seleccionados."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Thompson Hotels?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
