@@ -65,7 +65,7 @@ Renaissance Hotels es una marca lifestyle de Marriott International, de hoteles 
 ### Sudamérica
 
 **Brasil (1)**
-- [Renaissance Sao Paulo Hotel](/hotels/3764/renaissance-sao-paulo-hotel.html) (Sao Paulo)
+- [Renaissance Sao Paulo Hotel](/hotels/3764/renaissance-sao-paulo-hotel.html) (São Paulo)
 
 **Chile (1)**
 - [Renaissance Santiago Hotel](/hotels/3738/renaissance-santiago-hotel.html) (Santiago)
@@ -82,7 +82,7 @@ Renaissance Hotels es una marca lifestyle de Marriott International, de hoteles 
 - [Renaissance Hamburg](/hotels/6888/renaissance-hamburg.html) (Hamburg)
 
 **Italia (1)**
-- [Renaissance Tuscany Il Ciocco Resort & Spa](/hotels/3247/renaissance-tuscany-il-ciocco-resort-spa.html) (Tuscany)
+- [Renaissance Tuscany Il Ciocco Resort & Spa](/hotels/3247/renaissance-tuscany-il-ciocco-resort-spa.html) (Toscana)
 
 **España (1)**
 - [Renaissance Barcelona Hotel](/hotels/6901/renaissance-barcelona-hotel.html) (Barcelona)

@@ -34,7 +34,7 @@ Aman gestiona hoteles y resorts de lujo de pequeña escala; su primer establecim
 3. Revise lo confirmado: el desayuno y el reconocimiento VIP se confirman al reservar; el crédito y la cancelación varían según el hotel.
 4. En el hotel, solicite la mejora de categoría al hacer el check-in; depende de la disponibilidad.
 
-## Los hoteles Aman por destino
+## Los 20 hoteles Aman por destino
 
 ### Asia
 

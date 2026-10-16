@@ -34,7 +34,7 @@ Bulgari Hotels & Resorts (también escrito Bvlgari) es la división hotelera de 
 3. Añada su número de Marriott Bonvoy a la reserva para seguir sumando puntos y noches de nivel.
 4. En el hotel, solicite la mejora de habitación; depende de la disponibilidad.
 
-## Los hoteles Bulgari por destino
+## Los 9 hoteles Bulgari por destino
 
 ### Italia
 

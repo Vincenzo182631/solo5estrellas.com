@@ -45,14 +45,14 @@ Hyatt Centric es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, 
 - [Hyatt Centric French Quarter New Orleans](/hotels/3926/hyatt-centric-french-quarter-new-orleans.html) (New Orleans, Louisiana)
 - [Hyatt Centric Times Square New York](/hotels/3908/hyatt-centric-times-square-new-york.html) (Nueva York)
 - [Hyatt Centric Portland](/hotels/6720/hyatt-centric-portland.html) (Portland, Oregon)
-- [Hyatt Centric Center City Philadelphia](/hotels/4205/hyatt-centric-center-city-philadelphia.html) (Philadelphia, Pennsylvania)
+- [Hyatt Centric Center City Philadelphia](/hotels/4205/hyatt-centric-center-city-philadelphia.html) (Filadelfia, Pennsylvania)
 - [Hyatt Centric Park City](/hotels/4209/hyatt-centric-park-city.html) (Park City, Utah)
 - [Hyatt Centric Old Town Alexandria](/hotels/6400/hyatt-centric-old-town-alexandria.html) (Alexandria, Virginia)
 
 ### México, Caribe y Centroamérica
 
 **Guatemala (1)**
-- [Hyatt Centric Guatemala City](/hotels/3930/hyatt-centric-guatemala-city.html) (Guatemala City)
+- [Hyatt Centric Guatemala City](/hotels/3930/hyatt-centric-guatemala-city.html) (Ciudad de Guatemala)
 
 ### Sudamérica
 

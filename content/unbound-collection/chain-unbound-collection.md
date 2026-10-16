@@ -42,7 +42,7 @@ The Unbound Collection es una de las marcas de Hyatt Hotels Corporation. Solo5Es
 - [Royal Palms Resort and Spa](/hotels/1063/royal-palms-resort-and-spa-.html) (Phoenix)
 - [Hotel Figueroa](/hotels/6208/hotel-figueroa.html) (Los Ángeles)
 - [Kissel Uptown Oakland](/hotels/6123/kissel-uptown-oakland.html) (San Francisco)
-- [Mar Monte Hotel](/hotels/4221/mar-monte-hotel.html) (Santa Barbara)
+- [Mar Monte Hotel](/hotels/4221/mar-monte-hotel.html) (Santa Bárbara)
 - [The Shay Hotel](/hotels/6207/the-shay-hotel.html) (Los Ángeles)
 - [Thompson Hollywood](/hotels/6209/thompson-hollywood.html) (Los Ángeles)
 - [Maison Metier](/hotels/6884/maison-metier.html) (New Orleans)
@@ -50,7 +50,7 @@ The Unbound Collection es una de las marcas de Hyatt Hotels Corporation. Solo5Es
 - [Hotel Kansas City](/hotels/4629/hotel-kansas-city.html) (Kansas City)
 - [The Manner](/hotels/6883/the-manner.html) (Nueva York)
 - [Fordson Hotel](/hotels/6674/fordson-hotel.html) (Oklahoma City)
-- [The Bellevue Hotel](/hotels/1894/the-bellevue-hotel.html) (Philadelphia)
+- [The Bellevue Hotel](/hotels/1894/the-bellevue-hotel.html) (Filadelfia)
 - [Holston House Nashville](/hotels/3912/holston-house-nashville.html) (Nashville)
 - [The Driskill Hotel](/hotels/2002/the-driskill-hotel.html) (Austin)
 - [The Fairmount San Antonio](/hotels/6885/the-fairmount-san-antonio.html) (San Antonio)
@@ -58,12 +58,12 @@ The Unbound Collection es una de las marcas de Hyatt Hotels Corporation. Solo5Es
 ### México, Caribe y Centroamérica
 
 **Panamá (1)**
-- [Hotel La Compañía de Valle](/hotels/6995/hotel-la-compa-a-de-valle.html) (Panama City)
+- [Hotel La Compañía de Valle](/hotels/6995/hotel-la-compa-a-de-valle.html) (Ciudad de Panamá)
 
 ### Europa
 
 **Suecia (1)**
-- [Hotel Reisen](/hotels/7095/hotel-reisen.html) (Stockholm)
+- [Hotel Reisen](/hotels/7095/hotel-reisen.html) (Estocolmo)
 
 **Hungría (1)**
 - [Parisi Udvar Hotel Budapest](/hotels/3915/parisi-udvar-hotel-budapest.html) (Budapest)
@@ -72,7 +72,7 @@ The Unbound Collection es una de las marcas de Hyatt Hotels Corporation. Solo5Es
 - [Hotel Du Louvre](/hotels/3641/hotel-du-louvre.html) (París)
 
 **España (1)**
-- [Hotel La Zambra](/hotels/6126/hotel-la-zambra.html) (Malaga)
+- [Hotel La Zambra](/hotels/6126/hotel-la-zambra.html) (Málaga)
 
 **Reino Unido (1)**
 - [Great Scotland Yard](/hotels/3909/great-scotland-yard.html) (Londres)

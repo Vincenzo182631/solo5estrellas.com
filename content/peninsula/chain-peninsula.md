@@ -34,7 +34,7 @@ The Peninsula Hotels es el grupo hotelero de lujo de The Hongkong and Shanghai H
 3. Revise lo confirmado: desayuno, crédito, mejora de categoría y Wi-Fi se confirman al reservar.
 4. Indique su hora de llegada o de salida si quiere usar la entrada desde las 6:00 o la salida hasta las 22:00.
 
-## Los hoteles Peninsula por destino
+## Los 12 hoteles Peninsula por destino
 
 ### Asia
 

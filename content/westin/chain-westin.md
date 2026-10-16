@@ -59,7 +59,7 @@ Westin Hotels & Resorts es una marca de Marriott International centrada en el bi
 - [The Westin Jackson](/hotels/4732/the-westin-jackson.html) (Jackson)
 - [The Westin Lake Las Vegas Resort & Spa](/hotels/3848/the-westin-lake-las-vegas-resort-spa.html) (Las Vegas)
 - [The Westin Charlotte](/hotels/6439/the-westin-charlotte.html) (Charlotte)
-- [The Westin Philadelphia](/hotels/3853/the-westin-philadelphia.html) (Philadelphia)
+- [The Westin Philadelphia](/hotels/3853/the-westin-philadelphia.html) (Filadelfia)
 - [The Westin Nashville](/hotels/6810/-the-westin-nashville.html) (Nashville)
 - [The Westin Austin Downtown](/hotels/7020/the-westin-austin-downtown.html) (Austin)
 - [The Westin Riverwalk](/hotels/2203/the-westin-riverwalk.html) (San Antonio)
@@ -78,7 +78,7 @@ Westin Hotels & Resorts es una marca de Marriott International centrada en el bi
 - [The Westin Punta Cana Resort & Club](/hotels/3015/the-westin-punta-cana-resort-club-.html) (Punta Cana)
 
 **Gran Caimán (1)**
-- [The Westin Grand Cayman Seven Mile Beach Resort & Spa](/hotels/3788/the-westin-grand-cayman-seven-mile-beach-resort-spa.html) (Grand Cayman)
+- [The Westin Grand Cayman Seven Mile Beach Resort & Spa](/hotels/3788/the-westin-grand-cayman-seven-mile-beach-resort-spa.html) (Gran Caimán)
 
 **Costa Rica (1)**
 - [The Westin Reserva Conchal](/hotels/2534/the-westin-reserva-conchal.html) (Peninsula Papagayo)
@@ -127,7 +127,7 @@ Westin Hotels & Resorts es una marca de Marriott International centrada en el bi
 - [The Westin Resort & Spa, Himalayas](/hotels/7120/the-westin-resort-spa-himalayas.html) (Uayamon)
 
 **China (1)**
-- [The Westin Miyako Kyoto](/hotels/3817/the-westin-miyako-kyoto.html) (Kyoto)
+- [The Westin Miyako Kyoto](/hotels/3817/the-westin-miyako-kyoto.html) (Kioto)
 
 **Indonesia (2)**
 - [The Westin Resort & Spa Ubud, Bali](/hotels/4672/the-westin-resort-spa-ubud-bali.html) (Bali)

@@ -64,7 +64,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Hyatt Regency San Francisco Downtown SOMA](/hotels/6401/hyatt-regency-san-francisco-downtown-soma.html) (San Francisco)
 - [Hyatt Regency Sonoma Wine Country](/hotels/3650/hyatt-regency-sonoma-wine-country.html) (Santa Rosa)
 - [Hyatt Regency Westlake](/hotels/3968/hyatt-regency-westlake.html) (Westlake Village)
-- [Hyatt Regency Washington on Capitol Hill](/hotels/3462/hyatt-regency-washington-on-capitol-hill.html) (Washington DC)
+- [Hyatt Regency Washington on Capitol Hill](/hotels/3462/hyatt-regency-washington-on-capitol-hill.html) (Washington D. C.)
 - [Hyatt Regency Clearwater Beach Resort & Spa](/hotels/3368/hyatt-regency-clearwater-beach-resort-spa.html) (Clearwater)
 - [Hyatt Regency Coconut Point Resort & Spa](/hotels/3393/hyatt-regency-coconut-point-resort-spa-.html) (Bonita Springs)
 - [Hyatt Regency Coral Gables](/hotels/3639/hyatt-regency-coral-gables.html) (Miami)
@@ -75,7 +75,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Hyatt Regency Boston](/hotels/4197/hyatt-regency-boston.html) (Boston)
 - [Hyatt Regency Lake Tahoe Resort](/hotels/1781/hyatt-regency-lake-tahoe-resort.html) (Lake Tahoe)
 - [Hyatt Regency Tamaya Resort](/hotels/1796/hyatt-regency-tamaya-resort-.html) (Santa Ana Pueblo)
-- [Hyatt at the Bellevue](/hotels/3418/hyatt-at-the-bellevue.html) (Philadelphia)
+- [Hyatt at the Bellevue](/hotels/3418/hyatt-at-the-bellevue.html) (Filadelfia)
 - [Hyatt Regency Austin](/hotels/2457/hyatt-regency-austin.html) (Austin)
 - [Hyatt Regency Hill Country Resort & Spa](/hotels/1604/hyatt-regency-hill-country-resort-spa.html) (San Antonio)
 - [Hyatt Regency Lost Pines Resort & Spa](/hotels/3436/hyatt-regency-lost-pines-resort-spa.html) (Austin)
@@ -83,7 +83,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Hyatt Regency Lake Washington](/hotels/4633/hyatt-regency-lake-washington.html) (Renton)
 - [Park Hyatt Aviara Resort, Golf Club & Spa](/hotels/1020/park-hyatt-aviara-resort-golf-club-spa.html) (San Diego, Aviara, California)
 - [Park Hyatt Beaver Creek Resort and Spa](/hotels/1262/park-hyatt-beaver-creek-resort-and-spa.html) (Beaver Creek, Colorado)
-- [Park Hyatt Washington D.C.](/hotels/1205/park-hyatt-washington-d-c-.html) (Washington DC, District of Columbia)
+- [Park Hyatt Washington D.C.](/hotels/1205/park-hyatt-washington-d-c-.html) (Washington D. C., District of Columbia)
 - [Park Hyatt Chicago](/hotels/1123/park-hyatt-chicago.html) (Chicago, Illinois)
 - [Park Hyatt New York](/hotels/2896/park-hyatt-new-york.html) (Nueva York)
 - [Andaz Scottsdale Resort & Spa](/hotels/3231/andaz-scottsdale-resort-spa.html) (Scottsdale, Arizona)
@@ -100,13 +100,13 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Hyatt Centric French Quarter New Orleans](/hotels/3926/hyatt-centric-french-quarter-new-orleans.html) (New Orleans, Louisiana)
 - [Hyatt Centric Times Square New York](/hotels/3908/hyatt-centric-times-square-new-york.html) (Nueva York)
 - [Hyatt Centric Portland](/hotels/6720/hyatt-centric-portland.html) (Portland, Oregon)
-- [Hyatt Centric Center City Philadelphia](/hotels/4205/hyatt-centric-center-city-philadelphia.html) (Philadelphia, Pennsylvania)
+- [Hyatt Centric Center City Philadelphia](/hotels/4205/hyatt-centric-center-city-philadelphia.html) (Filadelfia, Pennsylvania)
 - [Hyatt Centric Park City](/hotels/4209/hyatt-centric-park-city.html) (Park City, Utah)
 - [Hyatt Centric Old Town Alexandria](/hotels/6400/hyatt-centric-old-town-alexandria.html) (Alexandria, Virginia)
 - [Thompson Denver](/hotels/6228/thompson-denver.html) (Denver, Colorado)
-- [Thompson Washington D.C.](/hotels/4196/thompson-washington-d-c-.html) (Washington DC, District of Columbia)
+- [Thompson Washington D.C.](/hotels/4196/thompson-washington-d-c-.html) (Washington D. C., District of Columbia)
 - [Thompson Miami Beach](/hotels/6770/thompson-miami-beach.html) (Miami, Florida)
-- [Thompson Savannah](/hotels/6268/thompson-savannah.html) (Savanna, Georgia)
+- [Thompson Savannah](/hotels/6268/thompson-savannah.html) (Savannah, Georgia)
 - [Thompson Chicago](/hotels/2912/thompson-chicago.html) (Chicago, Illinois)
 - [Gild Hall](/hotels/3916/gild-hall-.html) (Nueva York)
 - [The Beekman](/hotels/3025/the-beekman.html) (Nueva York)
@@ -118,7 +118,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Royal Palms Resort and Spa](/hotels/1063/royal-palms-resort-and-spa-.html) (Phoenix)
 - [Hotel Figueroa](/hotels/6208/hotel-figueroa.html) (Los Ángeles)
 - [Kissel Uptown Oakland](/hotels/6123/kissel-uptown-oakland.html) (San Francisco)
-- [Mar Monte Hotel](/hotels/4221/mar-monte-hotel.html) (Santa Barbara)
+- [Mar Monte Hotel](/hotels/4221/mar-monte-hotel.html) (Santa Bárbara)
 - [The Shay Hotel](/hotels/6207/the-shay-hotel.html) (Los Ángeles)
 - [Thompson Hollywood](/hotels/6209/thompson-hollywood.html) (Los Ángeles)
 - [Maison Metier](/hotels/6884/maison-metier.html) (New Orleans)
@@ -126,7 +126,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Hotel Kansas City](/hotels/4629/hotel-kansas-city.html) (Kansas City)
 - [The Manner](/hotels/6883/the-manner.html) (Nueva York)
 - [Fordson Hotel](/hotels/6674/fordson-hotel.html) (Oklahoma City)
-- [The Bellevue Hotel](/hotels/1894/the-bellevue-hotel.html) (Philadelphia)
+- [The Bellevue Hotel](/hotels/1894/the-bellevue-hotel.html) (Filadelfia)
 - [Holston House Nashville](/hotels/3912/holston-house-nashville.html) (Nashville)
 - [The Driskill Hotel](/hotels/2002/the-driskill-hotel.html) (Austin)
 - [The Fairmount San Antonio](/hotels/6885/the-fairmount-san-antonio.html) (San Antonio)
@@ -147,13 +147,13 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Park Hyatt St. Kitts](/hotels/3108/park-hyatt-st-kitts.html) (St. Kitts & Nevis)
 
 **Guatemala (1)**
-- [Hyatt Centric Guatemala City](/hotels/3930/hyatt-centric-guatemala-city.html) (Guatemala City)
+- [Hyatt Centric Guatemala City](/hotels/3930/hyatt-centric-guatemala-city.html) (Ciudad de Guatemala)
 
 **Jamaica (1)**
 - [Hyatt Ziva Rose Hall](/hotels/3304/hyatt-ziva-rose-hall.html) (Montego Bay)
 
 **Panamá (1)**
-- [Hotel La Compañía de Valle](/hotels/6995/hotel-la-compa-a-de-valle.html) (Panama City)
+- [Hotel La Compañía de Valle](/hotels/6995/hotel-la-compa-a-de-valle.html) (Ciudad de Panamá)
 
 **México (6)**
 - [Grand Hyatt Playa Del Carmen Resort](/hotels/3038/grand-hyatt-playa-del-carmen-resort.html) (Playa del Carmen)
@@ -176,7 +176,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Santa Barbara Beach & Golf Resort](/hotels/2360/santa-barbara-beach-golf-resort.html) (Nieuwpoort)
 
 **Gran Caimán (1)**
-- [Grand Hyatt Cayman Resort](/hotels/7011/grand-hyatt-cayman-resort.html) (Grand Cayman)
+- [Grand Hyatt Cayman Resort](/hotels/7011/grand-hyatt-cayman-resort.html) (Gran Caimán)
 
 **Costa Rica (1)**
 - [Andaz Costa Rica Resort at Peninsula Papagayo](/hotels/2760/andaz-costa-rica-resort-at-peninsula-papagayo.html) (Peninsula Papagayo)
@@ -195,27 +195,27 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 
 **Brasil (2)**
 - [Grand Hyatt Rio de Janeiro](/hotels/3416/grand-hyatt-rio-de-janeiro.html) (Río de Janeiro)
-- [Grand Hyatt Sao Paulo](/hotels/2958/grand-hyatt-sao-paulo.html) (Sao Paulo)
+- [Grand Hyatt Sao Paulo](/hotels/2958/grand-hyatt-sao-paulo.html) (São Paulo)
 
 **Chile (1)**
 - [Hyatt Centric Las Condes Santiago](/hotels/3906/hyatt-centric-las-condes-santiago.html) (Santiago)
 
 **Colombia (2)**
-- [Grand Hyatt Bogota](/hotels/3637/grand-hyatt-bogota.html) (Bogota)
+- [Grand Hyatt Bogota](/hotels/3637/grand-hyatt-bogota.html) (Bogotá)
 - [Hyatt Regency Cartagena](/hotels/3648/hyatt-regency-cartagena.html) (Cartagena)
 
 ### Europa
 
 **Rusia (3)**
-- [Hyatt Regency Moscow Petrovsky Park](/hotels/3644/hyatt-regency-moscow-petrovsky-park.html) (Moscow)
+- [Hyatt Regency Moscow Petrovsky Park](/hotels/3644/hyatt-regency-moscow-petrovsky-park.html) (Moscú)
 - [Hyatt Regency Sochi](/hotels/3972/hyatt-regency-sochi.html) (Sochi)
-- [Ararat Park Hyatt Moscow](/hotels/3389/ararat-park-hyatt-moscow-.html) (Moscow)
+- [Ararat Park Hyatt Moscow](/hotels/3389/ararat-park-hyatt-moscow-.html) (Moscú)
 
 **Croacia (1)**
-- [Hyatt Regency Zadar](/hotels/6989/-hyatt-regency-zadar.html) (NULL)
+- [Hyatt Regency Zadar](/hotels/6989/-hyatt-regency-zadar.html)
 
 **Suecia (1)**
-- [Hotel Reisen](/hotels/7095/hotel-reisen.html) (Stockholm)
+- [Hotel Reisen](/hotels/7095/hotel-reisen.html) (Estocolmo)
 
 **República Checa (1)**
 - [Andaz Prague](/hotels/6096/andaz-prague.html) (Praga)
@@ -235,15 +235,15 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 **Francia (6)**
 - [Hotel Martinez](/hotels/3402/hotel-martinez-.html) (Cannes)
 - [Hyatt Regency Chantilly](/hotels/3652/hyatt-regency-chantilly.html) (Chantilly)
-- [Hyatt Regency Nice Palais de la Méditerranée](/hotels/1333/hyatt-regency-nice-palais-de-la-m-diterran-e.html) (Nice)
+- [Hyatt Regency Nice Palais de la Méditerranée](/hotels/1333/hyatt-regency-nice-palais-de-la-m-diterran-e.html) (Niza)
 - [Park Hyatt Paris-Vendome](/hotels/1259/park-hyatt-paris-vendome.html) (París)
 - [Hyatt Centric La Rosiere](/hotels/4120/hyatt-centric-la-rosiere.html) (La Rosiere)
 - [Hotel Du Louvre](/hotels/3641/hotel-du-louvre.html) (París)
 
 **Alemania (5)**
-- [Grand Hyatt Berlin](/hotels/3401/grand-hyatt-berlin-.html) (Berlin)
-- [Hyatt Regency Cologne](/hotels/3394/hyatt-regency-cologne.html) (Cologne)
-- [Hyatt Regency Dusseldorf](/hotels/3422/hyatt-regency-dusseldorf.html) (Dusseldorf)
+- [Grand Hyatt Berlin](/hotels/3401/grand-hyatt-berlin-.html) (Berlín)
+- [Hyatt Regency Cologne](/hotels/3394/hyatt-regency-cologne.html) (Colonia)
+- [Hyatt Regency Dusseldorf](/hotels/3422/hyatt-regency-dusseldorf.html) (Düsseldorf)
 - [Hyatt Regency Mainz](/hotels/3437/hyatt-regency-mainz.html) (Mainz)
 - [Andaz Munich Schwabinger Tor](/hotels/3634/andaz-munich-schwabinger-tor.html) (Múnich)
 
@@ -270,7 +270,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Hyatt Regency Hesperia Madrid](/hotels/4112/hyatt-regency-hesperia-madrid.html) (Madrid)
 - [Hyatt Centric Gran Via Madrid](/hotels/3928/hyatt-centric-gran-via-madrid.html) (Madrid)
 - [Thompson Madrid](/hotels/6118/thompson-madrid.html) (Madrid)
-- [Hotel La Zambra](/hotels/6126/hotel-la-zambra.html) (Malaga)
+- [Hotel La Zambra](/hotels/6126/hotel-la-zambra.html) (Málaga)
 
 **Suiza (2)**
 - [Hyatt Regency Zurich Airport The Circle](/hotels/6767/hyatt-regency-zurich-airport-the-circle.html) (Zúrich)
@@ -289,11 +289,11 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 ### África
 
 **Tanzania (2)**
-- [Hyatt Regency Dar es Salaam, The Kilimanjaro](/hotels/3653/hyatt-regency-dar-es-salaam-the-kilimanjaro.html) (NULL)
+- [Hyatt Regency Dar es Salaam, The Kilimanjaro](/hotels/3653/hyatt-regency-dar-es-salaam-the-kilimanjaro.html)
 - [Park Hyatt Zanzibar](/hotels/3445/park-hyatt-zanzibar.html) (Stone Town)
 
 **Sudáfrica (2)**
-- [Hyatt Regency Cape Town](/hotels/6523/hyatt-regency-cape-town.html) (Cape Town)
+- [Hyatt Regency Cape Town](/hotels/6523/hyatt-regency-cape-town.html) (Ciudad del Cabo)
 - [Park Hyatt Johannesburg](/hotels/6772/park-hyatt-johannesburg.html) (Johannesburg)
 
 ### Oriente Medio y norte de África
@@ -302,7 +302,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Hyatt Regency Casablanca](/hotels/3970/hyatt-regency-casablanca.html) (Casablanca)
 
 **Jordania (2)**
-- [Grand Hyatt Amman](/hotels/3392/grand-hyatt-amman-.html) (Amman)
+- [Grand Hyatt Amman](/hotels/3392/grand-hyatt-amman-.html) (Ammán)
 - [Hyatt Regency Aqaba Ayla](/hotels/4204/hyatt-regency-aqaba-ayla.html) (Aqaba)
 
 **Omán (2)**
@@ -314,9 +314,9 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Park Hyatt Doha](/hotels/4117/park-hyatt-doha.html) (Doha)
 
 **Arabia Saudita (4)**
-- [Grand Hyatt Al Khobar](/hotels/6227/grand-hyatt-al-khobar.html) (NULL)
+- [Grand Hyatt Al Khobar](/hotels/6227/grand-hyatt-al-khobar.html)
 - [Hyatt Regency Riyadh Olaya](/hotels/4199/hyatt-regency-riyadh-olaya.html) (Riad)
-- [Jabal Omar Hyatt Regency Makkah](/hotels/3649/jabal-omar-hyatt-regency-makkah.html) (Mecca)
+- [Jabal Omar Hyatt Regency Makkah](/hotels/3649/jabal-omar-hyatt-regency-makkah.html) (La Meca)
 - [Park Hyatt Jeddah Marina Club & Spa](/hotels/3448/park-hyatt-jeddah-marina-club-spa.html) (Jeddah)
 
 **Emiratos Árabes Unidos (8)**
@@ -341,7 +341,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Grand Hyatt Manila](/hotels/6673/grand-hyatt-manila.html) (Manila)
 
 **Maldivas (1)**
-- [Park Hyatt Maldives Hadahaa](/hotels/3449/park-hyatt-maldives-hadahaa.html) (Maldives)
+- [Park Hyatt Maldives Hadahaa](/hotels/3449/park-hyatt-maldives-hadahaa.html) (Maldivas)
 
 **Taiwán (1)**
 - [Grand Hyatt Taipei](/hotels/3384/grand-hyatt-taipei.html) (Taipei)
@@ -377,7 +377,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Grand Hyatt Guangzhou](/hotels/3638/grand-hyatt-guangzhou.html) (Guangzhou)
 - [Grand Hyatt Hong Kong](/hotels/3408/grand-hyatt-hong-kong-.html) (Hong Kong)
 - [Grand Hyatt Lijiang](/hotels/3410/grand-hyatt-lijiang-.html) (Lijiang)
-- [Grand Hyatt Macau](/hotels/3411/grand-hyatt-macau.html) (Macau)
+- [Grand Hyatt Macau](/hotels/3411/grand-hyatt-macau.html) (Macao)
 - [Grand Hyatt Shanghai](/hotels/1097/grand-hyatt-shanghai.html) (Shanghái)
 - [Grand Hyatt Shenzhen](/hotels/6124/grand-hyatt-shenzhen.html) (Shenzhen)
 - [Hyatt on the Bund Shanghai](/hotels/3967/hyatt-on-the-bund-shanghai.html) (Shanghái)
@@ -394,7 +394,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Park Hyatt Shenzhen](/hotels/3910/park-hyatt-shenzhen.html) (Shenzhen)
 - [Park Hyatt Suzhou](/hotels/4201/park-hyatt-suzhou.html) (Suzhou)
 - [Andaz Shenzhen Bay](/hotels/4616/andaz-shenzhen-bay.html) (Shenzhen)
-- [Andaz Singapore](/hotels/3385/andaz-singapore.html) (Singapore)
+- [Andaz Singapore](/hotels/3385/andaz-singapore.html) (Singapur)
 - [Andaz Xiamen](/hotels/4619/andaz-xiamen.html) (Xiamen)
 - [Andaz Xintiandi](/hotels/3387/andaz-xintiandi-.html) (Shanghái)
 - [Hyatt Centric Victoria Harbour Hong Kong](/hotels/4212/hyatt-centric-victoria-harbour-hong-kong.html) (Hong Kong)
@@ -420,10 +420,10 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 - [Grand Hyatt Fukuoka](/hotels/6394/grand-hyatt-fukuoka.html) (Fukuoka)
 - [Grand Hyatt Tokyo](/hotels/2428/grand-hyatt-tokyo-.html) (Tokio)
 - [Hyatt Regency Hakone Resort & Spa](/hotels/3424/hyatt-regency-hakone-resort-spa.html) (Gora)
-- [Hyatt Regency Kyoto](/hotels/1817/hyatt-regency-kyoto-.html) (Kyoto)
+- [Hyatt Regency Kyoto](/hotels/1817/hyatt-regency-kyoto-.html) (Kioto)
 - [Hyatt Regency Seragaki Island, Okinawa](/hotels/3645/hyatt-regency-seragaki-island-okinawa.html) (Okinawa)
 - [Hyatt Regency Tokyo](/hotels/4200/hyatt-regency-tokyo.html) (Tokio)
-- [Park Hyatt Kyoto](/hotels/3975/park-hyatt-kyoto.html) (Kyoto)
+- [Park Hyatt Kyoto](/hotels/3975/park-hyatt-kyoto.html) (Kioto)
 - [Park Hyatt Niseko Hanazono](/hotels/4121/park-hyatt-niseko-hanazono.html) (Niseko)
 - [Park Hyatt Tokyo](/hotels/983/park-hyatt-tokyo.html) (Tokio)
 - [Andaz Tokyo Toranomon Hills](/hotels/3386/andaz-tokyo-toranomon-hills-.html) (Tokio)
@@ -432,7 +432,7 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 
 **Malasia (4)**
 - [Grand Hyatt Kuala Lumpur](/hotels/2665/grand-hyatt-kuala-lumpur.html) (Kuala Lumpur)
-- [Grand Hyatt Singapore](/hotels/3388/grand-hyatt-singapore-.html) (Singapore)
+- [Grand Hyatt Singapore](/hotels/3388/grand-hyatt-singapore-.html) (Singapur)
 - [Park Hyatt Kuala Lumpur](/hotels/6819/park-hyatt-kuala-lumpur.html) (Kuala Lumpur)
 - [Alila Bangsar Kuala Lumpur](/hotels/3958/alila-bangsar-kuala-lumpur.html) (Kuala Lumpur)
 

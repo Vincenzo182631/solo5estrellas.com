@@ -58,11 +58,11 @@ Le Méridien es una marca de Marriott International fundada en 1972 por Air Fran
 - [Le Méridien Vienna](/hotels/3756/le-m-ridien-vienna.html) (Viena)
 
 **Francia (1)**
-- [Le Meridien Nice](/hotels/4702/le-meridien-nice.html) (Nice)
+- [Le Meridien Nice](/hotels/4702/le-meridien-nice.html) (Niza)
 
 **Alemania (5)**
 - [Le Meridien Frankfurt](/hotels/4695/le-meridien-frankfurt.html) (Frankfurt)
-- [Le Méridien Grand Hotel Nuremberg](/hotels/6505/le-m-ridien-grand-hotel-nuremberg.html) (Nuremberg)
+- [Le Méridien Grand Hotel Nuremberg](/hotels/6505/le-m-ridien-grand-hotel-nuremberg.html) (Núremberg)
 - [Le Meridien Hamburg](/hotels/3816/le-meridien-hamburg.html) (Hamburg)
 - [Le Meridien Munich](/hotels/4699/le-meridien-munich.html) (Múnich)
 - [Le Meridien Stuttgart](/hotels/3814/le-meridien-stuttgart.html) (Stuttgart)
@@ -76,7 +76,7 @@ Le Méridien es una marca de Marriott International fundada en 1972 por Air Fran
 ### África
 
 **Mauricio (1)**
-- [Le Méridien Ile Maurice](/hotels/6723/le-m-ridien-ile-maurice.html) (Mauritius)
+- [Le Méridien Ile Maurice](/hotels/6723/le-m-ridien-ile-maurice.html) (Mauricio)
 
 ### Oriente Medio y norte de África
 

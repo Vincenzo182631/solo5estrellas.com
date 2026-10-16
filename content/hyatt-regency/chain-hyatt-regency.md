@@ -46,7 +46,7 @@ Hyatt Regency es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, 
 - [Hyatt Regency San Francisco Downtown SOMA](/hotels/6401/hyatt-regency-san-francisco-downtown-soma.html) (San Francisco)
 - [Hyatt Regency Sonoma Wine Country](/hotels/3650/hyatt-regency-sonoma-wine-country.html) (Santa Rosa)
 - [Hyatt Regency Westlake](/hotels/3968/hyatt-regency-westlake.html) (Westlake Village)
-- [Hyatt Regency Washington on Capitol Hill](/hotels/3462/hyatt-regency-washington-on-capitol-hill.html) (Washington DC)
+- [Hyatt Regency Washington on Capitol Hill](/hotels/3462/hyatt-regency-washington-on-capitol-hill.html) (Washington D. C.)
 - [Hyatt Regency Clearwater Beach Resort & Spa](/hotels/3368/hyatt-regency-clearwater-beach-resort-spa.html) (Clearwater)
 - [Hyatt Regency Coconut Point Resort & Spa](/hotels/3393/hyatt-regency-coconut-point-resort-spa-.html) (Bonita Springs)
 - [Hyatt Regency Coral Gables](/hotels/3639/hyatt-regency-coral-gables.html) (Miami)
@@ -57,7 +57,7 @@ Hyatt Regency es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, 
 - [Hyatt Regency Boston](/hotels/4197/hyatt-regency-boston.html) (Boston)
 - [Hyatt Regency Lake Tahoe Resort](/hotels/1781/hyatt-regency-lake-tahoe-resort.html) (Lake Tahoe)
 - [Hyatt Regency Tamaya Resort](/hotels/1796/hyatt-regency-tamaya-resort-.html) (Santa Ana Pueblo)
-- [Hyatt at the Bellevue](/hotels/3418/hyatt-at-the-bellevue.html) (Philadelphia)
+- [Hyatt at the Bellevue](/hotels/3418/hyatt-at-the-bellevue.html) (Filadelfia)
 - [Hyatt Regency Austin](/hotels/2457/hyatt-regency-austin.html) (Austin)
 - [Hyatt Regency Hill Country Resort & Spa](/hotels/1604/hyatt-regency-hill-country-resort-spa.html) (San Antonio)
 - [Hyatt Regency Lost Pines Resort & Spa](/hotels/3436/hyatt-regency-lost-pines-resort-spa.html) (Austin)
@@ -93,22 +93,22 @@ Hyatt Regency es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, 
 ### Europa
 
 **Rusia (2)**
-- [Hyatt Regency Moscow Petrovsky Park](/hotels/3644/hyatt-regency-moscow-petrovsky-park.html) (Moscow)
+- [Hyatt Regency Moscow Petrovsky Park](/hotels/3644/hyatt-regency-moscow-petrovsky-park.html) (Moscú)
 - [Hyatt Regency Sochi](/hotels/3972/hyatt-regency-sochi.html) (Sochi)
 
 **Croacia (1)**
-- [Hyatt Regency Zadar](/hotels/6989/-hyatt-regency-zadar.html) (NULL)
+- [Hyatt Regency Zadar](/hotels/6989/-hyatt-regency-zadar.html)
 
 **Turquía (1)**
 - [Hyatt Regency Istanbul Atakoy](/hotels/3971/hyatt-regency-istanbul-atakoy.html) (Estambul)
 
 **Francia (2)**
 - [Hyatt Regency Chantilly](/hotels/3652/hyatt-regency-chantilly.html) (Chantilly)
-- [Hyatt Regency Nice Palais de la Méditerranée](/hotels/1333/hyatt-regency-nice-palais-de-la-m-diterran-e.html) (Nice)
+- [Hyatt Regency Nice Palais de la Méditerranée](/hotels/1333/hyatt-regency-nice-palais-de-la-m-diterran-e.html) (Niza)
 
 **Alemania (3)**
-- [Hyatt Regency Cologne](/hotels/3394/hyatt-regency-cologne.html) (Cologne)
-- [Hyatt Regency Dusseldorf](/hotels/3422/hyatt-regency-dusseldorf.html) (Dusseldorf)
+- [Hyatt Regency Cologne](/hotels/3394/hyatt-regency-cologne.html) (Colonia)
+- [Hyatt Regency Dusseldorf](/hotels/3422/hyatt-regency-dusseldorf.html) (Düsseldorf)
 - [Hyatt Regency Mainz](/hotels/3437/hyatt-regency-mainz.html) (Mainz)
 
 **Grecia (1)**
@@ -134,10 +134,10 @@ Hyatt Regency es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, 
 ### África
 
 **Tanzania (1)**
-- [Hyatt Regency Dar es Salaam, The Kilimanjaro](/hotels/3653/hyatt-regency-dar-es-salaam-the-kilimanjaro.html) (NULL)
+- [Hyatt Regency Dar es Salaam, The Kilimanjaro](/hotels/3653/hyatt-regency-dar-es-salaam-the-kilimanjaro.html)
 
 **Sudáfrica (1)**
-- [Hyatt Regency Cape Town](/hotels/6523/hyatt-regency-cape-town.html) (Cape Town)
+- [Hyatt Regency Cape Town](/hotels/6523/hyatt-regency-cape-town.html) (Ciudad del Cabo)
 
 ### Oriente Medio y norte de África
 
@@ -149,7 +149,7 @@ Hyatt Regency es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, 
 
 **Arabia Saudita (2)**
 - [Hyatt Regency Riyadh Olaya](/hotels/4199/hyatt-regency-riyadh-olaya.html) (Riad)
-- [Jabal Omar Hyatt Regency Makkah](/hotels/3649/jabal-omar-hyatt-regency-makkah.html) (Mecca)
+- [Jabal Omar Hyatt Regency Makkah](/hotels/3649/jabal-omar-hyatt-regency-makkah.html) (La Meca)
 
 **Emiratos Árabes Unidos (1)**
 - [Hyatt Regency Dubai Creek Heights](/hotels/3398/hyatt-regency-dubai-creek-heights-.html) (Dubái)
@@ -170,7 +170,7 @@ Hyatt Regency es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, 
 
 **Japón (4)**
 - [Hyatt Regency Hakone Resort & Spa](/hotels/3424/hyatt-regency-hakone-resort-spa.html) (Gora)
-- [Hyatt Regency Kyoto](/hotels/1817/hyatt-regency-kyoto-.html) (Kyoto)
+- [Hyatt Regency Kyoto](/hotels/1817/hyatt-regency-kyoto-.html) (Kioto)
 - [Hyatt Regency Seragaki Island, Okinawa](/hotels/3645/hyatt-regency-seragaki-island-okinawa.html) (Okinawa)
 - [Hyatt Regency Tokyo](/hotels/4200/hyatt-regency-tokyo.html) (Tokio)
 

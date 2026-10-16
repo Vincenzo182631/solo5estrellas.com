@@ -79,9 +79,9 @@ Relais & Châteaux es una asociación de hoteles y restaurantes de propiedad ind
 
 **Italia (5)**
 - [Borgo dei Conti Resort](/hotels/2983/borgo-dei-conti-resort.html) (Perugia)
-- [Hotel Londra Palace](/hotels/1222/hotel-londra-palace.html) (Venice)
+- [Hotel Londra Palace](/hotels/1222/hotel-londra-palace.html) (Venecia)
 - [Hotel Plaza e de Russie](/hotels/6632/hotel-plaza-e-de-russie.html) (Viareggio)
-- [Il Borro](/hotels/6474/il-borro.html) (Tuscany)
+- [Il Borro](/hotels/6474/il-borro.html) (Toscana)
 - [Il San Pietro di Positano](/hotels/1720/il-san-pietro-di-positano-.html) (Positano)
 
 **Portugal (3)**

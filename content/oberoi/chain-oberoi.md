@@ -44,7 +44,7 @@ The Oberoi Group es una compañía hotelera de lujo india fundada en 1934. Solo5
 ### Asia
 
 **India (3)**
-- [The Oberoi New Delhi](/hotels/1023/The-Oberoi-New-Delhi.html) (New Delhi)
+- [The Oberoi New Delhi](/hotels/1023/The-Oberoi-New-Delhi.html) (Nueva Delhi)
 - [The Oberoi Rajvilas](/hotels/1024/The-Oberoi-Rajvilas.html) (Jaipur)
 - [The Oberoi Udaivilas](/hotels/1242/The-Oberoi-Udaivilas.html) (Udaipur)
 

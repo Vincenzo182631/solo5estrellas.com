@@ -33,7 +33,7 @@ Dorchester Collection es un grupo de hoteles de lujo con sede en Londres que inc
 3. Revise lo confirmado: desayuno, crédito y bienvenida se confirman al reservar.
 4. En el hotel, solicite la mejora de habitación, la entrada anticipada o la salida tardía; dependen de la disponibilidad.
 
-## Los hoteles Dorchester Collection por destino
+## Los 9 hoteles Dorchester Collection por destino
 
 ### Reino Unido
 

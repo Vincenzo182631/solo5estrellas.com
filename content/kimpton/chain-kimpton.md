@@ -35,7 +35,7 @@ Kimpton Hotels & Restaurants es la marca de hoteles boutique de IHG, fundada en 
 3. Añada su número de IHG One Rewards a la reserva para seguir sumando puntos y noches de nivel.
 4. En el hotel, solicite la mejora de habitación, la entrada anticipada o la salida tardía; dependen de la disponibilidad.
 
-## Los hoteles Kimpton por destino
+## Los 28 hoteles Kimpton por destino
 
 ### Estados Unidos: costa oeste y Montana
 

@@ -90,7 +90,7 @@ EDITION Hotels es una marca de lujo lifestyle creada por Ian Schrager junto con 
 - [The Tokyo EDITION, Ginza](/hotels/6656/the-tokyo-edition-ginza.html) (Tokio)
 
 **Singapur (1)**
-- [The Singapore EDITION](/hotels/6577/the-singapore-edition.html) (Singapore)
+- [The Singapore EDITION](/hotels/6577/the-singapore-edition.html) (Singapur)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

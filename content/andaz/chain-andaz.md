@@ -97,7 +97,7 @@ Andaz es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, operado 
 
 **China (4)**
 - [Andaz Shenzhen Bay](/hotels/4616/andaz-shenzhen-bay.html) (Shenzhen)
-- [Andaz Singapore](/hotels/3385/andaz-singapore.html) (Singapore)
+- [Andaz Singapore](/hotels/3385/andaz-singapore.html) (Singapur)
 - [Andaz Xiamen](/hotels/4619/andaz-xiamen.html) (Xiamen)
 - [Andaz Xintiandi](/hotels/3387/andaz-xintiandi-.html) (Shanghái)
 

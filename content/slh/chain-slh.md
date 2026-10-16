@@ -46,7 +46,7 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [RiverView Ranch](/hotels/4354/riverview-ranch.html) (Alberton, Montana)
 - [The Frederick Hotel](/hotels/4344/the-frederick-hotel.html) (Nueva York)
 - [The Iroquois New York](/hotels/4346/the-iroquois-new-york.html) (Nueva York)
-- [The Roundtree, Amagansett](/hotels/6187/the-roundtree-amagansett.html) (Hamptons, New York)
+- [The Roundtree, Amagansett](/hotels/6187/the-roundtree-amagansett.html) (Hamptons, Nueva York)
 - [Wentworth Mansion](/hotels/4332/wentworth-mansion.html) (Charleston, South Carolina)
 - [The Lodge at St Edward State Park](/hotels/6512/the-lodge-at-st-edward-state-park.html) (Kenmore, Washington)
 
@@ -71,7 +71,7 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [The Inn at English Harbour](/hotels/4272/the-inn-at-english-harbour.html) (English Harbour)
 
 **Islas Turcas y Caicos (1)**
-- [Sailrock Resort](/hotels/4293/sailrock-resort.html) (Turks & Caicos)
+- [Sailrock Resort](/hotels/4293/sailrock-resort.html) (Islas Turcas y Caicos)
 
 **Santa Lucía (1)**
 - [Yiu Teung Mansion](/hotels/6176/yiu-teung-mansion.html) (Chengdu)
@@ -121,7 +121,7 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Boutique Hotel Villa Geba](/hotels/4438/boutique-hotel-villa-geba.html) (Sveti Stefan)
 
 **Serbia (1)**
-- [Saint Ten Hotel](/hotels/4459/saint-ten-hotel.html) (Belgrade)
+- [Saint Ten Hotel](/hotels/4459/saint-ten-hotel.html) (Belgrado)
 
 **Croacia (3)**
 - [Hotel Bellevue Dubrovnik](/hotels/6841/hotel-bellevue-dubrovnik.html) (Dubrovnik)
@@ -129,8 +129,8 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Palazzo Rainis Hotel & Spa](/hotels/6174/palazzo-rainis-hotel-spa.html) (Novigrad)
 
 **Suecia (2)**
-- [Bank Hotel](/hotels/4390/bank-hotel.html) (Stockholm)
-- [Ett Hem](/hotels/6180/ett-hem.html) (Stockholm)
+- [Bank Hotel](/hotels/4390/bank-hotel.html) (Estocolmo)
+- [Ett Hem](/hotels/6180/ett-hem.html) (Estocolmo)
 
 **República Checa (1)**
 - [BoHo Hotel Prague](/hotels/4743/boho-hotel-prague.html) (Praga)
@@ -139,8 +139,8 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Opus XVI Hotel](/hotels/4457/opus-xvi-hotel.html) (Bergen)
 
 **Bélgica (3)**
-- [Hotel de Tuilereen](/hotels/6376/hotel-de-tuilereen.html) (Bruges)
-- [Hotel De Witte Lelie](/hotels/4348/hotel-de-witte-lelie.html) (Antwerp)
+- [Hotel de Tuilereen](/hotels/6376/hotel-de-tuilereen.html) (Brujas)
+- [Hotel De Witte Lelie](/hotels/4348/hotel-de-witte-lelie.html) (Amberes)
 - [Juliana Hotel Brussels](/hotels/6417/juliana-hotel-brussels.html) (Bruselas)
 
 **Islandia (1)**
@@ -157,17 +157,17 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Severins – The Alpine Retreat](/hotels/4340/severins-the-alpine-retreat.html) (Lech)
 
 **Francia (23)**
-- [A Mandria di Murtoli](/hotels/7087/a-mandria-di-murtoli.html) (Corsica)
-- [A’mare Corsica](/hotels/6511/a-mare-corsica.html) (Corsica)
+- [A Mandria di Murtoli](/hotels/7087/a-mandria-di-murtoli.html) (Córcega)
+- [A’mare Corsica](/hotels/6511/a-mare-corsica.html) (Córcega)
 - [Auberge de Cassagne & Spa](/hotels/4358/auberge-de-cassagne-spa.html) (Avignon)
 - [Château des Fleurs](/hotels/6760/ch-teau-des-fleurs-.html) (París)
 - [Chateau Hotel & Spa Grand Barrail](/hotels/4361/chateau-hotel-spa-grand-barrail.html) (Saint-Emilion)
 - [Domaine de Manville](/hotels/4359/domaine-de-manville.html) (Baux-de-Provence)
 - [Grand Powers](/hotels/4363/grand-powers.html) (París)
-- [Hotel & Spa des Pecheur](/hotels/6178/hotel-spa-des-pecheur.html) (Corsica)
+- [Hotel & Spa des Pecheur](/hotels/6178/hotel-spa-des-pecheur.html) (Córcega)
 - [Hotel Crillon le Brave](/hotels/4365/hotel-crillon-le-brave.html) (Aix en Provence)
 - [Hotel Juana](/hotels/4366/hotel-juana.html) (Antibes)
-- [Hotel La Perouse](/hotels/2066/hotel-la-perouse.html) (Nice)
+- [Hotel La Perouse](/hotels/2066/hotel-la-perouse.html) (Niza)
 - [Hotel La Roya](/hotels/4833/hotel-la-roya.html) (Saint Florent)
 - [Hotel Le Strato](/hotels/4392/hotel-le-strato.html) (Courchevel)
 - [Hotel Norman Paris](/hotels/6761/hotel-norman-paris-.html) (París)
@@ -175,14 +175,14 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Le Narcisse Blanc Hotel & Spa](/hotels/4399/le-narcisse-blanc-hotel-spa.html) (París)
 - [Le Relais de Chambord](/hotels/4401/le-relais-de-chambord.html) (Chambord)
 - [Le Vallon de Valrugues Hotel Spa and Villas](/hotels/4402/le-vallon-de-valrugues-hotel-spa-and-villas.html) (Saint-Rémy-de-Provence)
-- [Les Bords De Mer](/hotels/4403/les-bords-de-mer.html) (Marseille)
+- [Les Bords De Mer](/hotels/4403/les-bords-de-mer.html) (Marsella)
 - [L'Hotel](/hotels/4367/l-hotel.html) (París)
 - [Pavillon de la Reine](/hotels/2108/pavillon-de-la-reine.html) (París)
 - [Refuge de la Traye](/hotels/6190/refuge-de-la-traye.html) (Les Aulles)
 - [Tiara Miramar Beach Hotel & Spa](/hotels/4405/tiara-miramar-beach-hotel-spa.html) (Théoule-sur-Mer)
 
 **Alemania (2)**
-- [Breidenbacher Hof, a Capella Hotel](/hotels/2671/breidenbacher-hof-a-capella-hotel.html) (Dusseldorf)
+- [Breidenbacher Hof, a Capella Hotel](/hotels/2671/breidenbacher-hof-a-capella-hotel.html) (Düsseldorf)
 - [Schlosshotel Kronberg](/hotels/4407/schlosshotel-kronberg.html) (Kronberg)
 
 **Grecia (29)**
@@ -197,7 +197,7 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Canaves Oia Suites](/hotels/3628/canaves-oia-suites.html) (Santorini)
 - [Carpe Diem Santorini](/hotels/3620/carpe-diem-santorini.html) (Santorini)
 - [Casa Del Mar Mykonos](/hotels/4326/casa-del-mar-mykonos.html) (Mykonos)
-- [Casa Delfino Hotel & Spa](/hotels/6169/casa-delfino-hotel-spa.html) (Crete Island)
+- [Casa Delfino Hotel & Spa](/hotels/6169/casa-delfino-hotel-spa.html) (Creta)
 - [Cosmopolitan Suites](/hotels/4389/cosmopolitan-suites.html) (Santorini)
 - [Domes White Coast Milos](/hotels/4829/domes-white-coast-milos.html) (Milos)
 - [Eagles Villas](/hotels/4411/eagles-villas.html) (Halkidiki)
@@ -207,13 +207,13 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Mykonos Ammos Hotel](/hotels/4381/mykonos-ammos-hotel.html) (Mykonos)
 - [Mykonos Grand Hotel & Resort](/hotels/4600/mykonos-grand-hotel-resort.html) (Mykonos)
 - [Naxian Collection Luxury Villas & Suites](/hotels/4321/naxian-collection-luxury-villas-suites.html) (Naxos)
-- [NEMA Design Hotel & Spa - Adults Only](/hotels/7116/nema-design-hotel-spa-adults-only.html) (Crete Island)
-- [Nido](/hotels/4413/nido.html) (Corfu)
+- [NEMA Design Hotel & Spa - Adults Only](/hotels/7116/nema-design-hotel-spa-adults-only.html) (Creta)
+- [Nido](/hotels/4413/nido.html) (Corfú)
 - [ON Residence](/hotels/6262/on-residence.html) (Thessaloniki)
 - [On The Rocks Santorini](/hotels/4423/on-the-rocks-santorini.html) (Santorini)
 - [Porto Zante Villas & Spa](/hotels/6075/porto-zante-villas-spa.html) (Zakinthos)
-- [Rimondi Boutique Hotels](/hotels/6175/rimondi-boutique-hotels.html) (Crete Island)
-- [Rodos Park Suites & Spa](/hotels/4322/rodos-park-suites-spa.html) (Rodos)
+- [Rimondi Boutique Hotels](/hotels/6175/rimondi-boutique-hotels.html) (Creta)
+- [Rodos Park Suites & Spa](/hotels/4322/rodos-park-suites-spa.html) (Rodas)
 - [San Antonio Hotel](/hotels/4386/san-antonio-hotel.html) (Santorini)
 
 **Irlanda (4)**
@@ -226,11 +226,11 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Albergo Pietrasanta](/hotels/6168/albergo-pietrasanta.html) (Pietrasanta)
 - [Alpin Royal Wellness Refugium & Resort Hotel](/hotels/6259/alpin-royal-wellness-refugium-resort-hotel.html) (Costa Molini)
 - [Byblos Art Hotel Villa Amista](/hotels/4427/byblos-art-hotel-villa-amista.html) (Verona)
-- [Ca' di Dio](/hotels/6070/ca-di-dio.html) (Venice)
-- [Ca' Sagredo Hotel](/hotels/4428/ca-sagredo-hotel.html) (Venice)
+- [Ca' di Dio](/hotels/6070/ca-di-dio.html) (Venecia)
+- [Ca' Sagredo Hotel](/hotels/4428/ca-sagredo-hotel.html) (Venecia)
 - [Cascioni Eco Retreat](/hotels/6414/cascioni-eco-retreat.html) (Arzachena)
 - [CPH Pevero Hotel](/hotels/6415/cph-pevero-hotel.html) (Porto Cervo)
-- [Donna Carmela Resort & Lodge](/hotels/6957/donna-carmela-resort-lodge.html) (Sicily)
+- [Donna Carmela Resort & Lodge](/hotels/6957/donna-carmela-resort-lodge.html) (Sicilia)
 - [Eight Hotel Portofino](/hotels/4433/eight-hotel-portofino.html) (Portofino)
 - [Forestis Dolomites](/hotels/6261/forestis-dolomites.html) (The Dolomites)
 - [Furore Grand Hotel](/hotels/7002/furore-grand-hotel.html) (Amalfi Coast)
@@ -238,7 +238,7 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Grand Hotel Bristol Spa Resort](/hotels/6510/grand-hotel-bristol-spa-resort.html) (Rapallo (Portofino Coast))
 - [Grand Hotel Cocumella](/hotels/4601/grand-hotel-cocumella.html) (Sorrento)
 - [Grand Hotel Victoria Concept & Spa](/hotels/4602/grand-hotel-victoria-concept-spa.html) (Menaggio)
-- [Hotel ai Reali de Venezia, Venice](/hotels/4492/hotel-ai-reali-de-venezia-venice.html) (Venice)
+- [Hotel ai Reali de Venezia, Venice](/hotels/4492/hotel-ai-reali-de-venezia-venice.html) (Venecia)
 - [Hotel and Palazzo Vilon](/hotels/4834/hotel-and-palazzo-vilon.html) (Roma)
 - [Hotel De Ricci](/hotels/4493/hotel-de-ricci.html) (Roma)
 - [Hotel La Peschiera](/hotels/4477/hotel-la-peschiera.html) (Monopoli)
@@ -262,19 +262,19 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Praia Art Resort](/hotels/4498/praia-art-resort.html) (Crotone)
 - [Reschio Hotel, Umbria](/hotels/6956/reschio-hotel-umbria.html) (Perugia)
 - [Rosapetra Spa Resort](/hotels/6183/rosapetra-spa-resort.html) (Cortina d'Ampezzo)
-- [Sina Centurion Palace](/hotels/4500/sina-centurion-palace.html) (Venice)
-- [Sina Palazzo Sant Angelo](/hotels/4501/sina-palazzo-sant-angelo.html) (Venice)
+- [Sina Centurion Palace](/hotels/4500/sina-centurion-palace.html) (Venecia)
+- [Sina Palazzo Sant Angelo](/hotels/4501/sina-palazzo-sant-angelo.html) (Venecia)
 - [Sina The Gray Hotel](/hotels/4502/sina-the-gray-hotel.html) (Milán)
-- [Susafa Hotel](/hotels/4606/susafa-hotel.html) (Sicily)
+- [Susafa Hotel](/hotels/4606/susafa-hotel.html) (Sicilia)
 - [Taormina Hotel Villa Ducale](/hotels/4505/taormina-hotel-villa-ducale.html) (Taormina)
-- [Viesca Toscana](/hotels/6264/viesca-toscana.html) (Tuscany)
+- [Viesca Toscana](/hotels/6264/viesca-toscana.html) (Toscana)
 - [Villa Athena Resort](/hotels/4603/villa-athena-resort.html) (Agrigento)
-- [Villa di Piazzano](/hotels/4506/villa-di-piazzano.html) (Tuscany)
+- [Villa di Piazzano](/hotels/4506/villa-di-piazzano.html) (Toscana)
 - [Villa Eden Park Retreat](/hotels/4507/villa-eden-park-retreat.html) (Merano)
 - [Villa Franca](/hotels/6999/villa-franca.html) (Positano)
 - [Villa Helios Capri](/hotels/7129/villa-helios-capri.html) (Capri)
 - [Villa La Madonna](/hotels/4508/villa-la-madonna.html) (Monastero Bormida)
-- [Villa Neri Resort & Spa](/hotels/4504/villa-neri-resort-spa.html) (Sicily)
+- [Villa Neri Resort & Spa](/hotels/4504/villa-neri-resort-spa.html) (Sicilia)
 - [Villa Spalletti Trivelli Dimora d'Epoca](/hotels/4489/villa-spalletti-trivelli-dimora-d-epoca.html) (Roma)
 - [VISTA Verona](/hotels/6263/vista-verona.html) (Verona)
 
@@ -284,7 +284,7 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Pillows Grand Boutique Hotel Maurits at the Park](/hotels/6095/pillows-grand-boutique-hotel-maurits-at-the-park.html) (Ámsterdam)
 
 **Portugal (9)**
-- [Alentejo Marmoris Hotel & Spa](/hotels/4596/alentejo-marmoris-hotel-spa.html) (NULL)
+- [Alentejo Marmoris Hotel & Spa](/hotels/4596/alentejo-marmoris-hotel-spa.html)
 - [Hospes Infante Sagres Porto](/hotels/4467/hospes-infante-sagres-porto.html) (Porto)
 - [Hotel Casa Palmela](/hotels/6074/hotel-casa-palmela.html) (Setubal)
 - [Hotel Quinta das Lágrimas](/hotels/6184/hotel-quinta-das-l-grimas.html) (Coimbra)
@@ -296,7 +296,7 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 
 **España (15)**
 - [Aguas de Ibiza Grand Luxe Hotel](/hotels/4456/aguas-de-ibiza-grand-luxe-hotel.html) (Ibiza)
-- [Cavalta Boutique Hotel](/hotels/6871/cavalta-boutique-hotel.html) (Seville)
+- [Cavalta Boutique Hotel](/hotels/6871/cavalta-boutique-hotel.html) (Sevilla)
 - [Finca Serena Mallorca](/hotels/4437/finca-serena-mallorca.html) (Mallorca)
 - [Grand Hotel Central Barcelona](/hotels/3005/grand-hotel-central-barcelona.html) (Barcelona)
 - [Hacienda Zorita Wine Hotel & Organic Farm](/hotels/4436/hacienda-zorita-wine-hotel-organic-farm.html) (Salamanca)
@@ -304,7 +304,7 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Hotel Torre del Marques](/hotels/4828/hotel-torre-del-marques.html) (Monroyo)
 - [Hotel Unico, Madrid](/hotels/3001/hotel-unico-madrid.html) (Madrid)
 - [La Torre del Canonigo](/hotels/4741/la-torre-del-canonigo.html) (Ibiza)
-- [Palacio Solecio](/hotels/4418/palacio-solecio.html) (Malaga)
+- [Palacio Solecio](/hotels/4418/palacio-solecio.html) (Málaga)
 - [Teranka Formentera](/hotels/6518/teranka-formentera.html) (Formentera)
 - [The Lodge Mallorca](/hotels/6391/the-lodge-mallorca.html) (Mallorca)
 - [The Principal Madrid Hotel](/hotels/3599/the-principal-madrid-hotel.html) (Madrid)
@@ -357,8 +357,8 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 ### África
 
 **Mauricio (2)**
-- [Heritage Le Telfair Golf & Wellness Resort](/hotels/4287/heritage-le-telfair-golf-wellness-resort.html) (Mauritius)
-- [Paradise Cove Boutique Hotel](/hotels/4289/paradise-cove-boutique-hotel.html) (Mauritius)
+- [Heritage Le Telfair Golf & Wellness Resort](/hotels/4287/heritage-le-telfair-golf-wellness-resort.html) (Mauricio)
+- [Paradise Cove Boutique Hotel](/hotels/4289/paradise-cove-boutique-hotel.html) (Mauricio)
 
 **Tanzania (1)**
 - [Amani Boutique Hotel](/hotels/4449/amani-boutique-hotel.html) (Paje)
@@ -384,7 +384,7 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [Nobu Hotel Marrakech](/hotels/6377/nobu-hotel-marrakech.html) (Marrakech)
 
 **Israel (1)**
-- [The American Colony Hotel](/hotels/4826/the-american-colony-hotel.html) (Jerusalem)
+- [The American Colony Hotel](/hotels/4826/the-american-colony-hotel.html) (Jerusalén)
 
 ### Asia
 
@@ -395,8 +395,8 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 - [The Fortress Sri Lanka](/hotels/4307/the-fortress-sri-lanka.html) (Sri Lanka)
 
 **Maldivas (2)**
-- [Baros Maldives](/hotels/4283/baros-maldives.html) (Maldives)
-- [Milaidhoo Island Maldives](/hotels/4284/milaidhoo-island-maldives.html) (Maldives)
+- [Baros Maldives](/hotels/4283/baros-maldives.html) (Maldivas)
+- [Milaidhoo Island Maldives](/hotels/4284/milaidhoo-island-maldives.html) (Maldivas)
 
 **Taiwán (1)**
 - [Union House Lukang](/hotels/4309/union-house-lukang.html) (Lukang)
@@ -415,7 +415,7 @@ Small Luxury Hotels of the World (SLH) es una colección de hoteles boutique ind
 
 **Japón (5)**
 - [Kasara Niseko Village Townhouse](/hotels/4384/kasara-niseko-village-townhouse.html) (Hokkaido)
-- [Sowaka](/hotels/6420/sowaka.html) (Kyoto)
+- [Sowaka](/hotels/6420/sowaka.html) (Kioto)
 - [The Terrace Club at Busena](/hotels/4388/the-terrace-club-at-busena.html) (Okinawa)
 - [The Tokyo Station Hotel](/hotels/4387/the-tokyo-station-hotel.html) (Tokio)
 - [The Tower Hotel Nagoya](/hotels/6513/the-tower-hotel-nagoya.html) (Nagoya)

@@ -40,9 +40,9 @@ Thompson Hotels es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas
 
 **Estados Unidos (12)**
 - [Thompson Denver](/hotels/6228/thompson-denver.html) (Denver, Colorado)
-- [Thompson Washington D.C.](/hotels/4196/thompson-washington-d-c-.html) (Washington DC, District of Columbia)
+- [Thompson Washington D.C.](/hotels/4196/thompson-washington-d-c-.html) (Washington D. C., District of Columbia)
 - [Thompson Miami Beach](/hotels/6770/thompson-miami-beach.html) (Miami, Florida)
-- [Thompson Savannah](/hotels/6268/thompson-savannah.html) (Savanna, Georgia)
+- [Thompson Savannah](/hotels/6268/thompson-savannah.html) (Savannah, Georgia)
 - [Thompson Chicago](/hotels/2912/thompson-chicago.html) (Chicago, Illinois)
 - [Gild Hall](/hotels/3916/gild-hall-.html) (Nueva York)
 - [The Beekman](/hotels/3025/the-beekman.html) (Nueva York)

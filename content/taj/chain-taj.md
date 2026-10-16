@@ -33,7 +33,7 @@ Taj Hotels es la marca hotelera de Indian Hotels Company Limited, nacida con el 
 3. Si es socio de Taj InnerCircle, facilite su número al reservar y pregunte si la reserva suma puntos.
 4. En el hotel, solicite la mejora de habitación, la entrada anticipada o la salida tardía; dependen de la disponibilidad.
 
-## Los hoteles Taj por destino
+## Los 12 hoteles Taj por destino
 
 ### India
 

@@ -48,7 +48,7 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 - [Casa Del Mar](/hotels/1111/casa-del-mar.html) (Santa Monica)
 - [Casa Palmero at Pebble Beach](/hotels/3679/casa-palmero-at-pebble-beach.html) (Pebble Beach)
 - [Cavallo Point - the Lodge at the Golden Gate](/hotels/2256/cavallo-point-the-lodge-at-the-golden-gate.html) (Sausalito)
-- [Hotel Californian](/hotels/3329/hotel-californian.html) (Santa Barbara)
+- [Hotel Californian](/hotels/3329/hotel-californian.html) (Santa Bárbara)
 - [Huntley Santa Monica Beach Hotel](/hotels/2163/huntley-santa-monica-beach-hotel.html) (Santa Monica)
 - [Post Ranch Inn](/hotels/2110/post-ranch-inn-.html) (Big Sur)
 - [Rancho Bernardo Inn](/hotels/4250/rancho-bernardo-inn.html) (San Diego)
@@ -57,8 +57,8 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 - [The Clement Hotel](/hotels/4578/the-clement-hotel.html) (Palo Alto)
 - [The Hollywood Roosevelt](/hotels/3680/the-hollywood-roosevelt.html) (Los Ángeles)
 - [Mollie Aspen](/hotels/6968/mollie-aspen.html) (Aspen)
-- [Pendry Washington DC-The Wharf](/hotels/6275/pendry-washington-dc-the-wharf.html) (Washington DC)
-- [The Watergate Hotel](/hotels/3683/the-watergate-hotel.html) (Washington DC)
+- [Pendry Washington DC-The Wharf](/hotels/6275/pendry-washington-dc-the-wharf.html) (Washington D. C.)
+- [The Watergate Hotel](/hotels/3683/the-watergate-hotel.html) (Washington D. C.)
 - [EAST Miami](/hotels/3149/east-miami.html) (Miami)
 - [Hawks Cay Resort](/hotels/4574/hawks-cay-resort.html) (Duck Key)
 - [Hyde Beach House](/hotels/6236/hyde-beach-house.html) (Hollywood)
@@ -92,7 +92,7 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 ### México, Caribe y Centroamérica
 
 **Islas Turcas y Caicos (1)**
-- [Point Grace](/hotels/1135/point-grace.html) (Turks & Caicos)
+- [Point Grace](/hotels/1135/point-grace.html) (Islas Turcas y Caicos)
 
 **Santa Lucía (1)**
 - [Cap Maison Resort and Spa](/hotels/2546/cap-maison-resort-and-spa.html) (Cap Estate)
@@ -101,10 +101,10 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 - [Azul Talavera Hotel](/hotels/4523/azul-talavera-hotel.html) (Ciudad de México)
 - [Grand Velas Boutique Hotel](/hotels/7004/grand-velas-boutique-hotel-.html) (Cabo San Lucas)
 - [Grand Velas Los Cabos](/hotels/3229/grand-velas-los-cabos.html) (Cabo San Lucas)
-- [Haven Riviera Cancún](/hotels/3698/haven-riviera-canc-n.html) (Cancun)
+- [Haven Riviera Cancún](/hotels/3698/haven-riviera-canc-n.html) (Cancún)
 - [Las Brisas Acapulco](/hotels/2244/las-brisas-acapulco.html) (Acapulco)
-- [Live Aqua Cancun](/hotels/2017/live-aqua-cancun.html) (Cancun)
-- [Nizuc Resort & Spa](/hotels/2849/nizuc-resort-spa-.html) (Cancun)
+- [Live Aqua Cancun](/hotels/2017/live-aqua-cancun.html) (Cancún)
+- [Nizuc Resort & Spa](/hotels/2849/nizuc-resort-spa-.html) (Cancún)
 
 **Puerto Rico (1)**
 - [Condado Vanderbilt](/hotels/2998/condado-vanderbilt.html) (San Juan)
@@ -115,16 +115,16 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 ### Europa
 
 **Suecia (3)**
-- [At Six](/hotels/3315/at-six.html) (Stockholm)
-- [Hotel Diplomat Stockholm](/hotels/4585/hotel-diplomat-stockholm.html) (Stockholm)
-- [Villa Dagmar Hotel](/hotels/4586/villa-dagmar-hotel-.html) (Stockholm)
+- [At Six](/hotels/3315/at-six.html) (Estocolmo)
+- [Hotel Diplomat Stockholm](/hotels/4585/hotel-diplomat-stockholm.html) (Estocolmo)
+- [Villa Dagmar Hotel](/hotels/4586/villa-dagmar-hotel-.html) (Estocolmo)
 
 **República Checa (2)**
 - [Alchymist Grand Hotel & Spa](/hotels/3126/alchymist-grand-hotel-spa.html) (Praga)
 - [The Emblem Hotel Prague](/hotels/4529/the-emblem-hotel-prague.html) (Praga)
 
 **Dinamarca (1)**
-- [Villa Copenhagen](/hotels/4530/villa-copenhagen.html) (Copenhagen)
+- [Villa Copenhagen](/hotels/4530/villa-copenhagen.html) (Copenhague)
 
 **Noruega (1)**
 - [The Thief](/hotels/4545/the-thief.html) (Oslo)
@@ -135,7 +135,7 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 
 **Austria (2)**
 - [Hotel Sans Souci Wien](/hotels/3161/hotel-sans-souci-wien.html) (Viena)
-- [Hotel Stein Salzburg](/hotels/4526/hotel-stein-salzburg.html) (Salzburg)
+- [Hotel Stein Salzburg](/hotels/4526/hotel-stein-salzburg.html) (Salzburgo)
 
 **Francia (7)**
 - [Castille Paris](/hotels/2583/castille-paris.html) (París)
@@ -172,8 +172,8 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 - [Grand Hotel San Pietro](/hotels/6759/grand-hotel-san-pietro.html) (Taormina)
 - [Grand Hotel Tremezzo, Lake Como](/hotels/1122/grand-hotel-tremezzo-lake-como-.html) (Lake Como)
 - [Hotel Bernini Palace Florence](/hotels/1935/hotel-bernini-palace-florence.html) (Florencia)
-- [Hotel Bristol Palace](/hotels/4514/hotel-bristol-palace.html) (Genoa)
-- [Hotel Il Castelfalfi](/hotels/4516/hotel-il-castelfalfi.html) (Tuscany)
+- [Hotel Bristol Palace](/hotels/4514/hotel-bristol-palace.html) (Génova)
+- [Hotel Il Castelfalfi](/hotels/4516/hotel-il-castelfalfi.html) (Toscana)
 - [Hotel Sassongher](/hotels/4544/hotel-sassongher.html) (Corvara)
 - [Hotel Villa Cipriani](/hotels/4541/hotel-villa-cipriani.html) (Asolo)
 - [Locanda Rossa](/hotels/4542/locanda-rossa.html) (Capalbio)
@@ -181,7 +181,7 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 - [Parco dei Principi Grand Hotel](/hotels/3137/parco-dei-principi-grand-hotel-.html) (Roma)
 - [Passalacqua Lake Como](/hotels/7135/passalacqua-lake-como.html) (Lake Como)
 - [Principi di Piemonte UNA Esperienze](/hotels/7012/principi-di-piemonte-una-esperienze.html) (Milán)
-- [San Clemente Palace Venice](/hotels/1284/san-clemente-palace-venice.html) (Venice)
+- [San Clemente Palace Venice](/hotels/1284/san-clemente-palace-venice.html) (Venecia)
 - [The First Roma Arte](/hotels/3955/the-first-roma-arte.html) (Roma)
 - [The First Roma Dolce](/hotels/4519/the-first-roma-dolce.html) (Roma)
 - [Toscana Resort Castelfalfi](/hotels/6271/toscana-resort-castelfalfi-.html) (Florencia)
@@ -195,12 +195,12 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 **España (10)**
 - [Can Bordoy Grand House & Garden Hotel](/hotels/4584/can-bordoy-grand-house-garden-hotel-.html) (Mallorca)
 - [Finca Cortesin Hotel Golf & Spa](/hotels/2427/finca-cortesin-hotel-golf-spa.html) (Casares)
-- [Hotel Vincci Seleccion Posada del Patio](/hotels/4566/hotel-vincci-seleccion-posada-del-patio.html) (Malaga)
+- [Hotel Vincci Seleccion Posada del Patio](/hotels/4566/hotel-vincci-seleccion-posada-del-patio.html) (Málaga)
 - [Hotel Wellington, Madrid](/hotels/4555/hotel-wellington-madrid.html) (Madrid)
 - [Monument Hotel](/hotels/3318/monument-hotel.html) (Barcelona)
 - [Only YOU Hotel Valencia](/hotels/6803/only-you-hotel-valencia.html) (Valencia)
-- [Pure Salt Port Adriano](/hotels/4552/pure-salt-port-adriano.html) (Balearic Islands)
-- [Pure Salt Port Adriano Hotel](/hotels/4556/pure-salt-port-adriano-hotel-.html) (Balearic Islands)
+- [Pure Salt Port Adriano](/hotels/4552/pure-salt-port-adriano.html) (Islas Baleares)
+- [Pure Salt Port Adriano Hotel](/hotels/4556/pure-salt-port-adriano-hotel-.html) (Islas Baleares)
 - [Seda Club Hotel](/hotels/6378/seda-club-hotel.html) (Granada)
 - [The Serras Hotel Barcelona](/hotels/4551/the-serras-hotel-barcelona.html) (Barcelona)
 
@@ -224,8 +224,8 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 ### África
 
 **Sudáfrica (2)**
-- [Erinvale Estate Hotel and Spa](/hotels/4548/erinvale-estate-hotel-and-spa.html) (Cape Town)
-- [Last Word Constantia](/hotels/4549/last-word-constantia.html) (Cape Town)
+- [Erinvale Estate Hotel and Spa](/hotels/4548/erinvale-estate-hotel-and-spa.html) (Ciudad del Cabo)
+- [Last Word Constantia](/hotels/4549/last-word-constantia.html) (Ciudad del Cabo)
 
 ### Oriente Medio y norte de África
 
@@ -261,8 +261,8 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 - [The Prince Park Tower](/hotels/4520/the-prince-park-tower.html) (Tokio)
 
 **Singapur (2)**
-- [The Fullerton Bay Hotel Singapore](/hotels/7045/the-fullerton-bay-hotel-singapore.html) (Singapore)
-- [The Fullerton Hotel Singapore](/hotels/6287/the-fullerton-hotel-singapore.html) (Singapore)
+- [The Fullerton Bay Hotel Singapore](/hotels/7045/the-fullerton-bay-hotel-singapore.html) (Singapur)
+- [The Fullerton Hotel Singapore](/hotels/6287/the-fullerton-hotel-singapore.html) (Singapur)
 
 ### Oceanía y Pacífico
 

@@ -34,7 +34,7 @@ Fairmont es una marca de hoteles de lujo de Accor, con hoteles históricos como 
 3. Añada su número de Accor ALL a la reserva si quiere seguir sumando puntos y noches de nivel.
 4. En el hotel, solicite la mejora de categoría, la entrada anticipada o la salida tardía; dependen de la disponibilidad.
 
-## Los hoteles Fairmont por destino
+## Los 79 hoteles Fairmont por destino
 
 ### Canadá
 
@@ -78,10 +78,10 @@ Veinte hoteles, entre ellos ocho en California y dos en Hawái.
 
 **California**
 - [Fairmont Breakers Long Beach](/hotels/7029/fairmont-breakers-long-beach.html) (Long Beach)
-- [Fairmont Century Plaza](/hotels/2080/fairmont-century-plaza.html) (Los Angeles)
+- [Fairmont Century Plaza](/hotels/2080/fairmont-century-plaza.html) (Los Ángeles)
 - [Fairmont Grand Del Mar](/hotels/2238/fairmont-grand-del-mar.html) (San Diego)
 - [Fairmont Heritage Place, Ghirardelli Sq.](/hotels/2520/fairmont-heritage-place-ghirardelli-sq-.html) (San Francisco)
-- [Fairmont Miramar Hotel & Bungalows](/hotels/2133/fairmont-miramar-hotel-bungalows-.html) (Los Angeles)
+- [Fairmont Miramar Hotel & Bungalows](/hotels/2133/fairmont-miramar-hotel-bungalows-.html) (Los Ángeles)
 - [Fairmont Sonoma Mission Inn & Spa](/hotels/1136/fairmont-sonoma-mission-inn-spa.html) (Sonoma)
 - [The Claremont Resort](/hotels/4850/the-claremont-resort.html) (Berkeley)
 - [The Fairmont San Francisco](/hotels/2136/the-fairmont-san-francisco.html) (San Francisco)
@@ -144,8 +144,8 @@ Del Savoy de Londres a la Costa del Sol, Montecarlo, Montreux y Praga.
 
 Hoteles en los Emiratos, Catar, Arabia Saudita, Jordania, Egipto, Marruecos y Kenia, además de Bakú.
 
-- [Fairmont Dubai Hotel](/hotels/4924/fairmont-dubai-hotel-.html) (Dubai)
-- [Fairmont The Palm Dubai](/hotels/4923/fairmont-the-palm-dubai-.html) (Dubai)
+- [Fairmont Dubai Hotel](/hotels/4924/fairmont-dubai-hotel-.html) (Dubái)
+- [Fairmont The Palm Dubai](/hotels/4923/fairmont-the-palm-dubai-.html) (Dubái)
 - [Fairmont Bab Al Bahr](/hotels/4922/fairmont-bab-al-bahr-.html) (Abu Dhabi)
 - [Fairmont Ajman](/hotels/4926/fairmont-ajman.html) (Ajman)
 - [Fairmont Fujairah Beach Resort](/hotels/4925/fairmont-fujairah-beach-resort.html) (Fujairah)
@@ -171,7 +171,7 @@ Cinco hoteles en China, y otros en Yakarta, Manila, Singapur, Seúl y Río de Ja
 - [Fairmont Wuhan](/hotels/6130/fairmont-wuhan.html) (Wuhan)
 - [Fairmont Jakarta](/hotels/4935/fairmont-jakarta.html) (Jakarta)
 - [Fairmont Makati](/hotels/4967/fairmont-makati.html) (isla de Luzón)
-- [Fairmont Singapore](/hotels/2038/fairmont-singapore-.html) (Singapore)
+- [Fairmont Singapore](/hotels/2038/fairmont-singapore-.html) (Singapur)
 - [Fairmont Ambassador Seoul](/hotels/4948/fairmont-ambassador-seoul.html) (Seúl)
 - [Fairmont Rio de Janeiro Copacabana](/hotels/4849/fairmont-rio-de-janeiro-copacabana-.html) (Río de Janeiro)
 

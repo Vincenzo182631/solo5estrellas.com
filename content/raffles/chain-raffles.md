@@ -34,7 +34,7 @@ Raffles es la marca de lujo histórico de Accor y toma su nombre del Raffles Sin
 3. Añada su número de Accor ALL a la reserva si quiere seguir sumando puntos y noches de nivel.
 4. En el hotel, solicite la mejora de habitación, la entrada anticipada o la salida tardía; dependen de la disponibilidad.
 
-## Los hoteles Raffles por destino
+## Los 21 hoteles Raffles por destino
 
 ### Asia
 
@@ -62,8 +62,8 @@ Dos resorts en islas: Maldivas y Seychelles.
 
 Hoteles en Dubái, Doha y La Meca.
 
-- [Raffles Dubai](/hotels/1891/raffles-dubai.html) (Dubai)
-- [Raffles The Palm Dubai](/hotels/6137/raffles-the-palm-dubai.html) (Dubai)
+- [Raffles Dubai](/hotels/1891/raffles-dubai.html) (Dubái)
+- [Raffles The Palm Dubai](/hotels/6137/raffles-the-palm-dubai.html) (Dubái)
 - [Raffles Doha](/hotels/6471/raffles-doha.html) (Doha)
 - [Raffles Makkah Palace](/hotels/6475/raffles-makkah-palace.html) (La Meca)
 
@@ -71,7 +71,7 @@ Hoteles en Dubái, Doha y La Meca.
 
 Cuatro hoteles urbanos: París, Londres, Varsovia y Estambul.
 
-- [Le Royal Monceau - Raffles Paris](/hotels/4875/le-royal-monceau-raffles-paris.html) (Paris)
+- [Le Royal Monceau - Raffles Paris](/hotels/4875/le-royal-monceau-raffles-paris.html) (París)
 - [Raffles London at The OWO](/hotels/6444/raffles-london-at-the-owo.html) (Londres)
 - [Raffles Europejski Warsaw](/hotels/4087/raffles-europejski-warsaw.html) (Varsovia)
 - [Raffles Istanbul](/hotels/2914/raffles-istanbul.html) (Estambul)

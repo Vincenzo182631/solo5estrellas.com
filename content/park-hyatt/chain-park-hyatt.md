@@ -42,7 +42,7 @@ Park Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, ope
 **Estados Unidos (5)**
 - [Park Hyatt Aviara Resort, Golf Club & Spa](/hotels/1020/park-hyatt-aviara-resort-golf-club-spa.html) (San Diego, Aviara, California)
 - [Park Hyatt Beaver Creek Resort and Spa](/hotels/1262/park-hyatt-beaver-creek-resort-and-spa.html) (Beaver Creek, Colorado)
-- [Park Hyatt Washington D.C.](/hotels/1205/park-hyatt-washington-d-c-.html) (Washington DC, District of Columbia)
+- [Park Hyatt Washington D.C.](/hotels/1205/park-hyatt-washington-d-c-.html) (Washington D. C., District of Columbia)
 - [Park Hyatt Chicago](/hotels/1123/park-hyatt-chicago.html) (Chicago, Illinois)
 - [Park Hyatt New York](/hotels/2896/park-hyatt-new-york.html) (Nueva York)
 
@@ -67,7 +67,7 @@ Park Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, ope
 ### Europa
 
 **Rusia (1)**
-- [Ararat Park Hyatt Moscow](/hotels/3389/ararat-park-hyatt-moscow-.html) (Moscow)
+- [Ararat Park Hyatt Moscow](/hotels/3389/ararat-park-hyatt-moscow-.html) (Moscú)
 
 **Turquía (1)**
 - [Park Hyatt Istanbul – Macka Palas](/hotels/2329/park-hyatt-istanbul-macka-palas.html) (Estambul)
@@ -110,7 +110,7 @@ Park Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, ope
 ### Asia
 
 **Maldivas (1)**
-- [Park Hyatt Maldives Hadahaa](/hotels/3449/park-hyatt-maldives-hadahaa.html) (Maldives)
+- [Park Hyatt Maldives Hadahaa](/hotels/3449/park-hyatt-maldives-hadahaa.html) (Maldivas)
 
 **Corea del Sur (2)**
 - [Park Hyatt Busan](/hotels/3459/park-hyatt-busan.html) (Busan)
@@ -139,7 +139,7 @@ Park Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, ope
 - [Park Hyatt Jakarta](/hotels/6231/park-hyatt-jakarta.html) (Jakarta)
 
 **Japón (3)**
-- [Park Hyatt Kyoto](/hotels/3975/park-hyatt-kyoto.html) (Kyoto)
+- [Park Hyatt Kyoto](/hotels/3975/park-hyatt-kyoto.html) (Kioto)
 - [Park Hyatt Niseko Hanazono](/hotels/4121/park-hyatt-niseko-hanazono.html) (Niseko)
 - [Park Hyatt Tokyo](/hotels/983/park-hyatt-tokyo.html) (Tokio)
 

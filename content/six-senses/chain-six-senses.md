@@ -80,8 +80,8 @@ Six Senses es la marca de resorts de lujo de IHG centrada en el bienestar, funda
 - [Six Senses Bhutan](/hotels/6739/six-senses-bhutan.html) (Thermi)
 
 **Maldivas (2)**
-- [Six Senses Kanuhura](/hotels/6749/six-senses-kanuhura.html) (Maldives)
-- [Six Senses Laamu](/hotels/3580/six-senses-laamu.html) (Maldives)
+- [Six Senses Kanuhura](/hotels/6749/six-senses-kanuhura.html) (Maldivas)
+- [Six Senses Laamu](/hotels/3580/six-senses-laamu.html) (Maldivas)
 
 **India (2)**
 - [Six Senses Fort Barwana](/hotels/6740/six-senses-fort-barwana.html) (Sawai Madhopur)
@@ -94,14 +94,14 @@ Six Senses es la marca de resorts de lujo de IHG centrada en el bienestar, funda
 - [Six Senses Qing Cheng Mountain](/hotels/6744/six-senses-qing-cheng-mountain.html) (Chengdu, California)
 
 **Japón (1)**
-- [Six Senses Kyoto](/hotels/6743/six-senses-kyoto.html) (Kyoto)
+- [Six Senses Kyoto](/hotels/6743/six-senses-kyoto.html) (Kioto)
 
 **Tailandia (2)**
 - [Six Senses Samui](/hotels/6746/six-senses-samui.html) (Koh Samui)
-- [Six Senses Yao Noi](/hotels/6745/six-senses-yao-noi.html) (NULL)
+- [Six Senses Yao Noi](/hotels/6745/six-senses-yao-noi.html)
 
 **Vietnam (1)**
-- [Six Senses Ninh Van Bay](/hotels/6747/six-senses-ninh-van-bay.html) (NULL)
+- [Six Senses Ninh Van Bay](/hotels/6747/six-senses-ninh-van-bay.html)
 
 ### Oceanía y Pacífico
 

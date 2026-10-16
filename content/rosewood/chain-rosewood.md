@@ -39,9 +39,9 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 ### Norteamérica
 
 **Estados Unidos (7)**
-- [Rosewood Miramar Beach Hotel](/hotels/3483/rosewood-miramar-beach-hotel.html) (Santa Barbara, California)
+- [Rosewood Miramar Beach Hotel](/hotels/3483/rosewood-miramar-beach-hotel.html) (Santa Bárbara, California)
 - [Rosewood Sand Hill](/hotels/2295/rosewood-sand-hill.html) (Palo Alto, California)
-- [Rosewood Washington, D.C.](/hotels/3092/rosewood-washington-d-c-.html) (Washington DC, District of Columbia)
+- [Rosewood Washington, D.C.](/hotels/3092/rosewood-washington-d-c-.html) (Washington D. C., District of Columbia)
 - [Kona Village, A Rosewood Resort](/hotels/6370/kona-village-a-rosewood-resort.html) (Big Island, Hawaii)
 - [Rosewood Inn of the Anasazi](/hotels/1907/rosewood-inn-of-the-anasazi.html) (Santa Fe, New Mexico)
 - [The Carlyle, A Rosewood Hotel](/hotels/1119/the-carlyle-a-rosewood-hotel.html) (Nueva York)
@@ -70,7 +70,7 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 ### Sudamérica
 
 **Brasil (1)**
-- [Rosewood Sao Paulo](/hotels/6069/rosewood-sao-paulo.html) (Sao Paulo)
+- [Rosewood Sao Paulo](/hotels/6069/rosewood-sao-paulo.html) (São Paulo)
 
 ### Europa
 
@@ -86,7 +86,7 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 - [Rosewood Munich](/hotels/6435/rosewood-munich.html) (Múnich)
 
 **Italia (1)**
-- [Rosewood Castiglion del Bosco](/hotels/2265/rosewood-castiglion-del-bosco.html) (Tuscany)
+- [Rosewood Castiglion del Bosco](/hotels/2265/rosewood-castiglion-del-bosco.html) (Toscana)
 
 **Países Bajos (1)**
 - [Rosewood Amsterdam](/hotels/6785/rosewood-amsterdam.html) (Ámsterdam)
@@ -113,7 +113,7 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 ### Asia
 
 **Camboya (1)**
-- [Rosewood Phnom Penh](/hotels/3481/rosewood-phnom-penh.html) (Phnom Penh)
+- [Rosewood Phnom Penh](/hotels/3481/rosewood-phnom-penh.html) (Nom Pen)
 
 **China (4)**
 - [Rosewood Beijing](/hotels/2918/rosewood-beijing.html) (Pekín)
