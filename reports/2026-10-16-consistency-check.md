@@ -8,7 +8,7 @@
 | Title 60 characters or fewer; description 155 or fewer | All pages |
 | Duplicate titles, descriptions or H1s | None |
 | One H1 and a canonical tag per page | All pages |
-| JSON-LD parses; `ItemList` count = hotel links = count in H1 = count in description | All 32 list pages (the 7 hub-type pages use a different structure and were checked by hand) |
+| JSON-LD parses; `ItemList` count = hotel links = count in H1 = count in description | 30 of 32 list pages; the other two are structural, not errors (Four Seasons lists its hotels twice; the Autograph link count includes one related link). The 7 hub-type pages use another structure and were checked by hand |
 | FAQ schema count = FAQ questions in the copy | All pages |
 | Page Metadata file matches the HTML (title, H1, description, lengths) | All 41 rows |
 | Reviewer and perks-date line is a placeholder | All pages (nothing is signed off) |
@@ -29,7 +29,7 @@
 | 1 | Claim-like "best" wording; the style rule says no "best" claims: "es la mejor base para visitar Madrid a pie" (Four Seasons Madrid), "Es la mejor base para un primer viaje" and "uno de los mejores puntos para ver ballenas jorobadas" (Turks & Caicos hub), "Es la mejor opción si quiere caminar a todo" (Nueva York), "La mejor zona para viajes de negocios" (Miami) | 4 pages | Reword to neutral ("una base cómoda para…") |
 | 2 | "Hotel de lujo de cinco estrellas" in the Four Seasons Madrid description (star rating wording) | 1 page | Keep only if the hotel's official classification is confirmed |
 | 3 | FAQ questions that ask "¿Cuál es el mejor hotel…?" and answer "Depende…" (city hubs, TC hub, Four Seasons, comparison) | 8 pages | Keep: they match real queries and make no claim |
-| 4 | Peninsula states times as guaranteed ("Entrada garantizada desde las 6:00", "Salida garantizada hasta las 22:00") | 1 page | Confirm with PenClub (already flagged, Z41) |
+| 4 | Peninsula states times as guaranteed ("Entrada garantizada desde las 6:00", "Salida garantizada hasta las 22:00") | 1 page | Confirm with PenClub (on the programme-confirmation list) |
 | 5 | Key-facts rows differ by page age: 14 earlier pages have no "Estancia mínima" row; the "Fidelización" sentence is worded two ways; unnamed programmes appear as "Aman Preferred Partner", "Socio preferente de Montage" and "Programa de socios preferentes de X" | about 20 pages | One wording per type; I can apply it in one pass |
 | 6 | Four Seasons lists hotels twice (a featured "por destino" section of 191 links and the full list of 141) | 1 page | Keep the full list; shorten the featured section |
 | 7 | The English hreflang tag is a TODO comment on every page (the English URL is in `developer-spec/hreflang-map.csv`) | all | Expected until the developer adds the tags |
