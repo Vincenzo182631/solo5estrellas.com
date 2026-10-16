@@ -1,0 +1,275 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Six Senses",
+          "item": "https://solo5estrellas.com/collection/95/six-senses-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/95/six-senses-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/95/six-senses-hotels-resorts.html",
+      "name": "Hoteles Six Senses: 24 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 24 hoteles Six Senses en 19 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Six Senses Hotels Resorts Spas"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/95/six-senses-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/95/six-senses-hotels-resorts.html#hotels",
+      "name": "Hoteles Six Senses",
+      "numberOfItems": 24,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Six Senses Bhutan",
+          "url": "https://solo5estrellas.com/hotels/6739/six-senses-bhutan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Six Senses Krabey Island",
+          "url": "https://solo5estrellas.com/hotels/6748/six-senses-krabey-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Six Senses Qing Cheng Mountain",
+          "url": "https://solo5estrellas.com/hotels/6744/six-senses-qing-cheng-mountain.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Six Senses Fiji",
+          "url": "https://solo5estrellas.com/hotels/3564/six-senses-fiji.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Summer Senses Luxury Resort",
+          "url": "https://solo5estrellas.com/hotels/6172/summer-senses-luxury-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Six Senses La Sagesse",
+          "url": "https://solo5estrellas.com/hotels/6589/six-senses-la-sagesse.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Six Senses Fort Barwana",
+          "url": "https://solo5estrellas.com/hotels/6740/six-senses-fort-barwana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Six Senses Vana",
+          "url": "https://solo5estrellas.com/hotels/6742/six-senses-vana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Six Senses Shaharut",
+          "url": "https://solo5estrellas.com/hotels/6334/six-senses-shaharut.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Six Senses Rome",
+          "url": "https://solo5estrellas.com/hotels/6305/six-senses-rome.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Six Senses Kyoto",
+          "url": "https://solo5estrellas.com/hotels/6743/six-senses-kyoto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Six Senses Kanuhura",
+          "url": "https://solo5estrellas.com/hotels/6749/six-senses-kanuhura.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Six Senses Douro Valley",
+          "url": "https://solo5estrellas.com/hotels/3584/six-senses-douro-valley.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Six Senses AMAALA",
+          "url": "https://solo5estrellas.com/hotels/7115/six-senses-amaala.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Six Senses Southern Dunes",
+          "url": "https://solo5estrellas.com/hotels/6741/six-senses-southern-dunes.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Six Senses Ibiza",
+          "url": "https://solo5estrellas.com/hotels/6245/six-senses-ibiza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Six Senses Crans-Montana",
+          "url": "https://solo5estrellas.com/hotels/6336/six-senses-crans-montana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Six Senses Samui",
+          "url": "https://solo5estrellas.com/hotels/6746/six-senses-samui.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Six Senses Yao Noi",
+          "url": "https://solo5estrellas.com/hotels/6745/six-senses-yao-noi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Six Senses Laamu",
+          "url": "https://solo5estrellas.com/hotels/3580/six-senses-laamu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Six Senses Kaplankaya",
+          "url": "https://solo5estrellas.com/hotels/6307/six-senses-kaplankaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Six Senses Kocatas Mansions",
+          "url": "https://solo5estrellas.com/hotels/6244/six-senses-kocatas-mansions.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Six Senses London",
+          "url": "https://solo5estrellas.com/hotels/6987/six-senses-london.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Six Senses Ninh Van Bay",
+          "url": "https://solo5estrellas.com/hotels/6747/six-senses-ninh-van-bay.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Six Senses directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Six Senses con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, mejora de categoría prioritaria según disponibilidad, un detalle de bienvenida y Wi-Fi de cortesía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de IHG One Rewards al reservar Six Senses con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Según la página del hotel, las reservas hechas a través de IHG Destined siguen sumando puntos y noches de nivel de IHG One Rewards. Añada su número de socio a la reserva y confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Six Senses se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "24 hoteles en 19 países y territorios. Los países con más hoteles son India, Maldivas, Arabia Saudita."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Six Senses hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en México. En España: Six Senses Ibiza."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Six Senses hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en Estados Unidos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es IHG Destined?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de IHG Hotels & Resorts para asesores de viajes de lujo. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; participan marcas como Six Senses, InterContinental, Kimpton y Regent."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Six Senses?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
