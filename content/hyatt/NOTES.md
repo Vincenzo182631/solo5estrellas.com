@@ -1,0 +1,15 @@
+# Hyatt and Hyatt Privé hub page: notes
+
+**Status:** draft for a **new** umbrella page, `/hoteles-hyatt/` (a developer must add the URL; the 8 brand pages stay in place and link from it). There is no single Hyatt collection on the site today, only the brand pages: Hyatt Regency `/collection/29/`, Grand Hyatt `/collection/28/`, Park Hyatt `/collection/8/`, Andaz `/collection/54/`, The Unbound Collection `/collection/65/`, Hyatt Centric `/collection/77/`, Alila `/collection/78/`, Thompson `/collection/75/`. Files: `chain-hyatt.md`, `.html`, `.jsonld`, `preview.png`. Target query: "hyatt prive" (28 impressions, position 7.25 on 13 Oct); Hyatt hotel queries across the brands total 467 impressions.
+
+## Source
+The hotel list merges the eight brand pages: 287 records, 285 after removing two duplicate records (below), in 63 countries and territories (Scotland counted under the United Kingdom). Programme: Hyatt Privé, Hyatt Hotels Corporation's advisor programme (public sources: Travelsort, MilePro, Milesopedia). Perks follow our brand pages and the public description: breakfast for two, hotel credit, priority upgrade, early check-in and late check-out subject to availability, welcome gift, Wi-Fi; World of Hyatt points keep accruing. No prices, ratings or "best" claims. Schema: BreadcrumbList, CollectionPage, ItemList, FAQPage.
+
+## Spanish market
+6 hotels in Spain (Grand Hyatt Barcelona, Hyatt Regency Barcelona Tower, Hyatt Regency Hesperia Madrid, Hyatt Centric Gran Vía Madrid, Thompson Madrid, Hotel La Zambra) and 6 in Mexico (Grand Hyatt Playa del Carmen, Hyatt Regency Mexico City, Park Hyatt Los Cabos, Andaz Mayakoba, The Cape, Alila Mayakoba). Largest groups: United States 91, China 32, India 12, Japan 12, Indonesia 10.
+
+## Verify before publishing
+1. **Perks differ across the eight brand pages (Z64).** Credit: "normally 100 USD" (Grand, Andaz, Park, Unbound, Thompson), "25 to 100" (Regency), "up to 200" (Centric). Public sources say 50 or 100 USD. Upgrade confirmed within 24 hours on four brands, "subject to availability" on others. Wi-Fi is listed on some brands only. Hyatt Centric needs a two-night minimum; the others say none. The hub uses the common wording and flags the differences; confirm the credit amounts and the Centric minimum with Hyatt Privé.
+2. **Participation:** public sources say all Park Hyatt, Andaz and Miraval hotels take part and other brands only select hotels. Our lists show every hotel as bookable with the perks; confirm which hotels truly participate.
+3. **Duplicates and sensitive records (Z65):** Grand Hyatt Erawan Bangkok (IDs 3405 and 3406) and Grand Hyatt Dubai (3403 and 3404) are listed twice (the second record of each was left out of the draft). The list also includes three hotels in Russia and one in Ukraine (Hyatt Regency Moscow Petrovsky Park, Hyatt Regency Sochi, Ararat Park Hyatt Moscow, Hyatt Regency Kiev); an editor should decide whether to keep them.
+4. New URL, hreflang to the English page (same pattern), reviewer name and perks verification date.
