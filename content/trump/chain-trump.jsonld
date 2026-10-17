@@ -1,0 +1,161 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trump",
+          "item": "https://solo5estrellas.com/collection/42/trump-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/42/trump-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/42/trump-hotels.html",
+      "name": "Hoteles Trump: 5 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 5 hoteles Trump en 2 países con desayuno para dos, crédito de hotel y entrada anticipada, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Trump Hotels"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/42/trump-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/42/trump-hotels.html#hotels",
+      "name": "Hoteles Trump",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Trump National Doral Miami",
+          "url": "https://solo5estrellas.com/hotels/2882/Trump-National-Doral-Miami-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trump International Hotel & Tower Chicago",
+          "url": "https://solo5estrellas.com/hotels/2197/Trump-International-Hotel-Tower-Chicago.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trump International Tower Las Vegas",
+          "url": "https://solo5estrellas.com/hotels/2193/Trump-International-Tower-Las-Vegas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Trump International Hotel & Tower, New York",
+          "url": "https://solo5estrellas.com/hotels/2142/Trump-International-Hotel-Tower-New-York.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Trump Hotel, Doonbeg Ireland",
+          "url": "https://solo5estrellas.com/hotels/2440/Trump-Hotel-Doonbeg-Ireland.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Trump directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Trump con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD por estancia, entrada anticipada y salida tardía según disponibilidad, y un detalle de bienvenida. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trump Hotels tiene programa de fidelización?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página del hotel, sí: se puede añadir un número de socio a la reserva. Si esa tarifa suma puntos se confirma al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Trump se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "5 hoteles en 2 países y territorios. Los países con más hoteles son Estados Unidos, Irlanda."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Trump hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en México ni en España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Trump hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 hoteles: Trump National Doral Miami, Trump International Hotel & Tower Chicago, Trump International Tower Las Vegas, Trump International Hotel & Tower, New York."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es el programa de Trump Hotels para asesores de viajes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Trump Hotels para asesores de viajes seleccionados. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; las ventajas se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Trump?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
