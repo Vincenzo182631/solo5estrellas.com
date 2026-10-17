@@ -80,7 +80,7 @@ Se confirma al hacer la reserva, así que facilite su número de socio. Pregunte
 
 **¿Qué hoteles Oberoi hay en México y España?**
 
-Esta página no incluye hoteles en México. Esta página no incluye hoteles en España.
+Esta página no incluye hoteles en México ni en España.
 
 **¿Qué hoteles Oberoi hay en Estados Unidos?**
 

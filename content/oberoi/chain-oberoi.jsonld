@@ -114,7 +114,7 @@
           "name": "¿Qué hoteles Oberoi hay en México y España?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Esta página no incluye hoteles en México. Esta página no incluye hoteles en España."
+            "text": "Esta página no incluye hoteles en México ni en España."
           }
         },
         {

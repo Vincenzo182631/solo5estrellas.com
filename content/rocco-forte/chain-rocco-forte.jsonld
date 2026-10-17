@@ -1,0 +1,215 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rocco Forte",
+          "item": "https://solo5estrellas.com/collection/14/rocco-forte-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/14/rocco-forte-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/14/rocco-forte-hotels.html",
+      "name": "Hoteles Rocco Forte: 14 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 14 hoteles Rocco Forte en 4 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Rocco Forte Hotels"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/14/rocco-forte-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/14/rocco-forte-hotels.html#hotels",
+      "name": "Hoteles Rocco Forte",
+      "numberOfItems": 14,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Rocco Forte Hotel Amigo",
+          "url": "https://solo5estrellas.com/hotels/1219/Rocco-Forte-Hotel-Amigo-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel de Rome",
+          "url": "https://solo5estrellas.com/hotels/1765/Hotel-de-Rome-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Charles Hotel",
+          "url": "https://solo5estrellas.com/hotels/2001/The-Charles-Hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hotel De La Ville",
+          "url": "https://solo5estrellas.com/hotels/1972/Hotel-De-La-Ville.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hotel de Russie",
+          "url": "https://solo5estrellas.com/hotels/1107/Hotel-de-Russie.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Hotel Savoy, a Rocco Forte Hotel",
+          "url": "https://solo5estrellas.com/hotels/1110/Hotel-Savoy-a-Rocco-Forte-Hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Rocco Forte House, Milan",
+          "url": "https://solo5estrellas.com/hotels/6697/Rocco-Forte-House-Milan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Rocco Forte House, Rome",
+          "url": "https://solo5estrellas.com/hotels/6695/Rocco-Forte-House-Rome.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "The Carlton Milano",
+          "url": "https://solo5estrellas.com/hotels/7018/The-Carlton-Milano.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Verdura Golf & Spa Resort",
+          "url": "https://solo5estrellas.com/hotels/2291/Verdura-Golf-Spa-Resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Verdura Resort, Rocco Forte Private Villas",
+          "url": "https://solo5estrellas.com/hotels/6693/Verdura-Resort-Rocco-Forte-Private-Villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Villa Igiea, a Rocco Forte Hotel",
+          "url": "https://solo5estrellas.com/hotels/3317/Villa-Igiea-a-Rocco-Forte-Hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Rocco Forte The Balmoral, Edinburgh",
+          "url": "https://solo5estrellas.com/hotels/1084/Rocco-Forte-The-Balmoral-Edinburgh-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Brown's Hotel London",
+          "url": "https://solo5estrellas.com/hotels/1149/Brown-s-Hotel-London.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Rocco Forte directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Rocco Forte con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, mejora de habitación prioritaria, entrada anticipada y salida tardía según disponibilidad, un detalle de bienvenida y Wi-Fi de cortesía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Rocco Forte Friends al reservar Rocco Forte con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página de cada hotel, sí: se añade su número de Rocco Forte Friends a la reserva y los puntos se suman en esa estancia. Confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Rocco Forte se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "14 hoteles en 4 países y territorios. Los países con más hoteles son Italia, Alemania, Reino Unido."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Rocco Forte hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en México ni en España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Rocco Forte hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en Estados Unidos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Rocco Forte Knights?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Rocco Forte Hotels para asesores de viaje, al que se accede por invitación y solo a través de un asesor participante. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; las ventajas varían según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Rocco Forte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
