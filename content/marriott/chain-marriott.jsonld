@@ -1,0 +1,569 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Marriott",
+          "item": "https://solo5estrellas.com/collection/69/marriott-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/69/marriott-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/69/marriott-hotels-resorts.html",
+      "name": "Hoteles Marriott: 73 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 73 hoteles Marriott en 26 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Marriott Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/69/marriott-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/69/marriott-hotels-resorts.html#hotels",
+      "name": "Hoteles Marriott",
+      "numberOfItems": 73,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Gaylord Pacific Resort & Convention Center",
+          "url": "https://solo5estrellas.com/hotels/6963/gaylord-pacific-resort-convention-center.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Monterey Marriott",
+          "url": "https://solo5estrellas.com/hotels/4689/monterey-marriott.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "San Francisco Airport Marriott Waterfront",
+          "url": "https://solo5estrellas.com/hotels/6404/san-francisco-airport-marriott-waterfront.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "San Francisco Marriott Union Square",
+          "url": "https://solo5estrellas.com/hotels/4990/san-francisco-marriott-union-square.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vea Newport Beach",
+          "url": "https://solo5estrellas.com/hotels/6431/vea-newport-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Gaylord Rockies Resort & Convention Center",
+          "url": "https://solo5estrellas.com/hotels/6484/gaylord-rockies-resort-convention-center.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Westin Denver Downtown",
+          "url": "https://solo5estrellas.com/hotels/6944/the-westin-denver-downtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Gaylord National Resort & Convention Center",
+          "url": "https://solo5estrellas.com/hotels/6274/gaylord-national-resort-convention-center.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Clearwater Beach Marriott Resort on Sand Key",
+          "url": "https://solo5estrellas.com/hotels/6941/clearwater-beach-marriott-resort-on-sand-key.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Fort Lauderdale Marriott Harbor Beach Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/5036/fort-lauderdale-marriott-harbor-beach-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Gaylord Palms Resort & Convention Center",
+          "url": "https://solo5estrellas.com/hotels/6273/gaylord-palms-resort-convention-center.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Hotel Beaux Arts Miami",
+          "url": "https://solo5estrellas.com/hotels/2542/hotel-beaux-arts-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Marriott Hutchinson Island Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/6777/marriott-hutchinson-island-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Marriott Stanton South Beach",
+          "url": "https://solo5estrellas.com/hotels/4686/marriott-stanton-south-beach-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Palm Beach Marriott Singer Island Beach Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3790/palm-beach-marriott-singer-island-beach-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Sawgrass Marriott Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/4717/sawgrass-marriott-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Tampa Marriott Water Street",
+          "url": "https://solo5estrellas.com/hotels/4719/tampa-marriott-water-street.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Sarasota Modern",
+          "url": "https://solo5estrellas.com/hotels/6660/the-sarasota-modern.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Waikiki Beach Marriott Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/4722/waikiki-beach-marriott-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Waikoloa Beach Marriott Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3791/waikoloa-beach-marriott-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Wailea Beach Resort - Marriott, Maui",
+          "url": "https://solo5estrellas.com/hotels/2171/wailea-beach-resort-marriott-maui-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "New Orleans Marriott",
+          "url": "https://solo5estrellas.com/hotels/4730/new-orleans-marriott.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "New Orleans Marriott Warehouse Arts District",
+          "url": "https://solo5estrellas.com/hotels/4738/new-orleans-marriott-warehouse-arts-district.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Boston Marriott Long Wharf",
+          "url": "https://solo5estrellas.com/hotels/4977/boston-marriott-long-wharf.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "New York Marriott Marquis",
+          "url": "https://solo5estrellas.com/hotels/3768/new-york-marriott-marquis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "San Juan Marriott Resort & Stellaris Casino",
+          "url": "https://solo5estrellas.com/hotels/4991/san-juan-marriott-resort-stellaris-casino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Gaylord Opryland Resort & Convention Center",
+          "url": "https://solo5estrellas.com/hotels/6272/gaylord-opryland-resort-convention-center.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Gaylord Texan Resort & Convention Center",
+          "url": "https://solo5estrellas.com/hotels/6485/gaylord-texan-resort-convention-center.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Hotel Paso Del Norte",
+          "url": "https://solo5estrellas.com/hotels/4713/hotel-paso-del-norte.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Marriott Marquis Houston",
+          "url": "https://solo5estrellas.com/hotels/6406/marriott-marquis-houston.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Marriott Marquis Washington, DC",
+          "url": "https://solo5estrellas.com/hotels/6905/marriott-marquis-washington-dc.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Washington Marriott Capitol Hill",
+          "url": "https://solo5estrellas.com/hotels/6887/washington-marriott-capitol-hill.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Aruba Marriott Resort & Stellaris Casino",
+          "url": "https://solo5estrellas.com/hotels/3749/aruba-marriott-resort-stellaris-casino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Vienna Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/6804/vienna-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "The St. Regis on the Bund, Shanghai",
+          "url": "https://solo5estrellas.com/hotels/6775/the-st-regis-on-the-bund-shanghai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Yiwu Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/3803/yiwu-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Santa Marta Marriott Resort Playa Dormida",
+          "url": "https://solo5estrellas.com/hotels/4693/santa-marta-marriott-resort-playa-dormida.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Costa Rica Marriott Hotel Hacienda Belén",
+          "url": "https://solo5estrellas.com/hotels/4685/costa-rica-marriott-hotel-hacienda-bel-n-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Los Sueños Marriott Ocean & Golf Resort",
+          "url": "https://solo5estrellas.com/hotels/4684/los-sue-os-marriott-ocean-golf-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Curacao Marriott Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/4737/curacao-marriott-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Prague Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/4677/prague-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Marriott Miches Beach, An All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/6942/marriott-miches-beach-an-all-inclusive-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Fiji Marriott Resort Momi Bay",
+          "url": "https://solo5estrellas.com/hotels/3837/fiji-marriott-resort-momi-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Paris Marriott Champs Elysees Hotel",
+          "url": "https://solo5estrellas.com/hotels/3757/paris-marriott-champs-elysees-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Paris Marriott Opera Ambassador Hotel",
+          "url": "https://solo5estrellas.com/hotels/6502/paris-marriott-opera-ambassador-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Berlin Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/6504/berlin-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Grand Cayman Marriott Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/4979/grand-cayman-marriott-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Budapest Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/4727/budapest-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "The Sira",
+          "url": "https://solo5estrellas.com/hotels/6703/the-sira.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Nemi Hotel Milan",
+          "url": "https://solo5estrellas.com/hotels/7143/nemi-hotel-milan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Rome Marriott Hotel Grand Flora",
+          "url": "https://solo5estrellas.com/hotels/6776/rome-marriott-hotel-grand-flora.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Dead Sea Marriott Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3755/dead-sea-marriott-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Almare, a Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/6707/almare-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Delta Hotels Riviera Nayarit, An All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/6943/delta-hotels-riviera-nayarit-an-all-inclusive-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Marriott Cancun Resort",
+          "url": "https://solo5estrellas.com/hotels/3752/marriott-cancun-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Marriott Puerto Vallarta Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3751/marriott-puerto-vallarta-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Amsterdam Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/4694/amsterdam-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "Rotterdam Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/4989/rotterdam-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Marriott Residences Salgados Resort",
+          "url": "https://solo5estrellas.com/hotels/6842/marriott-residences-salgados-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "Marriott Salgados Golf  & Conference Center",
+          "url": "https://solo5estrellas.com/hotels/6836/marriott-salgados-golf-conference-center.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "Praia D'El Rey Marriott Golf & Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/3758/praia-d-el-rey-marriott-golf-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Singapore Marriott Tang Plaza Hotel",
+          "url": "https://solo5estrellas.com/hotels/6407/singapore-marriott-tang-plaza-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Johannesburg Marriott Hotel Melrose Arch",
+          "url": "https://solo5estrellas.com/hotels/7093/johannesburg-marriott-hotel-melrose-arch.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "Izmir Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/6317/izmir-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "JW Marriott Istanbul Marmara Sea",
+          "url": "https://solo5estrellas.com/hotels/6348/jw-marriott-istanbul-marmara-sea.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "W Dubai - Mina Seyahi",
+          "url": "https://solo5estrellas.com/hotels/6344/w-dubai-mina-seyahi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "Hanbury Manor Marriott",
+          "url": "https://solo5estrellas.com/hotels/4648/hanbury-manor-marriott.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "London Marriott Hotel County Hall",
+          "url": "https://solo5estrellas.com/hotels/3792/london-marriott-hotel-county-hall.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "London Marriott Hotel Grosvenor Square",
+          "url": "https://solo5estrellas.com/hotels/3793/london-marriott-hotel-grosvenor-square.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "London Marriott Hotel Park Lane",
+          "url": "https://solo5estrellas.com/hotels/3794/london-marriott-hotel-park-lane.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Danang Marriott Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6367/danang-marriott-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "Danang Marriott Resort & Spa, Non Nuoc Beach Villas",
+          "url": "https://solo5estrellas.com/hotels/6662/danang-marriott-resort-spa-non-nuoc-beach-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "name": "Nha Trang Marriott Resort & Spa, Hon Tre Island",
+          "url": "https://solo5estrellas.com/hotels/6574/nha-trang-marriott-resort-spa-hon-tre-island.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Marriott directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Marriott con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de entre 50 y 100 USD en hoteles seleccionados, mejora de habitación prioritaria, entrada anticipada y salida tardía según disponibilidad, un detalle de bienvenida y Wi-Fi de cortesía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Marriott Bonvoy al reservar Marriott con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Según la página de la marca, las reservas hechas a través de Marriott Luminous siguen sumando puntos y noches de nivel de Marriott Bonvoy. Las ventajas no se combinan con las tarifas para socios: se aplican a la tarifa flexible publicada. Añada su número de socio y confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Marriott se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "73 hoteles en 26 países y territorios. Los países con más hoteles son Estados Unidos, México, Reino Unido."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Marriott hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: Almare, a Luxury Collection Hotel, Delta Hotels Riviera Nayarit, An All-Inclusive Resort, Marriott Cancun Resort, Marriott Puerto Vallarta Resort & Spa. Esta página no incluye hoteles en España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Marriott hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "32 hoteles, entre ellos Gaylord Pacific Resort & Convention Center, Monterey Marriott, San Francisco Airport Marriott Waterfront, San Francisco Marriott Union Square, Vea Newport Beach, Gaylord Rockies Resort & Convention Center y 26 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Marriott Luminous?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Marriott International para asesores de viajes de las marcas premium, como Marriott, JW Marriott, W Hotels, Westin, Sheraton, Renaissance y Autograph Collection. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos; solo participan hoteles seleccionados."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Marriott?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
