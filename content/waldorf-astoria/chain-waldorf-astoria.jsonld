@@ -1,0 +1,365 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Waldorf Astoria",
+          "item": "https://solo5estrellas.com/collection/45/waldorf-astoria-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/45/waldorf-astoria-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/45/waldorf-astoria-hotels-resorts.html",
+      "name": "Hoteles Waldorf Astoria: 39 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 39 hoteles Waldorf Astoria en 20 países con desayuno para dos, crédito de hotel y entrada anticipada, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Waldorf Astoria Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/45/waldorf-astoria-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/45/waldorf-astoria-hotels-resorts.html#hotels",
+      "name": "Hoteles Waldorf Astoria",
+      "numberOfItems": 39,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Arizona Biltmore Resort and Spa",
+          "url": "https://solo5estrellas.com/hotels/960/arizona-biltmore-resort-and-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Waldorf Astoria Beverly Hills",
+          "url": "https://solo5estrellas.com/hotels/3235/waldorf-astoria-beverly-hills.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Waldorf Astoria Monarch Beach",
+          "url": "https://solo5estrellas.com/hotels/1213/waldorf-astoria-monarch-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Waldorf Astoria Washington D.C.",
+          "url": "https://solo5estrellas.com/hotels/3239/waldorf-astoria-washington-d-c-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Waldorf Astoria Orlando",
+          "url": "https://solo5estrellas.com/hotels/2322/waldorf-astoria-orlando.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Waldorf Astoria Atlanta Buckhead",
+          "url": "https://solo5estrellas.com/hotels/3956/waldorf-astoria-atlanta-buckhead.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Grand Wailea, A Waldorf Astoria Resort",
+          "url": "https://solo5estrellas.com/hotels/2246/grand-wailea-a-waldorf-astoria-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Ho’olei at Grand Wailea",
+          "url": "https://solo5estrellas.com/hotels/4138/ho-olei-at-grand-wailea.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Waldorf Astoria Chicago",
+          "url": "https://solo5estrellas.com/hotels/2698/waldorf-astoria-chicago.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "The Roosevelt New Orleans",
+          "url": "https://solo5estrellas.com/hotels/2514/the-roosevelt-new-orleans-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Waldorf Astoria Las Vegas",
+          "url": "https://solo5estrellas.com/hotels/2319/waldorf-astoria-las-vegas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "The Waldorf Astoria New York",
+          "url": "https://solo5estrellas.com/hotels/2419/the-waldorf-astoria-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Waldorf Astoria Park City",
+          "url": "https://solo5estrellas.com/hotels/2422/waldorf-astoria-park-city-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Waldorf Astoria Beijing",
+          "url": "https://solo5estrellas.com/hotels/4168/waldorf-astoria-beijing.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Waldorf Astoria Chengdu",
+          "url": "https://solo5estrellas.com/hotels/4170/waldorf-astoria-chengdu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Waldorf Astoria Shanghai on the Bund",
+          "url": "https://solo5estrellas.com/hotels/6327/waldorf-astoria-shanghai-on-the-bund.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Waldorf Astoria Costa Rica Punta Cacique",
+          "url": "https://solo5estrellas.com/hotels/6850/waldorf-astoria-costa-rica-punta-cacique.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Waldorf Astoria Cairo Heliopolis",
+          "url": "https://solo5estrellas.com/hotels/4166/waldorf-astoria-cairo-heliopolis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Waldorf Astoria Helsinki",
+          "url": "https://solo5estrellas.com/hotels/7013/waldorf-astoria-helsinki.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Waldorf Versailles Trianon Palace",
+          "url": "https://solo5estrellas.com/hotels/4174/waldorf-versailles-trianon-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Waldorf Astoria Berlin",
+          "url": "https://solo5estrellas.com/hotels/4169/waldorf-astoria-berlin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Waldorf Astoria Jerusalem",
+          "url": "https://solo5estrellas.com/hotels/3122/waldorf-astoria-jerusalem.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Rome Cavalieri",
+          "url": "https://solo5estrellas.com/hotels/2332/rome-cavalieri.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Waldorf Astoria Osaka",
+          "url": "https://solo5estrellas.com/hotels/7017/waldorf-astoria-osaka.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Waldorf Astoria Kuwait",
+          "url": "https://solo5estrellas.com/hotels/6323/waldorf-astoria-kuwait.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Waldorf Astoria Maldives Ithaafushi",
+          "url": "https://solo5estrellas.com/hotels/4175/waldorf-astoria-maldives-ithaafushi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Waldorf Astoria Cancun",
+          "url": "https://solo5estrellas.com/hotels/6222/waldorf-astoria-cancun.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Waldorf Astoria Los Cabos Pedregal",
+          "url": "https://solo5estrellas.com/hotels/2262/waldorf-astoria-los-cabos-pedregal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Waldorf Astoria Riviera Maya",
+          "url": "https://solo5estrellas.com/hotels/6859/waldorf-astoria-riviera-maya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Waldorf Astoria Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/3242/waldorf-astoria-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Waldorf Astoria Panama",
+          "url": "https://solo5estrellas.com/hotels/4135/waldorf-astoria-panama.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Waldorf Astoria Doha West Bay",
+          "url": "https://solo5estrellas.com/hotels/6322/waldorf-astoria-doha-west-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Waldorf Astoria Lusail, Doha",
+          "url": "https://solo5estrellas.com/hotels/6321/waldorf-astoria-lusail-doha-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Waldorf Astoria Jeddah Qasr Al Sharq",
+          "url": "https://solo5estrellas.com/hotels/4173/waldorf-astoria-jeddah-qasr-al-sharq.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Waldorf Astoria Seychelles Platte Island",
+          "url": "https://solo5estrellas.com/hotels/6849/waldorf-astoria-seychelles-platte-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Waldorf Astoria Bangkok",
+          "url": "https://solo5estrellas.com/hotels/4167/waldorf-astoria-bangkok.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Waldorf Astoria Dubai International Financial Centre",
+          "url": "https://solo5estrellas.com/hotels/4171/waldorf-astoria-dubai-international-financial-centre.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Waldorf Astoria Dubai Palm Jumeirah",
+          "url": "https://solo5estrellas.com/hotels/4172/waldorf-astoria-dubai-palm-jumeirah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Waldorf Astoria Ras Al Khaimah",
+          "url": "https://solo5estrellas.com/hotels/4819/waldorf-astoria-ras-al-khaimah.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Waldorf Astoria directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Waldorf Astoria con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD por estancia, entrada anticipada y salida tardía según disponibilidad, un detalle de bienvenida y estatus VIP. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Hilton Honors al reservar Waldorf Astoria con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página del hotel, sí: se añade su número de Hilton Honors a la reserva y los puntos se suman en esa estancia. Confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Waldorf Astoria se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "39 hoteles en 20 países y territorios. Los países con más hoteles son Estados Unidos, China, México."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Waldorf Astoria hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: Waldorf Astoria Cancun, Waldorf Astoria Los Cabos Pedregal, Waldorf Astoria Riviera Maya. Esta página no incluye hoteles en España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Waldorf Astoria hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "13 hoteles, entre ellos Arizona Biltmore Resort and Spa, Waldorf Astoria Beverly Hills, Waldorf Astoria Monarch Beach, Waldorf Astoria Washington D.C., Waldorf Astoria Orlando, Waldorf Astoria Atlanta Buckhead y 7 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Hilton for Luxury?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Hilton para asesores de viajes de lujo, por invitación (antes se llamaba Impresario), y abarca Waldorf Astoria, Conrad y LXR. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; las ventajas se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Waldorf Astoria?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
