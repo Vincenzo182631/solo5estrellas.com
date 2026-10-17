@@ -1,0 +1,557 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sofitel",
+          "item": "https://solo5estrellas.com/collection/36/sofitel-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/36/sofitel-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/36/sofitel-hotels-resorts.html",
+      "name": "Hoteles Sofitel: 71 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 71 hoteles Sofitel en 33 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Sofitel Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/36/sofitel-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/36/sofitel-hotels-resorts.html#hotels",
+      "name": "Hoteles Sofitel",
+      "numberOfItems": 71,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Sofitel Los Angeles at Beverly Hills",
+          "url": "https://solo5estrellas.com/hotels/2164/sofitel-los-angeles-at-beverly-hills.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sofitel Washington DC Lafayette Square",
+          "url": "https://solo5estrellas.com/hotels/4855/sofitel-washington-dc-lafayette-square.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sofitel Chicago Magnificent Mile",
+          "url": "https://solo5estrellas.com/hotels/1237/sofitel-chicago-magnificent-mile.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Sofitel New York",
+          "url": "https://solo5estrellas.com/hotels/2121/sofitel-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sofitel Philadelphia",
+          "url": "https://solo5estrellas.com/hotels/2454/sofitel-philadelphia-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Sofitel Buenos Aires Recoleta",
+          "url": "https://solo5estrellas.com/hotels/4858/sofitel-buenos-aires-recoleta-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Sofitel La Reserva Cardales",
+          "url": "https://solo5estrellas.com/hotels/4859/sofitel-la-reserva-cardales-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Sofitel Adelaide",
+          "url": "https://solo5estrellas.com/hotels/6148/sofitel-adelaide.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Sofitel Brisbane Central",
+          "url": "https://solo5estrellas.com/hotels/6149/sofitel-brisbane-central.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Sofitel Gold Coast Broadbeach",
+          "url": "https://solo5estrellas.com/hotels/6155/sofitel-gold-coast-broadbeach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Sofitel Melbourne on Collins",
+          "url": "https://solo5estrellas.com/hotels/6159/sofitel-melbourne-on-collins.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Sofitel Sydney Darling Harbour",
+          "url": "https://solo5estrellas.com/hotels/3600/sofitel-sydney-darling-harbour.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Sofitel Sydney Wentworth",
+          "url": "https://solo5estrellas.com/hotels/6161/sofitel-sydney-wentworth.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Sofitel Brussels Europe",
+          "url": "https://solo5estrellas.com/hotels/4874/sofitel-brussels-europe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Sofitel Angkor Phokeethra",
+          "url": "https://solo5estrellas.com/hotels/4966/sofitel-angkor-phokeethra.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Sofitel Phnom Penh Phokeethra",
+          "url": "https://solo5estrellas.com/hotels/4965/sofitel-phnom-penh-phokeethra.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Sofitel Montreal Golden Mile",
+          "url": "https://solo5estrellas.com/hotels/3199/sofitel-montreal-golden-mile.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Sofitel Foshan",
+          "url": "https://solo5estrellas.com/hotels/4914/sofitel-foshan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Sofitel Guangzhou Sunrich",
+          "url": "https://solo5estrellas.com/hotels/4912/sofitel-guangzhou-sunrich.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Sofitel Guiyang Hunter",
+          "url": "https://solo5estrellas.com/hotels/4913/sofitel-guiyang-hunter.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Sofitel Legend Peoples Grand Hotel Xian",
+          "url": "https://solo5estrellas.com/hotels/4918/sofitel-legend-peoples-grand-hotel-xian.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Sofitel Sanya Leeman Resort",
+          "url": "https://solo5estrellas.com/hotels/4917/sofitel-sanya-leeman-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Sofitel Bogota Victoria Regia",
+          "url": "https://solo5estrellas.com/hotels/4852/sofitel-bogota-victoria-regia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Sofitel Hotel Boutique Bovedas de Santa Clara",
+          "url": "https://solo5estrellas.com/hotels/4853/sofitel-hotel-boutique-bovedas-de-santa-clara-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Sofitel Legend Santa Clara Cartagena",
+          "url": "https://solo5estrellas.com/hotels/4752/sofitel-legend-santa-clara-cartagena.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Sofitel Legend Old Cataract Aswan",
+          "url": "https://solo5estrellas.com/hotels/2548/sofitel-legend-old-cataract-aswan-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Sofitel Winter Palace Luxor",
+          "url": "https://solo5estrellas.com/hotels/6898/sofitel-winter-palace-luxor.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Sofitel Fiji Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6162/sofitel-fiji-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Hotel Molitor Paris",
+          "url": "https://solo5estrellas.com/hotels/3228/hotel-molitor-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Hotel Sofitel Le Faubourg",
+          "url": "https://solo5estrellas.com/hotels/1131/hotel-sofitel-le-faubourg-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Sofitel Lyon Bellecour",
+          "url": "https://solo5estrellas.com/hotels/2953/sofitel-lyon-bellecour.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Sofitel Paris Arc de Triomphe",
+          "url": "https://solo5estrellas.com/hotels/4878/sofitel-paris-arc-de-triomphe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Sofitel Paris Baltimore Tour Eiffel",
+          "url": "https://solo5estrellas.com/hotels/4877/sofitel-paris-baltimore-tour-eiffel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Sofitel Strasbourg Grande Ile",
+          "url": "https://solo5estrellas.com/hotels/4881/sofitel-strasbourg-grande-ile.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Sofitel Kia Ora Moorea Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/2388/sofitel-kia-ora-moorea-beach-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Sofitel Frankfurt Opera",
+          "url": "https://solo5estrellas.com/hotels/4887/sofitel-frankfurt-opera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Sofitel Munich Bayerpost",
+          "url": "https://solo5estrellas.com/hotels/3206/sofitel-munich-bayerpost.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Sofitel Mumbai BKC",
+          "url": "https://solo5estrellas.com/hotels/4879/sofitel-mumbai-bkc.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Sofitel Bali Nusa Dua",
+          "url": "https://solo5estrellas.com/hotels/4936/sofitel-bali-nusa-dua.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Sofitel Rome Villa Borghese",
+          "url": "https://solo5estrellas.com/hotels/2190/sofitel-rome-villa-borghese.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Sofitel Luxembourg Europe",
+          "url": "https://solo5estrellas.com/hotels/4890/sofitel-luxembourg-europe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Sofitel Luxembourg Le Grand Ducal",
+          "url": "https://solo5estrellas.com/hotels/4889/sofitel-luxembourg-le-grand-ducal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Sofitel Mexico City Reforma",
+          "url": "https://solo5estrellas.com/hotels/4265/sofitel-mexico-city-reforma.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Sofitel Agadir Thalassa Sea & Spa",
+          "url": "https://solo5estrellas.com/hotels/6952/sofitel-agadir-thalassa-sea-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Sofitel Casablanca Tour Blanche",
+          "url": "https://solo5estrellas.com/hotels/6133/sofitel-casablanca-tour-blanche.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Sofitel Rabat Jardin des Roses",
+          "url": "https://solo5estrellas.com/hotels/4893/sofitel-rabat-jardin-des-roses-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Sofitel Legend The Grand Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/2186/sofitel-legend-the-grand-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Sofitel Auckland",
+          "url": "https://solo5estrellas.com/hotels/2242/sofitel-auckland-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Sofitel Auckland Viaduct Harbour",
+          "url": "https://solo5estrellas.com/hotels/2955/sofitel-auckland-viaduct-harbour.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Sofitel Queenstown - Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/2369/sofitel-queenstown-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Sofitel Wellington",
+          "url": "https://solo5estrellas.com/hotels/6698/sofitel-wellington.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Sofitel Legend Casco Viejo",
+          "url": "https://solo5estrellas.com/hotels/5049/sofitel-legend-casco-viejo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Sofitel Grand Sopot",
+          "url": "https://solo5estrellas.com/hotels/4892/sofitel-grand-sopot.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Sofitel Warsaw Victoria",
+          "url": "https://solo5estrellas.com/hotels/6146/sofitel-warsaw-victoria.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Sofitel Lisbon Liberdade",
+          "url": "https://solo5estrellas.com/hotels/4895/sofitel-lisbon-liberdade.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Sofitel St. Petersburg",
+          "url": "https://solo5estrellas.com/hotels/2872/sofitel-st-petersburg-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Sofitel Singapore City Centre",
+          "url": "https://solo5estrellas.com/hotels/4947/sofitel-singapore-city-centre.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "Sofitel Singapore Sentosa",
+          "url": "https://solo5estrellas.com/hotels/4955/sofitel-singapore-sentosa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Sofitel Ambassador Seoul Hotel & Serviced Residences",
+          "url": "https://solo5estrellas.com/hotels/6478/sofitel-ambassador-seoul-hotel-serviced-residences.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "Sofitel Bangkok Sukhumvit",
+          "url": "https://solo5estrellas.com/hotels/4962/sofitel-bangkok-sukhumvit.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "Sofitel Krabi Phokeethra Golf & Spa",
+          "url": "https://solo5estrellas.com/hotels/4964/sofitel-krabi-phokeethra-golf-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Sofitel Istanbul Taksim",
+          "url": "https://solo5estrellas.com/hotels/4919/sofitel-istanbul-taksim.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Sofitel Abu Dhabi Corniche",
+          "url": "https://solo5estrellas.com/hotels/4929/sofitel-abu-dhabi-corniche.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "Sofitel Dubai Downtown",
+          "url": "https://solo5estrellas.com/hotels/4930/sofitel-dubai-downtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Sofitel Dubai Jumeirah Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/6136/sofitel-dubai-jumeirah-beach-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Sofitel Dubai The Obelisk",
+          "url": "https://solo5estrellas.com/hotels/4928/sofitel-dubai-the-obelisk.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "Sofitel Dubai The Palm",
+          "url": "https://solo5estrellas.com/hotels/6135/sofitel-dubai-the-palm.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "Sofitel London St. James",
+          "url": "https://solo5estrellas.com/hotels/4904/sofitel-london-st-james.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Hotel Sofitel Montevideo Casino Carrasco and Spa",
+          "url": "https://solo5estrellas.com/hotels/4857/hotel-sofitel-montevideo-casino-carrasco-and-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "Sofitel Legend Metropole Hanoi",
+          "url": "https://solo5estrellas.com/hotels/1900/sofitel-legend-metropole-hanoi-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Sofitel Saigon Plaza",
+          "url": "https://solo5estrellas.com/hotels/6486/sofitel-saigon-plaza.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Sofitel directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Sofitel con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, un detalle de bienvenida y Wi-Fi de cortesía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Accor ALL al reservar Sofitel con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página de cada hotel, sí: se añade su número de Accor ALL a la reserva y los puntos y noches de nivel se suman en esa estancia. Confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Sofitel se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "71 hoteles en 33 países y territorios. Los países con más hoteles son Australia, Francia, Estados Unidos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Sofitel hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: Sofitel Mexico City Reforma. Esta página no incluye hoteles en España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Sofitel hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "5 hoteles: Sofitel Los Angeles at Beverly Hills, Sofitel Washington DC Lafayette Square, Sofitel Chicago Magnificent Mile, Sofitel New York, Sofitel Philadelphia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es el programa de Accor para asesores de viaje?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Accor para asesores de viaje de lujo y abarca marcas como Raffles, Fairmont, Sofitel, Banyan Tree, SLS y MGallery. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; las ventajas se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Sofitel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
