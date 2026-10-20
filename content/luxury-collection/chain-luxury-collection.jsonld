@@ -1,0 +1,737 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Luxury Collection",
+          "item": "https://solo5estrellas.com/collection/51/the-luxury-collection.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/51/the-luxury-collection.html#webpage",
+      "url": "https://solo5estrellas.com/collection/51/the-luxury-collection.html",
+      "name": "Hoteles Luxury Collection: 101 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 101 hoteles Luxury Collection en 36 países con desayuno para dos, crédito de hotel y mejora de habitación, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "The Luxury Collection"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/51/the-luxury-collection.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/51/the-luxury-collection.html#hotels",
+      "name": "Hoteles Luxury Collection",
+      "numberOfItems": 101,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "The Canyon Suites at The Phoenician",
+          "url": "https://solo5estrellas.com/hotels/2395/the-canyon-suites-at-the-phoenician.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Phoenician",
+          "url": "https://solo5estrellas.com/hotels/2816/the-phoenician.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Palace Hotel, San Francisco",
+          "url": "https://solo5estrellas.com/hotels/2793/palace-hotel-san-francisco.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "THE US GRANT",
+          "url": "https://solo5estrellas.com/hotels/1757/the-us-grant-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hotel Clio, A Luxury Collection Hotel, Denver Cherry Creek",
+          "url": "https://solo5estrellas.com/hotels/6200/hotel-clio-a-luxury-collection-hotel-denver-cherry-creek-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "St Regis Residence Club, Aspen",
+          "url": "https://solo5estrellas.com/hotels/2835/st-regis-residence-club-aspen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Hythe , A Luxury Collection Resort",
+          "url": "https://solo5estrellas.com/hotels/6981/the-hythe-a-luxury-collection-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Sea Oats Private Estate",
+          "url": "https://solo5estrellas.com/hotels/4178/sea-oats-private-estate.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Sea Palms Private Beachfront Estate",
+          "url": "https://solo5estrellas.com/hotels/4177/sea-palms-private-beachfront-estate.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Perry Lane Hotel Savannah",
+          "url": "https://solo5estrellas.com/hotels/3476/perry-lane-hotel-savannah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "The Whitley, a Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/3557/the-whitley-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "The Royal Hawaiian",
+          "url": "https://solo5estrellas.com/hotels/2008/the-royal-hawaiian.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "The GWEN",
+          "url": "https://solo5estrellas.com/hotels/3042/the-gwen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "The Liberty",
+          "url": "https://solo5estrellas.com/hotels/2806/the-liberty.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Hotel Ivy, a Luxury Collection Hotel, Minneapolis",
+          "url": "https://solo5estrellas.com/hotels/2219/hotel-ivy-a-luxury-collection-hotel-minneapolis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "The Chatwal, New York",
+          "url": "https://solo5estrellas.com/hotels/2791/the-chatwal-new-york-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "The London, New York City",
+          "url": "https://solo5estrellas.com/hotels/2006/the-london-new-york-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Ballantyne",
+          "url": "https://solo5estrellas.com/hotels/1547/the-ballantyne-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "The Nines",
+          "url": "https://solo5estrellas.com/hotels/2305/the-nines.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "The Joseph Nashville",
+          "url": "https://solo5estrellas.com/hotels/4251/the-joseph-nashville.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "The St. Anthony",
+          "url": "https://solo5estrellas.com/hotels/2978/the-st-anthony.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Park Tower",
+          "url": "https://solo5estrellas.com/hotels/2794/park-tower.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "The Alexander, A luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/3540/the-alexander-a-luxury-collection-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Hotel Bristol Vienna",
+          "url": "https://solo5estrellas.com/hotels/1080/hotel-bristol-vienna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Hotel Goldener Hirsch Salzburg",
+          "url": "https://solo5estrellas.com/hotels/1060/hotel-goldener-hirsch-salzburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Hotel Imperial, Vienna",
+          "url": "https://solo5estrellas.com/hotels/966/hotel-imperial-vienna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Muir",
+          "url": "https://solo5estrellas.com/hotels/6886/muir.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "BISHA",
+          "url": "https://solo5estrellas.com/hotels/3327/bisha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "The Azure Qiantang, a Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/2902/the-azure-qiantang-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Twelve at Hengshan",
+          "url": "https://solo5estrellas.com/hotels/2785/twelve-at-hengshan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Augustine, a Luxury Collection Hotel, Prague",
+          "url": "https://solo5estrellas.com/hotels/2279/augustine-a-luxury-collection-hotel-prague.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Sanctuary Cap Cana, Adult All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/6567/sanctuary-cap-cana-adult-all-inclusive-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "The Ocean Club, Costa Norte",
+          "url": "https://solo5estrellas.com/hotels/4055/the-ocean-club-costa-norte.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Hotel de Berri Champs-Elysees",
+          "url": "https://solo5estrellas.com/hotels/6724/hotel-de-berri-champs-elysees.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Hotel De Berri, Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/3537/hotel-de-berri-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Hôtel du Couvent, a Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/6683/h-tel-du-couvent-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Hotel Prince de Galles",
+          "url": "https://solo5estrellas.com/hotels/2801/hotel-prince-de-galles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Roomers ParkView, a Luxury Collection",
+          "url": "https://solo5estrellas.com/hotels/7121/roomers-parkview-a-luxury-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Cosme",
+          "url": "https://solo5estrellas.com/hotels/6903/cosme.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Domes Miramare Corfu",
+          "url": "https://solo5estrellas.com/hotels/3692/domes-miramare-corfu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Domes Zeen Chania",
+          "url": "https://solo5estrellas.com/hotels/6576/domes-zeen-chania.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Hotel Grande Bretagne",
+          "url": "https://solo5estrellas.com/hotels/1260/hotel-grande-bretagne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "King George",
+          "url": "https://solo5estrellas.com/hotels/1779/king-george.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Mystique",
+          "url": "https://solo5estrellas.com/hotels/1818/mystique.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Patmos Aktis, a Luxury Collection Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6795/patmos-aktis-a-luxury-collection-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Santa Marina",
+          "url": "https://solo5estrellas.com/hotels/1407/santa-marina.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "The Romanos",
+          "url": "https://solo5estrellas.com/hotels/2786/the-romanos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Vedema Resort",
+          "url": "https://solo5estrellas.com/hotels/1409/vedema-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Matild Palace,a Luxury Collection Hotel, Budapest",
+          "url": "https://solo5estrellas.com/hotels/6303/matild-palace-a-luxury-collection-hotel-budapest.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "The Laguna",
+          "url": "https://solo5estrellas.com/hotels/2830/the-laguna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "The St. Regis Jakarta",
+          "url": "https://solo5estrellas.com/hotels/6929/the-st-regis-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Tel Aviv Jaffa",
+          "url": "https://solo5estrellas.com/hotels/3532/tel-aviv-jaffa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Casa Brera, a Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/6806/casa-brera-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Cristallo Resort & Spa, Cortina d'Ampezzo",
+          "url": "https://solo5estrellas.com/hotels/1641/cristallo-resort-spa-cortina-d-ampezzo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Excelsior Hotel Gallia",
+          "url": "https://solo5estrellas.com/hotels/2977/excelsior-hotel-gallia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Hotel Cala di Volpe",
+          "url": "https://solo5estrellas.com/hotels/1710/hotel-cala-di-volpe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "The Gritti Palace",
+          "url": "https://solo5estrellas.com/hotels/1352/the-gritti-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "IRAPH SUI",
+          "url": "https://solo5estrellas.com/hotels/3866/iraph-sui.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Shisui, a Luxury Collection Hotel, Nara",
+          "url": "https://solo5estrellas.com/hotels/6491/shisui-a-luxury-collection-hotel-nara.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "Suiran, A Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/2976/suiran-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "The Mitsui Kyoto, a Luxury Collection Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/7053/the-mitsui-kyoto-a-luxury-collection-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "The Prince Gallery Tokyo Kioicho",
+          "url": "https://solo5estrellas.com/hotels/3074/the-prince-gallery-tokyo-kioicho.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Al Manara",
+          "url": "https://solo5estrellas.com/hotels/3863/al-manara.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "The Andaman",
+          "url": "https://solo5estrellas.com/hotels/2787/the-andaman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Las Alcobas Mexico City",
+          "url": "https://solo5estrellas.com/hotels/2452/las-alcobas-mexico-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Solaz",
+          "url": "https://solo5estrellas.com/hotels/3539/solaz.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "The Santa Maria Hotel & Golf Resort",
+          "url": "https://solo5estrellas.com/hotels/3526/the-santa-maria-hotel-golf-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "Hotel Paracas",
+          "url": "https://solo5estrellas.com/hotels/2798/hotel-paracas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Palacio del Inka, a Luxury Collection Hotel, Cusco",
+          "url": "https://solo5estrellas.com/hotels/2796/palacio-del-inka-a-luxury-collection-hotel-cusco.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "Tambo del Inka, a Luxury Collection Resort & Spa, Valle Sagrado",
+          "url": "https://solo5estrellas.com/hotels/2797/tambo-del-inka-a-luxury-collection-resort-spa-valle-sagrado.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Hotel Bristol, Warsaw",
+          "url": "https://solo5estrellas.com/hotels/2805/hotel-bristol-warsaw.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "Pine Cliffs Hotel",
+          "url": "https://solo5estrellas.com/hotels/3871/pine-cliffs-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "name": "Pine Cliffs Ocean Suites",
+          "url": "https://solo5estrellas.com/hotels/3877/pine-cliffs-ocean-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 74,
+          "name": "Pine Cliffs Residence, Luxury Collection",
+          "url": "https://solo5estrellas.com/hotels/2811/pine-cliffs-residence-luxury-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 75,
+          "name": "Hotel National",
+          "url": "https://solo5estrellas.com/hotels/2810/hotel-national.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 76,
+          "name": "Trump Turnberry Resort",
+          "url": "https://solo5estrellas.com/hotels/1443/trump-turnberry-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 77,
+          "name": "North Island, a Luxury Collection Resort, Seychelles",
+          "url": "https://solo5estrellas.com/hotels/4045/north-island-a-luxury-collection-resort-seychelles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 78,
+          "name": "Frasers House Singapore, a Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/7040/frasers-house-singapore-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 79,
+          "name": "The Laurus, Singapore",
+          "url": "https://solo5estrellas.com/hotels/6947/the-laurus-singapore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 80,
+          "name": "Grand Hotel River Park",
+          "url": "https://solo5estrellas.com/hotels/3035/grand-hotel-river-park.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 81,
+          "name": "L’Escape, a Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/7111/l-escape-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 82,
+          "name": "Castillo Hotel Son Vida",
+          "url": "https://solo5estrellas.com/hotels/2807/castillo-hotel-son-vida.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 83,
+          "name": "Hotel Alfonso XIII",
+          "url": "https://solo5estrellas.com/hotels/2056/hotel-alfonso-xiii.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 84,
+          "name": "Hotel Maria Cristina",
+          "url": "https://solo5estrellas.com/hotels/2782/hotel-maria-cristina.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 85,
+          "name": "Hotel Marques de Riscal",
+          "url": "https://solo5estrellas.com/hotels/1778/hotel-marques-de-riscal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 86,
+          "name": "Santo Mauro, a Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/1487/santo-mauro-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 87,
+          "name": "The Palace Madrid",
+          "url": "https://solo5estrellas.com/hotels/1011/the-palace-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 88,
+          "name": "Hotel President Wilson",
+          "url": "https://solo5estrellas.com/hotels/2512/hotel-president-wilson.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 89,
+          "name": "The Athenee Hotel",
+          "url": "https://solo5estrellas.com/hotels/3607/the-athenee-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 90,
+          "name": "The Naka Island",
+          "url": "https://solo5estrellas.com/hotels/2834/the-naka-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 91,
+          "name": "Vana Belle",
+          "url": "https://solo5estrellas.com/hotels/2833/vana-belle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 92,
+          "name": "Caresse, a Luxury Collection Resort",
+          "url": "https://solo5estrellas.com/hotels/3034/caresse-a-luxury-collection-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 93,
+          "name": "Sanasaryan Han, a Luxury Collection Hotel, Istanbul",
+          "url": "https://solo5estrellas.com/hotels/6575/sanasaryan-han-a-luxury-collection-hotel-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 94,
+          "name": "Salterra, a Luxury Collection Resort",
+          "url": "https://solo5estrellas.com/hotels/6684/salterra-a-luxury-collection-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 95,
+          "name": "Ajman Saray Resort",
+          "url": "https://solo5estrellas.com/hotels/2847/ajman-saray-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 96,
+          "name": "Al Maha",
+          "url": "https://solo5estrellas.com/hotels/2817/al-maha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 97,
+          "name": "Grosvenor House",
+          "url": "https://solo5estrellas.com/hotels/1769/grosvenor-house-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 98,
+          "name": "The Edinburgh Grand",
+          "url": "https://solo5estrellas.com/hotels/6961/the-edinburgh-grand.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 99,
+          "name": "The Langley, A Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/4044/the-langley-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 100,
+          "name": "The Park Tower Knightsbridge",
+          "url": "https://solo5estrellas.com/hotels/2814/the-park-tower-knightsbridge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 101,
+          "name": "The Wellesley Knightsbridge",
+          "url": "https://solo5estrellas.com/hotels/937/the-wellesley-knightsbridge.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Luxury Collection directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Luxury Collection con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD por estancia, mejora de habitación, entrada anticipada y salida tardía según disponibilidad y un detalle de bienvenida. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Marriott Bonvoy al reservar The Luxury Collection con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página de la marca, sí: las reservas hechas a través de Marriott STARS siguen sumando puntos y noches de nivel de Marriott Bonvoy. Añada su número de socio a la reserva y confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Luxury Collection se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "101 hoteles en 36 países y territorios. Los países con más hoteles son Estados Unidos, Grecia, España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Luxury Collection hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: Las Alcobas Mexico City, Solaz. En España: Castillo Hotel Son Vida, Hotel Alfonso XIII, Hotel Maria Cristina, Hotel Marques de Riscal, Santo Mauro, a Luxury Collection Hotel, The Palace Madrid."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Luxury Collection hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "21 hoteles, entre ellos The Canyon Suites at The Phoenician, The Phoenician, Palace Hotel, San Francisco, THE US GRANT, Hotel Clio, A Luxury Collection Hotel, Denver Cherry Creek, St Regis Residence Club, Aspen y 15 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Marriott STARS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Marriott International para asesores de viajes de lujo y abarca The Ritz-Carlton, St. Regis, EDITION, Bulgari y The Luxury Collection. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Luxury Collection?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

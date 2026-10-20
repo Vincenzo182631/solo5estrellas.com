@@ -1,0 +1,419 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mandarin Oriental",
+          "item": "https://solo5estrellas.com/collection/5/mandarin-oriental.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/5/mandarin-oriental.html#webpage",
+      "url": "https://solo5estrellas.com/collection/5/mandarin-oriental.html",
+      "name": "Hoteles Mandarin Oriental: 48 hoteles con desayuno para dos y crédito para restauración o spa",
+      "description": "Reserve 48 hoteles Mandarin Oriental en 26 países con desayuno para dos, crédito para restauración o spa y mejora de categoría.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Mandarin Oriental Hotel Group"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/5/mandarin-oriental.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/5/mandarin-oriental.html#hotels",
+      "name": "Hoteles Mandarin Oriental",
+      "numberOfItems": 48,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Mandarin Oriental Boston",
+          "url": "https://solo5estrellas.com/hotels/2226/mandarin-oriental-boston.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mandarin Oriental, New York",
+          "url": "https://solo5estrellas.com/hotels/1323/mandarin-oriental-new-york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mandarin Oriental Vienna",
+          "url": "https://solo5estrellas.com/hotels/6938/mandarin-oriental-vienna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Mandarin Oriental Santiago",
+          "url": "https://solo5estrellas.com/hotels/2044/mandarin-oriental-santiago.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Mandarin Oriental Beijing, Qianmen",
+          "url": "https://solo5estrellas.com/hotels/7048/mandarin-oriental-beijing-qianmen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Mandarin Oriental Guangzhou",
+          "url": "https://solo5estrellas.com/hotels/6197/mandarin-oriental-guangzhou.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Mandarin Oriental Pudong, Shanghai",
+          "url": "https://solo5estrellas.com/hotels/6195/mandarin-oriental-pudong-shanghai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Mandarin Oriental Shenzhen",
+          "url": "https://solo5estrellas.com/hotels/7049/mandarin-oriental-shenzhen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Mandarin Oriental Wangfujing Beijing",
+          "url": "https://solo5estrellas.com/hotels/6196/mandarin-oriental-wangfujing-beijing.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Mandarin Oriental, Hong Kong",
+          "url": "https://solo5estrellas.com/hotels/949/mandarin-oriental-hong-kong.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Mandarin Oriental, Macau",
+          "url": "https://solo5estrellas.com/hotels/2469/mandarin-oriental-macau-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Mandarin Oriental, Sanya",
+          "url": "https://solo5estrellas.com/hotels/6206/mandarin-oriental-sanya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "The Landmark Mandarin Oriental",
+          "url": "https://solo5estrellas.com/hotels/1654/the-landmark-mandarin-oriental.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Mandarin Oriental Prague",
+          "url": "https://solo5estrellas.com/hotels/1671/mandarin-oriental-prague.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Mandarin Oriental Lutetia Paris",
+          "url": "https://solo5estrellas.com/hotels/1006/mandarin-oriental-lutetia-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Mandarin Oriental Paris",
+          "url": "https://solo5estrellas.com/hotels/2525/mandarin-oriental-paris.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Mandarin Oriental, Munich",
+          "url": "https://solo5estrellas.com/hotels/1435/mandarin-oriental-munich.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Mandarin Oriental, Costa Navarino",
+          "url": "https://solo5estrellas.com/hotels/6543/mandarin-oriental-costa-navarino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Villa Caldera",
+          "url": "https://solo5estrellas.com/hotels/6691/villa-caldera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Mandarin Oriental, Jakarta",
+          "url": "https://solo5estrellas.com/hotels/6205/mandarin-oriental-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Mandarin Oriental Milan",
+          "url": "https://solo5estrellas.com/hotels/2979/mandarin-oriental-milan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Mandarin Oriental, Lago di Como",
+          "url": "https://solo5estrellas.com/hotels/3705/mandarin-oriental-lago-di-como.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Mandarin Oriental Tokyo",
+          "url": "https://solo5estrellas.com/hotels/1683/mandarin-oriental-tokyo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Mandarin Oriental Desaru Coast",
+          "url": "https://solo5estrellas.com/hotels/7047/mandarin-oriental-desaru-coast.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Mandarin Oriental, Kuala Lumpur",
+          "url": "https://solo5estrellas.com/hotels/1903/mandarin-oriental-kuala-lumpur.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "The Sireya Desaru Coast",
+          "url": "https://solo5estrellas.com/hotels/6935/the-sireya-desaru-coast.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Mandarin Oriental, Marrakech",
+          "url": "https://solo5estrellas.com/hotels/6194/mandarin-oriental-marrakech.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Mandarin Oriental Conservatorium",
+          "url": "https://solo5estrellas.com/hotels/2772/mandarin-oriental-conservatorium-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Mandarin Oriental Muscat",
+          "url": "https://solo5estrellas.com/hotels/6736/mandarin-oriental-muscat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Mandarin Oriental, Doha",
+          "url": "https://solo5estrellas.com/hotels/6203/mandarin-oriental-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Mandarin Oriental, Canouan",
+          "url": "https://solo5estrellas.com/hotels/2545/mandarin-oriental-canouan-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Al Faisaliah Hotel",
+          "url": "https://solo5estrellas.com/hotels/6204/al-faisaliah-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Mandarin Oriental, Singapore",
+          "url": "https://solo5estrellas.com/hotels/6476/mandarin-oriental-singapore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Mandarin Oriental Barcelona",
+          "url": "https://solo5estrellas.com/hotels/2355/mandarin-oriental-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Mandarin Oriental Punta Negra, Mallorca",
+          "url": "https://solo5estrellas.com/hotels/7032/mandarin-oriental-punta-negra-mallorca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Mandarin Oriental Ritz, Madrid",
+          "url": "https://solo5estrellas.com/hotels/1074/mandarin-oriental-ritz-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Mandarin Oriental Palace Luzern",
+          "url": "https://solo5estrellas.com/hotels/6372/mandarin-oriental-palace-luzern.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Mandarin Oriental Savoy, Zurich",
+          "url": "https://solo5estrellas.com/hotels/6816/mandarin-oriental-savoy-zurich.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Mandarin Oriental, Geneva",
+          "url": "https://solo5estrellas.com/hotels/1436/mandarin-oriental-geneva.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Mandarin Oriental, Taipei",
+          "url": "https://solo5estrellas.com/hotels/6198/mandarin-oriental-taipei.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Mandarin Oriental, Bangkok",
+          "url": "https://solo5estrellas.com/hotels/1045/mandarin-oriental-bangkok-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Mandarin Oriental Bodrum",
+          "url": "https://solo5estrellas.com/hotels/6092/mandarin-oriental-bodrum.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Mandarin Oriental Istanbul",
+          "url": "https://solo5estrellas.com/hotels/6210/mandarin-oriental-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Emirates Palace, Mandarin Oriental",
+          "url": "https://solo5estrellas.com/hotels/6202/emirates-palace-mandarin-oriental.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Mandarin Oriental Downtown, Dubai",
+          "url": "https://solo5estrellas.com/hotels/6964/mandarin-oriental-downtown-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Mandarin Oriental Jumeirah, Dubai",
+          "url": "https://solo5estrellas.com/hotels/6201/mandarin-oriental-jumeirah-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Mandarin Oriental London",
+          "url": "https://solo5estrellas.com/hotels/1104/mandarin-oriental-london.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Mandarin Oriental Mayfair, London",
+          "url": "https://solo5estrellas.com/hotels/7046/mandarin-oriental-mayfair-london.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Mandarin Oriental directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Mandarin Oriental con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de 100 USD por estancia para restauración o spa, mejora de una categoría de habitación, entrada anticipada y salida tardía según disponibilidad, y reconocimiento VIP con detalle de bienvenida. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Puedo combinar Fans of M.O. con las ventajas de Mandarin Oriental Fan Club?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según fuentes públicas, no: hay que elegir entre Fans of M.O., el programa gratuito de reserva directa, y las ventajas de Fan Club. Confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Mandarin Oriental se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "48 hoteles en 26 países y territorios. Los países con más hoteles son China, Malasia, España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Mandarin Oriental hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en México. En España: Mandarin Oriental Barcelona, Mandarin Oriental Punta Negra, Mallorca, Mandarin Oriental Ritz, Madrid."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Mandarin Oriental hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "2 hoteles: Mandarin Oriental Boston, Mandarin Oriental, New York."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Mandarin Oriental Fan Club?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Mandarin Oriental para asesores de viajes seleccionados. Las reservas se hacen a las tarifas publicadas del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito para restauración o spa; las ventajas se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Mandarin Oriental?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
