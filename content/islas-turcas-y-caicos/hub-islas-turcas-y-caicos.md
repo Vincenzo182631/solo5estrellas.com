@@ -30,7 +30,7 @@ Islas Turcas y Caicos (también escrito Turks and Caicos o Turks & Caicos) es un
 
 ## Dónde alojarse en Islas Turcas y Caicos
 
-**Grace Bay (Providenciales).** Ocho de los 15 hoteles: Grace Bay Club y sus dos villas, The Palms, West Bay Club, Wymara y los dos Ritz-Carlton. La playa mide unos 19 kilómetros, según la ficha de Grace Bay Club, y reúne restaurantes, tiendas y excursiones de snorkel. Es la mejor base para un primer viaje.
+**Grace Bay (Providenciales).** Ocho de los 15 hoteles: Grace Bay Club y sus dos villas, The Palms, West Bay Club, Wymara y los dos Ritz-Carlton. La playa mide unos 19 kilómetros, según la ficha de Grace Bay Club, y reúne restaurantes, tiendas y excursiones de snorkel. Es una base práctica para un primer viaje.
 
 **Long Bay (Providenciales).** The Shore Club se encuentra en Long Bay, una playa conocida por sus vientos constantes y el kitesurf. Queda a pocos minutos de Grace Bay.
 
@@ -40,7 +40,7 @@ Islas Turcas y Caicos (también escrito Turks and Caicos o Turks & Caicos) es un
 
 **Parrot Cay.** Isla privada de unas 400 hectáreas con COMO Shambhala, un retiro de bienestar. El traslado es en barco, unos 35 minutos desde Providenciales, según el hotel.
 
-**South Caicos y Salt Cay.** Dos islas menores para quienes buscan buceo y aislamiento: Sailrock (South Caicos) y Salterra (Salt Cay). Según las fichas de los hoteles, South Caicos requiere vuelo chárter. Salt Cay es uno de los mejores puntos para ver ballenas jorobadas entre enero y abril.
+**South Caicos y Salt Cay.** Dos islas menores para quienes buscan buceo y aislamiento: Sailrock (South Caicos) y Salterra (Salt Cay). Según las fichas de los hoteles, South Caicos requiere vuelo chárter. Desde Salt Cay se pueden ver ballenas jorobadas entre enero y abril.
 
 ## Qué hotel elegir según el viaje
 

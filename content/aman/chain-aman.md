@@ -4,17 +4,18 @@
 
 Reservar Aman con Solo5Estrellas cuesta lo mismo que en la web de Aman, porque se paga la tarifa publicada, y añade desayuno diario para dos, un crédito para gastos en el hotel (normalmente 100 USD) y mejora de categoría sujeta a disponibilidad. Aman no tiene programa de puntos; Aman Club es una membresía privada aparte.
 
-Aman gestiona hoteles y resorts de lujo de pequeña escala; su primer establecimiento, Amanpuri, abrió en Phuket en 1988. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada de Aman Preferred Partner. Esta página reúne 20 hoteles de Aman en 14 países, entre Asia, Europa, Estados Unidos y el Caribe. Los nombres de los hoteles no se traducen.
+Aman gestiona hoteles y resorts de lujo de pequeña escala; su primer establecimiento, Amanpuri, abrió en Phuket en 1988. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada del programa de socios preferentes de Aman. Esta página reúne 20 hoteles de Aman en 14 países, entre Asia, Europa, Estados Unidos y el Caribe. Los nombres de los hoteles no se traducen.
 
 ## Datos clave
 
 | Dato | Detalle |
 | --- | --- |
-| Programa | Aman Preferred Partner |
+| Programa | Programa de socios preferentes de Aman |
 | Lo que paga | La misma tarifa flexible que publica Aman; las ventajas se añaden sin cargo adicional |
 | Incluye | Desayuno diario para dos, crédito para gastos en el hotel, mejora de categoría, entrada anticipada y salida tardía, según disponibilidad |
 | Hoteles | 20 hoteles de Aman en 14 países |
 | Fidelización | Aman no tiene programa de puntos |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Aman con Solo5Estrellas
 

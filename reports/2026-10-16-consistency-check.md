@@ -40,3 +40,11 @@
 ## Data defects found (for the editor and developer)
 - **Z71:** hotel records with empty locations (`NULL`); 11 live hotel URLs begin with a hyphen (for example `/hotels/6989/-hyatt-regency-zadar.html`); "Savanna" for Savannah in one record.
 - Known and already tracked: count labels that differ between header, text and list (Z42 and the chain findings), unconfirmed perks (Z37, Z44 to Z48, Z57, Z59 to Z61, Z63 to Z65, Z68, Z70).
+
+## Applied on 20 October
+- Five "best" sentences reworded to neutral wording.
+- "Estancia mínima: se confirma al reservar" row added on 13 pages.
+- Programme naming unified (generic Accor wording; verified public names only).
+- Fidelización rows unified to "se confirma al reservar que los puntos y noches de nivel se suman".
+- Intros added for Aman, Montage, Oberoi and Taj; previews re-rendered.
+- Still open: Madrid "cinco estrellas" wording, Four Seasons duplicate lists, hreflang `en` (developer).

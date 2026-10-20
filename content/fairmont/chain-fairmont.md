@@ -14,7 +14,7 @@ Fairmont es una marca de hoteles de lujo de Accor, con hoteles históricos como 
 | Lo que paga | La misma tarifa que publica Fairmont; las ventajas se añaden sin cargo adicional |
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), mejora de categoría, entrada anticipada y salida tardía, según disponibilidad |
 | Hoteles | 79 hoteles de Fairmont en 29 países y territorios |
-| Fidelización | Se siguen acumulando puntos y noches de nivel de Accor ALL |
+| Fidelización | Accor ALL: se confirma al reservar que los puntos y noches de nivel se suman |
 | Estancia mínima | Ninguna en la mayoría de los hoteles; algunos resorts piden dos noches en temporada alta |
 
 ## Lo que incluye reservar Fairmont con Solo5Estrellas

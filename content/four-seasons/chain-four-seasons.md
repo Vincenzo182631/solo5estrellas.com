@@ -10,12 +10,13 @@ Four Seasons Hotels and Resorts es una compañía hotelera de lujo con sede en T
 
 | Dato | Detalle |
 | --- | --- |
-| Programa | Four Seasons Preferred Partner |
+| Programa | Programa de socios preferentes de Four Seasons |
 | Lo que paga | La misma tarifa que publica Four Seasons; las ventajas se añaden sin cargo adicional |
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), mejora de categoría, detalle de bienvenida y Wi-Fi premium |
 | Hoteles | 141 hoteles en 47 países y territorios |
 | Fidelización | Four Seasons no tiene programa de puntos |
 | Agencia | Solo5Estrellas, operado por Lorraine Travel (desde 1948) |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Four Seasons con Solo5Estrellas
 

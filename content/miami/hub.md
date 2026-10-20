@@ -32,7 +32,7 @@ Más al norte en la isla: hoteles de gran tamaño frente al mar, más calma que 
 
 ### Brickell y centro de Miami
 
-El distrito financiero y residencial del continente, con rascacielos, restaurantes y bares en azotea. Sin playa propia; South Beach queda al otro lado de la bahía y el trayecto depende del tráfico. La mejor zona para viajes de negocios o escapadas urbanas.
+El distrito financiero y residencial del continente, con rascacielos, restaurantes y bares en azotea. Sin playa propia; South Beach queda al otro lado de la bahía y el trayecto depende del tráfico. Una zona práctica para viajes de negocios o escapadas urbanas.
 
 - [Four Seasons Hotel Miami](/hotels/1326/four-seasons-hotel-miami-.html)
 - [W Miami](/hotels/2625/w-miami.html)

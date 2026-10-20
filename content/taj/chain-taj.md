@@ -4,17 +4,18 @@
 
 Reservar Taj con Solo5Estrellas cuesta lo mismo que en la web del hotel, porque se paga la tarifa publicada, y añade desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación y un detalle de bienvenida. Si quiere sumar puntos de Taj InnerCircle, pregunte antes de reservar: se confirma al hacer la reserva.
 
-Taj Hotels es la marca hotelera de Indian Hotels Company Limited, nacida con el Taj Mahal Palace de Bombay en 1903. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada de socio preferente de Taj. Esta página reúne 12 hoteles en 6 países: India (5), Estados Unidos (2), Emiratos Árabes Unidos (2), Maldivas, Sudáfrica y Reino Unido. Los nombres de los hoteles no se traducen.
+Taj Hotels es la marca hotelera de Indian Hotels Company Limited, nacida con el Taj Mahal Palace de Bombay en 1903. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada del programa de socios preferentes de Taj. Esta página reúne 12 hoteles en 6 países: India (5), Estados Unidos (2), Emiratos Árabes Unidos (2), Maldivas, Sudáfrica y Reino Unido. Los nombres de los hoteles no se traducen.
 
 ## Datos clave
 
 | Dato | Detalle |
 | --- | --- |
-| Programa | Socio preferente de Taj |
+| Programa | Programa de socios preferentes de Taj |
 | Lo que paga | La misma tarifa que publica Taj; las ventajas se añaden sin cargo adicional |
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), prioridad para la mejora, entrada anticipada y salida tardía, y detalle de bienvenida |
 | Hoteles | 12 hoteles en 6 países |
 | Fidelización | Taj tiene su propio programa, Taj InnerCircle; si esta reserva suma puntos se confirma al reservar |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Taj con Solo5Estrellas
 

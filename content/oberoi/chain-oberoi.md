@@ -4,17 +4,18 @@
 
 Reservar Oberoi con Solo5Estrellas cuesta lo mismo que en la web del hotel, porque se paga la tarifa publicada, y añade desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, reconocimiento VIP y Wi-Fi de cortesía. Para sumar puntos de Oberoi One, indíquelo al reservar: se confirma en ese momento.
 
-The Oberoi Group es una compañía hotelera de lujo india fundada en 1934. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada de socio preferente de Oberoi. Esta página reúne 4 hoteles de Oberoi en 2 países y territorios: 3 en India, 1 en Marruecos. Los nombres de los hoteles no se traducen.
+The Oberoi Group es una compañía hotelera de lujo india fundada en 1934. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada del programa de socios preferentes de Oberoi. Esta página reúne 4 hoteles de Oberoi en 2 países y territorios: 3 en India, 1 en Marruecos. Los nombres de los hoteles no se traducen.
 
 ## Datos clave
 
 | Dato | Detalle |
 | --- | --- |
-| Programa | Socio preferente de Oberoi |
+| Programa | Programa de socios preferentes de Oberoi |
 | Lo que paga | La misma tarifa que publica Oberoi; las ventajas se añaden sin cargo adicional |
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), prioridad para la mejora, entrada anticipada y salida tardía, reconocimiento VIP y Wi-Fi |
 | Fidelización | Oberoi One: se confirma al reservar si la reserva suma puntos |
 | Hoteles | 4 hoteles de Oberoi en 2 países y territorios |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Oberoi con Solo5Estrellas
 

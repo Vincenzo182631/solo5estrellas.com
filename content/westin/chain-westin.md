@@ -15,6 +15,7 @@ Westin Hotels & Resorts es una marca de Marriott International centrada en el bi
 | Incluye | Desayuno diario para dos, crédito de hotel (hasta 200 USD), mejora de habitación, entrada anticipada y salida tardía con prioridad, y regalo de bienvenida VIP |
 | Fidelización | Marriott Bonvoy: se confirma al reservar que los puntos y noches de nivel se suman |
 | Hoteles | 52 hoteles de Westin en 23 países y territorios |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Westin con Solo5Estrellas
 

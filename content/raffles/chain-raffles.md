@@ -14,7 +14,8 @@ Raffles es la marca de lujo histórico de Accor y toma su nombre del Raffles Sin
 | Lo que paga | La misma tarifa que publica Raffles; las ventajas se añaden sin cargo adicional |
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), prioridad para la mejora, entrada anticipada y salida tardía, detalle de bienvenida y Wi-Fi |
 | Hoteles | 21 hoteles de Raffles en 16 países |
-| Fidelización | Se siguen acumulando puntos y noches de nivel de Accor ALL |
+| Fidelización | Accor ALL: se confirma al reservar que los puntos y noches de nivel se suman |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Raffles con Solo5Estrellas
 

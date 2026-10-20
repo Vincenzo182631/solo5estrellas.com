@@ -14,7 +14,7 @@ Kimpton Hotels & Restaurants es la marca de hoteles boutique de IHG, fundada en 
 | Lo que paga | La misma tarifa que publica Kimpton; las ventajas se añaden sin cargo adicional |
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), mejora de habitación, entrada anticipada y salida tardía, y detalle de bienvenida |
 | Hoteles | 28 hoteles de Kimpton en 11 países y territorios |
-| Fidelización | Se siguen acumulando puntos y noches de nivel de IHG One Rewards |
+| Fidelización | IHG One Rewards: se confirma al reservar que los puntos y noches de nivel se suman |
 | Estancia mínima | Ninguna en la mayoría de los hoteles; algunos resorts piden dos noches en temporada alta |
 
 ## Lo que incluye reservar Kimpton con Solo5Estrellas

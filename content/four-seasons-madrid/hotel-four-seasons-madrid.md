@@ -4,7 +4,7 @@
 
 > Draft for `/hotels/3897/`. Title: Four Seasons Hotel Madrid: beneficios | Solo5Estrellas (54). Description: Reserve el Four Seasons Hotel Madrid, en Centro Canalejas, con desayuno para dos, crédito de hotel y mejora de categoría. Solo5Estrellas. (137).
 
-El Four Seasons Hotel Madrid está en la calle de Sevilla 3, entre la Puerta del Sol y el Barrio de las Letras, y es la mejor base para visitar Madrid a pie: el Prado, el Thyssen y el Reina Sofía quedan cerca. Tiene 200 habitaciones, 39 de ellas suites, un centro de bienestar de cuatro plantas y un restaurante en la azotea de Dani García.
+El Four Seasons Hotel Madrid está en la calle de Sevilla 3, entre la Puerta del Sol y el Barrio de las Letras, y es una base cómoda para visitar Madrid a pie: el Prado, el Thyssen y el Reina Sofía quedan cerca. Tiene 200 habitaciones, 39 de ellas suites, un centro de bienestar de cuatro plantas y un restaurante en la azotea de Dani García.
 
 ## Ubicación
 

@@ -15,6 +15,7 @@ Dorchester Collection es un grupo de hoteles de lujo con sede en Londres que inc
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), prioridad para la mejora, entrada anticipada y salida tardía, y bienvenida de la dirección |
 | Hoteles | 9 hoteles en 5 países |
 | Fidelización | Dorchester Collection no tiene programa de puntos |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Dorchester Collection con Solo5Estrellas
 

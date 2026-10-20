@@ -4,17 +4,18 @@
 
 Reservar Montage con Solo5Estrellas cuesta lo mismo que en la web del hotel, porque se paga la tarifa publicada, y añade desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, reconocimiento VIP y Wi-Fi de cortesía. Montage no tiene programa de puntos.
 
-Montage International es una compañía hotelera de lujo con sede en el sur de California, fundada en 2002 por Alan Fuerstman. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada de socio preferente de Montage. Esta página reúne 6 hoteles de Montage en 2 países y territorios: 5 en Estados Unidos, 1 en México. Los nombres de los hoteles no se traducen.
+Montage International es una compañía hotelera de lujo con sede en el sur de California, fundada en 2002 por Alan Fuerstman. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada del programa de socios preferentes de Montage. Esta página reúne 6 hoteles de Montage en 2 países y territorios: 5 en Estados Unidos, 1 en México. Los nombres de los hoteles no se traducen.
 
 ## Datos clave
 
 | Dato | Detalle |
 | --- | --- |
-| Programa | Socio preferente de Montage |
+| Programa | Programa de socios preferentes de Montage |
 | Lo que paga | La misma tarifa que publica Montage; las ventajas se añaden sin cargo adicional |
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), prioridad para la mejora, entrada anticipada y salida tardía, reconocimiento VIP y Wi-Fi |
 | Fidelización | Montage no tiene programa de puntos |
 | Hoteles | 6 hoteles de Montage en 2 países y territorios |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Montage con Solo5Estrellas
 

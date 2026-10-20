@@ -14,7 +14,8 @@ Bulgari Hotels & Resorts (también escrito Bvlgari) es la división hotelera de 
 | Lo que paga | La misma tarifa que publica Bulgari; las ventajas se añaden sin cargo adicional |
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), mejora de habitación, detalle de bienvenida, reconocimiento VIP y Wi-Fi |
 | Hoteles | 9 hoteles de Bulgari en 7 países |
-| Fidelización | Se siguen acumulando puntos y noches de nivel de Marriott Bonvoy |
+| Fidelización | Marriott Bonvoy: se confirma al reservar que los puntos y noches de nivel se suman |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Bulgari con Solo5Estrellas
 

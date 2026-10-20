@@ -13,8 +13,9 @@ InterContinental Hotels & Resorts es la marca de lujo de IHG, fundada en 1946 po
 | Programa | IHG Destined |
 | Lo que paga | La misma tarifa que publica InterContinental; las ventajas se añaden sin cargo adicional |
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), prioridad para la mejora, entrada anticipada y salida tardía, detalle de bienvenida y servicio de cobertura diario |
-| Fidelización | Se siguen acumulando puntos y noches de nivel de IHG One Rewards |
+| Fidelización | IHG One Rewards: se confirma al reservar que los puntos y noches de nivel se suman |
 | Hoteles | 94 hoteles de InterContinental en 40 países y territorios |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar InterContinental con Solo5Estrellas
 

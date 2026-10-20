@@ -15,6 +15,7 @@ Renaissance Hotels es una marca lifestyle de Marriott International, de hoteles 
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), prioridad para la mejora, entrada anticipada y salida tardía, detalle de bienvenida y Wi-Fi |
 | Fidelización | Marriott Bonvoy: se confirma al reservar que los puntos y noches de nivel se suman |
 | Hoteles | 29 hoteles de Renaissance en 16 países y territorios |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Renaissance con Solo5Estrellas
 

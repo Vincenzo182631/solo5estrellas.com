@@ -15,6 +15,7 @@ The Peninsula Hotels es el grupo hotelero de lujo de The Hongkong and Shanghai H
 | Incluye | Desayuno diario para dos, crédito de 100 USD para restauración o spa, mejora de categoría, entrada desde las 6:00, salida hasta las 22:00 y Wi-Fi |
 | Hoteles | 12 hoteles de The Peninsula en 8 países |
 | Fidelización | The Peninsula no tiene programa de puntos |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Peninsula con Solo5Estrellas
 

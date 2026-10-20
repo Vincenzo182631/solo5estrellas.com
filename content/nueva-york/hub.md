@@ -10,7 +10,7 @@ Nueva York se elige por barrio más que por hotel: la zona define si va a pie a 
 
 ### Midtown, Quinta Avenida y Central Park Sur
 
-La zona clásica para un primer viaje: Quinta Avenida, tiendas, teatros de Broadway y el borde sur de Central Park. Concentra buena parte de los hoteles de nuestra selección. Es la mejor opción si quiere caminar a todo y no depender del metro.
+La zona clásica para un primer viaje: Quinta Avenida, tiendas, teatros de Broadway y el borde sur de Central Park. Concentra buena parte de los hoteles de nuestra selección. Es una opción práctica si quiere caminar a todo y no depender del metro.
 
 - [The Plaza Hotel New York](/hotels/1920/the-plaza-hotel-new-york.html)
 - [Ritz-Carlton Central Park](/hotels/1214/ritz-carlton-central-park-.html)

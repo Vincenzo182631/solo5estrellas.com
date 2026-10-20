@@ -15,6 +15,7 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 | Incluye | Desayuno diario para dos, crédito de hotel (100 USD), prioridad para la mejora, entrada anticipada y salida tardía, detalle de bienvenida y Wi-Fi |
 | Fidelización | Rosewood no tiene programa de puntos |
 | Hoteles | 42 hoteles de Rosewood en 23 países y territorios |
+| Estancia mínima | Se confirma al reservar |
 
 ## Lo que incluye reservar Rosewood con Solo5Estrellas
 
