@@ -1,0 +1,539 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "W",
+          "item": "https://solo5estrellas.com/collection/31/w-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/31/w-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/31/w-hotels.html",
+      "name": "Hoteles W: 68 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 68 hoteles W Hotels en 33 países con desayuno para dos, crédito de hotel y entrada anticipada, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "W Hotels"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/31/w-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/31/w-hotels.html#hotels",
+      "name": "Hoteles W",
+      "numberOfItems": 68,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "W Scottsdale Hotel",
+          "url": "https://solo5estrellas.com/hotels/2204/w-scottsdale-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "W Hollywood",
+          "url": "https://solo5estrellas.com/hotels/3076/w-hollywood.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "W Los Angeles, West Beverly Hills",
+          "url": "https://solo5estrellas.com/hotels/2225/w-los-angeles-west-beverly-hills.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "W San Francisco",
+          "url": "https://solo5estrellas.com/hotels/2839/w-san-francisco.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Sky Residences at W Aspen",
+          "url": "https://solo5estrellas.com/hotels/4195/the-sky-residences-at-w-aspen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "W Aspen",
+          "url": "https://solo5estrellas.com/hotels/4057/w-aspen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "W Fort Lauderdale",
+          "url": "https://solo5estrellas.com/hotels/2430/w-fort-lauderdale-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "W Miami",
+          "url": "https://solo5estrellas.com/hotels/2625/w-miami.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "W Atlanta Midtown",
+          "url": "https://solo5estrellas.com/hotels/2218/w-atlanta-midtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "W Atlanta-Downtown",
+          "url": "https://solo5estrellas.com/hotels/2841/w-atlanta-downtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "W Chicago-City Center",
+          "url": "https://solo5estrellas.com/hotels/2843/w-chicago-city-center.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "W Chicago-Lakeshore",
+          "url": "https://solo5estrellas.com/hotels/2844/w-chicago-lakeshore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "W Boston",
+          "url": "https://solo5estrellas.com/hotels/2845/w-boston.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "W Minneapolis–The Foshay",
+          "url": "https://solo5estrellas.com/hotels/2856/w-minneapolis-the-foshay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "W Las Vegas",
+          "url": "https://solo5estrellas.com/hotels/6793/w-las-vegas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "W Hoboken",
+          "url": "https://solo5estrellas.com/hotels/2857/w-hoboken.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "W New York - Union Square",
+          "url": "https://solo5estrellas.com/hotels/1147/w-new-york-union-square.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "W New York Times Square",
+          "url": "https://solo5estrellas.com/hotels/2860/w-new-york-times-square.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "W Philadelphia",
+          "url": "https://solo5estrellas.com/hotels/5009/w-philadelphia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "W Nashville",
+          "url": "https://solo5estrellas.com/hotels/4736/w-nashville.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "W Austin",
+          "url": "https://solo5estrellas.com/hotels/2559/w-austin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "W Dallas Victory",
+          "url": "https://solo5estrellas.com/hotels/2732/w-dallas-victory-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "W Bellevue",
+          "url": "https://solo5estrellas.com/hotels/3880/w-bellevue.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "W Seattle",
+          "url": "https://solo5estrellas.com/hotels/2455/w-seattle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "W Brisbane",
+          "url": "https://solo5estrellas.com/hotels/3533/w-brisbane.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "W Melbourne",
+          "url": "https://solo5estrellas.com/hotels/5010/w-melbourne-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "W Sydney",
+          "url": "https://solo5estrellas.com/hotels/6545/w-sydney.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "W Sao Paulo",
+          "url": "https://solo5estrellas.com/hotels/6794/w-sao-paulo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "W Toronto",
+          "url": "https://solo5estrellas.com/hotels/4976/w-toronto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "W Montreal",
+          "url": "https://solo5estrellas.com/hotels/2861/w-montreal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "W Santiago",
+          "url": "https://solo5estrellas.com/hotels/2634/w-santiago-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "W Chengdu",
+          "url": "https://solo5estrellas.com/hotels/4058/w-chengdu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "W Guangzhou",
+          "url": "https://solo5estrellas.com/hotels/2862/w-guangzhou.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "W Hong Kong",
+          "url": "https://solo5estrellas.com/hotels/2863/w-hong-kong.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "W Shanghai-The Bund",
+          "url": "https://solo5estrellas.com/hotels/3274/w-shanghai-the-bund.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "W Suzhou",
+          "url": "https://solo5estrellas.com/hotels/3846/w-suzhou.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "W Xi'an",
+          "url": "https://solo5estrellas.com/hotels/3535/w-xi-an.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "W Bogota Hotel",
+          "url": "https://solo5estrellas.com/hotels/2973/w-bogota-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "W Costa Rica - Reserva Conchal",
+          "url": "https://solo5estrellas.com/hotels/3896/w-costa-rica-reserva-conchal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "W Punta Cana",
+          "url": "https://solo5estrellas.com/hotels/6833/w-punta-cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "W Costa Navarino",
+          "url": "https://solo5estrellas.com/hotels/6428/w-costa-navarino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "W Budapest",
+          "url": "https://solo5estrellas.com/hotels/6915/w-budapest.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "W Goa",
+          "url": "https://solo5estrellas.com/hotels/3827/w-goa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "W Bali - Seminyak",
+          "url": "https://solo5estrellas.com/hotels/2972/w-bali-seminyak.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "W Florence",
+          "url": "https://solo5estrellas.com/hotels/6908/w-florence.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "W Roma",
+          "url": "https://solo5estrellas.com/hotels/6831/w-roma.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "W Sardinia, Poltu Quatu",
+          "url": "https://solo5estrellas.com/hotels/6893/w-sardinia-poltu-quatu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "W Osaka",
+          "url": "https://solo5estrellas.com/hotels/4711/w-osaka.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "W Amman",
+          "url": "https://solo5estrellas.com/hotels/3529/w-amman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "W Kuala Lumpur",
+          "url": "https://solo5estrellas.com/hotels/3662/w-kuala-lumpur.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "W Maldives",
+          "url": "https://solo5estrellas.com/hotels/2866/w-maldives-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "W Mexico City",
+          "url": "https://solo5estrellas.com/hotels/2079/w-mexico-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "W Punta de Mita",
+          "url": "https://solo5estrellas.com/hotels/3111/w-punta-de-mita.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "W Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/3823/w-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "W Muscat",
+          "url": "https://solo5estrellas.com/hotels/6874/w-muscat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "W Algarve Hotel & Residences",
+          "url": "https://solo5estrellas.com/hotels/4709/w-algarve-hotel-residences.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "W Doha Hotel & Residences",
+          "url": "https://solo5estrellas.com/hotels/2876/w-doha-hotel-residences.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "W Riyadh - KAFD",
+          "url": "https://solo5estrellas.com/hotels/7112/w-riyadh-kafd.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "W Hotel Edinburgh",
+          "url": "https://solo5estrellas.com/hotels/6537/w-hotel-edinburgh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "W Singapore - Sentosa Cove",
+          "url": "https://solo5estrellas.com/hotels/2867/w-singapore-sentosa-cove.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "W Ibiza",
+          "url": "https://solo5estrellas.com/hotels/3978/w-ibiza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "W Verbier",
+          "url": "https://solo5estrellas.com/hotels/2873/w-verbier.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "W Taipei",
+          "url": "https://solo5estrellas.com/hotels/2868/w-taipei.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "W Bangkok",
+          "url": "https://solo5estrellas.com/hotels/2869/w-bangkok.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "W Koh Samui",
+          "url": "https://solo5estrellas.com/hotels/3759/w-koh-samui.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "W Istanbul",
+          "url": "https://solo5estrellas.com/hotels/2874/w-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "W Dubai - The Palm",
+          "url": "https://solo5estrellas.com/hotels/3892/w-dubai-the-palm.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "W London-Leicester Square",
+          "url": "https://solo5estrellas.com/hotels/2875/w-london-leicester-square.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar W Hotels directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar W Hotels con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD por estancia, entrada anticipada y salida tardía según disponibilidad, un detalle de bienvenida y reconocimiento VIP. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Marriott Bonvoy al reservar W Hotels con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página de la marca, sí: las reservas hechas a través de Marriott Luminous siguen sumando puntos y noches de nivel de Marriott Bonvoy. Añada su número de socio a la reserva y confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles W Hotels se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "68 hoteles en 33 países y territorios. Los países con más hoteles son Estados Unidos, China, Australia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles W Hotels hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: W Mexico City, W Punta de Mita. En España: W Ibiza."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles W Hotels hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "24 hoteles, entre ellos W Scottsdale Hotel, W Hollywood, W Los Angeles, West Beverly Hills, W San Francisco, The Sky Residences at W Aspen, W Aspen y 18 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Marriott Luminous?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Marriott International para asesores de viaje y abarca JW Marriott, Marriott, W Hotels, Westin, Autograph Collection, Le Méridien, Sheraton, Renaissance y Tribute Portfolio. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de W Hotels?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

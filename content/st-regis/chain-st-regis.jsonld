@@ -1,0 +1,485 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "St. Regis",
+          "item": "https://solo5estrellas.com/collection/16/st-regis-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/16/st-regis-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/16/st-regis-hotels-resorts.html",
+      "name": "Hoteles St. Regis: 59 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 59 hoteles St. Regis en 29 países con desayuno para dos, crédito de hotel y mejora de habitación, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "St. Regis Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/16/st-regis-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/16/st-regis-hotels-resorts.html#hotels",
+      "name": "Hoteles St. Regis",
+      "numberOfItems": 59,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "St. Regis Hotel, San Francisco",
+          "url": "https://solo5estrellas.com/hotels/1480/st-regis-hotel-san-francisco.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The St. Regis Aspen",
+          "url": "https://solo5estrellas.com/hotels/984/the-st-regis-aspen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The St. Regis Hotel Washington D.C.",
+          "url": "https://solo5estrellas.com/hotels/1417/the-st-regis-hotel-washington-d-c-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "The St. Regis Bal Harbour Resort",
+          "url": "https://solo5estrellas.com/hotels/2539/the-st-regis-bal-harbour-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The St. Regis Longboat Key Resort",
+          "url": "https://solo5estrellas.com/hotels/6659/the-st-regis-longboat-key-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "The St. Regis Atlanta",
+          "url": "https://solo5estrellas.com/hotels/2240/the-st-regis-atlanta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Resort at Kapalua Bay",
+          "url": "https://solo5estrellas.com/hotels/2879/the-resort-at-kapalua-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "St. Regis Chicago",
+          "url": "https://solo5estrellas.com/hotels/6405/st-regis-chicago.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "St. Regis New York",
+          "url": "https://solo5estrellas.com/hotels/1437/st-regis-new-york-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "The St. Regis Hotel, Houston",
+          "url": "https://solo5estrellas.com/hotels/1177/the-st-regis-hotel-houston.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "The St. Regis Deer Valley",
+          "url": "https://solo5estrellas.com/hotels/2349/the-st-regis-deer-valley.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "St. Regis Aruba Resort",
+          "url": "https://solo5estrellas.com/hotels/6792/st-regis-aruba-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "The St. Regis Bermuda Resort",
+          "url": "https://solo5estrellas.com/hotels/4838/the-st-regis-bermuda-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "The St. Regis Toronto",
+          "url": "https://solo5estrellas.com/hotels/3592/the-st-regis-toronto-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "St. Regis Shanghai Jingan",
+          "url": "https://solo5estrellas.com/hotels/3515/st-regis-shanghai-jingan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "St. Regis Zhuhai",
+          "url": "https://solo5estrellas.com/hotels/3538/st-regis-zhuhai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "The St. Regis Beijing",
+          "url": "https://solo5estrellas.com/hotels/1022/the-st-regis-beijing.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The St. Regis Changsha",
+          "url": "https://solo5estrellas.com/hotels/6369/the-st-regis-changsha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "The St. Regis Chengdu",
+          "url": "https://solo5estrellas.com/hotels/2916/the-st-regis-chengdu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "The St. Regis Hong Kong",
+          "url": "https://solo5estrellas.com/hotels/3700/the-st-regis-hong-kong.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "The St. Regis Lhasa Resort",
+          "url": "https://solo5estrellas.com/hotels/2456/the-st-regis-lhasa-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "The St. Regis Macao, Cotai Central",
+          "url": "https://solo5estrellas.com/hotels/3888/the-st-regis-macao-cotai-central.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "The St. Regis Sanya Yalong Bay Resort",
+          "url": "https://solo5estrellas.com/hotels/2836/the-st-regis-sanya-yalong-bay-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "The St. Regis. Shenzhen Bao An",
+          "url": "https://solo5estrellas.com/hotels/6843/the-st-regis-shenzhen-bao-an.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "St. Regis Cap Cana",
+          "url": "https://solo5estrellas.com/hotels/6702/st-regis-cap-cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "The Residences at The St. Regis Cap Cana Resort",
+          "url": "https://solo5estrellas.com/hotels/7127/the-residences-at-the-st-regis-cap-cana-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "The St. Regis Cairo",
+          "url": "https://solo5estrellas.com/hotels/3170/the-st-regis-cairo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "The St. Regis Resort Bora Bora",
+          "url": "https://solo5estrellas.com/hotels/1801/the-st-regis-resort-bora-bora-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "The St. Regis Bali",
+          "url": "https://solo5estrellas.com/hotels/2201/the-st-regis-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "St. Regis Venice",
+          "url": "https://solo5estrellas.com/hotels/1027/st-regis-venice.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "The St. Regis Florence",
+          "url": "https://solo5estrellas.com/hotels/2571/the-st-regis-florence-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "The St. Regis Rome",
+          "url": "https://solo5estrellas.com/hotels/1087/the-st-regis-rome-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "The St. Regis Osaka",
+          "url": "https://solo5estrellas.com/hotels/2581/the-st-regis-osaka-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "The St. Regis Amman",
+          "url": "https://solo5estrellas.com/hotels/3885/the-st-regis-amman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "The St. Regis Astana",
+          "url": "https://solo5estrellas.com/hotels/3886/the-st-regis-astana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "The St. Regis Kuala Lumpur",
+          "url": "https://solo5estrellas.com/hotels/3073/the-st-regis-kuala-lumpur.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "The St. Regis Langkawi",
+          "url": "https://solo5estrellas.com/hotels/3075/the-st-regis-langkawi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "St. Regis Maldives Vommuli Resort",
+          "url": "https://solo5estrellas.com/hotels/3704/st-regis-maldives-vommuli-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "St. Regis Le Morne Resort",
+          "url": "https://solo5estrellas.com/hotels/6867/-st-regis-le-morne-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "The St Regis Mexico City",
+          "url": "https://solo5estrellas.com/hotels/2241/the-st-regis-mexico-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "The St. Regis Costa Mujeres Resort, Cancun",
+          "url": "https://solo5estrellas.com/hotels/7014/the-st-regis-costa-mujeres-resort-cancun.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "The St. Regis Kanai Resort, Riviera Maya",
+          "url": "https://solo5estrellas.com/hotels/6290/the-st-regis-kanai-resort-riviera-maya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "The St. Regis Punta Mita Resort",
+          "url": "https://solo5estrellas.com/hotels/2212/the-st-regis-punta-mita-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "St. Regis La Bahia Blanca Resort, Tamuda Bay",
+          "url": "https://solo5estrellas.com/hotels/6503/st-regis-la-bahia-blanca-resort-tamuda-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "The St. Regis Al Mouj Muscat Resort",
+          "url": "https://solo5estrellas.com/hotels/6872/the-st-regis-al-mouj-muscat-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "The St. Regis Bahia Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/2426/the-st-regis-bahia-beach-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "The St. Regis Doha",
+          "url": "https://solo5estrellas.com/hotels/2622/the-st-regis-doha-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "The St. Regis Moscow Nikolskaya",
+          "url": "https://solo5estrellas.com/hotels/2970/the-st-regis-moscow-nikolskaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "The St. Regis Red Sea Resort",
+          "url": "https://solo5estrellas.com/hotels/6670/the-st-regis-red-sea-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "The St. Regis Riyadh",
+          "url": "https://solo5estrellas.com/hotels/6565/the-st-regis-riyadh-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "The St Regis Singapore",
+          "url": "https://solo5estrellas.com/hotels/2207/the-st-regis-singapore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "The St Regis Mardavall Mallorca Resort",
+          "url": "https://solo5estrellas.com/hotels/1382/the-st-regis-mardavall-mallorca-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "The St. Regis Bangkok",
+          "url": "https://solo5estrellas.com/hotels/2505/the-st-regis-bangkok.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "St. Regis Istanbul",
+          "url": "https://solo5estrellas.com/hotels/2971/st-regis-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "The St. Regis Abu Dhabi",
+          "url": "https://solo5estrellas.com/hotels/2968/the-st-regis-abu-dhabi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "The St. Regis Downtown Dubai",
+          "url": "https://solo5estrellas.com/hotels/2603/the-st-regis-downtown-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "The St. Regis Dubai, The Palm",
+          "url": "https://solo5estrellas.com/hotels/4973/the-st-regis-dubai-the-palm.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "The St. Regis Saadiyat Island Resort",
+          "url": "https://solo5estrellas.com/hotels/2601/the-st-regis-saadiyat-island-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "The St. Regis London",
+          "url": "https://solo5estrellas.com/hotels/7104/the-st-regis-london.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar St. Regis directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar St. Regis con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD por estancia, mejora de habitación, entrada anticipada y salida tardía según disponibilidad y un detalle de bienvenida. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Marriott Bonvoy al reservar St. Regis con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página de la marca, sí: las reservas hechas a través de Marriott STARS siguen sumando puntos y noches de nivel de Marriott Bonvoy. Añada su número de socio a la reserva y confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles St. Regis se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "59 hoteles en 29 países y territorios. Los países con más hoteles son Estados Unidos, China, México."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles St. Regis hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: The St Regis Mexico City, The St. Regis Costa Mujeres Resort, Cancun, The St. Regis Kanai Resort, Riviera Maya, The St. Regis Punta Mita Resort. En España: The St Regis Mardavall Mallorca Resort."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles St. Regis hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "11 hoteles, entre ellos St. Regis Hotel, San Francisco, The St. Regis Aspen, The St. Regis Hotel Washington D.C., The St. Regis Bal Harbour Resort, The St. Regis Longboat Key Resort, The St. Regis Atlanta y 5 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Marriott STARS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Marriott International para asesores de viajes de lujo y abarca The Ritz-Carlton, St. Regis, EDITION, Bulgari y The Luxury Collection. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de St. Regis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
