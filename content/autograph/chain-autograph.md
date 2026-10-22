@@ -129,8 +129,8 @@ Autograph Collection es el portafolio de hoteles independientes de Marriott Inte
 - [Hacienda del Mar Los Cabos](/hotels/6911/hacienda-del-mar-los-cabos.html) (Cabo San Lucas)
 
 **Barbados (2)**
-- [Tamarind Barbados, An Autograph Collection <br>All-Inclusive Resort<br>](/hotels/7126/tamarind-barbados-an-autograph-collection-br-all-inclusive-resort-br-.html) (St. James (Barbados))
-- [Treasure Beach Art Hotel, Barbados, An Autograph Collection <br>All-Inclusive Resort<br>](/hotels/7128/treasure-beach-art-hotel-barbados-an-autograph-collection-br-all-inclusive-resort-br-.html) (St. James (Barbados))
+- [Tamarind Barbados, An Autograph Collection All-Inclusive Resort](/hotels/7126/tamarind-barbados-an-autograph-collection-br-all-inclusive-resort-br-.html) (St. James (Barbados))
+- [Treasure Beach Art Hotel, Barbados, An Autograph Collection All-Inclusive Resort](/hotels/7128/treasure-beach-art-hotel-barbados-an-autograph-collection-br-all-inclusive-resort-br-.html) (St. James (Barbados))
 
 **Belice (1)**
 - [Alaia Belize, Autograph Collection](/hotels/4715/alaia-belize-autograph-collection.html) (San Pedro)

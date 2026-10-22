@@ -1,0 +1,209 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Indigo",
+          "item": "https://solo5estrellas.com/collection/96/hotel-indigo.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/96/hotel-indigo.html#webpage",
+      "url": "https://solo5estrellas.com/collection/96/hotel-indigo.html",
+      "name": "Hoteles Indigo: 13 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 13 hoteles Hotel Indigo en 8 países con desayuno para dos, crédito de hotel y mejora de habitación, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Hotel Indigo"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/96/hotel-indigo.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/96/hotel-indigo.html#hotels",
+      "name": "Hoteles Indigo",
+      "numberOfItems": 13,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hotel Indigo Miami Brickell",
+          "url": "https://solo5estrellas.com/hotels/4820/Hotel-Indigo-Miami-Brickell.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel Indigo Lower East Side New York",
+          "url": "https://solo5estrellas.com/hotels/4030/Hotel-Indigo-Lower-East-Side-New-York-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hotel Indigo Williamsburg",
+          "url": "https://solo5estrellas.com/hotels/4779/Hotel-Indigo-Williamsburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hotel Indigo Spokane",
+          "url": "https://solo5estrellas.com/hotels/4774/Hotel-Indigo-Spokane.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hotel Indigo Adelaide Markets",
+          "url": "https://solo5estrellas.com/hotels/4760/Hotel-Indigo-Adelaide-Markets.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Hotel Indigo Shanghai on the Bund",
+          "url": "https://solo5estrellas.com/hotels/4028/Hotel-Indigo-Shanghai-on-the-Bund-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Hotel Indigo Xiamen Harbour",
+          "url": "https://solo5estrellas.com/hotels/4780/Hotel-Indigo-Xiamen-Harbour.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Hotel Indigo Bali Seminyak Beach",
+          "url": "https://solo5estrellas.com/hotels/4031/Hotel-Indigo-Bali-Seminyak-Beach-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Hotel Indigo Venice Sant Elena",
+          "url": "https://solo5estrellas.com/hotels/4776/Hotel-Indigo-Venice-Sant-Elena.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Hotel Indigo Verona Grand Hotel",
+          "url": "https://solo5estrellas.com/hotels/4778/Hotel-Indigo-Verona-Grand-Hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Hotel Indigo Hakone Gora",
+          "url": "https://solo5estrellas.com/hotels/4763/Hotel-Indigo-Hakone-Gora.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Hotel Indigo Bangkok Wireless Road",
+          "url": "https://solo5estrellas.com/hotels/4761/Hotel-Indigo-Bangkok-Wireless-Road.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Hotel Indigo Dubai Downtown",
+          "url": "https://solo5estrellas.com/hotels/4762/Hotel-Indigo-Dubai-Downtown.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Hotel Indigo directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Hotel Indigo con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, crédito de hotel (100 USD por estancia), mejora de habitación y salida tardía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de IHG One Rewards al reservar Hotel Indigo con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según fuentes públicas, las reservas de IHG Destined siguen sumando puntos y noches de nivel de IHG One Rewards. Añada su número de socio a la reserva y confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Hotel Indigo se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "13 hoteles en 8 países y territorios. Los países con más hoteles son Estados Unidos, China, Italia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Hotel Indigo hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en México ni en España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Hotel Indigo hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 hoteles: Hotel Indigo Miami Brickell, Hotel Indigo Lower East Side New York, Hotel Indigo Williamsburg, Hotel Indigo Spokane."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es IHG Destined?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de IHG para asesores de viaje de lujo; cubre hoteles seleccionados de InterContinental, Kimpton, Six Senses, Regent, Vignette Collection y Hotel Indigo. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Hotel Indigo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -69,7 +69,7 @@ Westin Hotels & Resorts es una marca de Marriott International centrada en el bi
 ### México, Caribe y Centroamérica
 
 **México (2)**
-- [The Westin Playa Vallarta, an All-Inclusive Resort  <br> Accepting Bookings starting May 2026 <br>](/hotels/3779/the-westin-playa-vallarta-an-all-inclusive-resort-br-accepting-bookings-starting-may-2026-br-.html) (Puerto Vallarta)
+- [The Westin Playa Vallarta, an All-Inclusive Resort Accepting Bookings starting May 2026](/hotels/3779/the-westin-playa-vallarta-an-all-inclusive-resort-br-accepting-bookings-starting-may-2026-br-.html) (Puerto Vallarta)
 - [Westin Santa Fe Mexico City](/hotels/6891/westin-santa-fe-mexico-city.html) (Ciudad de México)
 
 **Islas Vírgenes de EE. UU. (1)**
@@ -105,7 +105,7 @@ Westin Hotels & Resorts es una marca de Marriott International centrada en el bi
 - [The Westin Dragonara Resort, Malta](/hotels/3731/the-westin-dragonara-resort-malta.html) (St. Julians)
 
 **Portugal (1)**
-- [The Westin Salgados Beach Resort , Algarve](/hotels/6835/the-westin-salgados-beach-resort-algarve.html) (Algarve)
+- [The Westin Salgados Beach Resort, Algarve](/hotels/6835/the-westin-salgados-beach-resort-algarve.html) (Algarve)
 
 **España (2)**
 - [The Westin La Quinta Golf Resort & Spa](/hotels/6546/the-westin-la-quinta-golf-resort-spa.html) (Marbella)
@@ -178,7 +178,7 @@ Según la página de cada hotel, sí: se añade su número de Marriott Bonvoy a 
 
 **¿Qué hoteles Westin hay en México y España?**
 
-En México: The Westin Playa Vallarta, an All-Inclusive Resort  <br> Accepting Bookings starting May 2026 <br>, Westin Santa Fe Mexico City. En España: The Westin La Quinta Golf Resort & Spa, The Westin Valencia.
+En México: The Westin Playa Vallarta, an All-Inclusive Resort Accepting Bookings starting May 2026, Westin Santa Fe Mexico City. En España: The Westin La Quinta Golf Resort & Spa, The Westin Valencia.
 
 **¿Qué hoteles Westin hay en Estados Unidos?**
 

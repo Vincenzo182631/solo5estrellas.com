@@ -1,0 +1,257 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Tribute Portfolio",
+          "item": "https://solo5estrellas.com/collection/73/tribute-portfolio-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/73/tribute-portfolio-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/73/tribute-portfolio-hotels.html",
+      "name": "Hoteles Tribute Portfolio: 21 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 21 hoteles Tribute Portfolio en 11 países con desayuno para dos, crédito de hotel y mejora de habitación, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Tribute Portfolio Hotels"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/73/tribute-portfolio-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/73/tribute-portfolio-hotels.html#hotels",
+      "name": "Hoteles Tribute Portfolio",
+      "numberOfItems": 21,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Avenue of the Arts Costa Mesa",
+          "url": "https://solo5estrellas.com/hotels/3852/avenue-of-the-arts-costa-mesa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Glenmark, Glendale, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/4997/the-glenmark-glendale-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Guild Hotel, San Diego, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/3900/the-guild-hotel-san-diego-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "The Ven at Embassy Row, Washington, DC",
+          "url": "https://solo5estrellas.com/hotels/6492/the-ven-at-embassy-row-washington-dc.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hotel Landy Orlando, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/6681/hotel-landy-orlando-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "The Alida Savannah, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/3899/the-alida-savannah-a-tribute-portfolio-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Rand Tower Minneapolis, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/5030/rand-tower-minneapolis-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Hotel Thaynes, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/7106/hotel-thaynes-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Arelauquen Lodge, a Tribute Portfolio",
+          "url": "https://solo5estrellas.com/hotels/3841/arelauquen-lodge-a-tribute-portfolio.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Arabella Jagdhof Resort am Fuschlsee",
+          "url": "https://solo5estrellas.com/hotels/6965/arabella-jagdhof-resort-am-fuschlsee.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Le Dokhan's, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/3842/le-dokhan-s-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Le Metropolitan, A Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/3843/le-metropolitan-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Le Parchamp, Paris Boulogne, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/6919/le-parchamp-paris-boulogne-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Alai Crete",
+          "url": "https://solo5estrellas.com/hotels/6866/alai-crete.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Sthala, a Tribute Portfolio Hotel, Ubud Bali",
+          "url": "https://solo5estrellas.com/hotels/6912/sthala-a-tribute-portfolio-hotel-ubud-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Duo Milan Porta Nuova, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/6544/duo-milan-porta-nuova-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "The Slaak Rotterdam, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/4678/the-slaak-rotterdam-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Serangoon House Singapore",
+          "url": "https://solo5estrellas.com/hotels/6364/the-serangoon-house-singapore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "The Vagabond Club Singapore",
+          "url": "https://solo5estrellas.com/hotels/6365/the-vagabond-club-singapore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Labtwentytwo Barcelona, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/6902/labtwentytwo-barcelona-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Decamondo Galata",
+          "url": "https://solo5estrellas.com/hotels/6362/decamondo-galata.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Tribute Portfolio directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Tribute Portfolio con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, crédito de hotel (100 USD por estancia), mejora de habitación, entrada anticipada y salida tardía y detalle de bienvenida. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Marriott Bonvoy al reservar Tribute Portfolio con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página de la marca, sí: las reservas hechas a través de Marriott Luminous siguen sumando puntos y noches de nivel de Marriott Bonvoy. Añada su número de socio a la reserva y confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Tribute Portfolio se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "21 hoteles en 11 países y territorios. Los países con más hoteles son Estados Unidos, Francia, Singapur."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Tribute Portfolio hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en México. En España: Labtwentytwo Barcelona, a Tribute Portfolio Hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Tribute Portfolio hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "8 hoteles, entre ellos Avenue of the Arts Costa Mesa, The Glenmark, Glendale, a Tribute Portfolio Hotel, The Guild Hotel, San Diego, a Tribute Portfolio Hotel, The Ven at Embassy Row, Washington, DC, Hotel Landy Orlando, a Tribute Portfolio Hotel, The Alida Savannah, a Tribute Portfolio Hotel y 2 más; la lista completa está en esta página."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Marriott Luminous?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Marriott International para asesores de viaje y abarca JW Marriott, Marriott, W Hotels, Westin, Autograph Collection, Le Méridien, Sheraton, Renaissance y Tribute Portfolio. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Tribute Portfolio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

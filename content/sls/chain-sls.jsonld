@@ -1,0 +1,173 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SLS",
+          "item": "https://solo5estrellas.com/collection/92/sls-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/92/sls-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/92/sls-hotels-resorts.html",
+      "name": "Hoteles SLS: 7 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 7 hoteles SLS en 6 países con desayuno para dos, crédito de hotel y mejora de habitación, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "SLS Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/92/sls-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/92/sls-hotels-resorts.html#hotels",
+      "name": "Hoteles SLS",
+      "numberOfItems": 7,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "SLS Hotel at Beverly Hills",
+          "url": "https://solo5estrellas.com/hotels/2294/SLS-Hotel-at-Beverly-Hills.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "SLS Buenos Aires Puerto Madero",
+          "url": "https://solo5estrellas.com/hotels/6145/SLS-Buenos-Aires-Puerto-Madero.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SLS Baha Mar",
+          "url": "https://solo5estrellas.com/hotels/3497/SLS-Baha-Mar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "SLS Cancun Hotel",
+          "url": "https://solo5estrellas.com/hotels/6141/SLS-Cancun-Hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SLS Playa Mujeres",
+          "url": "https://solo5estrellas.com/hotels/6727/SLS-Playa-Mujeres.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "SLS Barcelona",
+          "url": "https://solo5estrellas.com/hotels/6798/SLS-Barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "SLS Dubai Hotel & Residences",
+          "url": "https://solo5estrellas.com/hotels/4927/SLS-Dubai-Hotel-Residences.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar SLS directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar SLS con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, crédito de hotel (100 USD por estancia), mejora de habitación y detalle de bienvenida. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Accor ALL al reservar SLS con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página de cada hotel, sí: se añade su número de Accor ALL a la reserva y los puntos y noches de nivel se suman en esa estancia. Confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles SLS se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "7 hoteles en 6 países y territorios. Los países con más hoteles son México, Estados Unidos, Argentina."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles SLS hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: SLS Cancun Hotel, SLS Playa Mujeres. En España: SLS Barcelona."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles SLS hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "1 hoteles: SLS Hotel at Beverly Hills."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Programa de Accor para asesores de viaje?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Accor para asesores de viaje de lujo y abarca marcas como Raffles, Fairmont, Sofitel, Banyan Tree, SLS y MGallery. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; las ventajas se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de SLS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MGallery",
+          "item": "https://solo5estrellas.com/collection/85/mgallery-hotels.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/85/mgallery-hotels.html#webpage",
+      "url": "https://solo5estrellas.com/collection/85/mgallery-hotels.html",
+      "name": "Hoteles MGallery: 19 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 19 hoteles MGallery en 13 países con desayuno para dos, crédito de hotel y mejora de habitación, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "MGallery Hotel Collection"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/85/mgallery-hotels.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/85/mgallery-hotels.html#hotels",
+      "name": "Hoteles MGallery",
+      "numberOfItems": 19,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Palladio Hotel Buenos Aires - MGallery",
+          "url": "https://solo5estrellas.com/hotels/6446/palladio-hotel-buenos-aires-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel Chadstone Melbourne MGallery by Sofitel",
+          "url": "https://solo5estrellas.com/hotels/6157/hotel-chadstone-melbourne-mgallery-by-sofitel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DongFengYun Hotel Mi'Le - MGallery",
+          "url": "https://solo5estrellas.com/hotels/4907/dongfengyun-hotel-mi-le-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hotel de la Cite Carcassonne",
+          "url": "https://solo5estrellas.com/hotels/1030/hotel-de-la-cite-carcassonne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "La Cour des Consuls Hotel & Spa Toulouse",
+          "url": "https://solo5estrellas.com/hotels/6461/la-cour-des-consuls-hotel-spa-toulouse.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Le Louise Brussels - MGallery",
+          "url": "https://solo5estrellas.com/hotels/6870/le-louise-brussels-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Athens Capital Center Hotel",
+          "url": "https://solo5estrellas.com/hotels/6464/athens-capital-center-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Amartera Villa Bali Nusa Dua - MGallery",
+          "url": "https://solo5estrellas.com/hotels/4938/amartera-villa-bali-nusa-dua-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Fable Auckland, MGallery",
+          "url": "https://solo5estrellas.com/hotels/6163/fable-auckland-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Manto Hotel Lima - Mgallery",
+          "url": "https://solo5estrellas.com/hotels/6164/manto-hotel-lima-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "MGallery Bangkok Vie Hotel",
+          "url": "https://solo5estrellas.com/hotels/4956/mgallery-bangkok-vie-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "MGallery Hotel Baraquda Pattaya",
+          "url": "https://solo5estrellas.com/hotels/4958/mgallery-hotel-baraquda-pattaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "MGallery Phuket V Villas",
+          "url": "https://solo5estrellas.com/hotels/4963/mgallery-phuket-v-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "MGallery V Villas Hua Hin",
+          "url": "https://solo5estrellas.com/hotels/4972/mgallery-v-villas-hua-hin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Veranda High Resort, MGallery Chiang Mai",
+          "url": "https://solo5estrellas.com/hotels/4957/veranda-high-resort-mgallery-chiang-mai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "The Artisan Istanbul MGallery",
+          "url": "https://solo5estrellas.com/hotels/6481/the-artisan-istanbul-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "The Galata Istanbul Hotel - MGallery",
+          "url": "https://solo5estrellas.com/hotels/6482/the-galata-istanbul-hotel-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Hotel Costanero Montevideo - Mgallery",
+          "url": "https://solo5estrellas.com/hotels/6165/hotel-costanero-montevideo-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "MGallery Hanoi Hotel de L'Opera",
+          "url": "https://solo5estrellas.com/hotels/4949/mgallery-hanoi-hotel-de-l-opera.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar MGallery directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar MGallery con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, crédito de hotel, mejora de habitación y entrada anticipada y salida tardía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo sumando puntos de Accor ALL al reservar MGallery con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la página de cada hotel, sí: se añade su número de Accor ALL a la reserva y los puntos y noches de nivel se suman en esa estancia. Confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles MGallery se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "19 hoteles en 13 países y territorios. Los países con más hoteles son Tailandia, Francia, Turquía."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles MGallery hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en México ni en España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles MGallery hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en Estados Unidos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Programa de Accor para asesores de viaje?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Accor para asesores de viaje de lujo y abarca marcas como Raffles, Fairmont, Sofitel, Banyan Tree, SLS y MGallery. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; las ventajas se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de MGallery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
