@@ -1,0 +1,215 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "One&Only",
+          "item": "https://solo5estrellas.com/collection/3/one-only.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/3/one-only.html#webpage",
+      "url": "https://solo5estrellas.com/collection/3/one-only.html",
+      "name": "Hoteles One&Only: 14 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 14 hoteles One&Only en 9 países con desayuno para dos, crédito de hotel y mejora de habitación, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "One&Only Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/3/one-only.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/3/one-only.html#hotels",
+      "name": "Hoteles One&Only",
+      "numberOfItems": 14,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "One&Only Moonlight Basin, Montana",
+          "url": "https://solo5estrellas.com/hotels/6829/One-Only-Moonlight-Basin-Montana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "One&Only Aesthesis",
+          "url": "https://solo5estrellas.com/hotels/6647/One-Only-Aesthesis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "One&Only Kea Island",
+          "url": "https://solo5estrellas.com/hotels/6539/One-Only-Kea-Island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "One&Only Desaru Coast",
+          "url": "https://solo5estrellas.com/hotels/5027/One-Only-Desaru-Coast.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "One&Only Reethi Rah",
+          "url": "https://solo5estrellas.com/hotels/1399/One-Only-Reethi-Rah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "One&Only Mandarina",
+          "url": "https://solo5estrellas.com/hotels/4247/One-Only-Mandarina.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "One&Only Palmilla",
+          "url": "https://solo5estrellas.com/hotels/1031/One-Only-Palmilla.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "One&Only Portonovi, Montenegro",
+          "url": "https://solo5estrellas.com/hotels/4252/One-Only-Portonovi-Montenegro.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "One & Only Gorilla's Nest",
+          "url": "https://solo5estrellas.com/hotels/4610/One-Only-Gorilla-s-Nest.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "One&Only Nyungwe House",
+          "url": "https://solo5estrellas.com/hotels/4271/One-Only-Nyungwe-House.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "One&Only Cape Town",
+          "url": "https://solo5estrellas.com/hotels/2290/One-Only-Cape-Town-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "One&Only One Za'abeel",
+          "url": "https://solo5estrellas.com/hotels/6588/One-Only-One-Za-abeel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "One&Only Royal Mirage Dubai",
+          "url": "https://solo5estrellas.com/hotels/1364/One-Only-Royal-Mirage-Dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "One&Only The Palm Dubai",
+          "url": "https://solo5estrellas.com/hotels/6663/One-Only-The-Palm-Dubai.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar One&Only directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar One&Only con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD por estancia, mejora de habitación con prioridad, entrada anticipada y salida tardía según disponibilidad y reconocimiento VIP. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿One&Only tiene programa de puntos para estas reservas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nuestra página indica que no; no hemos encontrado una confirmación pública. Pregúntelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles One&Only se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "14 hoteles en 9 países y territorios. Los países con más hoteles son Emiratos Árabes Unidos, Grecia, México."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles One&Only hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: One&Only Mandarina, One&Only Palmilla. Esta página no incluye hoteles en España."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles One&Only hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "1 hoteles: One&Only Moonlight Basin, Montana."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Programa de socios preferentes de One&Only?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "One&Only trabaja con un número reducido de agencias socias preferentes. Las reservas se hacen a las tarifas publicadas del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; las ventajas dependen del hotel y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de One&Only?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

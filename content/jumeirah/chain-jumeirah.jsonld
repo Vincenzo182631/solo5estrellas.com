@@ -1,0 +1,263 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Jumeirah",
+          "item": "https://solo5estrellas.com/collection/53/jumeirah-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/53/jumeirah-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/53/jumeirah-hotels-resorts.html",
+      "name": "Hoteles Jumeirah: 22 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 22 hoteles Jumeirah en 9 países con desayuno para dos, crédito de hotel y mejora de habitación, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Jumeirah Hotels & Resorts"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/53/jumeirah-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/53/jumeirah-hotels-resorts.html#hotels",
+      "name": "Hoteles Jumeirah",
+      "numberOfItems": 22,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Jumeirah Royal Saray Bahrain",
+          "url": "https://solo5estrellas.com/hotels/4659/jumeirah-royal-saray-bahrain.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Jumeirah Guangzhou",
+          "url": "https://solo5estrellas.com/hotels/4663/jumeirah-guangzhou.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Jumeirah Himalayas Hotel",
+          "url": "https://solo5estrellas.com/hotels/2747/jumeirah-himalayas-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Jumeirah Living Guangzhou",
+          "url": "https://solo5estrellas.com/hotels/4664/jumeirah-living-guangzhou.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Jumeirah Frankfurt",
+          "url": "https://solo5estrellas.com/hotels/2656/jumeirah-frankfurt-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Jumeirah Bali",
+          "url": "https://solo5estrellas.com/hotels/4165/jumeirah-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Capri Palace",
+          "url": "https://solo5estrellas.com/hotels/1086/capri-palace-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Jumeirah Vittaveli",
+          "url": "https://solo5estrellas.com/hotels/2745/jumeirah-vittaveli-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Jumeirah Mallorca",
+          "url": "https://solo5estrellas.com/hotels/2753/jumeirah-mallorca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Jumeirah Al Naseem, Dubai",
+          "url": "https://solo5estrellas.com/hotels/3503/jumeirah-al-naseem-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Jumeirah Al Qasr",
+          "url": "https://solo5estrellas.com/hotels/4660/jumeirah-al-qasr.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Jumeirah at Etihad Towers",
+          "url": "https://solo5estrellas.com/hotels/2738/jumeirah-at-etihad-towers-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Jumeirah at Saadiyat Island Resort",
+          "url": "https://solo5estrellas.com/hotels/4658/jumeirah-at-saadiyat-island-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Jumeirah Beach Hotel",
+          "url": "https://solo5estrellas.com/hotels/1165/jumeirah-beach-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Jumeirah Creekside",
+          "url": "https://solo5estrellas.com/hotels/2740/jumeirah-creekside-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Jumeirah Dar Al Masyaf",
+          "url": "https://solo5estrellas.com/hotels/4657/jumeirah-dar-al-masyaf.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Jumeirah Emirates Towers",
+          "url": "https://solo5estrellas.com/hotels/2739/jumeirah-emirates-towers.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Jumeirah Marsa Al Arab",
+          "url": "https://solo5estrellas.com/hotels/6771/jumeirah-marsa-al-arab.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Jumeirah Mina A'Salam",
+          "url": "https://solo5estrellas.com/hotels/1684/jumeirah-mina-a-salam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Jumeirah Zabeel Saray",
+          "url": "https://solo5estrellas.com/hotels/2741/jumeirah-zabeel-saray.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Jumeirah Carlton Tower",
+          "url": "https://solo5estrellas.com/hotels/2750/jumeirah-carlton-tower-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Jumeirah Lowndes Hotel",
+          "url": "https://solo5estrellas.com/hotels/2751/jumeirah-lowndes-hotel-.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Jumeirah directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Jumeirah con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel cuyo importe depende del hotel, mejora de habitación, entrada anticipada y salida tardía según disponibilidad, un detalle de bienvenida y Wi-Fi de cortesía. Las ventajas se confirman al reservar y pueden variar según el hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sumo puntos de Jumeirah One al reservar Jumeirah con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No está confirmado de forma pública que las reservas de asesor sumen puntos. Pregúntelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Jumeirah se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "22 hoteles en 9 países y territorios. Los países con más hoteles son Emiratos Árabes Unidos, China, Reino Unido."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Jumeirah hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en México. En España: Jumeirah Mallorca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Jumeirah hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en Estados Unidos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Jumeirah Passport to Luxury?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Jumeirah para asesores de viajes seleccionados, por invitación. Las reservas se hacen a las tarifas publicadas del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; las ventajas dependen del hotel y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Jumeirah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}

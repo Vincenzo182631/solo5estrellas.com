@@ -1,0 +1,239 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cadenas",
+          "item": "https://solo5estrellas.com/collection/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kempinski",
+          "item": "https://solo5estrellas.com/collection/4/kempinski-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/collection/4/kempinski-hotels-resorts.html#webpage",
+      "url": "https://solo5estrellas.com/collection/4/kempinski-hotels-resorts.html",
+      "name": "Hoteles Kempinski: 18 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 18 hoteles Kempinski en 14 países con desayuno para dos, crédito de hotel y mejora de habitación, a la misma tarifa publicada.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Brand",
+        "name": "Kempinski Hotels"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/collection/4/kempinski-hotels-resorts.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/collection/4/kempinski-hotels-resorts.html#hotels",
+      "name": "Hoteles Kempinski",
+      "numberOfItems": 18,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Commune by The Great Wall",
+          "url": "https://solo5estrellas.com/hotels/1962/commune-by-the-great-wall.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kempinski Adriatic Istria",
+          "url": "https://solo5estrellas.com/hotels/6711/kempinski-adriatic-istria.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hotel Adlon Kempinski Berlin",
+          "url": "https://solo5estrellas.com/hotels/1141/hotel-adlon-kempinski-berlin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hotel Vier Jahreszeiten Kempinski Munich",
+          "url": "https://solo5estrellas.com/hotels/1762/hotel-vier-jahreszeiten-kempinski-munich-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kempinski Dresden - Hotel Taschenbergpalais",
+          "url": "https://solo5estrellas.com/hotels/7051/kempinski-dresden-hotel-taschenbergpalais-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Kempinski Hotel Corvinus Budapest",
+          "url": "https://solo5estrellas.com/hotels/4256/kempinski-hotel-corvinus-budapest.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Apurva Kempinski Bali",
+          "url": "https://solo5estrellas.com/hotels/6710/the-apurva-kempinski-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "The David Kempinski",
+          "url": "https://solo5estrellas.com/hotels/6812/the-david-kempinski.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Kempinski Hotel Amman",
+          "url": "https://solo5estrellas.com/hotels/2383/kempinski-hotel-amman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Kempinski Hotel Ishtar Dead Sea",
+          "url": "https://solo5estrellas.com/hotels/1794/kempinski-hotel-ishtar-dead-sea.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Kempinski Hotel Riga",
+          "url": "https://solo5estrellas.com/hotels/6687/kempinski-hotel-riga.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Kempinski Grand Hotel Cancun",
+          "url": "https://solo5estrellas.com/hotels/2370/kempinski-grand-hotel-cancun-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Kempinski Hotel Brazzaville",
+          "url": "https://solo5estrellas.com/hotels/7066/kempinski-hotel-brazzaville-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Kempinski Hotel Bahia Estepona",
+          "url": "https://solo5estrellas.com/hotels/1505/kempinski-hotel-bahia-estepona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Grand Hotel des Bains Kempinski St. Moritz",
+          "url": "https://solo5estrellas.com/hotels/2174/grand-hotel-des-bains-kempinski-st-moritz.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Siam Kempinski Hotel Bangkok",
+          "url": "https://solo5estrellas.com/hotels/3213/siam-kempinski-hotel-bangkok.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Ciragan Palace Hotel Kempinski",
+          "url": "https://solo5estrellas.com/hotels/1001/ciragan-palace-hotel-kempinski-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Kempinski Hotel Barbaros Bay Bodrum",
+          "url": "https://solo5estrellas.com/hotels/6569/kempinski-hotel-barbaros-bay-bodrum.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar Kempinski directamente que con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar Kempinski con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno diario para dos, un crédito de hotel cuyo importe depende del hotel, mejora de habitación, entrada anticipada y salida tardía según disponibilidad y, en algunos hoteles, un detalle de bienvenida. Las ventajas se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sumo puntos de fidelización al reservar Kempinski con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No está confirmado de forma pública que las reservas de asesor sumen puntos. Pregúntelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles Kempinski se pueden reservar en esta página?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "18 hoteles en 14 países y territorios. Los países con más hoteles son Alemania, Jordania, Turquía."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Kempinski hay en México y España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En México: Kempinski Grand Hotel Cancun. En España: Kempinski Hotel Bahia Estepona."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles Kempinski hay en Estados Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Esta página no incluye hoteles en Estados Unidos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Kempinski Club 1897?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el programa de Kempinski para asesores de viajes, por invitación. Las reservas se hacen a la tarifa publicada del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y un crédito de hotel; las ventajas dependen del hotel y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay estancia mínima para las ventajas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las condiciones exactas se muestran en la ficha de cada hotel y en el motor de reservas, y se confirman al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se pueden combinar las ventajas con las ofertas de Kempinski?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. Se decide oferta por oferta; el motor de reservas indica qué tarifas incluyen las ventajas."
+          }
+        }
+      ]
+    }
+  ]
+}
