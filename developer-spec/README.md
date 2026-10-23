@@ -1,6 +1,8 @@
 # Developer handover: Solo5Estrellas.com SEO fixes
 
-Everything here is read-only guidance written from public pages (no code or server access). Baseline on 8 Oct 2026: `verify.sh` 6 passed, 38 failed. Goal: 44 of 44.
+Everything here is read-only guidance written from public pages (no code or server access). Baseline: `verify.sh` 8 passed, 36 failed on 23 Oct 2026 (6 and 38 on 8 Oct; the script is unchanged and I could not establish what moved the two checks). Nothing has been released. Goal: 44 of 44.
+
+*Package refreshed 23 Oct 2026.*
 
 ## Files
 | File | Use |
@@ -8,11 +10,14 @@ Everything here is read-only guidance written from public pages (no code or serv
 | `IN-PLACE-FIXES.md` | The 11 fixes, in release order, with snippets and checks |
 | `verify.sh` | 44 read-only checks; run against staging with `./verify.sh https://staging-host` |
 | `titles-descriptions.csv` | Title and description for every template (lengths checked) |
-| `titles-descriptions-chains.csv` | Title and description for all 62 chain and collection pages, with flags (programme names, count mismatches) |
+| `titles-descriptions-chains.csv` | Title and description for all 62 chain and collection pages (all 62 now drafted; counts taken from the hotel lists), with flags and the draft folder |
+| `page-metadata-drafts.csv` | Title, description, H1 and target URL for every drafted page (71 rows) |
 | `SCHEMA-HOTEL.md` | Hotel and breadcrumb JSON-LD, social tags, what to remove |
-| `REDIRECT-MAPS.md` + 2 CSVs | Slug and legacy-URL redirect rules, with a test set |
+| `REDIRECT-MAPS.md` + 3 CSVs | Slug and legacy-URL redirect rules, with test sets; `redirects-observed-search-console.csv` is the newest (23 Oct): 1,404 URLs for 650 page IDs, with impressions |
+| `hreflang-map.csv` | English WhataHotel URL for every drafted page (70 rows; all English URLs return 200) |
+| `CMS-DATA-ISSUES.md` | Data problems that sit in the CMS records, not in templates (slug typos, markup in names, empty locations, hand-typed counts) |
 | `../style-guide/` | Spanish style guide and place-name list (156 names) |
-| `../content/` | Page drafts for the editor, not for the developer |
+| `../content/` | 62 chain page drafts, hub and city drafts: for the editor, not for the developer |
 
 ## Release plan
 | Release | Contents | Done when |
@@ -31,7 +36,12 @@ Order reason: release 1 fixes what every page shares and can't break a URL; rele
 4. Deploy; run `verify.sh` on production; send the output to SEO.
 5. Request a recrawl in Search Console for the home page and one page of each template.
 
-Pages that already rank (Taj at position 7.6, Turks & Caicos) get a single 301 step and unchanged content in release 3; see `REDIRECT-MAPS.md`.
+Pages that already rank (Taj, Turks & Caicos, Langham, W Hotels, Signature Collection, Regent, Rocco Forte) get a single 301 step and unchanged content in release 3; the list is in `REDIRECT-MAPS.md`.
+
+## What the 23 Oct audit adds
+- **650 page IDs are served under more than one URL** (583 hotels, 48 chain pages, 12 cities, 4 countries, 3 regions) and hold about 25,600 impressions, around 45% of the site. This is the strongest argument for release 1 (canonical) and release 3 (one slug per ID).
+- The legacy `browse_country.cfm?countryid=64` page carries 16% of impressions and 22% of clicks: handle it first and alone.
+- Position in the United States is about 25, against 10 to 14 in Latin America; re-measure after release 1.
 
 ## Rollback
 Releases 1 to 2 are template and server settings; revert the change. Release 3 is the only one that changes URLs: keep the old router behind a switch for 48 hours. Never remove a 301 once Google has seen it.
@@ -40,9 +50,9 @@ Releases 1 to 2 are template and server settings; revert the change. Release 3 i
 | When | Check |
 | --- | --- |
 | Release day | `verify.sh` count; sitemap fetch status in Search Console |
-| +14 days | Coverage: duplicates without a canonical (160 on 8 Oct) and discovered-not-indexed (933) falling |
-| +28 days | Impressions and clicks for the Turks & Caicos country page (29 clicks, 8,384 impressions on the legacy URL) |
-| +56 days | Average position (17.78 on 8 Oct) and US impressions |
+| +14 days | Coverage: duplicates without a canonical (160 on 8 Oct, 257 on 17 Oct) and discovered-not-indexed (933 on 8 Oct, 1,318 on 17 Oct) falling |
+| +28 days | Impressions and clicks for the Turks & Caicos country page (29 clicks, 8,750 impressions on the legacy URL to 18 Oct) |
+| +56 days | Average position (17.78 on 6 Oct, 17.65 on 18 Oct) and US impressions |
 
 ## Questions I need answered
 1. Staging URL, or who deploys?
