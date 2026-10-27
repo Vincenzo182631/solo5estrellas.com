@@ -1,0 +1,839 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "El Caribe",
+          "item": "https://solo5estrellas.com/regions/6/el-caribe.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/regions/6/el-caribe.html#webpage",
+      "url": "https://solo5estrellas.com/regions/6/el-caribe.html",
+      "name": "Hoteles de lujo en El Caribe: 123 hoteles en 22 países",
+      "description": "Explore 123 hoteles de lujo en 22 países y territorios de El Caribe, con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "El Caribe"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/regions/6/el-caribe.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/regions/6/el-caribe.html#hotels",
+      "name": "Hoteles de lujo en El Caribe",
+      "numberOfItems": 123,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "The Residences at The St. Regis Cap Cana Resort",
+          "url": "https://solo5estrellas.com/hotels/7127/the_residences_at_the_st._regis_cap_cana_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Marriott Miches Beach, An All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/6942/marriott_miches_beach,_an_all-inclusive_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Casa de Campo Resort & Villas",
+          "url": "https://solo5estrellas.com/hotels/1125/casa_de_campo_resort_&_villas__.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Sublime Samana Hotel & Residences",
+          "url": "https://solo5estrellas.com/hotels/4280/sublime_samana_hotel_&_residences.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Amanera",
+          "url": "https://solo5estrellas.com/hotels/3010/amanera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "The Ocean Club, Costa Norte",
+          "url": "https://solo5estrellas.com/hotels/4055/the_ocean_club,_costa_norte.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Eden Roc Cap Cana",
+          "url": "https://solo5estrellas.com/hotels/3939/eden_roc_cap_cana_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Hyatt Zilara Cap Cana",
+          "url": "https://solo5estrellas.com/hotels/4749/hyatt_zilara_cap_cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Paradisus Grand Cana",
+          "url": "https://solo5estrellas.com/hotels/1993/paradisus_grand_cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Paradisus Palma Real Resort",
+          "url": "https://solo5estrellas.com/hotels/6862/paradisus_palma_real_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Sanctuary Cap Cana, Adult All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/6567/sanctuary_cap_cana,_adult_all-inclusive_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Secrets Tides Punta Cana All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/7025/secrets_tides_punta_cana_**all-inclusive_resort**.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "St. Regis Cap Cana",
+          "url": "https://solo5estrellas.com/hotels/6702/st._regis_cap_cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "The Westin Punta Cana Resort & Club",
+          "url": "https://solo5estrellas.com/hotels/3015/the_westin_punta_cana_resort_&_club_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Tortuga Bay",
+          "url": "https://solo5estrellas.com/hotels/1650/tortuga_bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "W Punta Cana",
+          "url": "https://solo5estrellas.com/hotels/6833/w_punta_cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Zoetry Agua Punta Cana",
+          "url": "https://solo5estrellas.com/hotels/2638/zoetry_agua_punta_cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "InterContinental Real Santo Domingo",
+          "url": "https://solo5estrellas.com/hotels/4802/intercontinental_real_santo_domingo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "JW Marriott Hotel Santo Domingo",
+          "url": "https://solo5estrellas.com/hotels/4698/jw_marriott_hotel_santo_domingo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Renaissance Santo Domingo Jaragua Hotel & Casino",
+          "url": "https://solo5estrellas.com/hotels/4645/renaissance_santo_domingo_jaragua_hotel_&_casino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Ambergris Cay - All Inclusive",
+          "url": "https://solo5estrellas.com/hotels/6860/ambergris_cay_-_all_inclusive.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Amanyara",
+          "url": "https://solo5estrellas.com/hotels/1523/amanyara.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "COMO Parrot Cay, Turks & Caicos",
+          "url": "https://solo5estrellas.com/hotels/1057/como_parrot_cay,_turks_&_caicos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Grace Bay Club",
+          "url": "https://solo5estrellas.com/hotels/956/grace_bay_club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Grace Bay Club Villa Seaclusion",
+          "url": "https://solo5estrellas.com/hotels/3944/grace_bay_club_villa_seaclusion.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Grace Bay Club Villa Seascape",
+          "url": "https://solo5estrellas.com/hotels/3943/grace_bay_club_villa_seascape.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Ritz Carlton Residences, Turks & Caicos",
+          "url": "https://solo5estrellas.com/hotels/6705/ritz_carlton_residences,_turks_&_caicos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Ritz-Carlton, Turks & Caicos",
+          "url": "https://solo5estrellas.com/hotels/4670/ritz-carlton,_turks_&_caicos_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Rock House",
+          "url": "https://solo5estrellas.com/hotels/6847/rock_house.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Sailrock Resort",
+          "url": "https://solo5estrellas.com/hotels/4293/sailrock_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "The Palms Turks and Caicos",
+          "url": "https://solo5estrellas.com/hotels/2172/the_palms_turks_and_caicos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "The Shore Club Turks and Caicos",
+          "url": "https://solo5estrellas.com/hotels/3281/the_shore_club_turks_and_caicos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Villa Mani",
+          "url": "https://solo5estrellas.com/hotels/4180/villa_mani.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "West Bay Club",
+          "url": "https://solo5estrellas.com/hotels/2996/west_bay_club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Wymara Resort, Turks and Caicos",
+          "url": "https://solo5estrellas.com/hotels/3901/wymara_resort,_turks_and_caicos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Dorado Beach, a Ritz Carlton Reserve",
+          "url": "https://solo5estrellas.com/hotels/2705/dorado_beach,_a_ritz_carlton_reserve_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "The Ritz Carlton Residences at Dorado Beach",
+          "url": "https://solo5estrellas.com/hotels/3879/the_ritz_carlton_residences_at_dorado_beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "The Royal Sonesta San Juan",
+          "url": "https://solo5estrellas.com/hotels/6645/the_royal_sonesta_san_juan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Hyatt Regency Grand Reserve Puerto Rico",
+          "url": "https://solo5estrellas.com/hotels/4198/hyatt_regency_grand_reserve_puerto_rico.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "The St. Regis Bahia Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/2426/the_st._regis_bahia_beach_resort_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Condado Vanderbilt",
+          "url": "https://solo5estrellas.com/hotels/2998/condado_vanderbilt.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Fairmont El San Juan Hotel",
+          "url": "https://solo5estrellas.com/hotels/1940/fairmont_el_san_juan_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Four Seasons Puerto Rico",
+          "url": "https://solo5estrellas.com/hotels/6869/four_seasons_puerto_rico.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Hotel El Convento",
+          "url": "https://solo5estrellas.com/hotels/1514/hotel_el_convento.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "La Concha Resort",
+          "url": "https://solo5estrellas.com/hotels/3726/la_concha_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "French Leave Resort",
+          "url": "https://solo5estrellas.com/hotels/3873/french_leave_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "The Cove Eleuthera",
+          "url": "https://solo5estrellas.com/hotels/3298/the_cove_eleuthera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Grand Hyatt Baha Mar",
+          "url": "https://solo5estrellas.com/hotels/3397/grand_hyatt_baha_mar_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "SLS Baha Mar",
+          "url": "https://solo5estrellas.com/hotels/3497/sls_baha_mar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "The Cove Atlantis",
+          "url": "https://solo5estrellas.com/hotels/1773/the_cove_atlantis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "The Ocean Club, A Four Seasons Resort, Bahamas",
+          "url": "https://solo5estrellas.com/hotels/1132/the_ocean_club,_a_four_seasons_resort,_bahamas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "The Reef at Atlantis",
+          "url": "https://solo5estrellas.com/hotels/2298/the_reef_at_atlantis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "The Royal at Atlantis",
+          "url": "https://solo5estrellas.com/hotels/6805/the_royal_at_atlantis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Bluefields Bay Villas",
+          "url": "https://solo5estrellas.com/hotels/6181/bluefields_bay_villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Half Moon",
+          "url": "https://solo5estrellas.com/hotels/988/half_moon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Hyatt Zilara Rose Hall",
+          "url": "https://solo5estrellas.com/hotels/6154/hyatt_zilara_rose_hall.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Hyatt Ziva Rose Hall",
+          "url": "https://solo5estrellas.com/hotels/3304/hyatt_ziva_rose_hall.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "Round Hill Hotel & Villas",
+          "url": "https://solo5estrellas.com/hotels/989/round_hill_hotel_&_villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "S Hotel Jamaica",
+          "url": "https://solo5estrellas.com/hotels/4333/s_hotel_jamaica.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "Jamaica Inn",
+          "url": "https://solo5estrellas.com/hotels/938/jamaica_inn.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "The Trident Hotel",
+          "url": "https://solo5estrellas.com/hotels/4285/the_trident_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Cap Maison Resort and Spa",
+          "url": "https://solo5estrellas.com/hotels/2546/cap_maison_resort_and_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Zoetry Marigot Bay",
+          "url": "https://solo5estrellas.com/hotels/6403/zoetry_marigot_bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "The Landings St. Lucia",
+          "url": "https://solo5estrellas.com/hotels/2231/the_landings_st._lucia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Anse Chastanet",
+          "url": "https://solo5estrellas.com/hotels/6296/anse_chastanet.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Jade Mountain",
+          "url": "https://solo5estrellas.com/hotels/2478/jade_mountain.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "Ladera Resort",
+          "url": "https://solo5estrellas.com/hotels/1463/ladera_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "Sugar Beach, A Viceroy Resort",
+          "url": "https://solo5estrellas.com/hotels/2568/sugar_beach,_a_viceroy_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Coral Reef Club",
+          "url": "https://solo5estrellas.com/hotels/4590/coral_reef_club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "Sandy Lane",
+          "url": "https://solo5estrellas.com/hotels/935/sandy_lane.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Tamarind Barbados, An Autograph Collection All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/7126/tamarind_barbados,_an_autograph_collection_<br>all-inclusive_resort<br>.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "The Fairmont Royal Pavilion",
+          "url": "https://solo5estrellas.com/hotels/2135/the_fairmont_royal_pavilion.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "name": "The Sandpiper",
+          "url": "https://solo5estrellas.com/hotels/4591/the_sandpiper.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 74,
+          "name": "Treasure Beach Art Hotel, Barbados, An Autograph Collection All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/7128/treasure_beach_art_hotel,_barbados,_an_autograph_collection_<br>all-inclusive_resort<br>.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 75,
+          "name": "Grand Cayman Marriott Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/4979/grand_cayman_marriott_beach_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 76,
+          "name": "Grand Hyatt Cayman Resort",
+          "url": "https://solo5estrellas.com/hotels/7011/grand_hyatt_cayman_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 77,
+          "name": "Hotel Indigo Grand Cayman",
+          "url": "https://solo5estrellas.com/hotels/6861/hotel_indigo_grand_cayman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 78,
+          "name": "Kimpton Seafire Resort",
+          "url": "https://solo5estrellas.com/hotels/3214/kimpton_seafire_resort_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 79,
+          "name": "Ritz Carlton, Grand Cayman",
+          "url": "https://solo5estrellas.com/hotels/1512/ritz_carlton,_grand_cayman_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 80,
+          "name": "The Westin Grand Cayman Seven Mile Beach Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3788/the_westin_grand_cayman_seven_mile_beach_resort_&_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 81,
+          "name": "Aurora Anguilla Resort & Golf Club",
+          "url": "https://solo5estrellas.com/hotels/3577/aurora_anguilla_resort_&_golf_club_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 82,
+          "name": "Belmond Cap Juluca",
+          "url": "https://solo5estrellas.com/hotels/2563/belmond_cap_juluca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 83,
+          "name": "Four Seasons Resort Anguilla",
+          "url": "https://solo5estrellas.com/hotels/3133/four_seasons_resort_anguilla_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 84,
+          "name": "Malliouhana, Auberge Collection",
+          "url": "https://solo5estrellas.com/hotels/3706/malliouhana,_auberge_collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 85,
+          "name": "Zemi Beach House",
+          "url": "https://solo5estrellas.com/hotels/3665/zemi_beach_house.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 86,
+          "name": "The Inn at English Harbour",
+          "url": "https://solo5estrellas.com/hotels/4272/the_inn_at_english_harbour.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 87,
+          "name": "Curtain Bluff All Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/1218/curtain_bluff<br>*all_inclusive_resort*.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 88,
+          "name": "Jumby Bay Island Resort",
+          "url": "https://solo5estrellas.com/hotels/1124/jumby_bay_island_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 89,
+          "name": "Carlisle Bay",
+          "url": "https://solo5estrellas.com/hotels/1356/carlisle_bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 90,
+          "name": "Hermitage Bay",
+          "url": "https://solo5estrellas.com/hotels/2911/hermitage_bay_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 91,
+          "name": "Renaissance Windcreek Aruba",
+          "url": "https://solo5estrellas.com/hotels/4734/renaissance_windcreek_aruba.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 92,
+          "name": "Aruba Marriott Resort & Stellaris Casino",
+          "url": "https://solo5estrellas.com/hotels/3749/aruba_marriott_resort_&_stellaris_casino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 93,
+          "name": "Hyatt Regency Aruba Resort & Casino",
+          "url": "https://solo5estrellas.com/hotels/2078/hyatt_regency_aruba_resort_&_casino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 94,
+          "name": "St. Regis Aruba Resort",
+          "url": "https://solo5estrellas.com/hotels/6792/st._regis_aruba_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 95,
+          "name": "The Ritz-Carlton, Aruba",
+          "url": "https://solo5estrellas.com/hotels/2754/the_ritz-carlton,_aruba.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 96,
+          "name": "Moskito Island",
+          "url": "https://solo5estrellas.com/hotels/4255/moskito_island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 97,
+          "name": "The Branson Beach Estate",
+          "url": "https://solo5estrellas.com/hotels/7159/the_branson_beach_estate.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 98,
+          "name": "Necker Island",
+          "url": "https://solo5estrellas.com/hotels/964/necker_island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 99,
+          "name": "Scrub Island Resort, Spa & Marina",
+          "url": "https://solo5estrellas.com/hotels/3797/scrub_island_resort,_spa_&_marina.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 100,
+          "name": "Rosewood Little Dix Bay",
+          "url": "https://solo5estrellas.com/hotels/3938/rosewood_little_dix_bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 101,
+          "name": "Cheval Blanc St Barth Isle de France",
+          "url": "https://solo5estrellas.com/hotels/954/cheval_blanc_st_barth_isle_de_france.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 102,
+          "name": "Eden Rock Hotel",
+          "url": "https://solo5estrellas.com/hotels/1116/eden_rock_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 103,
+          "name": "Hôtel Barrière Le Carl Gustaf Saint-Barth",
+          "url": "https://solo5estrellas.com/hotels/6304/hôtel_barrière_le_carl_gustaf_saint-barth.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 104,
+          "name": "Le Barthelemy Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/3629/le_barthelemy_hotel_&_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 105,
+          "name": "Le Sereno Hotel St. Barths",
+          "url": "https://solo5estrellas.com/hotels/6349/le_sereno_hotel_st._barths.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 106,
+          "name": "Fairmont Hamilton Princess & Beach Club",
+          "url": "https://solo5estrellas.com/hotels/1226/fairmont_hamilton_princess_&_beach_club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 107,
+          "name": "Rosewood Bermuda",
+          "url": "https://solo5estrellas.com/hotels/2460/rosewood_bermuda.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 108,
+          "name": "Cambridge Beaches Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/940/cambridge_beaches_resort_&_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 109,
+          "name": "The St. Regis Bermuda Resort",
+          "url": "https://solo5estrellas.com/hotels/4838/the_st._regis_bermuda_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 110,
+          "name": "Buoy Haus Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/6563/buoy_haus_beach_resort_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 111,
+          "name": "The Ritz-Carlton, St. Thomas",
+          "url": "https://solo5estrellas.com/hotels/4101/the_ritz-carlton,_st._thomas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 112,
+          "name": "The Westin Beach Resort & Spa at Frenchman’s Reef",
+          "url": "https://solo5estrellas.com/hotels/6658/the_westin_beach_resort_&_spa_at_frenchman’s_reef_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 113,
+          "name": "Curacao Marriott Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/4737/curacao_marriott_beach_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 114,
+          "name": "Renaissance Curacao Resort & Casino",
+          "url": "https://solo5estrellas.com/hotels/4718/renaissance_curacao_resort_&_casino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 115,
+          "name": "Four Seasons Resort Nevis",
+          "url": "https://solo5estrellas.com/hotels/1422/four_seasons_resort_nevis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 116,
+          "name": "Park Hyatt St. Kitts",
+          "url": "https://solo5estrellas.com/hotels/3108/park_hyatt_st._kitts.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 117,
+          "name": "La Samanna",
+          "url": "https://solo5estrellas.com/hotels/1441/la_samanna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 118,
+          "name": "JW Marriott St. Maarten Beach Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6984/jw_marriott_st._maarten_beach_resort_&_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 119,
+          "name": "The Liming Bequia",
+          "url": "https://solo5estrellas.com/hotels/4291/the_liming_bequia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 120,
+          "name": "Petit St. Vincent",
+          "url": "https://solo5estrellas.com/hotels/4292/petit_st._vincent.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 121,
+          "name": "Secret Bay",
+          "url": "https://solo5estrellas.com/hotels/7027/secret_bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 122,
+          "name": "Six Senses La Sagesse",
+          "url": "https://solo5estrellas.com/hotels/6589/six_senses_la_sagesse.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 123,
+          "name": "French Coco",
+          "url": "https://solo5estrellas.com/hotels/4288/french_coco.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en El Caribe en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "123 hoteles en 22 países y territorios. Los países con más hoteles son República Dominicana, Islas Turcas y Caicos, Puerto Rico."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué países de El Caribe tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "República Dominicana (20), Islas Turcas y Caicos (15), Puerto Rico (10). La tabla de esta página muestra el recuento de cada país y sus ciudades con más hoteles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en El Caribe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (31), Small Luxury Hotels of The World (12), Leading Hotels of the World (10), Ritz Carlton Hotels & Resorts (7), St. Regis Hotels & Resorts (5). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por país y ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sudamérica",
+          "item": "https://solo5estrellas.com/regions/13/sudamerica.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/regions/13/sudamerica.html#webpage",
+      "url": "https://solo5estrellas.com/regions/13/sudamerica.html",
+      "name": "Hoteles de lujo en Sudamérica: 73 hoteles en 8 países",
+      "description": "Explore 73 hoteles de lujo en 8 países de Sudamérica, de Colombia, Perú, Brasil, con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Sudamérica"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/regions/13/sudamerica.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/regions/13/sudamerica.html#hotels",
+      "name": "Hoteles de lujo en Sudamérica",
+      "numberOfItems": 73,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Four Seasons Hotel Bogota",
+          "url": "https://solo5estrellas.com/hotels/3069/four_seasons_hotel_bogota.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Four Seasons Hotel Casa Medina Bogota",
+          "url": "https://solo5estrellas.com/hotels/3043/four_seasons_hotel_casa_medina_bogota.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Grand Hyatt Bogota",
+          "url": "https://solo5estrellas.com/hotels/3637/grand_hyatt_bogota.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "JW Marriott Hotel Bogota",
+          "url": "https://solo5estrellas.com/hotels/3709/jw_marriott_hotel_bogota.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sofitel Bogota Victoria Regia",
+          "url": "https://solo5estrellas.com/hotels/4852/sofitel_bogota_victoria_regia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "W Bogota Hotel",
+          "url": "https://solo5estrellas.com/hotels/2973/w_bogota_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Movich Casa de Alferez",
+          "url": "https://solo5estrellas.com/hotels/4327/movich_casa_de_alferez.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Casa Pestagua",
+          "url": "https://solo5estrellas.com/hotels/6731/casa_pestagua.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Four Seasons Resort & Residences Cartagena",
+          "url": "https://solo5estrellas.com/hotels/6868/four_seasons_resort_&_residences_cartagena.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "HOTEL CASA SAN AGUSTIN",
+          "url": "https://solo5estrellas.com/hotels/6609/hotel_casa_san_agustin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Hotel Charleston Santa Teresa",
+          "url": "https://solo5estrellas.com/hotels/4511/hotel_charleston_santa_teresa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Hotel Las Islas Baru",
+          "url": "https://solo5estrellas.com/hotels/6421/hotel_las_islas_baru.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Hyatt Regency Cartagena",
+          "url": "https://solo5estrellas.com/hotels/3648/hyatt_regency_cartagena.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "InterContinental Cartagena de Indias",
+          "url": "https://solo5estrellas.com/hotels/4771/intercontinental_cartagena_de_indias.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Movich Cartagena de Indias",
+          "url": "https://solo5estrellas.com/hotels/4328/movich_cartagena_de_indias.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Sofitel Baru Calablanca Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/6608/sofitel_baru_calablanca_beach_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Sofitel Hotel Boutique Bovedas de Santa Clara",
+          "url": "https://solo5estrellas.com/hotels/4853/sofitel_hotel_boutique_bovedas_de_santa_clara_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Sofitel Legend Santa Clara Cartagena",
+          "url": "https://solo5estrellas.com/hotels/4752/sofitel_legend_santa_clara_cartagena.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Santa Marta Marriott Resort Playa Dormida",
+          "url": "https://solo5estrellas.com/hotels/4693/santa_marta_marriott_resort_playa_dormida.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Belmond Las Casitas",
+          "url": "https://solo5estrellas.com/hotels/3280/belmond_las_casitas_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Belmond Hotel Monasterio",
+          "url": "https://solo5estrellas.com/hotels/1077/belmond_hotel_monasterio_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Belmond Hotel Rio Sagrado",
+          "url": "https://solo5estrellas.com/hotels/2461/belmond_hotel_rio_sagrado.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Belmond Palacio Nazarenas",
+          "url": "https://solo5estrellas.com/hotels/2623/belmond_palacio_nazarenas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Explora Valle Sagrado",
+          "url": "https://solo5estrellas.com/hotels/3232/explora_valle_sagrado.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "JW Marriott El Convento Cusco",
+          "url": "https://solo5estrellas.com/hotels/3743/jw_marriott_el_convento_cusco.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Palacio del Inka, a Luxury Collection Hotel, Cusco",
+          "url": "https://solo5estrellas.com/hotels/2796/palacio_del_inka,_a_luxury_collection_hotel,_cusco.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Belmond Miraflores Park",
+          "url": "https://solo5estrellas.com/hotels/1519/belmond_miraflores_park_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Hyatt Centric San Isidro Lima",
+          "url": "https://solo5estrellas.com/hotels/3934/hyatt_centric_san_isidro_lima.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "JW Marriott Hotel Lima",
+          "url": "https://solo5estrellas.com/hotels/3718/jw_marriott_hotel_lima.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Manto Hotel Lima - Mgallery",
+          "url": "https://solo5estrellas.com/hotels/6164/manto_hotel_lima_-_mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Royal Park Hotel Lima",
+          "url": "https://solo5estrellas.com/hotels/4329/royal_park_hotel_lima.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Swissotel Lima",
+          "url": "https://solo5estrellas.com/hotels/4856/swissotel_lima_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Westin Lima Hotel & Convention Center",
+          "url": "https://solo5estrellas.com/hotels/2737/westin_lima_hotel_&_convention_center.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Belmond Sanctuary Lodge",
+          "url": "https://solo5estrellas.com/hotels/1990/belmond_sanctuary_lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Hotel Paracas",
+          "url": "https://solo5estrellas.com/hotels/2798/hotel_paracas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Tambo del Inka, a Luxury Collection Resort & Spa, Valle Sagrado",
+          "url": "https://solo5estrellas.com/hotels/2797/tambo_del_inka,_a_luxury_collection_resort_&_spa,_valle_sagrado.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Kenoa Beach Spa and Resort",
+          "url": "https://solo5estrellas.com/hotels/2778/kenoa_beach_spa_and_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Belmond Hotel das Cataratas",
+          "url": "https://solo5estrellas.com/hotels/2324/belmond_hotel_das_cataratas__.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Belmond Copacabana Palace",
+          "url": "https://solo5estrellas.com/hotels/942/belmond_copacabana_palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Fairmont Rio de Janeiro Copacabana",
+          "url": "https://solo5estrellas.com/hotels/4849/fairmont_rio_de_janeiro_copacabana_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Grand Hyatt Rio de Janeiro",
+          "url": "https://solo5estrellas.com/hotels/3416/grand_hyatt_rio_de_janeiro.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "JW Marriott Hotel Rio de Janeiro",
+          "url": "https://solo5estrellas.com/hotels/4725/jw_marriott_hotel_rio_de_janeiro.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Barracuda Hotel and Villas",
+          "url": "https://solo5estrellas.com/hotels/6379/barracuda_hotel_and_villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Grand Hyatt Sao Paulo",
+          "url": "https://solo5estrellas.com/hotels/2958/grand_hyatt_sao_paulo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "InterContinental Sao Paulo",
+          "url": "https://solo5estrellas.com/hotels/3522/intercontinental_sao_paulo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Renaissance Sao Paulo Hotel",
+          "url": "https://solo5estrellas.com/hotels/3764/renaissance_sao_paulo_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Rosewood Sao Paulo",
+          "url": "https://solo5estrellas.com/hotels/6069/rosewood_sao_paulo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "W Sao Paulo",
+          "url": "https://solo5estrellas.com/hotels/6794/w_sao_paulo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Arelauquen Lodge, a Tribute Portfolio",
+          "url": "https://solo5estrellas.com/hotels/3841/arelauquen_lodge,_a_tribute_portfolio.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Four Seasons Hotel Buenos Aires",
+          "url": "https://solo5estrellas.com/hotels/1281/four_seasons_hotel_buenos_aires.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Palacio Duhau - Park Hyatt Buenos Aires",
+          "url": "https://solo5estrellas.com/hotels/1810/palacio_duhau_-_park_hyatt_buenos_aires_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Palladio Hotel Buenos Aires - MGallery",
+          "url": "https://solo5estrellas.com/hotels/6446/palladio_hotel_buenos_aires_-_mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Park Tower",
+          "url": "https://solo5estrellas.com/hotels/2794/park_tower.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "SLS Buenos Aires Puerto Madero",
+          "url": "https://solo5estrellas.com/hotels/6145/sls_buenos_aires_puerto_madero.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Sofitel Buenos Aires Recoleta",
+          "url": "https://solo5estrellas.com/hotels/4858/sofitel_buenos_aires_recoleta_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Sofitel La Reserva Cardales",
+          "url": "https://solo5estrellas.com/hotels/4859/sofitel_la_reserva_cardales_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Explora El Chalten",
+          "url": "https://solo5estrellas.com/hotels/6629/explora_el_chalten.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "Park Hyatt Mendoza Hotel",
+          "url": "https://solo5estrellas.com/hotels/1811/park_hyatt_mendoza_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Gran Melia Iguazu",
+          "url": "https://solo5estrellas.com/hotels/4259/gran_melia_iguazu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "explora en Rapa Nui, Posada de Mike",
+          "url": "https://solo5estrellas.com/hotels/1821/explora_en_rapa_nui,_posada_de_mike_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "Explora Patagonia Torres Del Paine",
+          "url": "https://solo5estrellas.com/hotels/1464/explora_patagonia_torres_del_paine.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "The Singular Patagonia",
+          "url": "https://solo5estrellas.com/hotels/2590/the_singular_patagonia_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "explora Atacama",
+          "url": "https://solo5estrellas.com/hotels/2047/explora_atacama.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "Hyatt Centric Las Condes Santiago",
+          "url": "https://solo5estrellas.com/hotels/3906/hyatt_centric_las_condes_santiago.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Mandarin Oriental Santiago",
+          "url": "https://solo5estrellas.com/hotels/2044/mandarin_oriental_santiago.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Renaissance Santiago Hotel",
+          "url": "https://solo5estrellas.com/hotels/3738/renaissance_santiago_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "The Ritz-Carlton, Santiago",
+          "url": "https://solo5estrellas.com/hotels/3347/the_ritz-carlton,_santiago.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "W Santiago",
+          "url": "https://solo5estrellas.com/hotels/2634/w_santiago_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Hotel Costanero Montevideo - Mgallery",
+          "url": "https://solo5estrellas.com/hotels/6165/hotel_costanero_montevideo_-_mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "Hotel Sofitel Montevideo Casino Carrasco and Spa",
+          "url": "https://solo5estrellas.com/hotels/4857/hotel_sofitel_montevideo_casino_carrasco_and_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Hyatt Centric Montevideo",
+          "url": "https://solo5estrellas.com/hotels/3904/hyatt_centric_montevideo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "JW Marriott Quito",
+          "url": "https://solo5estrellas.com/hotels/6985/jw_marriott_quito.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "name": "Alexander Hotel",
+          "url": "https://solo5estrellas.com/hotels/6853/alexander_hotel.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Sudamérica en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "73 hoteles en 8 países y territorios. Los países con más hoteles son Colombia, Perú, Brasil."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué países de Sudamérica tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Colombia (19), Perú (17), Brasil (12). La tabla de esta página muestra el recuento de cada país y sus ciudades con más hoteles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Sudamérica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (12), Belmond Bellini Club (8), Sofitel Hotels (6), Small Luxury Hotels of The World (5), JW Marriott Hotel (5). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por país y ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Canadá",
+          "item": "https://solo5estrellas.com/regions/16/canada.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/regions/16/canada.html#webpage",
+      "url": "https://solo5estrellas.com/regions/16/canada.html",
+      "name": "Hoteles de lujo en Canadá: 39 hoteles",
+      "description": "Explore 39 hoteles de lujo en Canadá con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Canadá"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/regions/16/canada.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/regions/16/canada.html#hotels",
+      "name": "Hoteles de lujo en Canadá",
+      "numberOfItems": 39,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Fairmont Banff Springs",
+          "url": "https://solo5estrellas.com/hotels/1203/fairmont_banff_springs.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rimrock Banff Resort",
+          "url": "https://solo5estrellas.com/hotels/7086/rimrock_banff_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hyatt Regency Calgary",
+          "url": "https://solo5estrellas.com/hotels/3420/hyatt_regency_calgary.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "JW Marriott Edmonton ICE Disctrict",
+          "url": "https://solo5estrellas.com/hotels/3924/jw_marriott_edmonton_ice_disctrict.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Muir",
+          "url": "https://solo5estrellas.com/hotels/6886/muir.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "The Fairmont Jasper Park Lodge",
+          "url": "https://solo5estrellas.com/hotels/1459/the_fairmont_jasper_park_lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Fairmont Chateau Lake Louise",
+          "url": "https://solo5estrellas.com/hotels/1202/the_fairmont_chateau_lake_louise.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Fairmont The Queen Elizabeth Hotel",
+          "url": "https://solo5estrellas.com/hotels/1209/fairmont_the_queen_elizabeth_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Four Seasons Hotel Montreal",
+          "url": "https://solo5estrellas.com/hotels/3621/four_seasons_hotel_montreal_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Humaniti Hotel Montreal, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/4735/humaniti_hotel_montreal,_autograph_collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Hyatt Regency Montreal",
+          "url": "https://solo5estrellas.com/hotels/3441/hyatt_regency_montreal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Ritz Carlton Montreal",
+          "url": "https://solo5estrellas.com/hotels/2647/ritz_carlton_montreal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Sofitel Montreal Golden Mile",
+          "url": "https://solo5estrellas.com/hotels/3199/sofitel_montreal_golden_mile.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "W Montreal",
+          "url": "https://solo5estrellas.com/hotels/2861/w_montreal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Fogo Island Inn",
+          "url": "https://solo5estrellas.com/hotels/5034/fogo_island_inn.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Andaz Ottawa Byward Market",
+          "url": "https://solo5estrellas.com/hotels/3379/andaz_ottawa_byward_market.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Fairmont Chateau Laurier",
+          "url": "https://solo5estrellas.com/hotels/1234/fairmont_chateau_laurier.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Fairmont Le Chateau Frontenac",
+          "url": "https://solo5estrellas.com/hotels/1200/fairmont_le_chateau_frontenac.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Sonora Resort All-Inclusive",
+          "url": "https://solo5estrellas.com/hotels/2894/sonora_resort__<br>_all-inclusive.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Fairmont Royal York",
+          "url": "https://solo5estrellas.com/hotels/1229/fairmont_royal_york.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Four Seasons Hotel Toronto",
+          "url": "https://solo5estrellas.com/hotels/2595/four_seasons_hotel_toronto_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Park Hyatt Toronto",
+          "url": "https://solo5estrellas.com/hotels/1362/park_hyatt_toronto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Shangri-La Toronto",
+          "url": "https://solo5estrellas.com/hotels/2904/shangri-la_toronto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "The Hazelton Hotel",
+          "url": "https://solo5estrellas.com/hotels/2663/the_hazelton_hotel_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "The Ritz-Carlton, Toronto",
+          "url": "https://solo5estrellas.com/hotels/2487/the_ritz-carlton,_toronto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "The St. Regis Toronto",
+          "url": "https://solo5estrellas.com/hotels/3592/the_st._regis_toronto_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "W Toronto",
+          "url": "https://solo5estrellas.com/hotels/4976/w_toronto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Fairmont Pacific Rim",
+          "url": "https://solo5estrellas.com/hotels/2362/fairmont_pacific_rim_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Fairmont Waterfront",
+          "url": "https://solo5estrellas.com/hotels/1882/fairmont_waterfront_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Hyatt Vancouver Downtown Alberni",
+          "url": "https://solo5estrellas.com/hotels/6992/hyatt_vancouver_downtown_alberni.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Opus Hotel Vancouver",
+          "url": "https://solo5estrellas.com/hotels/2994/opus_hotel_vancouver.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Rosewood Hotel Georgia",
+          "url": "https://solo5estrellas.com/hotels/2470/rosewood_hotel_georgia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "The DOUGLAS, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/3573/the_douglas,_autograph_collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "The Fairmont Hotel Vancouver",
+          "url": "https://solo5estrellas.com/hotels/1208/the_fairmont_hotel_vancouver.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "The Fairmont Vancouver Airport",
+          "url": "https://solo5estrellas.com/hotels/2157/the_fairmont_vancouver_airport.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Wedgewood Hotel and Spa",
+          "url": "https://solo5estrellas.com/hotels/6293/wedgewood_hotel_and_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Fairmont Empress",
+          "url": "https://solo5estrellas.com/hotels/1637/fairmont_empress.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Four Seasons Resort Whistler",
+          "url": "https://solo5estrellas.com/hotels/1354/four_seasons_resort_whistler.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "The Fairmont Chateau Whistler",
+          "url": "https://solo5estrellas.com/hotels/1026/the_fairmont_chateau_whistler.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Canadá en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "39 hoteles. Las ciudades con más hoteles son Vancouver (9), Toronto (8), Montreal (7)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Canadá tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vancouver (9), Toronto (8), Montreal (7). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Canadá?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fairmont Hotels (13), The Signature Collection (3), Four Seasons (3), Hyatt Regency Hotels (2), Autograph Collection (2). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por país y ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

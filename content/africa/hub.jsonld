@@ -1,0 +1,719 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "África",
+          "item": "https://solo5estrellas.com/regions/3/africa.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/regions/3/africa.html#webpage",
+      "url": "https://solo5estrellas.com/regions/3/africa.html",
+      "name": "Hoteles de lujo en África: 103 hoteles en 17 países",
+      "description": "Explore 103 hoteles de lujo en 17 países de África, de Marruecos, Sudáfrica, Kenia, con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "África"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/regions/3/africa.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/regions/3/africa.html#hotels",
+      "name": "Hoteles de lujo en África",
+      "numberOfItems": 103,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Sofitel Agadir Thalassa Sea & Spa",
+          "url": "https://solo5estrellas.com/hotels/6952/sofitel_agadir_thalassa_sea_&_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Four Seasons Hotel Casablanca",
+          "url": "https://solo5estrellas.com/hotels/3040/four_seasons_hotel_casablanca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sofitel Casablanca Tour Blanche",
+          "url": "https://solo5estrellas.com/hotels/6133/sofitel_casablanca_tour_blanche.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Mazagan Beach & Golf Resort",
+          "url": "https://solo5estrellas.com/hotels/2552/mazagan_beach_&_golf_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hotel Sahrai",
+          "url": "https://solo5estrellas.com/hotels/4468/hotel_sahrai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Palais Jamai",
+          "url": "https://solo5estrellas.com/hotels/7161/palais_jamai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Fairmont Royal Palm Marrakech",
+          "url": "https://solo5estrellas.com/hotels/4886/fairmont_royal_palm_marrakech_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Four Seasons Hotel Marrakech",
+          "url": "https://solo5estrellas.com/hotels/2492/four_seasons_hotel_marrakech.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Ksar Char-Bagh",
+          "url": "https://solo5estrellas.com/hotels/4469/ksar_char-bagh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "La Mamounia",
+          "url": "https://solo5estrellas.com/hotels/1043/la_mamounia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Mandarin Oriental, Marrakech",
+          "url": "https://solo5estrellas.com/hotels/6194/mandarin_oriental,_marrakech.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Nobu Hotel Marrakech",
+          "url": "https://solo5estrellas.com/hotels/6377/nobu_hotel_marrakech.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Royal Mansour Marrakech",
+          "url": "https://solo5estrellas.com/hotels/2378/royal_mansour_marrakech_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Sofitel Marrakech Palais Imperial & Spa",
+          "url": "https://solo5estrellas.com/hotels/2179/sofitel_marrakech_palais_imperial_&_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "The Oberoi Marrakech",
+          "url": "https://solo5estrellas.com/hotels/4822/the_oberoi_marrakech.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Conrad Rabat Arzana",
+          "url": "https://solo5estrellas.com/hotels/6326/conrad_rabat_arzana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Fairmont La Marina Rabat Sale",
+          "url": "https://solo5estrellas.com/hotels/6616/fairmont_la_marina_rabat_sale.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Four Seasons Rabat at Kasr Al Bahr",
+          "url": "https://solo5estrellas.com/hotels/6553/four_seasons_rabat_at_kasr_al_bahr.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Sofitel Rabat Jardin des Roses",
+          "url": "https://solo5estrellas.com/hotels/4893/sofitel_rabat_jardin_des_roses_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Fairmont Taghazout Bay",
+          "url": "https://solo5estrellas.com/hotels/4884/fairmont_taghazout_bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "St. Regis La Bahia Blanca Resort, Tamuda Bay",
+          "url": "https://solo5estrellas.com/hotels/6503/st._regis_la_bahia_blanca_resort,_tamuda_bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Fairmont Tazi Palace Tangier",
+          "url": "https://solo5estrellas.com/hotels/6610/fairmont_tazi_palace_tangier.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Belmond Mount Nelson Hotel",
+          "url": "https://solo5estrellas.com/hotels/945/belmond_mount_nelson_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Cape Cadogan Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/2948/cape_cadogan_boutique_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Erinvale Estate Hotel and Spa",
+          "url": "https://solo5estrellas.com/hotels/4548/erinvale_estate_hotel_and_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Hyatt Regency Cape Town",
+          "url": "https://solo5estrellas.com/hotels/6523/hyatt_regency_cape_town.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Last Word Constantia",
+          "url": "https://solo5estrellas.com/hotels/4549/last_word_constantia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "One&Only Cape Town",
+          "url": "https://solo5estrellas.com/hotels/2290/one&only_cape_town_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Taj Cape Town",
+          "url": "https://solo5estrellas.com/hotels/2887/taj_cape_town.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "The Silo Cape Town",
+          "url": "https://solo5estrellas.com/hotels/3210/the_silo_cape_town.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "The Twelve Apostles Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/1562/the_twelve_apostles_hotel_&_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Mont Rochelle Hotel",
+          "url": "https://solo5estrellas.com/hotels/3208/mont_rochelle_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "The Marine Hermanus",
+          "url": "https://solo5estrellas.com/hotels/4465/the_marine_hermanus.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Royal Malewane, An All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/1524/royal_malewane,_an_all-inclusive_resort_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Johannesburg Marriott Hotel Melrose Arch",
+          "url": "https://solo5estrellas.com/hotels/7093/johannesburg_marriott_hotel_melrose_arch.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Park Hyatt Johannesburg",
+          "url": "https://solo5estrellas.com/hotels/6772/park_hyatt_johannesburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Saxon Hotel, Villas & Spa",
+          "url": "https://solo5estrellas.com/hotels/2493/saxon_hotel,_villas_&_spa_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "The Westcliff, Four Seasons Hotel Johannesburg",
+          "url": "https://solo5estrellas.com/hotels/2889/the_westcliff,_four_seasons_hotel_johannesburg____________________________________________________________________________________________________________________________.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Ulusaba Private Game Reserve",
+          "url": "https://solo5estrellas.com/hotels/1120/ulusaba_private_game_reserve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Savanna Private Game",
+          "url": "https://solo5estrellas.com/hotels/2239/savanna_private_game_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "andBEYOND Phinda Private Game",
+          "url": "https://solo5estrellas.com/hotels/1224/andbeyond_phinda_private_game.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Diamonds Dream of Africa",
+          "url": "https://solo5estrellas.com/hotels/4486/diamonds_dream_of_africa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Fairmont Mara Safari Club",
+          "url": "https://solo5estrellas.com/hotels/2373/fairmont_mara_safari_club.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Mahali Mzuri Safari Camp",
+          "url": "https://solo5estrellas.com/hotels/3551/mahali_mzuri_safari_camp.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Ritz-Carlton, Masai Mara Safari Camp",
+          "url": "https://solo5estrellas.com/hotels/7007/ritz-carlton,_masai_mara_safari_camp.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Fairmont The Norfolk",
+          "url": "https://solo5estrellas.com/hotels/2375/fairmont_the_norfolk_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Hemingways Nairobi",
+          "url": "https://solo5estrellas.com/hotels/6073/hemingways_nairobi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "JW Marriott Hotel Nairobi",
+          "url": "https://solo5estrellas.com/hotels/6986/jw_marriott_hotel_nairobi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Karen Blixen Camp",
+          "url": "https://solo5estrellas.com/hotels/3311/karen_blixen_camp.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Sankara Nairobi, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/7024/sankara_nairobi,_autograph_collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "JW Marriott Mount Kenya Rhino Reserve Safari Camp",
+          "url": "https://solo5estrellas.com/hotels/7061/_jw_marriott_mount_kenya_rhino_reserve_safari_camp.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Fairmont Mount Kenya Safari Club",
+          "url": "https://solo5estrellas.com/hotels/2376/fairmont_mount_kenya_safari_club__.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Four Seasons Hotel Alexandria",
+          "url": "https://solo5estrellas.com/hotels/1840/four_seasons_hotel_alexandria.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Sofitel Legend Old Cataract Aswan",
+          "url": "https://solo5estrellas.com/hotels/2548/sofitel_legend_old_cataract_aswan_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Fairmont Nile City Hotel",
+          "url": "https://solo5estrellas.com/hotels/6131/fairmont_nile_city_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Four Seasons Cairo at The First Residence",
+          "url": "https://solo5estrellas.com/hotels/1137/four_seasons_cairo_at_the_first_residence.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Four Seasons Hotel Cairo at Nile Plaza",
+          "url": "https://solo5estrellas.com/hotels/1410/four_seasons_hotel_cairo_at_nile_plaza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "JW Marriott Hotel Cairo",
+          "url": "https://solo5estrellas.com/hotels/4983/jw_marriott_hotel_cairo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Renaissance Cairo Mirage City Hotel",
+          "url": "https://solo5estrellas.com/hotels/6922/renaissance_cairo_mirage_city_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "The Nile Ritz Carlton, Cairo",
+          "url": "https://solo5estrellas.com/hotels/3218/the_nile_ritz_carlton,_cairo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "The Westin Cairo Golf Resort & Spa, Katameya Dunes",
+          "url": "https://solo5estrellas.com/hotels/6921/the_westin_cairo_golf_resort_&_spa,_katameya_dunes.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Four Seasons Resort Sharm El Sheikh",
+          "url": "https://solo5estrellas.com/hotels/1846/four_seasons_resort_sharm_el_sheikh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Gran Melia Arusha",
+          "url": "https://solo5estrellas.com/hotels/4260/gran_melia_arusha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "Hyatt Regency Dar es Salaam, The Kilimanjaro",
+          "url": "https://solo5estrellas.com/hotels/3653/hyatt_regency_dar_es_salaam,_the_kilimanjaro.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Elewana The Manor at Ngorongoro",
+          "url": "https://solo5estrellas.com/hotels/3568/elewana_the_manor_at_ngorongoro.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Amani Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/4449/amani_boutique_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "Four Seasons Safari Lodge Serengeti",
+          "url": "https://solo5estrellas.com/hotels/2682/four_seasons_safari_lodge_serengeti.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "Meliá Serengeti Lodge",
+          "url": "https://solo5estrellas.com/hotels/4237/meliá_serengeti_lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Singita Faru Faru Lodge",
+          "url": "https://solo5estrellas.com/hotels/6655/singita_faru_faru_lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "Singita Sabora Tented Camp",
+          "url": "https://solo5estrellas.com/hotels/1924/singita_sabora_tented_camp.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Singita Sasakwa Lodge",
+          "url": "https://solo5estrellas.com/hotels/6654/singita_sasakwa_lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "Park Hyatt Zanzibar",
+          "url": "https://solo5estrellas.com/hotels/3445/park_hyatt_zanzibar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "name": "St. Regis Le Morne Resort",
+          "url": "https://solo5estrellas.com/hotels/6867/_st._regis_le_morne_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 74,
+          "name": "Four Seasons Resort Mauritius",
+          "url": "https://solo5estrellas.com/hotels/2281/four_seasons_resort_mauritius.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 75,
+          "name": "Heritage Le Telfair Golf & Wellness Resort",
+          "url": "https://solo5estrellas.com/hotels/4287/heritage_le_telfair_golf_&_wellness_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 76,
+          "name": "Le Méridien Ile Maurice",
+          "url": "https://solo5estrellas.com/hotels/6723/le_méridien_ile_maurice.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 77,
+          "name": "Paradise Cove Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/4289/paradise_cove_boutique_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 78,
+          "name": "Shangri-La's Le Touessrok Resort & Spa, Mauritius",
+          "url": "https://solo5estrellas.com/hotels/3087/shangri-la's_le_touessrok_resort_&_spa,_mauritius.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 79,
+          "name": "Four Seasons Resort Seychelles",
+          "url": "https://solo5estrellas.com/hotels/2287/four_seasons_resort_seychelles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 80,
+          "name": "Four Seasons Resort Seychelles at Desroches Island",
+          "url": "https://solo5estrellas.com/hotels/3289/four_seasons_resort_seychelles_at_desroches_island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 81,
+          "name": "Mango House Seychelles",
+          "url": "https://solo5estrellas.com/hotels/4651/mango_house_seychelles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 82,
+          "name": "North Island, a Luxury Collection Resort, Seychelles",
+          "url": "https://solo5estrellas.com/hotels/4045/north_island,_a_luxury_collection_resort,_seychelles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 83,
+          "name": "Raffles Seychelles",
+          "url": "https://solo5estrellas.com/hotels/4898/raffles_seychelles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 84,
+          "name": "The St. Regis Amman",
+          "url": "https://solo5estrellas.com/hotels/3885/the_st._regis_amman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 85,
+          "name": "Al Manara",
+          "url": "https://solo5estrellas.com/hotels/3863/al_manara.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 86,
+          "name": "Hyatt Regency Aqaba Ayla",
+          "url": "https://solo5estrellas.com/hotels/4204/hyatt_regency_aqaba_ayla.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 87,
+          "name": "Dead Sea Marriott Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3755/dead_sea_marriott_resort_&_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 88,
+          "name": "Belmond Khwai River Lodge",
+          "url": "https://solo5estrellas.com/hotels/1676/belmond_khwai_river_lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 89,
+          "name": "Jack's Camp",
+          "url": "https://solo5estrellas.com/hotels/4270/jack's_camp.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 90,
+          "name": "Belmond Savute Elephant Lodge",
+          "url": "https://solo5estrellas.com/hotels/2463/belmond_savute_elephant_lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 91,
+          "name": "Maison Dedine",
+          "url": "https://solo5estrellas.com/hotels/6171/maison_dedine.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 92,
+          "name": "Movenpick Resort And Marine Spa Sousse",
+          "url": "https://solo5estrellas.com/hotels/4901/movenpick_resort_and_marine_spa_sousse.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 93,
+          "name": "Four Seasons Hotel Tunis",
+          "url": "https://solo5estrellas.com/hotels/3273/four_seasons_hotel_tunis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 94,
+          "name": "Hyatt Regency Addis Ababa",
+          "url": "https://solo5estrellas.com/hotels/4631/hyatt_regency_addis_ababa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 95,
+          "name": "Sheraton Addis",
+          "url": "https://solo5estrellas.com/hotels/2818/sheraton_addis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 96,
+          "name": "Habitas Namibia",
+          "url": "https://solo5estrellas.com/hotels/6345/habitas_namibia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 97,
+          "name": "Little Kulala",
+          "url": "https://solo5estrellas.com/hotels/2851/little_kulala.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 98,
+          "name": "One & Only Gorilla's Nest",
+          "url": "https://solo5estrellas.com/hotels/4610/one_&_only_gorilla's_nest.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 99,
+          "name": "One&Only Nyungwe House",
+          "url": "https://solo5estrellas.com/hotels/4271/one&only_nyungwe_house.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 100,
+          "name": "Anantara Bazaruto Island Resort",
+          "url": "https://solo5estrellas.com/hotels/5047/anantara_bazaruto_island_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 101,
+          "name": "Kempinski Hotel Brazzaville",
+          "url": "https://solo5estrellas.com/hotels/7066/kempinski_hotel_brazzaville_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 102,
+          "name": "The Royal Livingstone Hotel Victoria Falls Zambia by Anantara",
+          "url": "https://solo5estrellas.com/hotels/1708/the_royal_livingstone_hotel_victoria_falls_zambia_by_anantara.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 103,
+          "name": "Anantara Stanley and Livingstone Victoria Falls Hotel",
+          "url": "https://solo5estrellas.com/hotels/7052/anantara_stanley_and_livingstone_victoria_falls_hotel.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en África en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "103 hoteles en 17 países y territorios. Los países con más hoteles son Marruecos, Sudáfrica, Kenia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué países de África tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Marruecos (22), Sudáfrica (19), Kenia (11). La tabla de esta página muestra el recuento de cada país y sus ciudades con más hoteles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en África?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (24), Four Seasons (13), Small Luxury Hotels of The World (10), Fairmont Hotels (6), Sofitel Hotels (5). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por país y ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

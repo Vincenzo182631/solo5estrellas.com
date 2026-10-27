@@ -11,3 +11,6 @@ Found while drafting 62 chain pages and 11 other pages. The editor decides what 
 
 ## For the editor (see the decision sheet)
 Wrong brand assignment (about 25 records), residences, villas and estates listed as hotels, hotels in Russia and Ukraine, a wrong city (Kea Island in "Atenas") and one brand-name spelling.
+
+## Region pages (added 27 Oct)
+All twelve region pages show every hotel under one country heading; add country headings. English hreflang on every region page points to WhataHotel `/region/{id}/…`, which returns 404; use `/regions/{id}/…` (see `hreflang-map.csv`). Region membership is inconsistent (Z106): decide the region of each country and assign hotels by country.

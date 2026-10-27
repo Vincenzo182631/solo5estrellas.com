@@ -1,0 +1,491 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Oceanía",
+          "item": "https://solo5estrellas.com/regions/5/oceania.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/regions/5/oceania.html#webpage",
+      "url": "https://solo5estrellas.com/regions/5/oceania.html",
+      "name": "Hoteles de lujo en Oceanía: 65 hoteles en 4 países",
+      "description": "Explore 65 hoteles de lujo en 4 países de Oceanía, de Australia, Nueva Zelanda, Fiyi, con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Oceanía"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/regions/5/oceania.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/regions/5/oceania.html#hotels",
+      "name": "Hoteles de lujo en Oceanía",
+      "numberOfItems": 65,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Longitude 131",
+          "url": "https://solo5estrellas.com/hotels/1753/longitude_131_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel Indigo Adelaide Markets",
+          "url": "https://solo5estrellas.com/hotels/4760/hotel_indigo_adelaide_markets.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mount Lofty House",
+          "url": "https://solo5estrellas.com/hotels/6314/mount_lofty_house_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Sequoia Adelaide Hills",
+          "url": "https://solo5estrellas.com/hotels/6191/sequoia_adelaide_hills.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sofitel Adelaide",
+          "url": "https://solo5estrellas.com/hotels/6148/sofitel_adelaide.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Sofitel Brisbane Central",
+          "url": "https://solo5estrellas.com/hotels/6149/sofitel_brisbane_central.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "W Brisbane",
+          "url": "https://solo5estrellas.com/hotels/3533/w_brisbane.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Shangri-La Hotel, The Marina, Cairns",
+          "url": "https://solo5estrellas.com/hotels/2579/shangri-la_hotel,_the_marina,_cairns.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "The Reef House Palm Cove",
+          "url": "https://solo5estrellas.com/hotels/6212/the_reef_house_palm_cove.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Park Hyatt Canberra",
+          "url": "https://solo5estrellas.com/hotels/3419/park_hyatt_canberra.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "InterContinental Hayman Island Resort",
+          "url": "https://solo5estrellas.com/hotels/3609/intercontinental_hayman_island_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Lizard Island Resort",
+          "url": "https://solo5estrellas.com/hotels/1771/lizard_island_resort_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Crown Towers Melbourne",
+          "url": "https://solo5estrellas.com/hotels/6078/crown_towers_melbourne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Grand Hyatt Melbourne",
+          "url": "https://solo5estrellas.com/hotels/3223/grand_hyatt_melbourne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Hotel Chadstone Melbourne MGallery by Sofitel",
+          "url": "https://solo5estrellas.com/hotels/6157/hotel_chadstone_melbourne_mgallery_by_sofitel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Hyatt Centric Melbourne",
+          "url": "https://solo5estrellas.com/hotels/6224/hyatt_centric_melbourne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "InterContinental Melbourne The Rialto",
+          "url": "https://solo5estrellas.com/hotels/4795/intercontinental_melbourne_the_rialto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Langham Hotel, Melbourne",
+          "url": "https://solo5estrellas.com/hotels/1247/langham_hotel,_melbourne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Park Hyatt Melbourne",
+          "url": "https://solo5estrellas.com/hotels/1895/park_hyatt_melbourne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Ritz Carlton Melbourne",
+          "url": "https://solo5estrellas.com/hotels/6386/ritz_carlton_melbourne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Sofitel Melbourne on Collins",
+          "url": "https://solo5estrellas.com/hotels/6159/sofitel_melbourne_on_collins.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "The Standard Melbourne",
+          "url": "https://solo5estrellas.com/hotels/6881/the_standard_melbourne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "W Melbourne",
+          "url": "https://solo5estrellas.com/hotels/5010/w_melbourne_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Crown Towers Perth",
+          "url": "https://solo5estrellas.com/hotels/6079/crown_towers_perth.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Hyatt Regency Perth",
+          "url": "https://solo5estrellas.com/hotels/3438/hyatt_regency_perth.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "InterContinental Perth City Centre",
+          "url": "https://solo5estrellas.com/hotels/3601/intercontinental_perth_city_centre.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "The Ritz Carlton Perth",
+          "url": "https://solo5estrellas.com/hotels/4042/the_ritz_carlton_perth.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "The Westin Perth",
+          "url": "https://solo5estrellas.com/hotels/6525/the_westin_perth.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Langham Gold Coast & Jewel Residence",
+          "url": "https://solo5estrellas.com/hotels/6218/langham_gold_coast_&_jewel_residence_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Qualia, Great Barrier Reef",
+          "url": "https://solo5estrellas.com/hotels/2593/qualia,_great_barrier_reef.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Sofitel Gold Coast Broadbeach",
+          "url": "https://solo5estrellas.com/hotels/6155/sofitel_gold_coast_broadbeach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Crown Towers Sydney",
+          "url": "https://solo5estrellas.com/hotels/5063/crown_towers_sydney.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Four Seasons Hotel Sydney",
+          "url": "https://solo5estrellas.com/hotels/1166/four_seasons_hotel_sydney.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "InterContinental Sydney",
+          "url": "https://solo5estrellas.com/hotels/3624/intercontinental_sydney.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "InterContinental Sydney Double Bay",
+          "url": "https://solo5estrellas.com/hotels/3996/intercontinental_sydney_double_bay_.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Park Hyatt Sydney",
+          "url": "https://solo5estrellas.com/hotels/986/park_hyatt_sydney.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Pier One Sydney Harbour, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/3781/pier_one_sydney_harbour,_autograph_collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Sofitel Sydney Darling Harbour",
+          "url": "https://solo5estrellas.com/hotels/3600/sofitel_sydney_darling_harbour.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Sofitel Sydney Wentworth",
+          "url": "https://solo5estrellas.com/hotels/6161/sofitel_sydney_wentworth.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "The Fullerton Hotel Sydney",
+          "url": "https://solo5estrellas.com/hotels/4525/the_fullerton_hotel_sydney.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "The Langham, Sydney",
+          "url": "https://solo5estrellas.com/hotels/1451/the_langham,_sydney.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "W Sydney",
+          "url": "https://solo5estrellas.com/hotels/6545/w_sydney.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Cordis Hotel Auckland",
+          "url": "https://solo5estrellas.com/hotels/6215/cordis_hotel_auckland.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Fable Auckland, MGallery",
+          "url": "https://solo5estrellas.com/hotels/6163/fable_auckland,_mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Park Hyatt Auckland",
+          "url": "https://solo5estrellas.com/hotels/3655/park_hyatt_auckland.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "SO/ Auckland",
+          "url": "https://solo5estrellas.com/hotels/6469/so/_auckland.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Sofitel Auckland Viaduct Harbour",
+          "url": "https://solo5estrellas.com/hotels/2955/sofitel_auckland_viaduct_harbour.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "The George",
+          "url": "https://solo5estrellas.com/hotels/4301/the_george.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Blanket Bay",
+          "url": "https://solo5estrellas.com/hotels/1782/blanket_bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Hapuku Lodge & Tree Houses",
+          "url": "https://solo5estrellas.com/hotels/3941/hapuku_lodge_&_tree_houses.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Rosewood Kauri Cliffs",
+          "url": "https://solo5estrellas.com/hotels/1243/rosewood_kauri_cliffs.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Bay of Many Coves",
+          "url": "https://solo5estrellas.com/hotels/3063/bay_of_many_coves.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Eichardt's Private Hotel",
+          "url": "https://solo5estrellas.com/hotels/4303/eichardt's_private_hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Azur Lodge",
+          "url": "https://solo5estrellas.com/hotels/3062/azur_lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Rosewood Matakauri Lodge",
+          "url": "https://solo5estrellas.com/hotels/1255/rosewood_matakauri_lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Sofitel Queenstown - Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/2369/sofitel_queenstown_-_hotel_&_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "The Marlborough",
+          "url": "https://solo5estrellas.com/hotels/6341/the_marlborough.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "Solitaire Lodge",
+          "url": "https://solo5estrellas.com/hotels/3279/solitaire_lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Treetops Lodge & Estate",
+          "url": "https://solo5estrellas.com/hotels/1231/treetops_lodge_&_estate.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "Rosewood Cape Kidnappers",
+          "url": "https://solo5estrellas.com/hotels/2468/rosewood_cape_kidnappers.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "Sofitel Wellington",
+          "url": "https://solo5estrellas.com/hotels/6698/sofitel_wellington.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Shangri-La's Fijian Resort and Spa",
+          "url": "https://solo5estrellas.com/hotels/3077/shangri-la's_fijian_resort_and_spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Six Senses Fiji",
+          "url": "https://solo5estrellas.com/hotels/3564/six_senses_fiji.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "Raiwasa Private Resort",
+          "url": "https://solo5estrellas.com/hotels/6517/raiwasa_private_resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "The Westin Bora Bora Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6918/the_westin_bora_bora_resort_&_spa.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Oceanía en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "65 hoteles en 4 países y territorios. Los países con más hoteles son Australia, Nueva Zelanda, Fiyi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué países de Oceanía tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Australia (42), Nueva Zelanda (19), Fiyi (3). La tabla de esta página muestra el recuento de cada país y sus ciudades con más hoteles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Oceanía?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (14), Sofitel Hotels (9), InterContinental Hotels & Resorts (5), Small Luxury Hotels of The World (5), Park Hyatt Hotels (4). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por país y ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}
