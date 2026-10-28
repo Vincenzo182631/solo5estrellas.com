@@ -28,7 +28,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ca
 
 ## Marcas con más hoteles en Canadá
 
-| Marca | Hoteles en la región |
+| Marca | Hoteles |
 | --- | --- |
 | [Fairmont Hotels](/collection/1/) | 13 |
 | [The Signature Collection](/collection/79/) | 3 |
@@ -47,7 +47,6 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ca
 
 ## Los 39 hoteles de Canadá
 
-**Canadá (39)**
 - Banff: [Fairmont Banff Springs](/hotels/1203/fairmont_banff_springs.html); [Rimrock Banff Resort](/hotels/7086/rimrock_banff_resort.html)
 - Calgary: [Hyatt Regency Calgary](/hotels/3420/hyatt_regency_calgary.html)
 - Edmonton: [JW Marriott Edmonton ICE Disctrict](/hotels/3924/jw_marriott_edmonton_ice_disctrict.html)
@@ -88,7 +87,7 @@ Depende de la marca y del hotel: en general desayuno diario para dos y un crédi
 
 **¿Dónde está la lista completa de hoteles?**
 
-Debajo, agrupada por país y ciudad. Los nombres de los hoteles no se traducen.
+Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 

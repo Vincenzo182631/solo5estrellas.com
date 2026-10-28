@@ -1,0 +1,635 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Emiratos Árabes Unidos",
+          "item": "https://solo5estrellas.com/countries/65/emiratos-arabes-unidos.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/65/emiratos-arabes-unidos.html#webpage",
+      "url": "https://solo5estrellas.com/countries/65/emiratos-arabes-unidos.html",
+      "name": "Hoteles de lujo en Emiratos Árabes Unidos: 89 hoteles",
+      "description": "Explore 89 hoteles de lujo en Emiratos Árabes Unidos con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Emiratos Árabes Unidos"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/65/emiratos-arabes-unidos.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/65/emiratos-arabes-unidos.html#hotels",
+      "name": "Hoteles de lujo en Emiratos Árabes Unidos",
+      "numberOfItems": 89,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Andaz Capital Gate, Abu Dhabi",
+          "url": "https://solo5estrellas.com/hotels/3633/andaz-capital-gate-abu-dhabi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Emirates Palace, Mandarin Oriental",
+          "url": "https://solo5estrellas.com/hotels/6202/emirates-palace-mandarin-oriental.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Fairmont Bab Al Bahr",
+          "url": "https://solo5estrellas.com/hotels/4922/fairmont-bab-al-bahr-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Four Seasons Hotel Abu Dhabi at Al Maryah Island",
+          "url": "https://solo5estrellas.com/hotels/3105/four-seasons-hotel-abu-dhabi-at-al-maryah-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Grand Hyatt Abu Dhabi Hotel & Residences Emirates Pearl",
+          "url": "https://solo5estrellas.com/hotels/3636/grand-hyatt-abu-dhabi-hotel-residences-emirates-pearl.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Jumeirah at Etihad Towers",
+          "url": "https://solo5estrellas.com/hotels/2738/jumeirah-at-etihad-towers-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Jumeirah at Saadiyat Island Resort",
+          "url": "https://solo5estrellas.com/hotels/4658/jumeirah-at-saadiyat-island-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Park Hyatt Abu Dhabi Hotel and Villas",
+          "url": "https://solo5estrellas.com/hotels/3902/park-hyatt-abu-dhabi-hotel-and-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Rosewood Abu Dhabi",
+          "url": "https://solo5estrellas.com/hotels/2707/rosewood-abu-dhabi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Shangri-La Hotel, Qaryat Al Beri, Abu Dhabi",
+          "url": "https://solo5estrellas.com/hotels/3101/shangri-la-hotel-qaryat-al-beri-abu-dhabi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Sofitel Abu Dhabi Corniche",
+          "url": "https://solo5estrellas.com/hotels/4929/sofitel-abu-dhabi-corniche.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "The Abu Dhabi EDITION",
+          "url": "https://solo5estrellas.com/hotels/3468/the-abu-dhabi-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "The Ritz-Carlton Abu Dhabi, Grand Canal",
+          "url": "https://solo5estrellas.com/hotels/2685/the-ritz-carlton-abu-dhabi-grand-canal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "The St. Regis Abu Dhabi",
+          "url": "https://solo5estrellas.com/hotels/2968/the-st-regis-abu-dhabi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "The St. Regis Saadiyat Island Resort",
+          "url": "https://solo5estrellas.com/hotels/2601/the-st-regis-saadiyat-island-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Ajman Saray Resort",
+          "url": "https://solo5estrellas.com/hotels/2847/ajman-saray-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Fairmont Ajman",
+          "url": "https://solo5estrellas.com/hotels/4926/fairmont-ajman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "InterContinental Fujairah Resort",
+          "url": "https://solo5estrellas.com/hotels/4004/intercontinental-fujairah-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Al Maha",
+          "url": "https://solo5estrellas.com/hotels/2817/al-maha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Anantara World Islands Dubai Resort",
+          "url": "https://solo5estrellas.com/hotels/6098/anantara-world-islands-dubai-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Andaz Dubai The Palm",
+          "url": "https://solo5estrellas.com/hotels/4122/andaz-dubai-the-palm.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Atlantis The Royal",
+          "url": "https://solo5estrellas.com/hotels/6333/atlantis-the-royal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Bvlgari Hotel, Dubai",
+          "url": "https://solo5estrellas.com/hotels/3492/bvlgari-hotel-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Conrad Dubai",
+          "url": "https://solo5estrellas.com/hotels/4161/conrad-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Fairmont Dubai Hotel",
+          "url": "https://solo5estrellas.com/hotels/4924/fairmont-dubai-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Fairmont The Palm Dubai",
+          "url": "https://solo5estrellas.com/hotels/4923/fairmont-the-palm-dubai-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Four Seasons Dubai at Jumeirah Beach",
+          "url": "https://solo5estrellas.com/hotels/2903/four-seasons-dubai-at-jumeirah-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Four Seasons Dubai DIFC",
+          "url": "https://solo5estrellas.com/hotels/3112/four-seasons-dubai-difc.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Grand Hyatt Dubai",
+          "url": "https://solo5estrellas.com/hotels/3404/grand-hyatt-dubai-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Grosvenor House",
+          "url": "https://solo5estrellas.com/hotels/1769/grosvenor-house-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Habtoor Grand Resort, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/3798/habtoor-grand-resort-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Habtoor Palace Dubai",
+          "url": "https://solo5estrellas.com/hotels/4162/habtoor-palace-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Hotel Indigo Dubai Downtown",
+          "url": "https://solo5estrellas.com/hotels/4762/hotel-indigo-dubai-downtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Hyatt Centric Jumeirah Dubai",
+          "url": "https://solo5estrellas.com/hotels/6120/hyatt-centric-jumeirah-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Hyatt Regency Dubai Creek Heights",
+          "url": "https://solo5estrellas.com/hotels/3398/hyatt-regency-dubai-creek-heights-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Hyde Hotel Dubai",
+          "url": "https://solo5estrellas.com/hotels/6138/hyde-hotel-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "InterContinental Dubai Festival City",
+          "url": "https://solo5estrellas.com/hotels/6818/intercontinental-dubai-festival-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "InterContinental Dubai Marina",
+          "url": "https://solo5estrellas.com/hotels/4003/intercontinental-dubai-marina-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "InterContinental Hotel Festival City",
+          "url": "https://solo5estrellas.com/hotels/4002/intercontinental-hotel-festival-city-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Jumeirah Al Naseem, Dubai",
+          "url": "https://solo5estrellas.com/hotels/3503/jumeirah-al-naseem-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Jumeirah Al Qasr",
+          "url": "https://solo5estrellas.com/hotels/4660/jumeirah-al-qasr.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Jumeirah Beach Hotel",
+          "url": "https://solo5estrellas.com/hotels/1165/jumeirah-beach-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Jumeirah Creekside",
+          "url": "https://solo5estrellas.com/hotels/2740/jumeirah-creekside-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Jumeirah Dar Al Masyaf",
+          "url": "https://solo5estrellas.com/hotels/4657/jumeirah-dar-al-masyaf.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Jumeirah Emirates Towers",
+          "url": "https://solo5estrellas.com/hotels/2739/jumeirah-emirates-towers.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Jumeirah Marsa Al Arab",
+          "url": "https://solo5estrellas.com/hotels/6771/jumeirah-marsa-al-arab.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Jumeirah Mina A'Salam",
+          "url": "https://solo5estrellas.com/hotels/1684/jumeirah-mina-a-salam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Jumeirah Zabeel Saray",
+          "url": "https://solo5estrellas.com/hotels/2741/jumeirah-zabeel-saray.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "JW Marriott Hotel Marina",
+          "url": "https://solo5estrellas.com/hotels/7015/jw-marriott-hotel-marina-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "JW Marriott Hotel Marina",
+          "url": "https://solo5estrellas.com/hotels/7016/jw-marriott-hotel-marina-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "JW Marriott Marquis Hotel Dubai",
+          "url": "https://solo5estrellas.com/hotels/3739/jw-marriott-marquis-hotel-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "La Ville Hotel & Suites CITY WALK, Dubai, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/5000/la-ville-hotel-suites-city-walk-dubai-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Mandarin Oriental Downtown, Dubai",
+          "url": "https://solo5estrellas.com/hotels/6964/mandarin-oriental-downtown-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Mandarin Oriental Jumeirah, Dubai",
+          "url": "https://solo5estrellas.com/hotels/6201/mandarin-oriental-jumeirah-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "ME Dubai",
+          "url": "https://solo5estrellas.com/hotels/5061/me-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "One&Only One Za'abeel",
+          "url": "https://solo5estrellas.com/hotels/6588/one-only-one-za-abeel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "One&Only Royal Mirage Dubai",
+          "url": "https://solo5estrellas.com/hotels/1364/one-only-royal-mirage-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "One&Only The Palm Dubai",
+          "url": "https://solo5estrellas.com/hotels/6663/one-only-the-palm-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Park Hyatt Dubai",
+          "url": "https://solo5estrellas.com/hotels/1644/park-hyatt-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "Raffles Dubai",
+          "url": "https://solo5estrellas.com/hotels/1891/raffles-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "Raffles The Palm Dubai",
+          "url": "https://solo5estrellas.com/hotels/6137/raffles-the-palm-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Renaissance Downtown Hotel, Dubai",
+          "url": "https://solo5estrellas.com/hotels/3860/renaissance-downtown-hotel-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Ritz-Carlton, Dubai Intl Financial Centre",
+          "url": "https://solo5estrellas.com/hotels/2938/ritz-carlton-dubai-intl-financial-centre.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "Rixos Premium Dubai Hotel",
+          "url": "https://solo5estrellas.com/hotels/4933/rixos-premium-dubai-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Rixos The Palm Hotel & Suites",
+          "url": "https://solo5estrellas.com/hotels/4932/rixos-the-palm-hotel-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Shangri-La Hotel, Dubai",
+          "url": "https://solo5estrellas.com/hotels/2234/shangri-la-hotel-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "Sheraton Mall of the Emirates Hotel, Dubai",
+          "url": "https://solo5estrellas.com/hotels/6437/sheraton-mall-of-the-emirates-hotel-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "SLS Dubai Hotel & Residences",
+          "url": "https://solo5estrellas.com/hotels/4927/sls-dubai-hotel-residences.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Sofitel Dubai Downtown",
+          "url": "https://solo5estrellas.com/hotels/4930/sofitel-dubai-downtown.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "Sofitel Dubai Jumeirah Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/6136/sofitel-dubai-jumeirah-beach-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Sofitel Dubai The Obelisk",
+          "url": "https://solo5estrellas.com/hotels/4928/sofitel-dubai-the-obelisk.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "Sofitel Dubai The Palm",
+          "url": "https://solo5estrellas.com/hotels/6135/sofitel-dubai-the-palm.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "name": "Taj Dubai",
+          "url": "https://solo5estrellas.com/hotels/3006/taj-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 74,
+          "name": "Taj Exotica Resort & Spa, The Palm, Dubai",
+          "url": "https://solo5estrellas.com/hotels/6316/taj-exotica-resort-spa-the-palm-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 75,
+          "name": "The Biltmore Hotel Villas",
+          "url": "https://solo5estrellas.com/hotels/7006/the-biltmore-hotel-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 76,
+          "name": "The Dubai EDITION",
+          "url": "https://solo5estrellas.com/hotels/4053/the-dubai-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 77,
+          "name": "The Lana Dubai",
+          "url": "https://solo5estrellas.com/hotels/6583/the-lana-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 78,
+          "name": "The Ritz Carlton Dubai",
+          "url": "https://solo5estrellas.com/hotels/1631/the-ritz-carlton-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 79,
+          "name": "The St. Regis Downtown Dubai",
+          "url": "https://solo5estrellas.com/hotels/2603/the-st-regis-downtown-dubai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 80,
+          "name": "The St. Regis Dubai, The Palm",
+          "url": "https://solo5estrellas.com/hotels/4973/the-st-regis-dubai-the-palm.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 81,
+          "name": "W Dubai - Mina Seyahi",
+          "url": "https://solo5estrellas.com/hotels/6344/w-dubai-mina-seyahi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 82,
+          "name": "W Dubai - The Palm",
+          "url": "https://solo5estrellas.com/hotels/3892/w-dubai-the-palm.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 83,
+          "name": "Waldorf Astoria Dubai International Financial Centre",
+          "url": "https://solo5estrellas.com/hotels/4171/waldorf-astoria-dubai-international-financial-centre.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 84,
+          "name": "Waldorf Astoria Dubai Palm Jumeirah",
+          "url": "https://solo5estrellas.com/hotels/4172/waldorf-astoria-dubai-palm-jumeirah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 85,
+          "name": "Fairmont Fujairah Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/4925/fairmont-fujairah-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 86,
+          "name": "InterContinental Ras Al Khaimah Mina Al Arab Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/5045/intercontinental-ras-al-khaimah-mina-al-arab-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 87,
+          "name": "The Ritz Carlton Al Wadi Desert",
+          "url": "https://solo5estrellas.com/hotels/3881/the-ritz-carlton-al-wadi-desert.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 88,
+          "name": "The Ritz Carlton Ras Al Khaima, Al Hamra Beach",
+          "url": "https://solo5estrellas.com/hotels/3372/the-ritz-carlton-ras-al-khaima-al-hamra-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 89,
+          "name": "Waldorf Astoria Ras Al Khaimah",
+          "url": "https://solo5estrellas.com/hotels/4819/waldorf-astoria-ras-al-khaimah.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Emiratos Árabes Unidos en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "89 hoteles. Las ciudades con más hoteles son Dubái (66), Abu Dhabi (15), Ras Al Khaimah (4)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Emiratos Árabes Unidos tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dubái (66), Abu Dhabi (15), Ras Al Khaimah (4). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Emiratos Árabes Unidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jumeirah Hotels (11), Fairmont Hotels (5), Sofitel Hotels (5), Ritz Carlton Hotels & Resorts (5), InterContinental Hotels & Resorts (5). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Corea del Sur",
+          "item": "https://solo5estrellas.com/countries/151/corea-del-sur.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/151/corea-del-sur.html#webpage",
+      "url": "https://solo5estrellas.com/countries/151/corea-del-sur.html",
+      "name": "Hoteles de lujo en Corea del Sur: 14 hoteles",
+      "description": "Explore 14 hoteles de lujo en Corea del Sur con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Corea del Sur"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/151/corea-del-sur.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/151/corea-del-sur.html#hotels",
+      "name": "Hoteles de lujo en Corea del Sur",
+      "numberOfItems": 14,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Park Hyatt Busan",
+          "url": "https://solo5estrellas.com/hotels/3459/park-hyatt-busan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "JW Marriott Jeju Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6410/jw-marriott-jeju-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Andaz Seoul Gangnam",
+          "url": "https://solo5estrellas.com/hotels/4108/andaz-seoul-gangnam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Conrad Seoul",
+          "url": "https://solo5estrellas.com/hotels/4136/conrad-seoul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Fairmont Ambassador Seoul",
+          "url": "https://solo5estrellas.com/hotels/4948/fairmont-ambassador-seoul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Four Seasons Hotel Seoul",
+          "url": "https://solo5estrellas.com/hotels/3011/four-seasons-hotel-seoul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Grand Hyatt Seoul",
+          "url": "https://solo5estrellas.com/hotels/2045/grand-hyatt-seoul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "JW Marriott Dongdaemun Square",
+          "url": "https://solo5estrellas.com/hotels/4982/jw-marriott-dongdaemun-square.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "JW Marriott Hotel Seoul",
+          "url": "https://solo5estrellas.com/hotels/3721/jw-marriott-hotel-seoul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "L’Escape, a Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/7111/l-escape-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Park Hyatt Seoul",
+          "url": "https://solo5estrellas.com/hotels/1559/park-hyatt-seoul-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Sofitel Ambassador Seoul Hotel & Serviced Residences",
+          "url": "https://solo5estrellas.com/hotels/6478/sofitel-ambassador-seoul-hotel-serviced-residences.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "The Shilla Seoul",
+          "url": "https://solo5estrellas.com/hotels/7019/the-shilla-seoul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "The Westin Josun Seoul",
+          "url": "https://solo5estrellas.com/hotels/5012/the-westin-josun-seoul.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Corea del Sur en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "14 hoteles. Las ciudades con más hoteles son Seúl (12), Busan (1), Jeju (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Corea del Sur tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Seúl (12), Busan (1), Jeju (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Corea del Sur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "JW Marriott Hotel (3), Park Hyatt Hotels (2), Andaz Hotels (1), Conrad Hotels & Resorts (1), Fairmont Hotels (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

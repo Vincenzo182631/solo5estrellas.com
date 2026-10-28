@@ -92,11 +92,11 @@ Los 6 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Nizwa: [Anantara Al Jabal Al Akhdar Resort](/hotels/4193/anantara_al_jabal_al_akhdar_resort.html)
 
 **India (6)**
+- Bombay: [Grand Hyatt Mumbai](/hotels/3412/grand_hyatt_mumbai_.html)
 - Chennai: [Hyatt Regency Chennai](/hotels/3365/hyatt_regency_chennai.html); [Park Hyatt Chennai](/hotels/3453/park_hyatt_chennai.html)
 - Goa: [Grand Hyatt Goa](/hotels/3407/grand_hyatt_goa_.html)
 - Hyderabad: [Park Hyatt Hyderabad](/hotels/3450/park_hyatt_hyderabad.html)
 - Kochi: [Grand Hyatt Kochi Bolgatty](/hotels/3647/grand_hyatt_kochi_bolgatty.html)
-- Mumbai: [Grand Hyatt Mumbai](/hotels/3412/grand_hyatt_mumbai_.html)
 
 **Jordania (6)**
 - Amán: [Four Seasons Hotel Amman](/hotels/1841/four_seasons_hotel_amman.html); [Hotel Fairmont Amman](/hotels/6132/hotel_fairmont_amman.html); [InterContinental Jordan](/hotels/3998/intercontinental_jordan_.html); [Kempinski Hotel Amman](/hotels/2383/kempinski_hotel_amman.html); [Kempinski Hotel Ishtar Dead Sea](/hotels/1794/kempinski_hotel_ishtar_dead_sea.html); [W Amman](/hotels/3529/w_amman.html)

@@ -1,0 +1,149 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Panamá",
+          "item": "https://solo5estrellas.com/countries/128/panama.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/128/panama.html#webpage",
+      "url": "https://solo5estrellas.com/countries/128/panama.html",
+      "name": "Hoteles de lujo en Panamá: 8 hoteles",
+      "description": "Explore 8 hoteles de lujo en Panamá con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Panamá"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/128/panama.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/128/panama.html#hotels",
+      "name": "Hoteles de lujo en Panamá",
+      "numberOfItems": 8,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Bristol Panama",
+          "url": "https://solo5estrellas.com/hotels/2437/bristol-panama-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel La Compañía de Valle",
+          "url": "https://solo5estrellas.com/hotels/6995/hotel-la-compa-a-de-valle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hotel, La Compañía",
+          "url": "https://solo5estrellas.com/hotels/6122/hotel-la-compa-a.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hyatt Regency Panama City",
+          "url": "https://solo5estrellas.com/hotels/6970/hyatt-regency-panama-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "JW Marriott Panama",
+          "url": "https://solo5estrellas.com/hotels/4687/jw-marriott-panama.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Sofitel Legend Casco Viejo",
+          "url": "https://solo5estrellas.com/hotels/5049/sofitel-legend-casco-viejo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Santa Maria Hotel & Golf Resort",
+          "url": "https://solo5estrellas.com/hotels/3526/the-santa-maria-hotel-golf-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Waldorf Astoria Panama",
+          "url": "https://solo5estrellas.com/hotels/4135/waldorf-astoria-panama.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Panamá en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "8 hoteles. Las ciudades con más hoteles son Ciudad de Panamá (8)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Panamá tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ciudad de Panamá (8). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Panamá?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Leading Hotels of the World (1), The Unbound Collection (1), JW Marriott Hotel (1), Sofitel Hotels (1), The Luxury Collection (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

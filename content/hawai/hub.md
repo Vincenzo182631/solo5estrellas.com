@@ -18,7 +18,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ha
 
 ## Marcas con más hoteles en Hawái
 
-| Marca | Hoteles en la región |
+| Marca | Hoteles |
 | --- | --- |
 | [The Signature Collection](/collection/79/) | 7 |
 | [Four Seasons](/collection/2/) | 5 |
@@ -37,7 +37,6 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ha
 
 ## Los 44 hoteles de Hawái
 
-**Estados Unidos (44)**
 - Big Island: [Fairmont Orchid](/hotels/1638/fairmont_orchid.html); [Four Seasons Hualalai](/hotels/2154/four_seasons_hualalai.html); [Mauna Kea Beach Hotel](/hotels/2358/mauna_kea_beach_hotel_.html); [Mauna Lani Resort, Auberge Collection](/hotels/2683/mauna_lani_resort,_auberge_collection.html); [The Westin Hapuna Beach Resort](/hotels/2052/the_westin_hapuna_beach_resort.html); [Waikoloa Beach Marriott Resort & Spa](/hotels/3791/waikoloa_beach_marriott_resort_&_spa.html)
 - Honolulu: [Alohilani Resort Waikiki Beach](/hotels/3663/alohilani_resort_waikiki_beach.html); [ESPACIO The Jewel of Waikiki](/hotels/6848/espacio_the_jewel_of_waikiki.html); [Four Seasons Oahu at Ko Olina](/hotels/3046/four_seasons_oahu_at_ko_olina.html); [Halekulani](/hotels/947/halekulani_.html); [Halepuna Waikiki by Halekulani](/hotels/4104/halepuna_waikiki_by_halekulani.html); [Hyatt Centric Waikiki Beach](/hotels/3911/hyatt_centric_waikiki_beach.html); [Hyatt Regency Waikiki Beach](/hotels/2086/hyatt_regency_waikiki_beach_.html); [Ka La'i Waikiki Beach](/hotels/7096/ka_la'i_waikiki_beach.html); [Moana Surfrider, a Westin Resort](/hotels/2102/moana_surfrider,_a_westin_resort_.html); [Outrigger Reef Waikiki Beach](/hotels/2336/outrigger_reef_waikiki_beach.html); [Outrigger Waikiki Beach Resort](/hotels/6782/outrigger_waikiki_beach_resort_.html); [Prince Waikiki](/hotels/4974/prince_waikiki.html); [Ritz Carlton Oahu, Turtle Bay](/hotels/2141/ritz_carlton_oahu,_turtle_bay_.html); [Sheraton Waikiki](/hotels/4707/sheraton_waikiki.html); [The Kahala Resort](/hotels/976/the_kahala_resort.html); [The Laylow - Autograph Collection](/hotels/3291/the_laylow_-_autograph_collection.html); [The Ritz-Carlton Residences, Waikiki Beach](/hotels/3287/the_ritz-carlton_residences,_waikiki_beach.html); [The Royal Hawaiian](/hotels/2008/the_royal_hawaiian.html); [Waikiki Beach Marriott Resort & Spa](/hotels/4722/waikiki_beach_marriott_resort_&_spa.html); [Waikiki Beachcomber by Outrigger](/hotels/4669/waikiki_beachcomber_by_outrigger.html)
 - Kauai: [1 Hotel Hanalei Bay](/hotels/6374/1_hotel_hanalei_bay.html); [Grand Hyatt Kauai Resort & Spa](/hotels/2043/grand_hyatt_kauai_resort_&_spa.html); [Ko'a Kea Hotel & Resort](/hotels/2372/ko'a_kea_hotel_&_resort.html); [Sheraton Kauai Coconut Beach Resort](/hotels/4721/sheraton_kauai_coconut_beach_resort_.html); [Sheraton Kauai Resort](/hotels/4723/sheraton_kauai_resort.html)
@@ -68,7 +67,7 @@ Depende de la marca y del hotel: en general desayuno diario para dos y un crédi
 
 **¿Dónde está la lista completa de hoteles?**
 
-Debajo, agrupada por país y ciudad. Los nombres de los hoteles no se traducen.
+Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 

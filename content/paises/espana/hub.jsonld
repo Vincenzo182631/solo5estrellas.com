@@ -1,0 +1,743 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "España",
+          "item": "https://solo5estrellas.com/countries/58/espana.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/58/espana.html#webpage",
+      "url": "https://solo5estrellas.com/countries/58/espana.html",
+      "name": "Hoteles de lujo en España: 107 hoteles",
+      "description": "Explore 107 hoteles de lujo en España con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "España"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/58/espana.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/58/espana.html#hotels",
+      "name": "Hoteles de lujo en España",
+      "numberOfItems": 107,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Villa Le Blanc Gran Melia",
+          "url": "https://solo5estrellas.com/hotels/6433/villa-le-blanc-gran-melia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Baqueira Ski Resort, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/3745/baqueira-ski-resort-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Cotton House Hotel, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/3799/cotton-house-hotel-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "El Palace Hotel",
+          "url": "https://solo5estrellas.com/hotels/2429/el-palace-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Grand Hotel Central Barcelona",
+          "url": "https://solo5estrellas.com/hotels/3005/grand-hotel-central-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Grand Hyatt Barcelona",
+          "url": "https://solo5estrellas.com/hotels/3913/grand-hyatt-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Hotel Arts Barcelona",
+          "url": "https://solo5estrellas.com/hotels/952/hotel-arts-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Hotel Claris, Barcelona",
+          "url": "https://solo5estrellas.com/hotels/1258/hotel-claris-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Hotel Miramar Barcelona",
+          "url": "https://solo5estrellas.com/hotels/1974/hotel-miramar-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Hotel Neri Barcelona",
+          "url": "https://solo5estrellas.com/hotels/3221/hotel-neri-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Hyatt Regency Barcelona Tower",
+          "url": "https://solo5estrellas.com/hotels/4222/hyatt-regency-barcelona-tower.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "InterContinental Barcelona",
+          "url": "https://solo5estrellas.com/hotels/4768/intercontinental-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Kimpton Vividora Barcelona",
+          "url": "https://solo5estrellas.com/hotels/6258/kimpton-vividora-barcelona-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Labtwentytwo Barcelona, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/6902/labtwentytwo-barcelona-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Le Meridien Barcelona",
+          "url": "https://solo5estrellas.com/hotels/2221/le-meridien-barcelona-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Majestic Hotel & Spa Barcelona",
+          "url": "https://solo5estrellas.com/hotels/3615/majestic-hotel-spa-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Mandarin Oriental Barcelona",
+          "url": "https://solo5estrellas.com/hotels/2355/mandarin-oriental-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Monument Hotel",
+          "url": "https://solo5estrellas.com/hotels/3318/monument-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Renaissance Barcelona Hotel",
+          "url": "https://solo5estrellas.com/hotels/6901/renaissance-barcelona-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "SLS Barcelona",
+          "url": "https://solo5estrellas.com/hotels/6798/sls-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "The Barcelona EDITION",
+          "url": "https://solo5estrellas.com/hotels/3369/the-barcelona-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "The Serras Hotel Barcelona",
+          "url": "https://solo5estrellas.com/hotels/4551/the-serras-hotel-barcelona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "The Wittmore",
+          "url": "https://solo5estrellas.com/hotels/4417/the-wittmore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Hotel Ercilla de Bilbao, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/4079/hotel-ercilla-de-bilbao-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Radisson Collection Hotel, Gran Via Bilbao",
+          "url": "https://solo5estrellas.com/hotels/6340/radisson-collection-hotel-gran-via-bilbao.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "The Artist Grand Hotel of Art Bilbao",
+          "url": "https://solo5estrellas.com/hotels/2614/the-artist-grand-hotel-of-art-bilbao.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Finca Cortesin Hotel Golf & Spa",
+          "url": "https://solo5estrellas.com/hotels/2427/finca-cortesin-hotel-golf-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Hotel Marques de Riscal",
+          "url": "https://solo5estrellas.com/hotels/1778/hotel-marques-de-riscal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Grand Hotel Las Dunas",
+          "url": "https://solo5estrellas.com/hotels/7156/grand-hotel-las-dunas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Kempinski Hotel Bahia Estepona",
+          "url": "https://solo5estrellas.com/hotels/1505/kempinski-hotel-bahia-estepona.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Teranka Formentera",
+          "url": "https://solo5estrellas.com/hotels/6518/teranka-formentera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Alhambra Palace Hotel",
+          "url": "https://solo5estrellas.com/hotels/3303/alhambra-palace-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Hotel Palacio de Santa Paula",
+          "url": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Seda Club Hotel",
+          "url": "https://solo5estrellas.com/hotels/6378/seda-club-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "7Pines Resort Ibiza",
+          "url": "https://solo5estrellas.com/hotels/6722/7pines-resort-ibiza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Aguas de Ibiza Grand Luxe Hotel",
+          "url": "https://solo5estrellas.com/hotels/4456/aguas-de-ibiza-grand-luxe-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Bless Ibiza The Site",
+          "url": "https://solo5estrellas.com/hotels/7160/bless-ibiza-the-site.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "La Torre del Canonigo",
+          "url": "https://solo5estrellas.com/hotels/4741/la-torre-del-canonigo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Nobu Hotel Ibiza Bay",
+          "url": "https://solo5estrellas.com/hotels/4435/nobu-hotel-ibiza-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Six Senses Ibiza",
+          "url": "https://solo5estrellas.com/hotels/6245/six-senses-ibiza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "The Standard Ibiza",
+          "url": "https://solo5estrellas.com/hotels/6875/the-standard-ibiza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "W Ibiza",
+          "url": "https://solo5estrellas.com/hotels/3978/w-ibiza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Palacio Tondon, La Rioja Brinas",
+          "url": "https://solo5estrellas.com/hotels/6489/palacio-tondon-la-rioja-brinas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Bless Hotel Madrid",
+          "url": "https://solo5estrellas.com/hotels/6634/bless-hotel-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Four Seasons Hotel Madrid",
+          "url": "https://solo5estrellas.com/hotels/3897/four-seasons-hotel-madrid-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Gran Meliá Fenix",
+          "url": "https://solo5estrellas.com/hotels/4036/gran-meli-fenix.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Hotel Circulo Gran Via, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/3839/hotel-circulo-gran-via-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Hotel Palacio Del Retiro",
+          "url": "https://solo5estrellas.com/hotels/4981/hotel-palacio-del-retiro.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Hotel Unico, Madrid",
+          "url": "https://solo5estrellas.com/hotels/3001/hotel-unico-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Hotel Villa Real",
+          "url": "https://solo5estrellas.com/hotels/2075/hotel-villa-real.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Hotel Wellington, Madrid",
+          "url": "https://solo5estrellas.com/hotels/4555/hotel-wellington-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Hyatt Centric Gran Via Madrid",
+          "url": "https://solo5estrellas.com/hotels/3928/hyatt-centric-gran-via-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Hyatt Regency Hesperia Madrid",
+          "url": "https://solo5estrellas.com/hotels/4112/hyatt-regency-hesperia-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "InterContinental Madrid",
+          "url": "https://solo5estrellas.com/hotels/1383/intercontinental-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "JW Marriott Hotel Madrid",
+          "url": "https://solo5estrellas.com/hotels/6358/jw-marriott-hotel-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Mandarin Oriental Ritz, Madrid",
+          "url": "https://solo5estrellas.com/hotels/1074/mandarin-oriental-ritz-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Palacio de los Duques, a Gran Meliá Hotel",
+          "url": "https://solo5estrellas.com/hotels/4037/palacio-de-los-duques-a-gran-meli-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "Rosewood Villa Magna",
+          "url": "https://solo5estrellas.com/hotels/2920/rosewood-villa-magna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Santo Mauro, a Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/1487/santo-mauro-a-luxury-collection-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "The Madrid EDITION",
+          "url": "https://solo5estrellas.com/hotels/6213/the-madrid-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "The Palace Madrid",
+          "url": "https://solo5estrellas.com/hotels/1011/the-palace-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "The Principal Madrid Hotel",
+          "url": "https://solo5estrellas.com/hotels/3599/the-principal-madrid-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Thompson Madrid",
+          "url": "https://solo5estrellas.com/hotels/6118/thompson-madrid.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "URSO Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4416/urso-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Fairmont La Hacienda Costa Del Sol",
+          "url": "https://solo5estrellas.com/hotels/6788/fairmont-la-hacienda-costa-del-sol.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Hotel La Zambra",
+          "url": "https://solo5estrellas.com/hotels/6126/hotel-la-zambra.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "Hotel Vincci Seleccion Posada del Patio",
+          "url": "https://solo5estrellas.com/hotels/4566/hotel-vincci-seleccion-posada-del-patio.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "Palacio Solecio",
+          "url": "https://solo5estrellas.com/hotels/4418/palacio-solecio.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Belmond La Residencia",
+          "url": "https://solo5estrellas.com/hotels/1073/belmond-la-residencia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "Can Bordoy Grand House & Garden Hotel",
+          "url": "https://solo5estrellas.com/hotels/4584/can-bordoy-grand-house-garden-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "Castillo Hotel Son Vida",
+          "url": "https://solo5estrellas.com/hotels/2807/castillo-hotel-son-vida.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "Convent de la Missio",
+          "url": "https://solo5estrellas.com/hotels/4240/convent-de-la-missio.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "name": "Finca Serena Mallorca",
+          "url": "https://solo5estrellas.com/hotels/4437/finca-serena-mallorca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 74,
+          "name": "Fontsanta Hotel Thermal Spa & Wellness",
+          "url": "https://solo5estrellas.com/hotels/7152/fontsanta-hotel-thermal-spa-wellness.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 75,
+          "name": "Four Seasons Resort Mallorca at Formentor",
+          "url": "https://solo5estrellas.com/hotels/6664/four-seasons-resort-mallorca-at-formentor.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 76,
+          "name": "Hacienda Son Antem Golf Resort",
+          "url": "https://solo5estrellas.com/hotels/7069/hacienda-son-antem-golf-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 77,
+          "name": "Jumeirah Mallorca",
+          "url": "https://solo5estrellas.com/hotels/2753/jumeirah-mallorca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 78,
+          "name": "Kimpton Aysla Mallorca",
+          "url": "https://solo5estrellas.com/hotels/6306/kimpton-aysla-mallorca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 79,
+          "name": "Lindner Hotel Mallorca Portals Nous",
+          "url": "https://solo5estrellas.com/hotels/6675/lindner-hotel-mallorca-portals-nous.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 80,
+          "name": "Mandarin Oriental Punta Negra, Mallorca",
+          "url": "https://solo5estrellas.com/hotels/7032/mandarin-oriental-punta-negra-mallorca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 81,
+          "name": "Pleta De Mar Luxury By Nature",
+          "url": "https://solo5estrellas.com/hotels/7153/pleta-de-mar-luxury-by-nature.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 82,
+          "name": "Son Bunyola",
+          "url": "https://solo5estrellas.com/hotels/4224/son-bunyola.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 83,
+          "name": "The Lodge Mallorca",
+          "url": "https://solo5estrellas.com/hotels/6391/the-lodge-mallorca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 84,
+          "name": "The St Regis Mardavall Mallorca Resort",
+          "url": "https://solo5estrellas.com/hotels/1382/the-st-regis-mardavall-mallorca-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 85,
+          "name": "Zoetry Mallorca Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6113/zoetry-mallorca-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 86,
+          "name": "Nobu Hotel Marbella",
+          "url": "https://solo5estrellas.com/hotels/4419/nobu-hotel-marbella.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 87,
+          "name": "The Westin La Quinta Golf Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6546/the-westin-la-quinta-golf-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 88,
+          "name": "Hotel Torre del Marques",
+          "url": "https://solo5estrellas.com/hotels/4828/hotel-torre-del-marques.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 89,
+          "name": "Hacienda Zorita Wine Hotel & Organic Farm",
+          "url": "https://solo5estrellas.com/hotels/4436/hacienda-zorita-wine-hotel-organic-farm.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 90,
+          "name": "Hotel Maria Cristina",
+          "url": "https://solo5estrellas.com/hotels/2782/hotel-maria-cristina.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 91,
+          "name": "Hotel Palacio Del Carmen",
+          "url": "https://solo5estrellas.com/hotels/6357/hotel-palacio-del-carmen-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 92,
+          "name": "Querencia de Seville, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/7070/querencia-de-seville-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 93,
+          "name": "Cavalta Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/6871/cavalta-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 94,
+          "name": "Gran Melia Colon",
+          "url": "https://solo5estrellas.com/hotels/2510/gran-melia-colon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 95,
+          "name": "Hotel Alfonso XIII",
+          "url": "https://solo5estrellas.com/hotels/2056/hotel-alfonso-xiii.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 96,
+          "name": "Radisson Collection Hotel, Magdalena Plaza Sevilla",
+          "url": "https://solo5estrellas.com/hotels/5058/radisson-collection-hotel-magdalena-plaza-sevilla.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 97,
+          "name": "SO/ Sotogrande",
+          "url": "https://solo5estrellas.com/hotels/4897/so-sotogrande.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 98,
+          "name": "Gran Melia Palacio de Isora",
+          "url": "https://solo5estrellas.com/hotels/6473/gran-melia-palacio-de-isora.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 99,
+          "name": "Royal Hideaway Corales Beach <li>Adults Only</li>",
+          "url": "https://solo5estrellas.com/hotels/7158/royal-hideaway-corales-beach-li-adults-only-li-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 100,
+          "name": "The Ritz-Carlton, Abama",
+          "url": "https://solo5estrellas.com/hotels/1857/the-ritz-carlton-abama.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 101,
+          "name": "Tivoli la Caleta Tenerife Resort",
+          "url": "https://solo5estrellas.com/hotels/6826/tivoli-la-caleta-tenerife-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 102,
+          "name": "Grand Hotel Centenari, Valenica",
+          "url": "https://solo5estrellas.com/hotels/6865/grand-hotel-centenari-valenica.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 103,
+          "name": "Hospes Palau de la Mar",
+          "url": "https://solo5estrellas.com/hotels/6825/hospes-palau-de-la-mar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 104,
+          "name": "Only YOU Hotel Valencia",
+          "url": "https://solo5estrellas.com/hotels/6803/only-you-hotel-valencia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 105,
+          "name": "Palacio Santa Clara, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/6639/palacio-santa-clara-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 106,
+          "name": "The Westin Valencia",
+          "url": "https://solo5estrellas.com/hotels/1827/the-westin-valencia-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 107,
+          "name": "Abadia Retuerta LeDomaine",
+          "url": "https://solo5estrellas.com/hotels/5033/abadia-retuerta-ledomaine.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en España en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "107 hoteles. Las ciudades con más hoteles son Barcelona (21), Madrid (21), Mallorca (17)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de España tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Barcelona (21), Madrid (21), Mallorca (17). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Small Luxury Hotels of The World (15), Autograph Collection (13), Preferred Hotels & Resorts (12), The Signature Collection (9), Leading Hotels of the World (8). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

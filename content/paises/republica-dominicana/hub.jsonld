@@ -1,0 +1,221 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "República Dominicana",
+          "item": "https://solo5estrellas.com/countries/21/republica-dominicana.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/21/republica-dominicana.html#webpage",
+      "url": "https://solo5estrellas.com/countries/21/republica-dominicana.html",
+      "name": "Hoteles de lujo en República Dominicana: 20 hoteles",
+      "description": "Explore 20 hoteles de lujo en República Dominicana con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "República Dominicana"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/21/republica-dominicana.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/21/republica-dominicana.html#hotels",
+      "name": "Hoteles de lujo en República Dominicana",
+      "numberOfItems": 20,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Marriott Miches Beach, An All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/6942/marriott-miches-beach-an-all-inclusive-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Residences at The St. Regis Cap Cana Resort",
+          "url": "https://solo5estrellas.com/hotels/7127/the-residences-at-the-st-regis-cap-cana-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Casa de Campo Resort & Villas",
+          "url": "https://solo5estrellas.com/hotels/1125/casa-de-campo-resort-villas-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Sublime Samana Hotel & Residences",
+          "url": "https://solo5estrellas.com/hotels/4280/sublime-samana-hotel-residences.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Ocean Club, Costa Norte",
+          "url": "https://solo5estrellas.com/hotels/4055/the-ocean-club-costa-norte.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Eden Roc Cap Cana",
+          "url": "https://solo5estrellas.com/hotels/3939/eden-roc-cap-cana-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Hyatt Zilara Cap Cana",
+          "url": "https://solo5estrellas.com/hotels/4749/hyatt-zilara-cap-cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Hyatt Ziva Cap Cana",
+          "url": "https://solo5estrellas.com/hotels/4750/hyatt-ziva-cap-cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Paradisus Grand Cana",
+          "url": "https://solo5estrellas.com/hotels/1993/paradisus-grand-cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Paradisus Palma Real Resort",
+          "url": "https://solo5estrellas.com/hotels/6862/paradisus-palma-real-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Sanctuary Cap Cana, Adult All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/6567/sanctuary-cap-cana-adult-all-inclusive-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Secrets Tides Punta Cana All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/7025/secrets-tides-punta-cana-all-inclusive-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "St. Regis Cap Cana",
+          "url": "https://solo5estrellas.com/hotels/6702/st-regis-cap-cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "The Westin Punta Cana Resort & Club",
+          "url": "https://solo5estrellas.com/hotels/3015/the-westin-punta-cana-resort-club-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Tortuga Bay",
+          "url": "https://solo5estrellas.com/hotels/1650/tortuga-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "W Punta Cana",
+          "url": "https://solo5estrellas.com/hotels/6833/w-punta-cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Zoetry Agua Punta Cana",
+          "url": "https://solo5estrellas.com/hotels/2638/zoetry-agua-punta-cana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "InterContinental Real Santo Domingo",
+          "url": "https://solo5estrellas.com/hotels/4802/intercontinental-real-santo-domingo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "JW Marriott Hotel Santo Domingo",
+          "url": "https://solo5estrellas.com/hotels/4698/jw-marriott-hotel-santo-domingo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Renaissance Santo Domingo Jaragua Hotel & Casino",
+          "url": "https://solo5estrellas.com/hotels/4645/renaissance-santo-domingo-jaragua-hotel-casino.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en República Dominicana en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "20 hoteles. Las ciudades con más hoteles son Punta Cana (12), Santo Domingo (3), Sin ciudad indicada (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de República Dominicana tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Punta Cana (12), Santo Domingo (3), Sin ciudad indicada (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en República Dominicana?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Leading Hotels of the World (3), St. Regis Hotels & Resorts (2), The Luxury Collection (2), The Signature Collection (2), Marriott Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

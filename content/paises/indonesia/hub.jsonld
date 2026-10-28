@@ -1,0 +1,425 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Indonesia",
+          "item": "https://solo5estrellas.com/countries/30/indonesia.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/30/indonesia.html#webpage",
+      "url": "https://solo5estrellas.com/countries/30/indonesia.html",
+      "name": "Hoteles de lujo en Indonesia: 54 hoteles",
+      "description": "Explore 54 hoteles de lujo en Indonesia con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Indonesia"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/30/indonesia.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/30/indonesia.html#hotels",
+      "name": "Hoteles de lujo en Indonesia",
+      "numberOfItems": 54,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "TA’AKTANA, a Luxury Collection Resort & Spa, Labuan Bajo",
+          "url": "https://solo5estrellas.com/hotels/6928/ta-aktana-a-luxury-collection-resort-spa-labuan-bajo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Alila Ubud",
+          "url": "https://solo5estrellas.com/hotels/3061/alila-ubud.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Alila Villas Uluwatu",
+          "url": "https://solo5estrellas.com/hotels/3060/alila-villas-uluwatu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Amankila",
+          "url": "https://solo5estrellas.com/hotels/1530/amankila.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Andaz Bali",
+          "url": "https://solo5estrellas.com/hotels/6229/andaz-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Belmond Jimbaran Puri",
+          "url": "https://solo5estrellas.com/hotels/2406/belmond-jimbaran-puri-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Buahan, A Banyan Tree Escape",
+          "url": "https://solo5estrellas.com/hotels/6465/buahan-a-banyan-tree-escape.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Bvlgari Resort Bali",
+          "url": "https://solo5estrellas.com/hotels/1736/bvlgari-resort-bali-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Cicada Resort Bali Ubud, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/6930/cicada-resort-bali-ubud-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Conrad Bali",
+          "url": "https://solo5estrellas.com/hotels/4152/conrad-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Four Seasons Resort Bali at Sayan",
+          "url": "https://solo5estrellas.com/hotels/996/four-seasons-resort-bali-at-sayan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Four Seasons Resort Bali at Jimbaran Bay",
+          "url": "https://solo5estrellas.com/hotels/1438/four-seasons-resort-bali-at-jimbaran-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Gdas Bali Health and Wellness Resort",
+          "url": "https://solo5estrellas.com/hotels/6416/gdas-bali-health-and-wellness-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Grand Hyatt Bali",
+          "url": "https://solo5estrellas.com/hotels/3399/grand-hyatt-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "InterContinental Resort Bali",
+          "url": "https://solo5estrellas.com/hotels/3985/intercontinental-resort-bali-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Jumeirah Bali",
+          "url": "https://solo5estrellas.com/hotels/4165/jumeirah-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Le Méridien Bali Jimbaran",
+          "url": "https://solo5estrellas.com/hotels/6931/le-m-ridien-bali-jimbaran.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Mandapa, A Ritz Carlton Reserve",
+          "url": "https://solo5estrellas.com/hotels/2965/mandapa-a-ritz-carlton-reserve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Regent Bali Canggu",
+          "url": "https://solo5estrellas.com/hotels/6954/regent-bali-canggu-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Renaissance Bali Uluwatu Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/4691/renaissance-bali-uluwatu-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Sheraton Bali Kuta Resort",
+          "url": "https://solo5estrellas.com/hotels/6933/sheraton-bali-kuta-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Sthala, a Tribute Portfolio Hotel, Ubud Bali",
+          "url": "https://solo5estrellas.com/hotels/6912/sthala-a-tribute-portfolio-hotel-ubud-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "The Apurva Kempinski Bali",
+          "url": "https://solo5estrellas.com/hotels/6710/the-apurva-kempinski-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "The St. Regis Bali",
+          "url": "https://solo5estrellas.com/hotels/2201/the-st-regis-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "The Westin Resort & Spa Ubud, Bali",
+          "url": "https://solo5estrellas.com/hotels/4672/the-westin-resort-spa-ubud-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "The Westin Resort Nusa Dua, Bali",
+          "url": "https://solo5estrellas.com/hotels/6932/the-westin-resort-nusa-dua-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "W Bali - Seminyak",
+          "url": "https://solo5estrellas.com/hotels/2972/w-bali-seminyak.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "The Sanchaya",
+          "url": "https://solo5estrellas.com/hotels/3673/the-sanchaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Amanjiwo",
+          "url": "https://solo5estrellas.com/hotels/1539/amanjiwo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Alila SCBD Jakarta",
+          "url": "https://solo5estrellas.com/hotels/3962/alila-scbd-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Fairmont Jakarta",
+          "url": "https://solo5estrellas.com/hotels/4935/fairmont-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Four Seasons Hotel Jakarta",
+          "url": "https://solo5estrellas.com/hotels/3106/four-seasons-hotel-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "InterContinental Jakarta Pondok Indah",
+          "url": "https://solo5estrellas.com/hotels/4791/intercontinental-jakarta-pondok-indah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Keraton at The Plaza",
+          "url": "https://solo5estrellas.com/hotels/2831/keraton-at-the-plaza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Mandarin Oriental, Jakarta",
+          "url": "https://solo5estrellas.com/hotels/6205/mandarin-oriental-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Park Hyatt Jakarta",
+          "url": "https://solo5estrellas.com/hotels/6231/park-hyatt-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Raffles Jakarta",
+          "url": "https://solo5estrellas.com/hotels/4940/raffles-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Ritz-Carlton Jakarta, Mega Kuningan",
+          "url": "https://solo5estrellas.com/hotels/1618/ritz-carlton-jakarta-mega-kuningan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Ritz-Carlton Jakarta, Pacific Place",
+          "url": "https://solo5estrellas.com/hotels/1859/ritz-carlton-jakarta-pacific-place.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Shangri-La Jakarta",
+          "url": "https://solo5estrellas.com/hotels/3507/shangri-la-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "The Langham Jakarta",
+          "url": "https://solo5estrellas.com/hotels/6284/the-langham-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "The St. Regis Jakarta",
+          "url": "https://solo5estrellas.com/hotels/6929/the-st-regis-jakarta.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Raffles Bali",
+          "url": "https://solo5estrellas.com/hotels/4937/raffles-bali.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Alila Seminyak",
+          "url": "https://solo5estrellas.com/hotels/3963/alila-seminyak.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "The Sira",
+          "url": "https://solo5estrellas.com/hotels/6703/the-sira.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Alila Manggis",
+          "url": "https://solo5estrellas.com/hotels/3961/alila-manggis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Amartera Villa Bali Nusa Dua - MGallery",
+          "url": "https://solo5estrellas.com/hotels/4938/amartera-villa-bali-nusa-dua-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Sofitel Bali Nusa Dua",
+          "url": "https://solo5estrellas.com/hotels/4936/sofitel-bali-nusa-dua.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "The Laguna",
+          "url": "https://solo5estrellas.com/hotels/2830/the-laguna.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Hotel Indigo Bali Seminyak Beach",
+          "url": "https://solo5estrellas.com/hotels/4031/hotel-indigo-bali-seminyak-beach-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "JW Marriott Hotel Surabaya",
+          "url": "https://solo5estrellas.com/hotels/6927/jw-marriott-hotel-surabaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Shangri-La Hotel, Surabaya",
+          "url": "https://solo5estrellas.com/hotels/3081/shangri-la-hotel-surabaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Alila Solo",
+          "url": "https://solo5estrellas.com/hotels/3964/alila-solo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Amandari",
+          "url": "https://solo5estrellas.com/hotels/1527/amandari.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Indonesia en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "54 hoteles. Las ciudades con más hoteles son Bali (26), Jakarta (13), Nusa Dua (3)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Indonesia tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bali (26), Jakarta (13), Nusa Dua (3). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Indonesia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ALiLa (6), Aman Hotels & Resorts (3), Four Seasons (3), Ritz Carlton Hotels & Resorts (3), JW Marriott Hotel (2). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Costa Rica",
+          "item": "https://solo5estrellas.com/countries/19/costa-rica.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/19/costa-rica.html#webpage",
+      "url": "https://solo5estrellas.com/countries/19/costa-rica.html",
+      "name": "Hoteles de lujo en Costa Rica: 18 hoteles",
+      "description": "Explore 18 hoteles de lujo en Costa Rica con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Costa Rica"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/19/costa-rica.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/19/costa-rica.html#hotels",
+      "name": "Hoteles de lujo en Costa Rica",
+      "numberOfItems": 18,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Tabacon Thermal Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/2276/tabacon-thermal-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "JW Marriott Costa Elena Resort & Spa, All-Inclusive",
+          "url": "https://solo5estrellas.com/hotels/7145/jw-marriott-costa-elena-resort-spa-all-inclusive.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "El Silencio Lodge & Spa",
+          "url": "https://solo5estrellas.com/hotels/4234/el-silencio-lodge-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "InterContinental Costa Rica at Multiplaza Mall",
+          "url": "https://solo5estrellas.com/hotels/4783/intercontinental-costa-rica-at-multiplaza-mall.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Springs Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6342/the-springs-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Los Sueños Marriott Ocean & Golf Resort",
+          "url": "https://solo5estrellas.com/hotels/4684/los-sue-os-marriott-ocean-golf-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Los Altos Resort",
+          "url": "https://solo5estrellas.com/hotels/3342/los-altos-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Three Sixty Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/4295/three-sixty-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Andaz Costa Rica Resort at Peninsula Papagayo",
+          "url": "https://solo5estrellas.com/hotels/2760/andaz-costa-rica-resort-at-peninsula-papagayo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "El Mangroove, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/3616/el-mangroove-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Four Seasons Resort Costa Rica",
+          "url": "https://solo5estrellas.com/hotels/1271/four-seasons-resort-costa-rica-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Nekajui, A Ritz Carlton Reserve",
+          "url": "https://solo5estrellas.com/hotels/6781/nekajui-a-ritz-carlton-reserve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Secrets Papagayo Costa Rica",
+          "url": "https://solo5estrellas.com/hotels/6997/secrets-papagayo-costa-rica.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "W Costa Rica - Reserva Conchal",
+          "url": "https://solo5estrellas.com/hotels/3896/w-costa-rica-reserva-conchal.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Waldorf Astoria Costa Rica Punta Cacique",
+          "url": "https://solo5estrellas.com/hotels/6850/waldorf-astoria-costa-rica-punta-cacique.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Hacienda AltaGracia, Auberge Collection",
+          "url": "https://solo5estrellas.com/hotels/3039/hacienda-altagracia-auberge-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Costa Rica Marriott Hotel Hacienda Belén",
+          "url": "https://solo5estrellas.com/hotels/4685/costa-rica-marriott-hotel-hacienda-bel-n-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Nantipa Beach & Resort",
+          "url": "https://solo5estrellas.com/hotels/4085/nantipa-beach-resort.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Costa Rica en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "18 hoteles. Las ciudades con más hoteles son Peninsula Papagayo (7), Arenal (1), Bahia Salinas (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Costa Rica tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Peninsula Papagayo (7), Arenal (1), Bahia Salinas (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Costa Rica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Small Luxury Hotels of The World (3), The Signature Collection (3), Marriott Hotels & Resorts (2), JW Marriott Hotel (1), InterContinental Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

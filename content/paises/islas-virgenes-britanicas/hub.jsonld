@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Islas Vírgenes Británicas",
+          "item": "https://solo5estrellas.com/countries/13/islas-virgenes-britanicas.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/13/islas-virgenes-britanicas.html#webpage",
+      "url": "https://solo5estrellas.com/countries/13/islas-virgenes-britanicas.html",
+      "name": "Hoteles de lujo en Islas Vírgenes Británicas: 5 hoteles",
+      "description": "Explore 5 hoteles de lujo en Islas Vírgenes Británicas con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Islas Vírgenes Británicas"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/13/islas-virgenes-britanicas.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/13/islas-virgenes-britanicas.html#hotels",
+      "name": "Hoteles de lujo en Islas Vírgenes Británicas",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Moskito Island",
+          "url": "https://solo5estrellas.com/hotels/4255/moskito-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Branson Beach Estate",
+          "url": "https://solo5estrellas.com/hotels/7159/the-branson-beach-estate.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Necker Island",
+          "url": "https://solo5estrellas.com/hotels/964/necker-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Scrub Island Resort, Spa & Marina",
+          "url": "https://solo5estrellas.com/hotels/3797/scrub-island-resort-spa-marina.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rosewood Little Dix Bay",
+          "url": "https://solo5estrellas.com/hotels/3938/rosewood-little-dix-bay.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Islas Vírgenes Británicas en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "5 hoteles. Las ciudades con más hoteles son Moskito Island (2), Necker Island (1), Scrub Island (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Islas Vírgenes Británicas tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Moskito Island (2), Necker Island (1), Scrub Island (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Islas Vírgenes Británicas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (3), Preferred Hotels & Resorts (1), Rosewood Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

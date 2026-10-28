@@ -14,3 +14,6 @@ Wrong brand assignment (about 25 records), residences, villas and estates listed
 
 ## Region pages (added 27 Oct)
 All twelve region pages show every hotel under one country heading; add country headings. English hreflang on every region page points to WhataHotel `/region/{id}/…`, which returns 404; use `/regions/{id}/…` (see `hreflang-map.csv`). Region membership is inconsistent (Z106): decide the region of each country and assign hotels by country.
+
+## Country pages (added 28 Oct)
+Every Spanish country page has the title "Bienvenido | Solo 5 Estrellas", hreflang tags pointing to the home pages, a breadcrumb to `browse_region.cfm` and an English slug (`/countries/58/spain.html`). Fix the template head and use one Spanish lowercase slug per ID (Z111). Duplicate country IDs (Kuwait 141/145/147, Bhutan 74/82, Serbia 143/148, Mongolia 154/155) should 301 to one ID, and the 19 empty country IDs should return 404 (Z112).

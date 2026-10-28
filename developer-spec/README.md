@@ -14,10 +14,10 @@ Everything here is read-only guidance written from public pages (no code or serv
 | `page-metadata-drafts.csv` | Title, description, H1 and target URL for every drafted page (71 rows) |
 | `SCHEMA-HOTEL.md` | Hotel and breadcrumb JSON-LD, social tags, what to remove |
 | `REDIRECT-MAPS.md` + 3 CSVs | Slug and legacy-URL redirect rules, with test sets; `redirects-observed-search-console.csv` is the newest (23 Oct): 1,404 URLs for 650 page IDs, with impressions |
-| `hreflang-map.csv` | English WhataHotel URL for every drafted page (82 rows; the live English tag works on the chain pages and returns 404 on all 12 region pages, where the working URL is listed) |
+| `hreflang-map.csv` | English WhataHotel URL for every drafted page (213 rows; the live English tag works on the chain pages, returns 404 on the 12 region pages and points to the home page on the 131 country pages; the working URL is listed) |
 | `CMS-DATA-ISSUES.md` | Data problems that sit in the CMS records, not in templates (slug typos, markup in names, empty locations, hand-typed counts) |
 | `../style-guide/` | Spanish style guide and place-name list (156 names) |
-| `../content/` | 62 chain page drafts, hub and city drafts: for the editor, not for the developer |
+| `../content/` | 62 chain pages, 12 region pages, 131 country pages (`content/paises/`, index in `INDEX.md`), hub and city drafts: for the editor, not for the developer |
 
 ## Release plan
 | Release | Contents | Done when |

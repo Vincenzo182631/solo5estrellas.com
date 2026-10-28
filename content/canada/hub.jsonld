@@ -326,7 +326,7 @@
           "name": "¿Dónde está la lista completa de hoteles?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Debajo, agrupada por país y ciudad. Los nombres de los hoteles no se traducen."
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
           }
         }
       ]

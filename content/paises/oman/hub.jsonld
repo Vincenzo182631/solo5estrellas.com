@@ -1,0 +1,173 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Omán",
+          "item": "https://solo5estrellas.com/countries/127/oman.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/127/oman.html#webpage",
+      "url": "https://solo5estrellas.com/countries/127/oman.html",
+      "name": "Hoteles de lujo en Omán: 12 hoteles",
+      "description": "Explore 12 hoteles de lujo en Omán con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Omán"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/127/oman.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/127/oman.html#hotels",
+      "name": "Hoteles de lujo en Omán",
+      "numberOfItems": 12,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Alila Jabal Akhdar",
+          "url": "https://solo5estrellas.com/hotels/3608/-alila-jabal-akhdar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Atana Musandam Resort",
+          "url": "https://solo5estrellas.com/hotels/4546/atana-musandam-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Al Bustan Palace, A Ritz Carlton",
+          "url": "https://solo5estrellas.com/hotels/3707/al-bustan-palace-a-ritz-carlton.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Grand Hyatt Muscat",
+          "url": "https://solo5estrellas.com/hotels/3413/grand-hyatt-muscat-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "InterContinental Muscat",
+          "url": "https://solo5estrellas.com/hotels/4797/intercontinental-muscat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "JW Marriott Hotel Muscat",
+          "url": "https://solo5estrellas.com/hotels/6873/jw-marriott-hotel-muscat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Mandarin Oriental Muscat",
+          "url": "https://solo5estrellas.com/hotels/6736/mandarin-oriental-muscat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Shangri-La Al Husn Resort and Spa",
+          "url": "https://solo5estrellas.com/hotels/3509/shangri-la-al-husn-resort-and-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Shangri-La’s Barr Al Jissah Resort",
+          "url": "https://solo5estrellas.com/hotels/2363/shangri-la-s-barr-al-jissah-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "The St. Regis Al Mouj Muscat Resort",
+          "url": "https://solo5estrellas.com/hotels/6872/the-st-regis-al-mouj-muscat-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "W Muscat",
+          "url": "https://solo5estrellas.com/hotels/6874/w-muscat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Anantara Al Jabal Al Akhdar Resort",
+          "url": "https://solo5estrellas.com/hotels/4193/anantara-al-jabal-al-akhdar-resort.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Omán en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "12 hoteles. Las ciudades con más hoteles son Muscat (9), Jebel Akhdar (1), Khasab (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Omán tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Muscat (9), Jebel Akhdar (1), Khasab (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Omán?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Shangri-la Hotels (2), ALiLa (1), Preferred Hotels & Resorts (1), Ritz Carlton Hotels & Resorts (1), Grand Hyatt (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

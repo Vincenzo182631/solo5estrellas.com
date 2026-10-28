@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dinamarca",
+          "item": "https://solo5estrellas.com/countries/118/dinamarca.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/118/dinamarca.html#webpage",
+      "url": "https://solo5estrellas.com/countries/118/dinamarca.html",
+      "name": "Hoteles de lujo en Dinamarca: 5 hoteles",
+      "description": "Explore 5 hoteles de lujo en Dinamarca con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Dinamarca"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/118/dinamarca.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/118/dinamarca.html#hotels",
+      "name": "Hoteles de lujo en Dinamarca",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "71 Nyhavn Hotel",
+          "url": "https://solo5estrellas.com/hotels/4090/71-nyhavn-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel D'Angleterre Copenhagen",
+          "url": "https://solo5estrellas.com/hotels/3236/hotel-d-angleterre-copenhagen-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nimb Hotel",
+          "url": "https://solo5estrellas.com/hotels/3659/nimb-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Nobis Hotel Copenhagen",
+          "url": "https://solo5estrellas.com/hotels/3316/nobis-hotel-copenhagen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Villa Copenhagen",
+          "url": "https://solo5estrellas.com/hotels/4530/villa-copenhagen.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Dinamarca en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "5 hoteles. Las ciudades con más hoteles son Copenhague (5)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Dinamarca tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Copenhague (5). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Dinamarca?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (3), Leading Hotels of the World (1), Preferred Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

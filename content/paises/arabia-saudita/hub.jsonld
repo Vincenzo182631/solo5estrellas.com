@@ -1,0 +1,263 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Arabia Saudita",
+          "item": "https://solo5estrellas.com/countries/115/arabia-saudita.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/115/arabia-saudita.html#webpage",
+      "url": "https://solo5estrellas.com/countries/115/arabia-saudita.html",
+      "name": "Hoteles de lujo en Arabia Saudita: 27 hoteles",
+      "description": "Explore 27 hoteles de lujo en Arabia Saudita con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Arabia Saudita"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/115/arabia-saudita.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/115/arabia-saudita.html#hotels",
+      "name": "Hoteles de lujo en Arabia Saudita",
+      "numberOfItems": 27,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Grand Hyatt Al Khobar",
+          "url": "https://solo5estrellas.com/hotels/6227/grand-hyatt-al-khobar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Habitas Alula",
+          "url": "https://solo5estrellas.com/hotels/6313/habitas-alula.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "InterContinental al Ahsa",
+          "url": "https://solo5estrellas.com/hotels/4753/intercontinental-al-ahsa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Park Hyatt Jeddah Marina Club & Spa",
+          "url": "https://solo5estrellas.com/hotels/3448/park-hyatt-jeddah-marina-club-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rosewood Jeddah",
+          "url": "https://solo5estrellas.com/hotels/1910/rosewood-jeddah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Shangri-La Jeddah",
+          "url": "https://solo5estrellas.com/hotels/6493/shangri-la-jeddah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Ritz-Carlton Jeddah",
+          "url": "https://solo5estrellas.com/hotels/3491/the-ritz-carlton-jeddah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Waldorf Astoria Jeddah Qasr Al Sharq",
+          "url": "https://solo5estrellas.com/hotels/4173/waldorf-astoria-jeddah-qasr-al-sharq.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Conrad Makkah",
+          "url": "https://solo5estrellas.com/hotels/4143/conrad-makkah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Jabal Omar Hyatt Regency Makkah",
+          "url": "https://solo5estrellas.com/hotels/3649/jabal-omar-hyatt-regency-makkah.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Raffles Makkah Palace",
+          "url": "https://solo5estrellas.com/hotels/6475/raffles-makkah-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Al Faisaliah Hotel",
+          "url": "https://solo5estrellas.com/hotels/6204/al-faisaliah-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Fairmont Riyadh",
+          "url": "https://solo5estrellas.com/hotels/6134/fairmont-riyadh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Four Seasons Hotel Riyadh",
+          "url": "https://solo5estrellas.com/hotels/1847/four-seasons-hotel-riyadh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Hyatt Regency Riyadh Olaya",
+          "url": "https://solo5estrellas.com/hotels/4199/hyatt-regency-riyadh-olaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Mansard Riyadh, a Radisson Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/6735/mansard-riyadh-a-radisson-collection-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "The Ritz-Carlton, Riyadh Palace",
+          "url": "https://solo5estrellas.com/hotels/2937/the-ritz-carlton-riyadh-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The St. Regis Riyadh",
+          "url": "https://solo5estrellas.com/hotels/6565/the-st-regis-riyadh-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "W Riyadh - KAFD",
+          "url": "https://solo5estrellas.com/hotels/7112/w-riyadh-kafd.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Four Seasons Resort and Residences Red Sea at Shura Island",
+          "url": "https://solo5estrellas.com/hotels/7084/four-seasons-resort-and-residences-red-sea-at-shura-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "The Red Sea EDITION",
+          "url": "https://solo5estrellas.com/hotels/7039/the-red-sea-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Four Seasons Resort AMAALA at Triple Bay",
+          "url": "https://solo5estrellas.com/hotels/7082/four-seasons-resort-amaala-at-triple-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Rosewood AMAALA",
+          "url": "https://solo5estrellas.com/hotels/7114/rosewood-amaala.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Six Senses AMAALA",
+          "url": "https://solo5estrellas.com/hotels/7115/six-senses-amaala.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Six Senses Southern Dunes",
+          "url": "https://solo5estrellas.com/hotels/6741/six-senses-southern-dunes.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Nujuma, a Ritz-Carlton Reserve",
+          "url": "https://solo5estrellas.com/hotels/6669/nujuma-a-ritz-carlton-reserve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "The St. Regis Red Sea Resort",
+          "url": "https://solo5estrellas.com/hotels/6670/the-st-regis-red-sea-resort.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Arabia Saudita en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "27 hoteles. Las ciudades con más hoteles son Riad (8), Jeddah (5), The Red Sea (4)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Arabia Saudita tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Riad (8), Jeddah (5), The Red Sea (4). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Arabia Saudita?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ritz Carlton Hotels & Resorts (3), Four Seasons (3), Rosewood Hotels & Resorts (2), Hyatt Regency Hotels (2), St. Regis Hotels & Resorts (2). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

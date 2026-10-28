@@ -1,0 +1,161 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Polinesia Francesa (Tahití)",
+          "item": "https://solo5estrellas.com/countries/25/polinesia-francesa-tahiti.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/25/polinesia-francesa-tahiti.html#webpage",
+      "url": "https://solo5estrellas.com/countries/25/polinesia-francesa-tahiti.html",
+      "name": "Hoteles de lujo en Polinesia Francesa (Tahití): 10 hoteles",
+      "description": "Explore 10 hoteles de lujo en Polinesia Francesa (Tahití) con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Polinesia Francesa (Tahití)"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/25/polinesia-francesa-tahiti.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/25/polinesia-francesa-tahiti.html#hotels",
+      "name": "Hoteles de lujo en Polinesia Francesa (Tahití)",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Conrad Bora Bora Nui",
+          "url": "https://solo5estrellas.com/hotels/2507/conrad-bora-bora-nui.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Four Seasons Resort Bora Bora",
+          "url": "https://solo5estrellas.com/hotels/2280/four-seasons-resort-bora-bora.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "InterContinental Bora Bora & Thalasso",
+          "url": "https://solo5estrellas.com/hotels/1970/intercontinental-bora-bora-thalasso-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "The St. Regis Resort Bora Bora",
+          "url": "https://solo5estrellas.com/hotels/1801/the-st-regis-resort-bora-bora-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Westin Bora Bora Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6918/the-westin-bora-bora-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Hilton Moorea Lagoon Resort",
+          "url": "https://solo5estrellas.com/hotels/2508/hilton-moorea-lagoon-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Sofitel Kia Ora Moorea Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/2388/sofitel-kia-ora-moorea-beach-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "The Brando",
+          "url": "https://solo5estrellas.com/hotels/2987/the-brando.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Hotel Kia Ora Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3053/hotel-kia-ora-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Le Taha'a Island Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/1346/le-taha-a-island-resort-spa.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Polinesia Francesa (Tahití) en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "10 hoteles. Las ciudades con más hoteles son Bora Bora (5), Moorea (2), Papeete (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Polinesia Francesa (Tahití) tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bora Bora (5), Moorea (2), Papeete (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Polinesia Francesa (Tahití)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (3), Conrad Hotels & Resorts (1), Four Seasons (1), InterContinental Hotels & Resorts (1), St. Regis Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

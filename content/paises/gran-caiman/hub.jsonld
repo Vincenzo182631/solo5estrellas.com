@@ -1,0 +1,137 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gran Caimán",
+          "item": "https://solo5estrellas.com/countries/83/gran-caiman.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/83/gran-caiman.html#webpage",
+      "url": "https://solo5estrellas.com/countries/83/gran-caiman.html",
+      "name": "Hoteles de lujo en Gran Caimán: 6 hoteles",
+      "description": "Explore 6 hoteles de lujo en Gran Caimán con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Gran Caimán"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/83/gran-caiman.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/83/gran-caiman.html#hotels",
+      "name": "Hoteles de lujo en Gran Caimán",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Grand Cayman Marriott Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/4979/grand-cayman-marriott-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Grand Hyatt Cayman Resort",
+          "url": "https://solo5estrellas.com/hotels/7011/grand-hyatt-cayman-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hotel Indigo Grand Cayman",
+          "url": "https://solo5estrellas.com/hotels/6861/hotel-indigo-grand-cayman.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Kimpton Seafire Resort",
+          "url": "https://solo5estrellas.com/hotels/3214/kimpton-seafire-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Ritz Carlton, Grand Cayman",
+          "url": "https://solo5estrellas.com/hotels/1512/ritz-carlton-grand-cayman-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "The Westin Grand Cayman Seven Mile Beach Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3788/the-westin-grand-cayman-seven-mile-beach-resort-spa.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Gran Caimán en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "6 hoteles. Las ciudades con más hoteles son Gran Caimán (6)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Gran Caimán tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gran Caimán (6). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Gran Caimán?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Marriott Hotels & Resorts (1), Grand Hyatt (1), InterContinental Hotels & Resorts (1), Kimpton Hotels (1), Ritz Carlton Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

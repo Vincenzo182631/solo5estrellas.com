@@ -1,0 +1,167 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Puerto Rico",
+          "item": "https://solo5estrellas.com/countries/50/puerto-rico.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/50/puerto-rico.html#webpage",
+      "url": "https://solo5estrellas.com/countries/50/puerto-rico.html",
+      "name": "Hoteles de lujo en Puerto Rico: 11 hoteles",
+      "description": "Explore 11 hoteles de lujo en Puerto Rico con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Puerto Rico"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/50/puerto-rico.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/50/puerto-rico.html#hotels",
+      "name": "Hoteles de lujo en Puerto Rico",
+      "numberOfItems": 11,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Dorado Beach, a Ritz Carlton Reserve",
+          "url": "https://solo5estrellas.com/hotels/2705/dorado-beach-a-ritz-carlton-reserve-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Ritz Carlton Residences at Dorado Beach",
+          "url": "https://solo5estrellas.com/hotels/3879/the-ritz-carlton-residences-at-dorado-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Royal Sonesta San Juan",
+          "url": "https://solo5estrellas.com/hotels/6645/the-royal-sonesta-san-juan.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hyatt Regency Grand Reserve Puerto Rico",
+          "url": "https://solo5estrellas.com/hotels/4198/hyatt-regency-grand-reserve-puerto-rico.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The St. Regis Bahia Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/2426/the-st-regis-bahia-beach-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Condado Vanderbilt",
+          "url": "https://solo5estrellas.com/hotels/2998/condado-vanderbilt.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Fairmont El San Juan Hotel",
+          "url": "https://solo5estrellas.com/hotels/1940/fairmont-el-san-juan-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Four Seasons Puerto Rico",
+          "url": "https://solo5estrellas.com/hotels/6869/four-seasons-puerto-rico.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Hotel El Convento",
+          "url": "https://solo5estrellas.com/hotels/1514/hotel-el-convento.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "La Concha Resort",
+          "url": "https://solo5estrellas.com/hotels/3726/la-concha-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Sheraton Puerto Rico Resort & Casino",
+          "url": "https://solo5estrellas.com/hotels/6897/sheraton-puerto-rico-resort-casino.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Puerto Rico en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "11 hoteles. Las ciudades con más hoteles son San Juan (6), Dorado (2), Rio Grande (2)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Puerto Rico tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "San Juan (6), Dorado (2), Rio Grande (2). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Puerto Rico?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ritz Carlton Hotels & Resorts (2), The Signature Collection (1), Hyatt Regency Hotels (1), St. Regis Hotels & Resorts (1), Preferred Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

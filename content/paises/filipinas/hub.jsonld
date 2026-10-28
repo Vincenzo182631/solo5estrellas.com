@@ -1,0 +1,161 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Filipinas",
+          "item": "https://solo5estrellas.com/countries/75/filipinas.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/75/filipinas.html#webpage",
+      "url": "https://solo5estrellas.com/countries/75/filipinas.html",
+      "name": "Hoteles de lujo en Filipinas: 10 hoteles",
+      "description": "Explore 10 hoteles de lujo en Filipinas con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Filipinas"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/75/filipinas.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/75/filipinas.html#hotels",
+      "name": "Hoteles de lujo en Filipinas",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Fairmont Makati",
+          "url": "https://solo5estrellas.com/hotels/4967/fairmont-makati.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Raffles Makati",
+          "url": "https://solo5estrellas.com/hotels/4968/raffles-makati.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Shangri-La's Mactan Resort & Spa, Cebu",
+          "url": "https://solo5estrellas.com/hotels/3090/shangri-la-s-mactan-resort-spa-cebu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Makati Shangri-La, Manila",
+          "url": "https://solo5estrellas.com/hotels/2379/makati-shangri-la-manila-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Conrad Manila",
+          "url": "https://solo5estrellas.com/hotels/4148/conrad-manila.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Grand Hyatt Manila",
+          "url": "https://solo5estrellas.com/hotels/6673/grand-hyatt-manila.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Peninsula Manila",
+          "url": "https://solo5estrellas.com/hotels/1888/the-peninsula-manila.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Amanpulo",
+          "url": "https://solo5estrellas.com/hotels/1532/amanpulo.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Anya Resort Tagaytay",
+          "url": "https://solo5estrellas.com/hotels/4304/anya-resort-tagaytay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Shangri-La at the Fort, Manila",
+          "url": "https://solo5estrellas.com/hotels/3093/shangri-la-at-the-fort-manila.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Filipinas en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "10 hoteles. Las ciudades con más hoteles son Manila (3), Luzon Island (2), Mactan (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Filipinas tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Manila (3), Luzon Island (2), Mactan (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Filipinas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Shangri-la Hotels (3), Fairmont Hotels (1), Raffles Hotels (1), Conrad Hotels & Resorts (1), Grand Hyatt (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

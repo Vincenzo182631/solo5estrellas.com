@@ -1,0 +1,215 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Escocia",
+          "item": "https://solo5estrellas.com/countries/71/escocia.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/71/escocia.html#webpage",
+      "url": "https://solo5estrellas.com/countries/71/escocia.html",
+      "name": "Hoteles de lujo en Escocia: 19 hoteles",
+      "description": "Explore 19 hoteles de lujo en Escocia con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Escocia"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/71/escocia.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/71/escocia.html#hotels",
+      "name": "Hoteles de lujo en Escocia",
+      "numberOfItems": 19,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Cameron House on Loch Lomond",
+          "url": "https://solo5estrellas.com/hotels/3285/cameron-house-on-loch-lomond.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Isle of Eriska Hotel, Spa and Island",
+          "url": "https://solo5estrellas.com/hotels/1780/isle-of-eriska-hotel-spa-and-island-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trump Turnberry Resort",
+          "url": "https://solo5estrellas.com/hotels/1443/trump-turnberry-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "100 Princes Street",
+          "url": "https://solo5estrellas.com/hotels/6790/100-princes-street.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "InterContinental Edinburgh The George",
+          "url": "https://solo5estrellas.com/hotels/4787/intercontinental-edinburgh-the-george.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Kimpton Charlotte Square",
+          "url": "https://solo5estrellas.com/hotels/3610/kimpton-charlotte-square.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Nira Caledonia",
+          "url": "https://solo5estrellas.com/hotels/4480/nira-caledonia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Rocco Forte The Balmoral, Edinburgh",
+          "url": "https://solo5estrellas.com/hotels/1084/rocco-forte-the-balmoral-edinburgh-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "The Caledonian Edinburgh",
+          "url": "https://solo5estrellas.com/hotels/2758/the-caledonian-edinburgh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "The Glasshouse Edinburgh",
+          "url": "https://solo5estrellas.com/hotels/3253/the-glasshouse-edinburgh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Virgin Hotels Edinburgh",
+          "url": "https://solo5estrellas.com/hotels/6631/virgin-hotels-edinburgh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "W Hotel Edinburgh",
+          "url": "https://solo5estrellas.com/hotels/6537/w-hotel-edinburgh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Crossbasket Castle",
+          "url": "https://solo5estrellas.com/hotels/4479/crossbasket-castle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Kimpton Blythswood Square Hotel",
+          "url": "https://solo5estrellas.com/hotels/3606/kimpton-blythswood-square-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Greywalls Hotel",
+          "url": "https://solo5estrellas.com/hotels/1652/greywalls-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Ness Walk",
+          "url": "https://solo5estrellas.com/hotels/6637/ness-walk.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Schloss Roxburghe Hotel & Golf Course",
+          "url": "https://solo5estrellas.com/hotels/6402/schloss-roxburghe-hotel-golf-course.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Gleneagles Hotel",
+          "url": "https://solo5estrellas.com/hotels/1446/the-gleneagles-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Fairmont St. Andrews",
+          "url": "https://solo5estrellas.com/hotels/3605/fairmont-st-andrews-.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Escocia en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "19 hoteles. Las ciudades con más hoteles son Edimburgo (9), Glasgow (2), Alexandria (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Escocia tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Edimburgo (9), Glasgow (2), Alexandria (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Escocia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (5), Small Luxury Hotels of The World (4), Kimpton Hotels (2), The Luxury Collection (1), InterContinental Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

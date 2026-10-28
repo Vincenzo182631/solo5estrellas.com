@@ -1,0 +1,215 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Catar",
+          "item": "https://solo5estrellas.com/countries/76/catar.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/76/catar.html#webpage",
+      "url": "https://solo5estrellas.com/countries/76/catar.html",
+      "name": "Hoteles de lujo en Catar: 19 hoteles",
+      "description": "Explore 19 hoteles de lujo en Catar con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Catar"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/76/catar.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/76/catar.html#hotels",
+      "name": "Hoteles de lujo en Catar",
+      "numberOfItems": 19,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Banyan Tree Doha",
+          "url": "https://solo5estrellas.com/hotels/6470/banyan-tree-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Fairmont Doha",
+          "url": "https://solo5estrellas.com/hotels/6642/fairmont-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Four Seasons Doha, The Pearl-Qatar",
+          "url": "https://solo5estrellas.com/hotels/6436/four-seasons-doha-the-pearl-qatar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Four Seasons Hotel Doha",
+          "url": "https://solo5estrellas.com/hotels/1550/four-seasons-hotel-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Grand Hyatt Doha",
+          "url": "https://solo5estrellas.com/hotels/1014/grand-hyatt-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "InterContinental Doha Beach",
+          "url": "https://solo5estrellas.com/hotels/4000/intercontinental-doha-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "InterContinental Doha The City",
+          "url": "https://solo5estrellas.com/hotels/4786/intercontinental-doha-the-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Le Royal Meridien Doha",
+          "url": "https://solo5estrellas.com/hotels/6408/le-royal-meridien-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Mandarin Oriental, Doha",
+          "url": "https://solo5estrellas.com/hotels/6203/mandarin-oriental-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Maysan Doha, LXR Hotels & Resorts",
+          "url": "https://solo5estrellas.com/hotels/6324/maysan-doha-lxr-hotels-resorts.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Park Hyatt Doha",
+          "url": "https://solo5estrellas.com/hotels/4117/park-hyatt-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Raffles Doha",
+          "url": "https://solo5estrellas.com/hotels/6471/raffles-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Rosewood Doha",
+          "url": "https://solo5estrellas.com/hotels/6895/rosewood-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Sharq Village and Spa, A Ritz-Carlton Hotel",
+          "url": "https://solo5estrellas.com/hotels/1856/sharq-village-and-spa-a-ritz-carlton-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "The Ritz Carlton Doha",
+          "url": "https://solo5estrellas.com/hotels/1629/the-ritz-carlton-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "The St. Regis Doha",
+          "url": "https://solo5estrellas.com/hotels/2622/the-st-regis-doha-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "W Doha Hotel & Residences",
+          "url": "https://solo5estrellas.com/hotels/2876/w-doha-hotel-residences.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Waldorf Astoria Doha West Bay",
+          "url": "https://solo5estrellas.com/hotels/6322/waldorf-astoria-doha-west-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Waldorf Astoria Lusail, Doha",
+          "url": "https://solo5estrellas.com/hotels/6321/waldorf-astoria-lusail-doha-.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Catar en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "19 hoteles. Las ciudades con más hoteles son Doha (19)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Catar tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Doha (19). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Catar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Four Seasons (2), InterContinental Hotels & Resorts (2), Ritz Carlton Hotels & Resorts (2), Waldorf Astoria Hotels (2), Banyan Tree (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

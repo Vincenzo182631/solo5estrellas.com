@@ -1,0 +1,119 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Islas Vírgenes de EE. UU.",
+          "item": "https://solo5estrellas.com/countries/92/islas-virgenes-de-ee-uu.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/92/islas-virgenes-de-ee-uu.html#webpage",
+      "url": "https://solo5estrellas.com/countries/92/islas-virgenes-de-ee-uu.html",
+      "name": "Hoteles de lujo en Islas Vírgenes de EE. UU.: 3 hoteles",
+      "description": "Explore 3 hoteles de lujo en Islas Vírgenes de EE. UU. con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Islas Vírgenes de EE. UU."
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/92/islas-virgenes-de-ee-uu.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/92/islas-virgenes-de-ee-uu.html#hotels",
+      "name": "Hoteles de lujo en Islas Vírgenes de EE. UU.",
+      "numberOfItems": 3,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Buoy Haus Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/6563/buoy-haus-beach-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Ritz-Carlton, St. Thomas",
+          "url": "https://solo5estrellas.com/hotels/4101/the-ritz-carlton-st-thomas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Westin Beach Resort & Spa at Frenchman’s Reef",
+          "url": "https://solo5estrellas.com/hotels/6658/the-westin-beach-resort-spa-at-frenchman-s-reef-.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Islas Vírgenes de EE. UU. en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "3 hoteles. Las ciudades con más hoteles son St. Thomas (3)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Islas Vírgenes de EE. UU. tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "St. Thomas (3). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Islas Vírgenes de EE. UU.?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Autograph Collection (1), Ritz Carlton Hotels & Resorts (1), Westin Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

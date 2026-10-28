@@ -1,0 +1,167 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Fiyi",
+          "item": "https://solo5estrellas.com/countries/23/fiyi.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/23/fiyi.html#webpage",
+      "url": "https://solo5estrellas.com/countries/23/fiyi.html",
+      "name": "Hoteles de lujo en Fiyi: 11 hoteles",
+      "description": "Explore 11 hoteles de lujo en Fiyi con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Fiyi"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/23/fiyi.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/23/fiyi.html#hotels",
+      "name": "Hoteles de lujo en Fiyi",
+      "numberOfItems": 11,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Fiji Marriott Resort Momi Bay",
+          "url": "https://solo5estrellas.com/hotels/3837/fiji-marriott-resort-momi-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "InterContinental Fiji Golf Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/4788/intercontinental-fiji-golf-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Jean-Michel Cousteau Resort",
+          "url": "https://solo5estrellas.com/hotels/6787/jean-michel-cousteau-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Koro Sun Resort and Rainforest Spa",
+          "url": "https://solo5estrellas.com/hotels/6623/koro-sun-resort-and-rainforest-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Nanuku Resort Fiji",
+          "url": "https://solo5estrellas.com/hotels/3338/nanuku-resort-fiji.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Outrigger Fiji Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/6786/outrigger-fiji-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Shangri-La's Fijian Resort and Spa",
+          "url": "https://solo5estrellas.com/hotels/3077/shangri-la-s-fijian-resort-and-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Six Senses Fiji",
+          "url": "https://solo5estrellas.com/hotels/3564/six-senses-fiji.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Sofitel Fiji Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6162/sofitel-fiji-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Tropica Island Resort",
+          "url": "https://solo5estrellas.com/hotels/6628/tropica-island-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Raiwasa Private Resort",
+          "url": "https://solo5estrellas.com/hotels/6517/raiwasa-private-resort.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Fiyi en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "11 hoteles. Las ciudades con más hoteles son Fiji (10), Taveuni Island (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Fiyi tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiji (10), Taveuni Island (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Fiyi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (5), Marriott Hotels & Resorts (1), InterContinental Hotels & Resorts (1), Shangri-la Hotels (1), Six Senses Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

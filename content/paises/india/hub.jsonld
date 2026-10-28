@@ -1,0 +1,323 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "India",
+          "item": "https://solo5estrellas.com/countries/29/india.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/29/india.html#webpage",
+      "url": "https://solo5estrellas.com/countries/29/india.html",
+      "name": "Hoteles de lujo en India: 37 hoteles",
+      "description": "Explore 37 hoteles de lujo en India con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "India"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/29/india.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/29/india.html#hotels",
+      "name": "Hoteles de lujo en India",
+      "numberOfItems": 37,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hyatt Regency Ahmedabad",
+          "url": "https://solo5estrellas.com/hotels/4113/hyatt-regency-ahmedabad.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Conrad Bengaluru",
+          "url": "https://solo5estrellas.com/hotels/4156/conrad-bengaluru.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Ritz-Carlton, Bangalore",
+          "url": "https://solo5estrellas.com/hotels/2770/the-ritz-carlton-bangalore.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Shangri-La Hotel, Bengaluru",
+          "url": "https://solo5estrellas.com/hotels/3079/shangri-la-hotel-bengaluru.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hyatt Regency Chennai",
+          "url": "https://solo5estrellas.com/hotels/3365/hyatt-regency-chennai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Park Hyatt Chennai",
+          "url": "https://solo5estrellas.com/hotels/3453/park-hyatt-chennai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "The Leela Palace Chennai",
+          "url": "https://solo5estrellas.com/hotels/4537/the-leela-palace-chennai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Andaz Delhi",
+          "url": "https://solo5estrellas.com/hotels/3378/andaz-delhi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Alila Diwa Goa",
+          "url": "https://solo5estrellas.com/hotels/3959/alila-diwa-goa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Grand Hyatt Goa",
+          "url": "https://solo5estrellas.com/hotels/3407/grand-hyatt-goa-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Hyatt Centric Candolim Goa",
+          "url": "https://solo5estrellas.com/hotels/4841/hyatt-centric-candolim-goa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "W Goa",
+          "url": "https://solo5estrellas.com/hotels/3827/w-goa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "The Leela Palace Ambience Gurugram Hotel & Residence",
+          "url": "https://solo5estrellas.com/hotels/4538/the-leela-palace-ambience-gurugram-hotel-residence.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Park Hyatt Hyderabad",
+          "url": "https://solo5estrellas.com/hotels/3450/park-hyatt-hyderabad.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Alila Fort Bishangarh",
+          "url": "https://solo5estrellas.com/hotels/3960/alila-fort-bishangarh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Hyatt Regency Jaipur Mansarovar",
+          "url": "https://solo5estrellas.com/hotels/6395/hyatt-regency-jaipur-mansarovar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Rambagh Palace",
+          "url": "https://solo5estrellas.com/hotels/1664/rambagh-palace-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Oberoi Rajvilas",
+          "url": "https://solo5estrellas.com/hotels/1024/the-oberoi-rajvilas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Umaid Bhawan Palace",
+          "url": "https://solo5estrellas.com/hotels/1581/umaid-bhawan-palace-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Grand Hyatt Kochi Bolgatty",
+          "url": "https://solo5estrellas.com/hotels/3647/grand-hyatt-kochi-bolgatty.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Le Meridien Mahabaleshwar Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3822/le-meridien-mahabaleshwar-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Four Seasons Hotel Mumbai",
+          "url": "https://solo5estrellas.com/hotels/2253/four-seasons-hotel-mumbai-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Grand Hyatt Mumbai",
+          "url": "https://solo5estrellas.com/hotels/3412/grand-hyatt-mumbai-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Sofitel Mumbai BKC",
+          "url": "https://solo5estrellas.com/hotels/4879/sofitel-mumbai-bkc.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "The Taj Mahal Palace, Mumbai",
+          "url": "https://solo5estrellas.com/hotels/1161/the-taj-mahal-palace-mumbai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Leela Palace Hotel New Delhi",
+          "url": "https://solo5estrellas.com/hotels/3212/leela-palace-hotel-new-delhi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Shangri-La's- Eros Hotel, New Delhi",
+          "url": "https://solo5estrellas.com/hotels/3078/shangri-la-s-eros-hotel-new-delhi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Taj Mahal New Delhi",
+          "url": "https://solo5estrellas.com/hotels/1714/taj-mahal-new-delhi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "The Lodhi-Shima-Shi",
+          "url": "https://solo5estrellas.com/hotels/3117/the-lodhi-shima-shi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Conrad Pune",
+          "url": "https://solo5estrellas.com/hotels/4128/conrad-pune.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Raffles Udaipur",
+          "url": "https://solo5estrellas.com/hotels/4882/raffles-udaipur.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Six Senses Fort Barwana",
+          "url": "https://solo5estrellas.com/hotels/6740/six-senses-fort-barwana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "The Westin Resort & Spa, Himalayas",
+          "url": "https://solo5estrellas.com/hotels/7120/the-westin-resort-spa-himalayas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Taj Lake Palace",
+          "url": "https://solo5estrellas.com/hotels/1332/taj-lake-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "The Leela Palace Udaipur",
+          "url": "https://solo5estrellas.com/hotels/3178/the-leela-palace-udaipur.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "The Oberoi Udaivilas",
+          "url": "https://solo5estrellas.com/hotels/1242/the-oberoi-udaivilas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Six Senses Vana",
+          "url": "https://solo5estrellas.com/hotels/6742/six-senses-vana.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en India en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "37 hoteles. Las ciudades con más hoteles son Goa (4), Jaipur (4), Bombay (4)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de India tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Goa (4), Jaipur (4), Bombay (4). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en India?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Taj Hotels (5), Hyatt Regency Hotels (3), Grand Hyatt (3), Conrad Hotels & Resorts (2), Shangri-la Hotels (2). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

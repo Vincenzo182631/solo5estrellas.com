@@ -1,0 +1,341 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Turquía",
+          "item": "https://solo5estrellas.com/countries/63/turquia.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/63/turquia.html#webpage",
+      "url": "https://solo5estrellas.com/countries/63/turquia.html",
+      "name": "Hoteles de lujo en Turquía: 40 hoteles",
+      "description": "Explore 40 hoteles de lujo en Turquía con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Turquía"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/63/turquia.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/63/turquia.html#hotels",
+      "name": "Hoteles de lujo en Turquía",
+      "numberOfItems": 40,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Caresse, a Luxury Collection Resort",
+          "url": "https://solo5estrellas.com/hotels/3034/caresse-a-luxury-collection-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kempinski Hotel Barbaros Bay Bodrum",
+          "url": "https://solo5estrellas.com/hotels/6569/kempinski-hotel-barbaros-bay-bodrum.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mandarin Oriental Bodrum",
+          "url": "https://solo5estrellas.com/hotels/6092/mandarin-oriental-bodrum.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Six Senses Kaplankaya",
+          "url": "https://solo5estrellas.com/hotels/6307/six-senses-kaplankaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Susona Bodrum",
+          "url": "https://solo5estrellas.com/hotels/4653/susona-bodrum.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "The Bodrum EDITION",
+          "url": "https://solo5estrellas.com/hotels/3371/the-bodrum-edition.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Argos in Cappadocia",
+          "url": "https://solo5estrellas.com/hotels/7035/argos-in-cappadocia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Adahan Decamondo Pera",
+          "url": "https://solo5estrellas.com/hotels/6361/adahan-decamondo-pera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Ajwa Hotel Sultanahmet",
+          "url": "https://solo5estrellas.com/hotels/4564/ajwa-hotel-sultanahmet.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Ciragan Palace Hotel Kempinski",
+          "url": "https://solo5estrellas.com/hotels/1001/ciragan-palace-hotel-kempinski-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Conrad Istanbul Bosphorus",
+          "url": "https://solo5estrellas.com/hotels/4131/conrad-istanbul-bosphorus.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Decamondo Galata",
+          "url": "https://solo5estrellas.com/hotels/6362/decamondo-galata.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Fairmont Quasar Istanbul",
+          "url": "https://solo5estrellas.com/hotels/4916/fairmont-quasar-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Four Seasons Hotel Istanbul, Bosphorus",
+          "url": "https://solo5estrellas.com/hotels/2173/four-seasons-hotel-istanbul-bosphorus-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Four Seasons Istanbul, Sultanahmet",
+          "url": "https://solo5estrellas.com/hotels/1095/four-seasons-istanbul-sultanahmet.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Hyatt Centric Levent Istanbul",
+          "url": "https://solo5estrellas.com/hotels/3903/hyatt-centric-levent-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Hyatt Regency Istanbul Atakoy",
+          "url": "https://solo5estrellas.com/hotels/3971/hyatt-regency-istanbul-atakoy.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "JW Marriott Istanbul Bosphorus",
+          "url": "https://solo5estrellas.com/hotels/4984/jw-marriott-istanbul-bosphorus.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "JW Marriott Istanbul Marmara Sea",
+          "url": "https://solo5estrellas.com/hotels/6348/jw-marriott-istanbul-marmara-sea.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Mandarin Oriental Istanbul",
+          "url": "https://solo5estrellas.com/hotels/6210/mandarin-oriental-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Orientbank Hotel",
+          "url": "https://solo5estrellas.com/hotels/6666/orientbank-hotel-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Park Hyatt Istanbul – Macka Palas",
+          "url": "https://solo5estrellas.com/hotels/2329/park-hyatt-istanbul-macka-palas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Raffles Istanbul",
+          "url": "https://solo5estrellas.com/hotels/2914/raffles-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Ritz-Carlton, Istanbul",
+          "url": "https://solo5estrellas.com/hotels/1376/ritz-carlton-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Sanasaryan Han, a Luxury Collection Hotel, Istanbul",
+          "url": "https://solo5estrellas.com/hotels/6575/sanasaryan-han-a-luxury-collection-hotel-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Shangri-La Bosphorus, Istanbul",
+          "url": "https://solo5estrellas.com/hotels/2783/shangri-la-bosphorus-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Sheraton Istanbul Levent",
+          "url": "https://solo5estrellas.com/hotels/7108/sheraton-istanbul-levent.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Six Senses Kocatas Mansions",
+          "url": "https://solo5estrellas.com/hotels/6244/six-senses-kocatas-mansions.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Sofitel Istanbul Taksim",
+          "url": "https://solo5estrellas.com/hotels/4919/sofitel-istanbul-taksim.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "St. Regis Istanbul",
+          "url": "https://solo5estrellas.com/hotels/2971/st-regis-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Swissotel The Bosphorus Istanbul",
+          "url": "https://solo5estrellas.com/hotels/2132/swissotel-the-bosphorus-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "The Artisan Istanbul MGallery",
+          "url": "https://solo5estrellas.com/hotels/6481/the-artisan-istanbul-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "The Galata Istanbul Hotel - MGallery",
+          "url": "https://solo5estrellas.com/hotels/6482/the-galata-istanbul-hotel-mgallery.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "The Peninsula Istanbul",
+          "url": "https://solo5estrellas.com/hotels/6347/the-peninsula-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Vakko Hotel and Residences",
+          "url": "https://solo5estrellas.com/hotels/6265/vakko-hotel-and-residences-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "W Istanbul",
+          "url": "https://solo5estrellas.com/hotels/2874/w-istanbul.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Izmir Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/6317/izmir-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Swissotel Buyuk Efes Izmir",
+          "url": "https://solo5estrellas.com/hotels/4921/swissotel-buyuk-efes-izmir.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "D Maris Bay",
+          "url": "https://solo5estrellas.com/hotels/7091/d-maris-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Allium Villas Resort",
+          "url": "https://solo5estrellas.com/hotels/4565/allium-villas-resort.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Turquía en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "40 hoteles. Las ciudades con más hoteles son Estambul (29), Bodrum (6), Izmir (2)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Turquía tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Estambul (29), Bodrum (6), Izmir (2). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Turquía?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Luxury Collection (2), Kempinski Hotels (2), Mandarin Oriental (2), Six Senses Hotels & Resorts (2), The Signature Collection (2). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

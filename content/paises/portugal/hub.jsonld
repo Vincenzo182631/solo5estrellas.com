@@ -1,0 +1,419 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Portugal",
+          "item": "https://solo5estrellas.com/countries/49/portugal.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/49/portugal.html#webpage",
+      "url": "https://solo5estrellas.com/countries/49/portugal.html",
+      "name": "Hoteles de lujo en Portugal: 53 hoteles",
+      "description": "Explore 53 hoteles de lujo en Portugal con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Portugal"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/49/portugal.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/49/portugal.html#hotels",
+      "name": "Hoteles de lujo en Portugal",
+      "numberOfItems": 53,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Alentejo Marmoris Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4596/alentejo-marmoris-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Conrad Algarve",
+          "url": "https://solo5estrellas.com/hotels/3007/conrad-algarve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Domes Lake Algarve, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/6564/domes-lake-algarve-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hotel Vila Vita Parc",
+          "url": "https://solo5estrellas.com/hotels/4094/hotel-vila-vita-parc.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kimpton Atlantico Algarve",
+          "url": "https://solo5estrellas.com/hotels/7101/kimpton-atlantico-algarve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Marriott Residences Salgados Resort",
+          "url": "https://solo5estrellas.com/hotels/6842/marriott-residences-salgados-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Marriott Salgados Golf & Conference Center",
+          "url": "https://solo5estrellas.com/hotels/6836/marriott-salgados-golf-conference-center.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Pine Cliffs Hotel",
+          "url": "https://solo5estrellas.com/hotels/3871/pine-cliffs-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Pine Cliffs Ocean Suites",
+          "url": "https://solo5estrellas.com/hotels/3877/pine-cliffs-ocean-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Pine Cliffs Residence, Luxury Collection",
+          "url": "https://solo5estrellas.com/hotels/2811/pine-cliffs-residence-luxury-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "The Westin Salgados Beach Resort , Algarve",
+          "url": "https://solo5estrellas.com/hotels/6835/the-westin-salgados-beach-resort-algarve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Viceroy at Ombria Algarve",
+          "url": "https://solo5estrellas.com/hotels/6976/viceroy-at-ombria-algarve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Victoria Golf Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6977/victoria-golf-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "W Algarve Hotel & Residences",
+          "url": "https://solo5estrellas.com/hotels/4709/w-algarve-hotel-residences.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Praia do Canal Nature Resort",
+          "url": "https://solo5estrellas.com/hotels/6267/praia-do-canal-nature-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Hotel Casa da Calçada Relais & Chateaux",
+          "url": "https://solo5estrellas.com/hotels/3220/hotel-casa-da-cal-ada-relais-chateaux.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Praia D'El Rey Marriott Golf & Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/3758/praia-d-el-rey-marriott-golf-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Hotel Quinta das Lágrimas",
+          "url": "https://solo5estrellas.com/hotels/6184/hotel-quinta-das-l-grimas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "InterContinental Cascais-Estoril",
+          "url": "https://solo5estrellas.com/hotels/3596/intercontinental-cascais-estoril.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Anantara Vilamoura Algarve Resort",
+          "url": "https://solo5estrellas.com/hotels/6797/anantara-vilamoura-algarve-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Andaz Lisbon",
+          "url": "https://solo5estrellas.com/hotels/6934/andaz-lisbon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Bairro Alto Hotel",
+          "url": "https://solo5estrellas.com/hotels/6973/bairro-alto-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Corinthia Hotel Lisbon",
+          "url": "https://solo5estrellas.com/hotels/3478/corinthia-hotel-lisbon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Epic SANA Marques",
+          "url": "https://solo5estrellas.com/hotels/6534/epic-sana-marques.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Four Seasons Hotel Ritz Lisbon",
+          "url": "https://solo5estrellas.com/hotels/1018/four-seasons-hotel-ritz-lisbon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Hyatt Regency Lisbon",
+          "url": "https://solo5estrellas.com/hotels/6127/hyatt-regency-lisbon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "InterContinental Lisbon",
+          "url": "https://solo5estrellas.com/hotels/3200/intercontinental-lisbon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "L’AND Vineyards Relais & Châteaux",
+          "url": "https://solo5estrellas.com/hotels/6974/l-and-vineyards-relais-ch-teaux.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "ME Lisbon",
+          "url": "https://solo5estrellas.com/hotels/6975/me-lisbon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Myriad",
+          "url": "https://solo5estrellas.com/hotels/6535/myriad-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Olissippo Lapa Palace",
+          "url": "https://solo5estrellas.com/hotels/2313/olissippo-lapa-palace-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Palácio do Governador",
+          "url": "https://solo5estrellas.com/hotels/6763/pal-cio-do-governador-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Pousada de Lisboa - Praça do Comercio",
+          "url": "https://solo5estrellas.com/hotels/6737/pousada-de-lisboa-pra-a-do-comercio.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Sofitel Lisbon Liberdade",
+          "url": "https://solo5estrellas.com/hotels/4895/sofitel-lisbon-liberdade.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "The Ivens",
+          "url": "https://solo5estrellas.com/hotels/6086/the-ivens.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "The Lumiares Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4597/the-lumiares-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "The One Palacio da Anunciada",
+          "url": "https://solo5estrellas.com/hotels/4547/the-one-palacio-da-anunciada.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Tivoli Avenida Liberdade Lisboa",
+          "url": "https://solo5estrellas.com/hotels/2654/tivoli-avenida-liberdade-lisboa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Belmond Reid's Palace",
+          "url": "https://solo5estrellas.com/hotels/961/belmond-reid-s-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Quinta da Casa Branca",
+          "url": "https://solo5estrellas.com/hotels/4421/quinta-da-casa-branca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Savoy Palace",
+          "url": "https://solo5estrellas.com/hotels/6614/savoy-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Bela Vista Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4218/bela-vista-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Casa da Companhia",
+          "url": "https://solo5estrellas.com/hotels/6751/casa-da-companhia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Forte de Gaia, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/6834/forte-de-gaia-autograph-collection-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Hospes Infante Sagres Porto",
+          "url": "https://solo5estrellas.com/hotels/4467/hospes-infante-sagres-porto.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "InterContinental Porto-Palacio das Cardosas",
+          "url": "https://solo5estrellas.com/hotels/2767/intercontinental-porto-palacio-das-cardosas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Six Senses Douro Valley",
+          "url": "https://solo5estrellas.com/hotels/3584/six-senses-douro-valley.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "The Rebello Hotel",
+          "url": "https://solo5estrellas.com/hotels/6519/the-rebello-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "The Yeatman",
+          "url": "https://solo5estrellas.com/hotels/2587/the-yeatman-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Hotel Casa Palmela",
+          "url": "https://solo5estrellas.com/hotels/6074/hotel-casa-palmela.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Ritz Penha Longa Resort",
+          "url": "https://solo5estrellas.com/hotels/1625/ritz-penha-longa-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Valverde Sintra Palacio de Seteais",
+          "url": "https://solo5estrellas.com/hotels/3598/valverde-sintra-palacio-de-seteais.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Vidago Palace Hotel",
+          "url": "https://solo5estrellas.com/hotels/6978/vidago-palace-hotel.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Portugal en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "53 hoteles. Las ciudades con más hoteles son Lisboa (18), Algarve (13), Porto (7)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Portugal tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lisboa (18), Algarve (13), Porto (7). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Portugal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Small Luxury Hotels of The World (9), Leading Hotels of the World (6), The Signature Collection (6), InterContinental Hotels & Resorts (4), Autograph Collection (3). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

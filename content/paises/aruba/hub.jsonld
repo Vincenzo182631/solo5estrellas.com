@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Aruba",
+          "item": "https://solo5estrellas.com/countries/116/aruba.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/116/aruba.html#webpage",
+      "url": "https://solo5estrellas.com/countries/116/aruba.html",
+      "name": "Hoteles de lujo en Aruba: 5 hoteles",
+      "description": "Explore 5 hoteles de lujo en Aruba con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Aruba"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/116/aruba.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/116/aruba.html#hotels",
+      "name": "Hoteles de lujo en Aruba",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Renaissance Windcreek Aruba",
+          "url": "https://solo5estrellas.com/hotels/4734/renaissance-windcreek-aruba.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Aruba Marriott Resort & Stellaris Casino",
+          "url": "https://solo5estrellas.com/hotels/3749/aruba-marriott-resort-stellaris-casino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hyatt Regency Aruba Resort & Casino",
+          "url": "https://solo5estrellas.com/hotels/2078/hyatt-regency-aruba-resort-casino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "St. Regis Aruba Resort",
+          "url": "https://solo5estrellas.com/hotels/6792/st-regis-aruba-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Ritz-Carlton, Aruba",
+          "url": "https://solo5estrellas.com/hotels/2754/the-ritz-carlton-aruba.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Aruba en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "5 hoteles. Las ciudades con más hoteles son Palm Beach Aruba (4), Oranjestad (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Aruba tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Palm Beach Aruba (4), Oranjestad (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Aruba?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Renaissance Hotels (1), Marriott Hotels & Resorts (1), Hyatt Regency Hotels (1), St. Regis Hotels & Resorts (1), Ritz Carlton Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

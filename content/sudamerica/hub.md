@@ -12,7 +12,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Su
 | --- | --- | --- |
 | Colombia | 19 | Cartagena (11), Bogotá (6), Cali (1) |
 | Perú | 17 | Lima (7), Cusco (6), Colca Canyon (1) |
-| Brasil | 12 | São Paulo (5), Rio de Janeiro (4), Barra de Sao Miguel (1) |
+| Brasil | 12 | São Paulo (5), Río de Janeiro (4), Barra de Sao Miguel (1) |
 | Argentina | 11 | Buenos Aires (7), Bariloche (1), East Grinstead (1) |
 | Chile | 9 | Santiago (5), Patagonia (2), Easter Island (1) |
 | Uruguay | 3 | Montevideo (3) |
@@ -57,7 +57,7 @@ Un hotel no tiene una marca o colección asociada en la lista.
 **Brasil (12)**
 - Barra de Sao Miguel: [Kenoa Beach Spa and Resort](/hotels/2778/kenoa_beach_spa_and_resort.html)
 - Iguassu Falls: [Belmond Hotel das Cataratas](/hotels/2324/belmond_hotel_das_cataratas__.html)
-- Rio de Janeiro: [Belmond Copacabana Palace](/hotels/942/belmond_copacabana_palace.html); [Fairmont Rio de Janeiro Copacabana](/hotels/4849/fairmont_rio_de_janeiro_copacabana_.html); [Grand Hyatt Rio de Janeiro](/hotels/3416/grand_hyatt_rio_de_janeiro.html); [JW Marriott Hotel Rio de Janeiro](/hotels/4725/jw_marriott_hotel_rio_de_janeiro.html)
+- Río de Janeiro: [Belmond Copacabana Palace](/hotels/942/belmond_copacabana_palace.html); [Fairmont Rio de Janeiro Copacabana](/hotels/4849/fairmont_rio_de_janeiro_copacabana_.html); [Grand Hyatt Rio de Janeiro](/hotels/3416/grand_hyatt_rio_de_janeiro.html); [JW Marriott Hotel Rio de Janeiro](/hotels/4725/jw_marriott_hotel_rio_de_janeiro.html)
 - Salvador Da Bahia: [Barracuda Hotel and Villas](/hotels/6379/barracuda_hotel_and_villas.html)
 - São Paulo: [Grand Hyatt Sao Paulo](/hotels/2958/grand_hyatt_sao_paulo.html); [InterContinental Sao Paulo](/hotels/3522/intercontinental_sao_paulo.html); [Renaissance Sao Paulo Hotel](/hotels/3764/renaissance_sao_paulo_hotel.html); [Rosewood Sao Paulo](/hotels/6069/rosewood_sao_paulo.html); [W Sao Paulo](/hotels/6794/w_sao_paulo.html)
 

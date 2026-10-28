@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Belice",
+          "item": "https://solo5estrellas.com/countries/9/belice.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/9/belice.html#webpage",
+      "url": "https://solo5estrellas.com/countries/9/belice.html",
+      "name": "Hoteles de lujo en Belice: 5 hoteles",
+      "description": "Explore 5 hoteles de lujo en Belice con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Belice"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/9/belice.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/9/belice.html#hotels",
+      "name": "Hoteles de lujo en Belice",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Itz'ana Resort",
+          "url": "https://solo5estrellas.com/hotels/6072/itz-ana-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ka'ana Resort",
+          "url": "https://solo5estrellas.com/hotels/4294/ka-ana-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Alaia Belize, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/4715/alaia-belize-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Las Terrazas Resort",
+          "url": "https://solo5estrellas.com/hotels/3174/las-terrazas-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Victoria House",
+          "url": "https://solo5estrellas.com/hotels/1162/victoria-house.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Belice en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "5 hoteles. Las ciudades con más hoteles son San Pedro (3), Placencia (1), San Ignacio (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Belice tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "San Pedro (3), Placencia (1), San Ignacio (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Belice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (4), Autograph Collection (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

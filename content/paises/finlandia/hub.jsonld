@@ -1,0 +1,125 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Finlandia",
+          "item": "https://solo5estrellas.com/countries/136/finlandia.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/136/finlandia.html#webpage",
+      "url": "https://solo5estrellas.com/countries/136/finlandia.html",
+      "name": "Hoteles de lujo en Finlandia: 4 hoteles",
+      "description": "Explore 4 hoteles de lujo en Finlandia con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Finlandia"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/136/finlandia.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/136/finlandia.html#hotels",
+      "name": "Hoteles de lujo en Finlandia",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hotel Kamp",
+          "url": "https://solo5estrellas.com/hotels/2641/hotel-kamp.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel St. George Helsinki",
+          "url": "https://solo5estrellas.com/hotels/3619/hotel-st-george-helsinki.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hotel U14, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/6920/hotel-u14-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Waldorf Astoria Helsinki",
+          "url": "https://solo5estrellas.com/hotels/7013/waldorf-astoria-helsinki.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Finlandia en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 hoteles. Las ciudades con más hoteles son Helsinki (4)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Finlandia tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Helsinki (4). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Finlandia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Leading Hotels of the World (1), The Signature Collection (1), Autograph Collection (1), Waldorf Astoria Hotels (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

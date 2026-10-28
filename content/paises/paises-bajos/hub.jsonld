@@ -1,0 +1,215 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Países Bajos",
+          "item": "https://solo5estrellas.com/countries/43/paises-bajos.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/43/paises-bajos.html#webpage",
+      "url": "https://solo5estrellas.com/countries/43/paises-bajos.html",
+      "name": "Hoteles de lujo en Países Bajos: 19 hoteles",
+      "description": "Explore 19 hoteles de lujo en Países Bajos con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Países Bajos"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/43/paises-bajos.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/43/paises-bajos.html#hotels",
+      "name": "Hoteles de lujo en Países Bajos",
+      "numberOfItems": 19,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Amsterdam Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/4694/amsterdam-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Andaz Amsterdam, Prinsengracht",
+          "url": "https://solo5estrellas.com/hotels/3377/andaz-amsterdam-prinsengracht.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Canal House",
+          "url": "https://solo5estrellas.com/hotels/4475/canal-house.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "De L’Europe",
+          "url": "https://solo5estrellas.com/hotels/2729/de-l-europe-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hotel Pulitzer Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/1126/hotel-pulitzer-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "InterContinental Amstel Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/939/intercontinental-amstel-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Kimpton De Witt Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/4024/kimpton-de-witt-amsterdam-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Mandarin Oriental Conservatorium",
+          "url": "https://solo5estrellas.com/hotels/2772/mandarin-oriental-conservatorium-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Pillows Grand Boutique Hotel Maurits at the Park",
+          "url": "https://solo5estrellas.com/hotels/6095/pillows-grand-boutique-hotel-maurits-at-the-park.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Rosewood Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/6785/rosewood-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Sofitel Legend The Grand Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/2186/sofitel-legend-the-grand-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "The Dylan Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/2312/the-dylan-amsterdam-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "W Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/3823/w-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Waldorf Astoria Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/3242/waldorf-astoria-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Hotel Nassau Breda",
+          "url": "https://solo5estrellas.com/hotels/3856/hotel-nassau-breda.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Op Oost - Boutique Hotel & Restaurant",
+          "url": "https://solo5estrellas.com/hotels/6090/op-oost-boutique-hotel-restaurant.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Rotterdam Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/4989/rotterdam-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Slaak Rotterdam, a Tribute Portfolio Hotel",
+          "url": "https://solo5estrellas.com/hotels/4678/the-slaak-rotterdam-a-tribute-portfolio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Hotel des Indes",
+          "url": "https://solo5estrellas.com/hotels/2803/hotel-des-indes.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Países Bajos en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "19 hoteles. Las ciudades con más hoteles son Ámsterdam (14), Rotterdam (2), Breda (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Países Bajos tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ámsterdam (14), Rotterdam (2), Breda (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Países Bajos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Small Luxury Hotels of The World (3), Marriott Hotels & Resorts (2), Leading Hotels of the World (2), The Signature Collection (2), Andaz Hotels (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kuwait",
+          "item": "https://solo5estrellas.com/countries/141/kuwait.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/141/kuwait.html#webpage",
+      "url": "https://solo5estrellas.com/countries/141/kuwait.html",
+      "name": "Hoteles de lujo en Kuwait: 4 hoteles",
+      "description": "Explore 4 hoteles de lujo en Kuwait con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Kuwait"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/141/kuwait.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/141/kuwait.html#hotels",
+      "name": "Hoteles de lujo en Kuwait",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Four Seasons Hotel Kuwait at Burj Alshaya",
+          "url": "https://solo5estrellas.com/hotels/3123/four-seasons-hotel-kuwait-at-burj-alshaya.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Waldorf Astoria Kuwait",
+          "url": "https://solo5estrellas.com/hotels/6323/waldorf-astoria-kuwait.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Arabella Beach Hotel",
+          "url": "https://solo5estrellas.com/hotels/6753/arabella-beach-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Sheraton Kuwait",
+          "url": "https://solo5estrellas.com/hotels/2815/sheraton-kuwait.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Kuwait en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4 hoteles. Las ciudades con más hoteles son Kuwait City (3), Sin ciudad indicada (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Kuwait tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kuwait City (3), Sin ciudad indicada (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Kuwait?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Four Seasons (1), Waldorf Astoria Hotels (1), Sheraton Hotels & Resorts (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

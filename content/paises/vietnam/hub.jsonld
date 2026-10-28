@@ -1,0 +1,251 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vietnam",
+          "item": "https://solo5estrellas.com/countries/153/vietnam.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/153/vietnam.html#webpage",
+      "url": "https://solo5estrellas.com/countries/153/vietnam.html",
+      "name": "Hoteles de lujo en Vietnam: 25 hoteles",
+      "description": "Explore 25 hoteles de lujo en Vietnam con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Vietnam"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/153/vietnam.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/153/vietnam.html#hotels",
+      "name": "Hoteles de lujo en Vietnam",
+      "numberOfItems": 25,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Six Senses Ninh Van Bay",
+          "url": "https://solo5estrellas.com/hotels/6747/six-senses-ninh-van-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Danang Marriott Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6367/danang-marriott-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Danang Marriott Resort & Spa, Non Nuoc Beach Villas",
+          "url": "https://solo5estrellas.com/hotels/6662/danang-marriott-resort-spa-non-nuoc-beach-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hyatt Regency Danang Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3395/hyatt-regency-danang-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "InterContinental Danang Sun Peninsula Resort",
+          "url": "https://solo5estrellas.com/hotels/2910/intercontinental-danang-sun-peninsula-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Sheraton Grand Danang Beach Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/7113/sheraton-grand-danang-beach-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Fairmont Hanoi",
+          "url": "https://solo5estrellas.com/hotels/7146/fairmont-hanoi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "InterContinental Hanoi Landmark72",
+          "url": "https://solo5estrellas.com/hotels/4790/intercontinental-hanoi-landmark72.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "JW Marriott Hotel Hanoi",
+          "url": "https://solo5estrellas.com/hotels/3716/jw-marriott-hotel-hanoi.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "MGallery Hanoi Hotel de L'Opera",
+          "url": "https://solo5estrellas.com/hotels/4949/mgallery-hanoi-hotel-de-l-opera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Sofitel Legend Metropole Hanoi",
+          "url": "https://solo5estrellas.com/hotels/1900/sofitel-legend-metropole-hanoi-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Sheraton Saigon Grand Opera Hotel",
+          "url": "https://solo5estrellas.com/hotels/6962/sheraton-saigon-grand-opera-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Sofitel Saigon Plaza",
+          "url": "https://solo5estrellas.com/hotels/6486/sofitel-saigon-plaza.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Vinpearl Landmark 81, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/7094/vinpearl-landmark-81-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Four Seasons Resort the Nam Hai",
+          "url": "https://solo5estrellas.com/hotels/1803/four-seasons-resort-the-nam-hai.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Azerai La Residence, Hue",
+          "url": "https://solo5estrellas.com/hotels/3623/azerai-la-residence-hue.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "La Residence Hue Ho & Spa",
+          "url": "https://solo5estrellas.com/hotels/2636/la-residence-hue-ho-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Anam Mui Ne",
+          "url": "https://solo5estrellas.com/hotels/7117/the-anam-mui-ne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Nha Trang Marriott Resort & Spa, Hon Tre Island",
+          "url": "https://solo5estrellas.com/hotels/6574/nha-trang-marriott-resort-spa-hon-tre-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "InterContinental Phu Quoc Long Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/4800/intercontinental-phu-quoc-long-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/3870/jw-marriott-phu-quoc-emerald-bay-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Regent Phu Quoc",
+          "url": "https://solo5estrellas.com/hotels/4751/regent-phu-quoc.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Park Hyatt Saigon",
+          "url": "https://solo5estrellas.com/hotels/1560/park-hyatt-saigon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Renaissance Riverside Hotel Saigon",
+          "url": "https://solo5estrellas.com/hotels/4676/renaissance-riverside-hotel-saigon.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Amanoi",
+          "url": "https://solo5estrellas.com/hotels/2944/amanoi.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Vietnam en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "25 hoteles. Las ciudades con más hoteles son Da Nang (5), Hanói (5), Ho Chi Minh (3)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Vietnam tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da Nang (5), Hanói (5), Ho Chi Minh (3). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Vietnam?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Marriott Hotels & Resorts (3), InterContinental Hotels & Resorts (3), Sheraton Hotels & Resorts (2), JW Marriott Hotel (2), Sofitel Hotels (2). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -30,11 +30,11 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de M�
 | Mérida | 1 |
 | San Pedro Garza Garcia | 1 |
 | Tamarindo | 1 |
-| Tulum | 1 |
+| Otras 1 ciudades | 1 |
 
 ## Marcas con más hoteles en México
 
-| Marca | Hoteles en la región |
+| Marca | Hoteles |
 | --- | --- |
 | [The Signature Collection](/collection/79/) | 19 |
 | [Preferred Hotels & Resorts](/collection/25/) | 7 |
@@ -53,7 +53,6 @@ Los 6 hoteles restantes no tienen una marca o colección asociada en la lista.
 
 ## Los 101 hoteles de México
 
-**México (101)**
 - Acapulco: [Banyan Tree Cabo Marques](/hotels/3676/banyan_tree_cabo_marques.html); [Las Brisas Acapulco](/hotels/2244/las_brisas_acapulco.html)
 - Baja California Sur: [Hotel San Cristobal](/hotels/6996/hotel_san_cristobal.html)
 - Cabo San Lucas: [Chileno Bay Resort, Auberge Collection](/hotels/3352/chileno_bay_resort,_auberge_collection.html); [Esperanza, Auberge Collection](/hotels/1215/esperanza,__auberge_collection.html); [Four Seasons Cabo San Lucas @ Cabo del Sol](/hotels/6554/four_seasons_cabo_san_lucas_@_cabo_del_sol.html); [Four Seasons Los Cabos at Costa Palmas](/hotels/3614/four_seasons_los_cabos_at_costa_palmas.html); [Grand Velas Boutique Hotel](/hotels/7004/grand_velas_boutique_hotel_.html); [Grand Velas Los Cabos](/hotels/3229/grand_velas_los_cabos.html); [Hacienda del Mar Los Cabos](/hotels/6911/hacienda_del_mar_los_cabos.html); [JW Marriott Los Cabos Beach Resort & Spa](/hotels/3744/jw_marriott_los_cabos_beach_resort_&_spa.html); [Las Ventanas Al Paraiso](/hotels/985/las_ventanas_al_paraiso.html); [ME Cabo by Melia](/hotels/6856/me_cabo_by_melia__.html); [Marquis Los Cabos](/hotels/2353/marquis_los_cabos_.html); [Montage Los Cabos, Mexico](/hotels/3337/montage_los_cabos,_mexico.html); [Nobu Hotel Los Cabos](/hotels/7151/nobu_hotel_los_cabos.html); [One&Only Palmilla](/hotels/1031/one&only_palmilla.html); [Paradero Todos Santos](/hotels/6857/paradero_todos_santos.html); [Paradisus Los Cabos](/hotels/3336/paradisus_los_cabos.html); [Park Hyatt Los Cabos at Cabo del Sol](/hotels/6820/park_hyatt_los_cabos_at_cabo_del_sol.html); [The Cape](/hotels/3013/the_cape.html); [Viceroy Los Cabos](/hotels/6858/viceroy_los_cabos.html); [Waldorf Astoria Los Cabos Pedregal](/hotels/2262/waldorf_astoria_los_cabos_pedregal.html)
@@ -100,7 +99,7 @@ Depende de la marca y del hotel: en general desayuno diario para dos y un crédi
 
 **¿Dónde está la lista completa de hoteles?**
 
-Debajo, agrupada por país y ciudad. Los nombres de los hoteles no se traducen.
+Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 

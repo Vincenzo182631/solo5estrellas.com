@@ -1,0 +1,215 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sudáfrica",
+          "item": "https://solo5estrellas.com/countries/57/sudafrica.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/57/sudafrica.html#webpage",
+      "url": "https://solo5estrellas.com/countries/57/sudafrica.html",
+      "name": "Hoteles de lujo en Sudáfrica: 19 hoteles",
+      "description": "Explore 19 hoteles de lujo en Sudáfrica con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Sudáfrica"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/57/sudafrica.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/57/sudafrica.html#hotels",
+      "name": "Hoteles de lujo en Sudáfrica",
+      "numberOfItems": 19,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Belmond Mount Nelson Hotel",
+          "url": "https://solo5estrellas.com/hotels/945/belmond-mount-nelson-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cape Cadogan Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/2948/cape-cadogan-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Erinvale Estate Hotel and Spa",
+          "url": "https://solo5estrellas.com/hotels/4548/erinvale-estate-hotel-and-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hyatt Regency Cape Town",
+          "url": "https://solo5estrellas.com/hotels/6523/hyatt-regency-cape-town.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Last Word Constantia",
+          "url": "https://solo5estrellas.com/hotels/4549/last-word-constantia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "One&Only Cape Town",
+          "url": "https://solo5estrellas.com/hotels/2290/one-only-cape-town-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Taj Cape Town",
+          "url": "https://solo5estrellas.com/hotels/2887/taj-cape-town.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "The Silo Cape Town",
+          "url": "https://solo5estrellas.com/hotels/3210/the-silo-cape-town.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "The Twelve Apostles Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/1562/the-twelve-apostles-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Mont Rochelle Hotel",
+          "url": "https://solo5estrellas.com/hotels/3208/mont-rochelle-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "The Marine Hermanus",
+          "url": "https://solo5estrellas.com/hotels/4465/the-marine-hermanus.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Royal Malewane, An All-Inclusive Resort",
+          "url": "https://solo5estrellas.com/hotels/1524/royal-malewane-an-all-inclusive-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Johannesburg Marriott Hotel Melrose Arch",
+          "url": "https://solo5estrellas.com/hotels/7093/johannesburg-marriott-hotel-melrose-arch.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Park Hyatt Johannesburg",
+          "url": "https://solo5estrellas.com/hotels/6772/park-hyatt-johannesburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Saxon Hotel, Villas & Spa",
+          "url": "https://solo5estrellas.com/hotels/2493/saxon-hotel-villas-spa-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "The Westcliff, Four Seasons Hotel Johannesburg",
+          "url": "https://solo5estrellas.com/hotels/2889/the-westcliff-four-seasons-hotel-johannesburg-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Ulusaba Private Game Reserve",
+          "url": "https://solo5estrellas.com/hotels/1120/ulusaba-private-game-reserve.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Savanna Private Game",
+          "url": "https://solo5estrellas.com/hotels/2239/savanna-private-game-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "andBEYOND Phinda Private Game",
+          "url": "https://solo5estrellas.com/hotels/1224/andbeyond-phinda-private-game.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Sudáfrica en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "19 hoteles. Las ciudades con más hoteles son Ciudad del Cabo (9), Johannesburg (4), Franschhoek (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Sudáfrica tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ciudad del Cabo (9), Johannesburg (4), Franschhoek (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Sudáfrica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (7), Preferred Hotels & Resorts (2), Leading Hotels of the World (2), Belmond Bellini Club (1), Hyatt Regency Hotels (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

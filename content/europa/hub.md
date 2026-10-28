@@ -17,11 +17,11 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Eu
 | Grecia | 81 | Santorini (16), Mykonos (13), Atenas (12) |
 | Portugal | 53 | Lisboa (18), Algarve (13), Porto (7) |
 | Alemania | 45 | Berlín (10), Múnich (10), Frankfurt (6) |
-| Suiza | 43 | Ginebra (10), Zurich (7), Lugano (3) |
-| Irlanda | 29 | Dublin (12), Corcho (2), County Clare (2) |
+| Suiza | 43 | Ginebra (10), Zúrich (7), Lugano (3) |
+| Irlanda | 29 | Dublín (12), Corcho (2), County Clare (2) |
 | Austria | 27 | Viena (17), Salzburgo (3), Hof bei Salzburg (2) |
 | Turquía | 21 | Estambul (17), Bodrum (3), Izmir (1) |
-| Países Bajos | 19 | Amsterdam (14), Rotterdam (2), Breda (1) |
+| Países Bajos | 19 | Ámsterdam (14), Rotterdam (2), Breda (1) |
 | Croacia | 13 | Dubrovnik (4), Bale (1), Croatia (1) |
 | República Checa | 12 | Praga (12) |
 | Bélgica | 9 | Bruselas (7), Amberes (1), Brujas (1) |
@@ -29,7 +29,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Eu
 | Suecia | 7 | Estocolmo (7) |
 | Rusia | 6 | Moscú (3), San Petersburgo (2), Sochi (1) |
 | Dinamarca | 5 | Copenhague (5) |
-| Polonia | 5 | Varsovia (3), Krakow (1), Sopot (1) |
+| Polonia | 5 | Varsovia (3), Cracovia (1), Sopot (1) |
 | Finlandia | 4 | Helsinki (4) |
 | Ucrania | 4 | Kiev (3), Lviv (1) |
 | Montenegro | 3 | Boka Bay (1), Sveti Stefan (1), Tivat (1) |
@@ -39,7 +39,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Eu
 | Malta | 2 | St. Julians (2) |
 | Mónaco | 2 | Montecarlo (2) |
 | Noruega | 2 | Bergen (1), Oslo (1) |
-| Rumanía | 2 | Bucharest (2) |
+| Rumanía | 2 | Bucarest (2) |
 | Eslovaquia | 2 | Bratislava (1) |
 | Azerbaiyán | 1 | Bakú (1) |
 | Bulgaria | 1 | Sofia (1) |
@@ -73,7 +73,6 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 
 **Italia (215)**
 - Agrigento: [Villa Athena Resort](/hotels/4603/villa_athena_resort.html)
-- Amalfi Coast: [Anantara Convento di Amalfi Grand Hotel](/hotels/6550/anantara_convento_di_amalfi_grand_hotel.html); [Belmond Hotel Caruso](/hotels/1655/belmond_hotel_caruso.html); [Furore Grand Hotel](/hotels/7002/furore_grand_hotel.html); [Hotel Miramalfi](/hotels/6762/hotel_miramalfi_.html); [Hotel Santa Caterina](/hotels/1309/hotel_santa_caterina.html); [Le Sirenuse](/hotels/1017/le_sirenuse.html); [Monastero Santa Rosa](/hotels/2652/monastero_santa_rosa_.html); [Palazzo Avino](/hotels/1054/palazzo_avino.html)
 - Arzachena: [Cascioni Eco Retreat](/hotels/6414/cascioni_eco_retreat.html); [Grand Hotel Poltu Quatu](/hotels/4540/grand_hotel_poltu_quatu.html)
 - Asolo: [Hotel Villa Cipriani](/hotels/4541/hotel_villa_cipriani.html)
 - Bologna: [Grand Hotel Majestic gia Baglioni](/hotels/4188/grand_hotel_majestic_gia_baglioni.html); [Relais Roncolo 1888](/hotels/6791/relais_roncolo_1888.html)
@@ -86,6 +85,7 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Cortina d'Ampezzo: [Grand Hotel Savoia](/hotels/5055/grand_hotel_savoia.html); [Rosapetra Spa Resort](/hotels/6183/rosapetra_spa_resort.html)
 - Corvara: [Hotel Sassongher](/hotels/4544/hotel_sassongher.html)
 - Corvara in Badia: [Hotel La Perla](/hotels/4229/hotel_la_perla.html)
+- Costa Amalfitana: [Anantara Convento di Amalfi Grand Hotel](/hotels/6550/anantara_convento_di_amalfi_grand_hotel.html); [Belmond Hotel Caruso](/hotels/1655/belmond_hotel_caruso.html); [Furore Grand Hotel](/hotels/7002/furore_grand_hotel.html); [Hotel Miramalfi](/hotels/6762/hotel_miramalfi_.html); [Hotel Santa Caterina](/hotels/1309/hotel_santa_caterina.html); [Le Sirenuse](/hotels/1017/le_sirenuse.html); [Monastero Santa Rosa](/hotels/2652/monastero_santa_rosa_.html); [Palazzo Avino](/hotels/1054/palazzo_avino.html)
 - Costa Molini: [Alpin Royal Wellness Refugium & Resort Hotel](/hotels/6259/alpin_royal_wellness_refugium_&_resort_hotel.html)
 - Courmayeur: [Grand Hotel Courmayeur Montblanc](/hotels/7149/grand_hotel_courmayeur_montblanc.html)
 - Crotone: [Praia Art Resort](/hotels/4498/praia_art_resort.html)
@@ -95,7 +95,7 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Gargnano: [Lefay Resort & Spa Lago di Garda](/hotels/4483/lefay_resort_&_spa_lago_di_garda.html)
 - Génova: [Hotel Bristol Palace](/hotels/4514/hotel_bristol_palace.html)
 - Ischia: [Excelsior Belvedere Hotel](/hotels/4515/_excelsior_belvedere_hotel.html)
-- Lake Como: [Grand Hotel Tremezzo, Lake Como](/hotels/1122/grand_hotel_tremezzo,_lake_como_.html); [Grand Hotel Villa Serbelloni](/hotels/1373/grand_hotel_villa_serbelloni.html); [Mandarin Oriental, Lago di Como](/hotels/3705/mandarin_oriental,_lago_di_como.html); [Passalacqua Lake Como](/hotels/7135/passalacqua_lake_como.html); [Sheraton Lake Como Hotel](/hotels/4703/sheraton_lake_como_hotel.html); [The Lake Como EDITION](/hotels/6909/the_lake_como_edition.html); [Villa d'Este](/hotels/993/villa_d'este.html)
+- Lago de Como: [Grand Hotel Tremezzo, Lake Como](/hotels/1122/grand_hotel_tremezzo,_lake_como_.html); [Grand Hotel Villa Serbelloni](/hotels/1373/grand_hotel_villa_serbelloni.html); [Mandarin Oriental, Lago di Como](/hotels/3705/mandarin_oriental,_lago_di_como.html); [Passalacqua Lake Como](/hotels/7135/passalacqua_lake_como.html); [Sheraton Lake Como Hotel](/hotels/4703/sheraton_lake_como_hotel.html); [The Lake Como EDITION](/hotels/6909/the_lake_como_edition.html); [Villa d'Este](/hotels/993/villa_d'este.html)
 - Lecce: [Risorgimento Resort](/hotels/5043/risorgimento_resort.html)
 - Lido di Jesolo: [Almar Lido Jesolo Resort & Spa](/hotels/7136/almar_lido_jesolo_resort_&_spa.html)
 - Los Dolomitas: [COMO Alpina Dolomites](/hotels/7010/como_alpina_dolomites.html); [Forestis Dolomites](/hotels/6261/forestis_dolomites.html); [Lefay Resort & SPA Dolomiti](/hotels/6896/lefay_resort_&_spa_dolomiti.html)
@@ -133,7 +133,7 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Viareggio: [Hotel Plaza e de Russie](/hotels/6632/hotel_plaza_e_de_russie.html)
 
 **Reino Unido (129)**
-- Alexandria, Escocia: [Cameron House on Loch Lomond](/hotels/3285/cameron_house_on_loch_lomond.html)
+- Alexandria: [Cameron House on Loch Lomond](/hotels/3285/cameron_house_on_loch_lomond.html)
 - Ambleside: [Rothay Manor Boutique Hotel](/hotels/6185/rothay_manor_boutique_hotel.html)
 - Argyll: [Isle of Eriska Hotel, Spa and Island](/hotels/1780/isle_of_eriska_hotel,_spa_and_island_.html)
 - Ayrshire: [Trump Turnberry Resort](/hotels/1443/trump_turnberry_resort.html)
@@ -180,6 +180,7 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Cognac: [Hotel Chais Monnet & Spa](/hotels/6612/hotel_chais_monnet_&_spa.html)
 - Courcheve: [Hotel Le Strato](/hotels/4392/hotel_le_strato.html); [Rosewood Courchevel Le Jardin Alpin](/hotels/6955/rosewood_courchevel_le_jardin_alpin.html)
 - Córcega: [A Mandria di Murtoli](/hotels/7087/a_mandria_di_murtoli.html); [A’mare Corsica](/hotels/6511/a’mare_corsica.html); [Hotel & Spa des Pecheur](/hotels/6178/hotel_&_spa_des_pecheur.html)
+- Estrasburgo: [Sofitel Strasbourg Grande Ile](/hotels/4881/sofitel_strasbourg_grande_ile.html)
 - Eze: [Hotel Les Terrasses d'Eze](/hotels/4532/hotel_les_terrasses_d'eze.html)
 - La Rosiere: [Hyatt Centric La Rosiere](/hotels/4120/hyatt_centric_la_rosiere.html)
 - Les Aulles: [Refuge de la Traye](/hotels/6190/refuge_de_la_traye.html)
@@ -187,7 +188,7 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Marsella: [InterContinental Marseille - Hotel Dieu](/hotels/2731/intercontinental_marseille_-_hotel_dieu.html); [Les Bords De Mer](/hotels/4403/les_bords_de_mer.html)
 - Megeve: [Four Seasons Hotel Megeve](/hotels/3288/four_seasons_hotel_megeve.html); [Four Seasons Les Chalets du Mont d’Arbois , Megeve](/hotels/3682/_four_seasons_les_chalets_du_mont_d’arbois_,_megeve_.html); [Le M de Megeve](/hotels/4397/le_m_de_megeve.html)
 - Niza: [Aman at Sea, Amangati](/hotels/7138/aman_at_sea,_amangati.html); [Anantara Plaza Nice](/hotels/6299/anantara_plaza_nice.html); [Hotel La Perouse](/hotels/2066/hotel_la_perouse.html); [Hotel Le Negresco](/hotels/2613/hotel_le_negresco.html); [Hyatt Regency Nice Palais de la Méditerranée](/hotels/1333/hyatt_regency_nice_palais_de_la_méditerranée.html); [Hôtel du Couvent, a Luxury Collection Hotel](/hotels/6683/hôtel_du_couvent,_a_luxury_collection_hotel.html); [Le Meridien Nice](/hotels/4702/le_meridien_nice.html)
-- Normandy: [Chateau La Cheneviere](/hotels/3355/chateau_la_cheneviere.html)
+- Normandía: [Chateau La Cheneviere](/hotels/3355/chateau_la_cheneviere.html)
 - París: [Bvlgari Hotel Paris](/hotels/4054/bvlgari_hotel_paris.html); [Castille Paris](/hotels/2583/castille_paris.html); [Cheval Blanc Paris](/hotels/4840/cheval_blanc_paris.html); [Château des Fleurs](/hotels/6760/château_des_fleurs_.html); [Fouquet's Paris](/hotels/2435/fouquet's_paris.html); [Four Seasons Paris, George V](/hotels/1096/four_seasons_paris,_george_v.html); [Grand Hotel du Palais Royal](/hotels/2719/grand_hotel_du_palais_royal.html); [Grand Powers](/hotels/4363/grand_powers.html); [Hotel Bel Ami](/hotels/2522/hotel_bel_ami_.html); [Hotel De Berri, Luxury Collection Hotel](/hotels/3537/hotel_de_berri,_luxury_collection_hotel.html); [Hotel Du Louvre](/hotels/3641/hotel_du_louvre.html); [Hotel Keppler](/hotels/4124/hotel_keppler_.html); [Hotel Madame Reve](/hotels/7056/hotel_madame_reve.html); [Hotel Molitor Paris](/hotels/3228/hotel_molitor_paris.html); [Hotel Napoleon Paris](/hotels/3130/hotel_napoleon_paris.html); [Hotel Norman Paris](/hotels/6761/hotel_norman_paris_.html); [Hotel Plaza Athenee Paris](/hotels/1008/hotel_plaza_athenee_paris.html); [Hotel Pont Royal](/hotels/2071/hotel_pont_royal.html); [Hotel Prince de Galles](/hotels/2801/hotel_prince_de_galles.html); [Hotel Regina - Paris](/hotels/3131/hotel_regina_-_paris.html); [Hotel Ritz Paris](/hotels/962/hotel_ritz_paris.html); [Hotel San Regis Paris](/hotels/2072/hotel_san_regis_paris.html); [Hotel Sofitel Le Faubourg](/hotels/1131/hotel_sofitel_le_faubourg_.html); [Hotel de Berri Champs-Elysees](/hotels/6724/hotel_de_berri_champs-elysees.html); [Hotel de Crillon](/hotels/1448/hotel_de_crillon.html); [Hotel du Collectionneur Arc de Triomphe Paris](/hotels/3129/hotel_du_collectionneur_arc_de_triomphe_paris.html); [Hyatt Paris Madeleine](/hotels/4608/hyatt_paris_madeleine.html); [InterContinental Paris Le Grand Hotel](/hotels/1359/intercontinental_paris_le_grand_hotel_.html); [Intercontinental Paris - Avenue Marceau](/hotels/3541/intercontinental_paris_-_avenue_marceau.html); [Kimpton St Honore Paris](/hotels/6300/kimpton_st_honore_paris.html); [L'Hotel](/hotels/4367/l'hotel.html); [La Reserve Paris](/hotels/2389/la_reserve_paris.html); [Le Bristol Paris](/hotels/1452/le_bristol_paris.html); [Le Dokhan's, a Tribute Portfolio Hotel](/hotels/3842/le_dokhan's,_a_tribute_portfolio_hotel.html); [Le Metropolitan, A Tribute Portfolio Hotel](/hotels/3843/le_metropolitan,_a_tribute_portfolio_hotel.html); [Le Meurice](/hotels/1121/le_meurice.html); [Le Narcisse Blanc Hotel & Spa](/hotels/4399/le_narcisse_blanc_hotel_&_spa.html); [Le Parchamp, Paris Boulogne, a Tribute Portfolio Hotel](/hotels/6919/le_parchamp,_paris_boulogne,_a_tribute_portfolio_hotel.html); [Le Royal Monceau - Raffles Paris](/hotels/4875/le_royal_monceau_-_raffles_paris.html); [Maison Delano Paris](/hotels/6460/maison_delano_paris.html); [Mandarin Oriental Paris](/hotels/2525/mandarin_oriental_paris.html); [Paris Marriott Champs Elysees Hotel](/hotels/3757/paris_marriott_champs_elysees_hotel.html); [Paris Marriott Opera Ambassador Hotel](/hotels/6502/paris_marriott_opera_ambassador_hotel.html); [Park Hyatt Paris-Vendome](/hotels/1259/park_hyatt_paris-vendome.html); [Pavillon Faubourg Saint-Germain](/hotels/6301/pavillon_faubourg_saint-germain.html); [Pavillon de la Reine](/hotels/2108/pavillon_de_la_reine.html); [Renaissance Paris Arc de Triomphe Hotel](/hotels/3761/renaissance_paris_arc_de_triomphe_hotel.html); [Renaissance Paris Nobel Tour Eiffel Hotel](/hotels/4988/renaissance_paris_nobel_tour_eiffel_hotel.html); [Renaissance Paris Republique Hotel](/hotels/3812/renaissance_paris_republique_hotel.html); [Renaissance Paris Vendome Hotel](/hotels/3763/renaissance_paris_vendome_hotel.html); [SO/Paris](/hotels/6343/so/paris.html); [Shangri-La Hotel Paris](/hotels/2490/shangri-la_hotel_paris_.html); [Sofitel Paris Arc de Triomphe](/hotels/4878/sofitel_paris_arc_de_triomphe.html); [Sofitel Paris Baltimore Tour Eiffel](/hotels/4877/sofitel_paris_baltimore_tour_eiffel.html); [The Peninsula Paris](/hotels/2881/the_peninsula_paris.html); [The Westin Paris Vendome](/hotels/2214/the_westin_paris_vendome.html)
 - Reims: [Royal Champagne](/hotels/4093/royal_champagne.html)
 - Roquebrune-Cap-Martin: [The Maybourne Riviera](/hotels/5051/the_maybourne_riviera.html)
@@ -196,7 +197,6 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Saint-Rémy-de-Provence: [Le Vallon de Valrugues Hotel Spa and Villas](/hotels/4402/le_vallon_de_valrugues_hotel_spa_and_villas.html)
 - Santo-Emilion: [Chateau Hotel & Spa Grand Barrail](/hotels/4361/chateau_hotel_&_spa_grand_barrail.html)
 - St. Tropez: [Byblos Saint-Tropez](/hotels/1033/byblos_saint-tropez.html); [Hotel De Paris, St. Tropez](/hotels/2774/hotel_de_paris,_st._tropez.html)
-- Strasbourg: [Sofitel Strasbourg Grande Ile](/hotels/4881/sofitel_strasbourg_grande_ile.html)
 - Théoule-sur-Mer: [Tiara Miramar Beach Hotel & Spa](/hotels/4405/tiara_miramar_beach_hotel_&_spa.html)
 - Toulouse: [La Cour des Consuls Hotel & Spa Toulouse](/hotels/6461/la_cour_des_consuls_hotel_&_spa_toulouse.html)
 - Versailles: [Waldorf Versailles Trianon Palace](/hotels/4174/waldorf_versailles_trianon_palace.html)
@@ -219,7 +219,7 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Monroyo: [Hotel Torre del Marques](/hotels/4828/hotel_torre_del_marques.html)
 - Málaga: [Fairmont La Hacienda Costa Del Sol](/hotels/6788/fairmont_la_hacienda_costa_del_sol.html); [Hotel La Zambra](/hotels/6126/hotel_la_zambra.html); [Hotel Vincci Seleccion Posada del Patio](/hotels/4566/hotel_vincci_seleccion_posada_del_patio.html); [Palacio Solecio](/hotels/4418/palacio_solecio.html)
 - Salamanca: [Hacienda Zorita Wine Hotel & Organic Farm](/hotels/4436/hacienda_zorita_wine_hotel_&_organic_farm.html)
-- San Sebastian: [Hotel Maria Cristina](/hotels/2782/hotel_maria_cristina.html)
+- San Sebastián: [Hotel Maria Cristina](/hotels/2782/hotel_maria_cristina.html)
 - Santiago de Compostela: [Hotel Palacio Del Carmen](/hotels/6357/hotel_palacio_del_carmen_.html)
 - Sevilla: [Cavalta Boutique Hotel](/hotels/6871/cavalta_boutique_hotel.html); [Gran Melia Colon](/hotels/2510/gran_melia_colon.html); [Hotel Alfonso XIII](/hotels/2056/hotel_alfonso_xiii.html); [Querencia de Seville, Autograph Collection](/hotels/7070/querencia_de_seville,_autograph_collection.html); [Radisson Collection Hotel, Magdalena Plaza Sevilla](/hotels/5058/radisson_collection_hotel,_magdalena_plaza_sevilla.html)
 - Sotogrande: [SO/ Sotogrande](/hotels/4897/so/_sotogrande.html)
@@ -307,7 +307,7 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Vals: [7132 Hotel](/hotels/4568/7132_hotel.html)
 - Verbier: [W Verbier](/hotels/2873/w_verbier.html)
 - Zermatt: [Grand Hotel Zermatterhof](/hotels/1083/grand_hotel_zermatterhof.html); [Hotel Schweizerhof Zermatt](/hotels/4444/hotel_schweizerhof_zermatt.html)
-- Zurich: [Baur au Lac](/hotels/1029/baur_au_lac.html); [Hyatt Regency Zurich Airport The Circle](/hotels/6767/hyatt_regency_zurich_airport_the_circle.html); [La Réserve Eden au Lac Zurich](/hotels/4038/la_réserve_eden_au_lac_zurich.html); [Mandarin Oriental Savoy, Zurich](/hotels/6816/mandarin_oriental_savoy,_zurich.html); [Park Hyatt Zurich](/hotels/1500/park_hyatt_zurich.html); [Storchen Zurich Hotel](/hotels/4569/storchen_zurich_hotel_.html); [The Dolder Grand](/hotels/2243/the_dolder_grand_.html)
+- Zúrich: [Baur au Lac](/hotels/1029/baur_au_lac.html); [Hyatt Regency Zurich Airport The Circle](/hotels/6767/hyatt_regency_zurich_airport_the_circle.html); [La Réserve Eden au Lac Zurich](/hotels/4038/la_réserve_eden_au_lac_zurich.html); [Mandarin Oriental Savoy, Zurich](/hotels/6816/mandarin_oriental_savoy,_zurich.html); [Park Hyatt Zurich](/hotels/1500/park_hyatt_zurich.html); [Storchen Zurich Hotel](/hotels/4569/storchen_zurich_hotel_.html); [The Dolder Grand](/hotels/2243/the_dolder_grand_.html)
 
 **Irlanda (29)**
 - Belfast: [Culloden Estate and Spa](/hotels/4832/culloden_estate_and_spa.html)
@@ -315,7 +315,7 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - County Clare: [Dromoland Castle](/hotels/1700/dromoland_castle.html); [Trump Hotel, Doonbeg Ireland](/hotels/2440/trump_hotel,_doonbeg_ireland.html)
 - County Kerry: [Killarney Park Hotel](/hotels/1350/killarney_park_hotel.html); [Park Hotel Kenmare](/hotels/5041/park_hotel_kenmare.html)
 - County Mayo: [Ashford Castle](/hotels/1879/ashford_castle_.html)
-- Dublin: [Anantara The Marker Dublin](/hotels/6551/anantara_the_marker_dublin.html); [Conrad Dublin](/hotels/4125/conrad_dublin.html); [Dylan Hotel Dublin](/hotels/6840/dylan_hotel_dublin.html); [Hyatt Centric The Liberties Dublin](/hotels/6121/hyatt_centric_the_liberties_dublin.html); [InterContinental Dublin](/hotels/3591/intercontinental_dublin.html); [The College Green Hotel Dublin, Autograph Collection](/hotels/6926/the_college_green_hotel_dublin,_autograph_collection.html); [The Fitzwilliam Hotel](/hotels/2138/the_fitzwilliam_hotel.html); [The Merrion](/hotels/6253/the_merrion.html); [The Shelbourne](/hotels/4070/the_shelbourne.html); [The Westbury Dublin](/hotels/2570/the_westbury_dublin.html); [The Westin Dublin](/hotels/1289/the_westin_dublin.html); [The Wilder Townhouse](/hotels/6071/the_wilder_townhouse.html)
+- Dublín: [Anantara The Marker Dublin](/hotels/6551/anantara_the_marker_dublin.html); [Conrad Dublin](/hotels/4125/conrad_dublin.html); [Dylan Hotel Dublin](/hotels/6840/dylan_hotel_dublin.html); [Hyatt Centric The Liberties Dublin](/hotels/6121/hyatt_centric_the_liberties_dublin.html); [InterContinental Dublin](/hotels/3591/intercontinental_dublin.html); [The College Green Hotel Dublin, Autograph Collection](/hotels/6926/the_college_green_hotel_dublin,_autograph_collection.html); [The Fitzwilliam Hotel](/hotels/2138/the_fitzwilliam_hotel.html); [The Merrion](/hotels/6253/the_merrion.html); [The Shelbourne](/hotels/4070/the_shelbourne.html); [The Westbury Dublin](/hotels/2570/the_westbury_dublin.html); [The Westin Dublin](/hotels/1289/the_westin_dublin.html); [The Wilder Townhouse](/hotels/6071/the_wilder_townhouse.html)
 - Enniskerry: [Powerscourt Hotel, Autograph Collection](/hotels/3778/powerscourt_hotel,_autograph_collection.html)
 - Galway: [Glenlo Abbey Hotel & Estate](/hotels/4230/glenlo_abbey_hotel_&_estate.html)
 - Kenmare: [Sheen Falls Lodge](/hotels/1053/sheen_falls_lodge.html)
@@ -340,11 +340,11 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Izmir: [Izmir Marriott Hotel](/hotels/6317/izmir_marriott_hotel.html)
 
 **Países Bajos (19)**
-- Amsterdam: [Amsterdam Marriott Hotel](/hotels/4694/amsterdam_marriott_hotel.html); [Andaz Amsterdam, Prinsengracht](/hotels/3377/andaz_amsterdam,_prinsengracht.html); [Canal House](/hotels/4475/canal_house.html); [De L’Europe](/hotels/2729/de_l’europe_.html); [Hotel Pulitzer Amsterdam](/hotels/1126/hotel_pulitzer_amsterdam.html); [InterContinental Amstel Amsterdam](/hotels/939/intercontinental_amstel_amsterdam.html); [Kimpton De Witt Amsterdam](/hotels/4024/kimpton_de_witt_amsterdam_.html); [Mandarin Oriental Conservatorium](/hotels/2772/mandarin_oriental_conservatorium_.html); [Pillows Grand Boutique Hotel Maurits at the Park](/hotels/6095/pillows_grand_boutique_hotel_maurits_at_the_park.html); [Rosewood Amsterdam](/hotels/6785/rosewood_amsterdam.html); [Sofitel Legend The Grand Amsterdam](/hotels/2186/sofitel_legend_the_grand_amsterdam.html); [The Dylan Amsterdam](/hotels/2312/the_dylan_amsterdam_.html); [W Amsterdam](/hotels/3823/w_amsterdam.html); [Waldorf Astoria Amsterdam](/hotels/3242/waldorf_astoria_amsterdam.html)
 - Breda: [Hotel Nassau Breda](/hotels/3856/hotel_nassau_breda.html)
 - La Haya: [Hotel des Indes](/hotels/2803/hotel_des_indes.html)
 - Oosterend: [Op Oost - Boutique Hotel & Restaurant](/hotels/6090/op_oost_-_boutique_hotel_&_restaurant.html)
 - Rotterdam: [Rotterdam Marriott Hotel](/hotels/4989/rotterdam_marriott_hotel.html); [The Slaak Rotterdam, a Tribute Portfolio Hotel](/hotels/4678/the_slaak_rotterdam,_a_tribute_portfolio_hotel.html)
+- Ámsterdam: [Amsterdam Marriott Hotel](/hotels/4694/amsterdam_marriott_hotel.html); [Andaz Amsterdam, Prinsengracht](/hotels/3377/andaz_amsterdam,_prinsengracht.html); [Canal House](/hotels/4475/canal_house.html); [De L’Europe](/hotels/2729/de_l’europe_.html); [Hotel Pulitzer Amsterdam](/hotels/1126/hotel_pulitzer_amsterdam.html); [InterContinental Amstel Amsterdam](/hotels/939/intercontinental_amstel_amsterdam.html); [Kimpton De Witt Amsterdam](/hotels/4024/kimpton_de_witt_amsterdam_.html); [Mandarin Oriental Conservatorium](/hotels/2772/mandarin_oriental_conservatorium_.html); [Pillows Grand Boutique Hotel Maurits at the Park](/hotels/6095/pillows_grand_boutique_hotel_maurits_at_the_park.html); [Rosewood Amsterdam](/hotels/6785/rosewood_amsterdam.html); [Sofitel Legend The Grand Amsterdam](/hotels/2186/sofitel_legend_the_grand_amsterdam.html); [The Dylan Amsterdam](/hotels/2312/the_dylan_amsterdam_.html); [W Amsterdam](/hotels/3823/w_amsterdam.html); [Waldorf Astoria Amsterdam](/hotels/3242/waldorf_astoria_amsterdam.html)
 
 **Croacia (13)**
 - Sin ciudad indicada: [Hyatt Regency Malta](/hotels/6230/hyatt_regency_malta.html); [Hyatt Regency Zadar](/hotels/6989/_hyatt_regency_zadar.html)
@@ -380,7 +380,7 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Copenhague: [71 Nyhavn Hotel](/hotels/4090/71_nyhavn_hotel.html); [Hotel D'Angleterre Copenhagen](/hotels/3236/hotel_d'angleterre_copenhagen_.html); [Nimb Hotel](/hotels/3659/nimb_hotel.html); [Nobis Hotel Copenhagen](/hotels/3316/nobis_hotel_copenhagen.html); [Villa Copenhagen](/hotels/4530/villa_copenhagen.html)
 
 **Polonia (5)**
-- Krakow: [Sheraton Grand Krakow](/hotels/6587/sheraton_grand_krakow.html)
+- Cracovia: [Sheraton Grand Krakow](/hotels/6587/sheraton_grand_krakow.html)
 - Sopot: [Sofitel Grand Sopot](/hotels/4892/sofitel_grand_sopot.html)
 - Varsovia: [Hotel Bristol, Warsaw](/hotels/2805/hotel_bristol,_warsaw.html); [Raffles Europejski Warsaw](/hotels/4087/raffles_europejski_warsaw.html); [Sofitel Warsaw Victoria](/hotels/6146/sofitel_warsaw_victoria.html)
 
@@ -417,7 +417,7 @@ Los 34 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Oslo: [The Thief](/hotels/4545/the_thief.html)
 
 **Rumanía (2)**
-- Bucharest: [Corinthia Grand Hotel du Boulevard Bucharest](/hotels/7064/corinthia_grand_hotel_du_boulevard_bucharest.html); [JW Marriott Bucharest](/hotels/3252/jw_marriott_bucharest.html)
+- Bucarest: [Corinthia Grand Hotel du Boulevard Bucharest](/hotels/7064/corinthia_grand_hotel_du_boulevard_bucharest.html); [JW Marriott Bucharest](/hotels/3252/jw_marriott_bucharest.html)
 
 **Eslovaquia (2)**
 - Sin ciudad indicada: [Sheraton Bratislava Hotel](/hotels/7023/sheraton_bratislava_hotel.html)

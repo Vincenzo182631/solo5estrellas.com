@@ -1,0 +1,581 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Grecia",
+          "item": "https://solo5estrellas.com/countries/27/grecia.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/27/grecia.html#webpage",
+      "url": "https://solo5estrellas.com/countries/27/grecia.html",
+      "name": "Hoteles de lujo en Grecia: 80 hoteles",
+      "description": "Explore 80 hoteles de lujo en Grecia con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Grecia"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/27/grecia.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/27/grecia.html#hotels",
+      "name": "Hoteles de lujo en Grecia",
+      "numberOfItems": 80,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Four Seasons Astir Palace Hotel Athens",
+          "url": "https://solo5estrellas.com/hotels/3466/-four-seasons-astir-palace-hotel-athens.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "A77 Suites, an SLH Hotel",
+          "url": "https://solo5estrellas.com/hotels/6077/a77-suites-an-slh-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Academias Hotel",
+          "url": "https://solo5estrellas.com/hotels/4985/academias-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Athenaeum InterContinental Athens",
+          "url": "https://solo5estrellas.com/hotels/2433/athenaeum-intercontinental-athens.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Athens Capital Center Hotel",
+          "url": "https://solo5estrellas.com/hotels/6464/athens-capital-center-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Conrad Athens the Ilisian",
+          "url": "https://solo5estrellas.com/hotels/7088/conrad-athens-the-ilisian.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Hotel Grande Bretagne",
+          "url": "https://solo5estrellas.com/hotels/1260/hotel-grande-bretagne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "King George",
+          "url": "https://solo5estrellas.com/hotels/1779/king-george.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "One&Only Aesthesis",
+          "url": "https://solo5estrellas.com/hotels/6647/one-only-aesthesis.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "One&Only Kea Island",
+          "url": "https://solo5estrellas.com/hotels/6539/one-only-kea-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Orient Express Sailing Yachts",
+          "url": "https://solo5estrellas.com/hotels/7139/orient-express-sailing-yachts.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Ritz Carlton Yacht Collection",
+          "url": "https://solo5estrellas.com/hotels/6652/ritz-carlton-yacht-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Angsana Corfu Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6584/angsana-corfu-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Domes Miramare Corfu",
+          "url": "https://solo5estrellas.com/hotels/3692/domes-miramare-corfu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Domes of Corfu",
+          "url": "https://solo5estrellas.com/hotels/6579/domes-of-corfu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Nido",
+          "url": "https://solo5estrellas.com/hotels/4413/nido.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Mandarin Oriental, Costa Navarino",
+          "url": "https://solo5estrellas.com/hotels/6543/mandarin-oriental-costa-navarino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "The Romanos",
+          "url": "https://solo5estrellas.com/hotels/2786/the-romanos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "The Westin Resort, Costa Navarino",
+          "url": "https://solo5estrellas.com/hotels/5028/the-westin-resort-costa-navarino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "W Costa Navarino",
+          "url": "https://solo5estrellas.com/hotels/6428/w-costa-navarino.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Alai Crete",
+          "url": "https://solo5estrellas.com/hotels/6866/alai-crete.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Casa Delfino Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/6169/casa-delfino-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Domes Noruz Chania",
+          "url": "https://solo5estrellas.com/hotels/3872/domes-noruz-chania.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Domes of Elounda, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/3802/domes-of-elounda-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Domes Zeen Chania",
+          "url": "https://solo5estrellas.com/hotels/6576/domes-zeen-chania.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "JW Marriott Crete Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6809/jw-marriott-crete-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "NEMA Design Hotel & Spa - Adults Only",
+          "url": "https://solo5estrellas.com/hotels/7116/nema-design-hotel-spa-adults-only.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Rimondi Boutique Hotels",
+          "url": "https://solo5estrellas.com/hotels/6175/rimondi-boutique-hotels.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Phaea Blue Palace",
+          "url": "https://solo5estrellas.com/hotels/1408/phaea-blue-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "100 Rizes Luxury Seaside Resort",
+          "url": "https://solo5estrellas.com/hotels/4408/100-rizes-luxury-seaside-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Eagles Villas",
+          "url": "https://solo5estrellas.com/hotels/4411/eagles-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Liostasi Hotel and Suites",
+          "url": "https://solo5estrellas.com/hotels/6418/liostasi-hotel-and-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Amanzoe",
+          "url": "https://solo5estrellas.com/hotels/2946/amanzoe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Domes White Coast Milos",
+          "url": "https://solo5estrellas.com/hotels/4829/domes-white-coast-milos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Archipelagos Hotel",
+          "url": "https://solo5estrellas.com/hotels/4599/archipelagos-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Boheme Mykonos",
+          "url": "https://solo5estrellas.com/hotels/4325/boheme-mykonos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Casa Del Mar Mykonos",
+          "url": "https://solo5estrellas.com/hotels/4326/casa-del-mar-mykonos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Fouquet's Mykonos",
+          "url": "https://solo5estrellas.com/hotels/7075/fouquet-s-mykonos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Four Seasons Resort Mykonos",
+          "url": "https://solo5estrellas.com/hotels/6852/four-seasons-resort-mykonos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Kivotos Mykonos",
+          "url": "https://solo5estrellas.com/hotels/1786/kivotos-mykonos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Myconian Ambassador Resort",
+          "url": "https://solo5estrellas.com/hotels/3350/myconian-ambassador-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "Myconian Utopia Resort",
+          "url": "https://solo5estrellas.com/hotels/3354/myconian-utopia-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Myconian Villa Collection",
+          "url": "https://solo5estrellas.com/hotels/4535/myconian-villa-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Mykonos Ammos Hotel",
+          "url": "https://solo5estrellas.com/hotels/4381/mykonos-ammos-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "Mykonos Grand Hotel & Resort",
+          "url": "https://solo5estrellas.com/hotels/4600/mykonos-grand-hotel-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "Mykonos Riviera Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4239/mykonos-riviera-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "Santa Marina",
+          "url": "https://solo5estrellas.com/hotels/1407/santa-marina.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Euphoria Retreat",
+          "url": "https://solo5estrellas.com/hotels/6177/euphoria-retreat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "Naxian Collection Luxury Villas & Suites",
+          "url": "https://solo5estrellas.com/hotels/4321/naxian-collection-luxury-villas-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "Domes Novos Santorini",
+          "url": "https://solo5estrellas.com/hotels/6946/domes-novos-santorini.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "Andronis Minois",
+          "url": "https://solo5estrellas.com/hotels/6419/andronis-minois.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Cosme",
+          "url": "https://solo5estrellas.com/hotels/6903/cosme.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Orosea Paros, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/7122/orosea-paros-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Summer Senses Luxury Resort",
+          "url": "https://solo5estrellas.com/hotels/6172/summer-senses-luxury-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Patmos Aktis, a Luxury Collection Resort & Spa",
+          "url": "https://solo5estrellas.com/hotels/6795/patmos-aktis-a-luxury-collection-resort-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Sheraton Rhodes Resort",
+          "url": "https://solo5estrellas.com/hotels/6506/sheraton-rhodes-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Rodos Park Suites & Spa",
+          "url": "https://solo5estrellas.com/hotels/4322/rodos-park-suites-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "Andronis Arcadia",
+          "url": "https://solo5estrellas.com/hotels/7102/andronis-arcadia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Andronis Luxury Suites",
+          "url": "https://solo5estrellas.com/hotels/7100/andronis-luxury-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "Aressana Spa Hotel and Suites",
+          "url": "https://solo5estrellas.com/hotels/4383/aressana-spa-hotel-and-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "Canaves Oia Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/3627/canaves-oia-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Canaves Oia Epitome",
+          "url": "https://solo5estrellas.com/hotels/2710/canaves-oia-epitome.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Canaves Oia Suites",
+          "url": "https://solo5estrellas.com/hotels/3628/canaves-oia-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "name": "Carpe Diem Santorini",
+          "url": "https://solo5estrellas.com/hotels/3620/carpe-diem-santorini.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "name": "Cosmopolitan Suites",
+          "url": "https://solo5estrellas.com/hotels/4389/cosmopolitan-suites.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "name": "Grace Santorini, Auberge Collection",
+          "url": "https://solo5estrellas.com/hotels/2927/grace-santorini-auberge-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "name": "Katikies Kirini Santorini",
+          "url": "https://solo5estrellas.com/hotels/5052/katikies-kirini-santorini-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "name": "Magma Resort Santorini",
+          "url": "https://solo5estrellas.com/hotels/6119/magma-resort-santorini.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "name": "Mystique",
+          "url": "https://solo5estrellas.com/hotels/1818/mystique.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "name": "On The Rocks Santorini",
+          "url": "https://solo5estrellas.com/hotels/4423/on-the-rocks-santorini.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "name": "San Antonio Hotel",
+          "url": "https://solo5estrellas.com/hotels/4386/san-antonio-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "name": "Vedema Resort",
+          "url": "https://solo5estrellas.com/hotels/1409/vedema-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "name": "Villa Caldera",
+          "url": "https://solo5estrellas.com/hotels/6691/villa-caldera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 74,
+          "name": "Hyatt Regency Thessaloniki",
+          "url": "https://solo5estrellas.com/hotels/3461/hyatt-regency-thessaloniki.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 75,
+          "name": "MonAsty, Thessaloniki, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/6916/monasty-thessaloniki-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 76,
+          "name": "ON Residence",
+          "url": "https://solo5estrellas.com/hotels/6262/on-residence.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 77,
+          "name": "Lesante Blu Exclusive Beach Resort",
+          "url": "https://solo5estrellas.com/hotels/4216/lesante-blu-exclusive-beach-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 78,
+          "name": "Porto Zante Villas & Spa",
+          "url": "https://solo5estrellas.com/hotels/6075/porto-zante-villas-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 79,
+          "name": "Domes Aulus Zante",
+          "url": "https://solo5estrellas.com/hotels/6360/domes-aulus-zante-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 80,
+          "name": "Lesante Classic Luxury Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/4536/lesante-classic-luxury-hotel-spa.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Grecia en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "80 hoteles. Las ciudades con más hoteles son Santorini (16), Mykonos (13), Atenas (12)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Grecia tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Santorini (16), Mykonos (13), Atenas (12). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Grecia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Small Luxury Hotels of The World (28), The Luxury Collection (10), Autograph Collection (8), Preferred Hotels & Resorts (4), The Signature Collection (3). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

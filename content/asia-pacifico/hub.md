@@ -18,7 +18,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de As
 | Singapur | 30 | Singapur (25), Sentosa Island (5) |
 | Malasia | 28 | Kuala Lumpur (12), Langkawi (4), Bandar Penawar (3) |
 | Maldivas | 26 | Maldivas (25) |
-| Vietnam | 25 | Da Nang (5), Hanoi (5), Ho Chi Minh (3) |
+| Vietnam | 25 | Da Nang (5), Hanói (5), Ho Chi Minh (3) |
 | Corea del Sur | 14 | Seul (12), Busan (1), Jeju (1) |
 | Camboya | 12 | Siem Reap (6), Nom Pen (3), Sihanoukville (2) |
 | Filipinas | 10 | Manila (3), Luzon Island (2), Mactan (1) |
@@ -160,6 +160,7 @@ Los 14 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Ahmedabad: [Hyatt Regency Ahmedabad](/hotels/4113/hyatt_regency_ahmedabad.html)
 - Bangalore: [Conrad Bengaluru](/hotels/4156/conrad_bengaluru.html); [The Ritz-Carlton, Bangalore](/hotels/2770/the_ritz-carlton,_bangalore.html)
 - Bengaluru: [Shangri-La Hotel, Bengaluru](/hotels/3079/shangri-la_hotel,_bengaluru.html)
+- Bombay: [Four Seasons Hotel Mumbai](/hotels/2253/four_seasons_hotel_mumbai_.html); [Sofitel Mumbai BKC](/hotels/4879/sofitel_mumbai_bkc.html); [The Taj Mahal Palace, Mumbai](/hotels/1161/the_taj_mahal_palace,_mumbai.html)
 - Chennai: [The Leela Palace Chennai](/hotels/4537/the_leela_palace_chennai.html)
 - Delhi: [Andaz Delhi](/hotels/3378/andaz_delhi.html)
 - Goa: [Alila Diwa Goa](/hotels/3959/alila_diwa_goa.html); [Hyatt Centric Candolim Goa](/hotels/4841/hyatt_centric_candolim_goa.html); [W Goa](/hotels/3827/w_goa.html)
@@ -167,7 +168,6 @@ Los 14 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Jaipur: [Alila Fort Bishangarh](/hotels/3960/alila_fort_bishangarh.html); [Hyatt Regency Jaipur Mansarovar](/hotels/6395/hyatt_regency_jaipur_mansarovar.html); [Rambagh Palace](/hotels/1664/rambagh_palace_.html); [The Oberoi Rajvilas](/hotels/1024/the_oberoi_rajvilas.html)
 - Jodhpur: [Umaid Bhawan Palace](/hotels/1581/umaid_bhawan_palace_.html)
 - Mahabaleshwar: [Le Meridien Mahabaleshwar Resort & Spa](/hotels/3822/le_meridien_mahabaleshwar_resort_&_spa.html)
-- Mumbai: [Four Seasons Hotel Mumbai](/hotels/2253/four_seasons_hotel_mumbai_.html); [Sofitel Mumbai BKC](/hotels/4879/sofitel_mumbai_bkc.html); [The Taj Mahal Palace, Mumbai](/hotels/1161/the_taj_mahal_palace,_mumbai.html)
 - Nueva Delhi: [Leela Palace Hotel New Delhi](/hotels/3212/leela_palace_hotel_new_delhi.html); [Shangri-La's- Eros Hotel, New Delhi](/hotels/3078/shangri-la's-_eros_hotel,_new_delhi.html); [Taj Mahal New Delhi](/hotels/1714/taj_mahal_new_delhi.html); [The Lodhi-Shima-Shi](/hotels/3117/the_lodhi-shima-shi.html); [The Oberoi New Delhi](/hotels/1023/the_oberoi_new_delhi.html)
 - Pune: [Conrad Pune](/hotels/4128/conrad_pune.html)
 - Rajasthan: [Raffles Udaipur](/hotels/4882/raffles_udaipur.html)
@@ -200,7 +200,7 @@ Los 14 hoteles restantes no tienen una marca o colección asociada en la lista.
 **Vietnam (25)**
 - Sin ciudad indicada: [Six Senses Ninh Van Bay](/hotels/6747/six_senses_ninh_van_bay.html)
 - Da Nang: [Danang Marriott Resort & Spa](/hotels/6367/danang_marriott_resort_&_spa.html); [Danang Marriott Resort & Spa, Non Nuoc Beach Villas](/hotels/6662/danang_marriott_resort_&_spa,_non_nuoc_beach_villas.html); [Hyatt Regency Danang Resort & Spa](/hotels/3395/hyatt_regency_danang_resort_&_spa.html); [InterContinental Danang Sun Peninsula Resort](/hotels/2910/intercontinental_danang_sun_peninsula_resort.html); [Sheraton Grand Danang Beach Resort & Spa](/hotels/7113/sheraton_grand_danang_beach_resort_&_spa.html)
-- Hanoi: [Fairmont Hanoi](/hotels/7146/fairmont_hanoi.html); [InterContinental Hanoi Landmark72](/hotels/4790/intercontinental_hanoi_landmark72.html); [JW Marriott Hotel Hanoi](/hotels/3716/jw_marriott_hotel_hanoi.html); [MGallery Hanoi Hotel de L'Opera](/hotels/4949/mgallery_hanoi_hotel_de_l'opera.html); [Sofitel Legend Metropole Hanoi](/hotels/1900/sofitel_legend_metropole_hanoi_.html)
+- Hanói: [Fairmont Hanoi](/hotels/7146/fairmont_hanoi.html); [InterContinental Hanoi Landmark72](/hotels/4790/intercontinental_hanoi_landmark72.html); [JW Marriott Hotel Hanoi](/hotels/3716/jw_marriott_hotel_hanoi.html); [MGallery Hanoi Hotel de L'Opera](/hotels/4949/mgallery_hanoi_hotel_de_l'opera.html); [Sofitel Legend Metropole Hanoi](/hotels/1900/sofitel_legend_metropole_hanoi_.html)
 - Ho Chi Minh: [Sheraton Saigon Grand Opera Hotel](/hotels/6962/sheraton_saigon_grand_opera_hotel.html); [Sofitel Saigon Plaza](/hotels/6486/sofitel_saigon_plaza.html); [Vinpearl Landmark 81, Autograph Collection](/hotels/7094/vinpearl_landmark_81,_autograph_collection.html)
 - Hoi An: [Four Seasons Resort the Nam Hai](/hotels/1803/four_seasons_resort_the_nam_hai.html)
 - Hue: [Azerai La Residence, Hue](/hotels/3623/azerai_la_residence,_hue.html); [La Residence Hue Ho & Spa](/hotels/2636/la_residence_hue_ho_&_spa.html)

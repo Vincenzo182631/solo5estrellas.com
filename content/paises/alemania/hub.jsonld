@@ -1,0 +1,371 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Alemania",
+          "item": "https://solo5estrellas.com/countries/26/alemania.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/26/alemania.html#webpage",
+      "url": "https://solo5estrellas.com/countries/26/alemania.html",
+      "name": "Hoteles de lujo en Alemania: 45 hoteles",
+      "description": "Explore 45 hoteles de lujo en Alemania con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Alemania"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/26/alemania.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/26/alemania.html#hotels",
+      "name": "Hoteles de lujo en Alemania",
+      "numberOfItems": 45,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Brenners Park Hotel & Spa",
+          "url": "https://solo5estrellas.com/hotels/1445/brenners-park-hotel-spa.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Roomers Baden-Baden",
+          "url": "https://solo5estrellas.com/hotels/3857/roomers-baden-baden.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Berlin Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/6504/berlin-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Grand Hyatt Berlin",
+          "url": "https://solo5estrellas.com/hotels/3401/grand-hyatt-berlin-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hotel Adlon Kempinski Berlin",
+          "url": "https://solo5estrellas.com/hotels/1141/hotel-adlon-kempinski-berlin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Hotel am Steinplatz Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/3773/hotel-am-steinplatz-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Hotel de Rome",
+          "url": "https://solo5estrellas.com/hotels/1765/hotel-de-rome-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Hotel Luc",
+          "url": "https://solo5estrellas.com/hotels/4106/hotel-luc-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "JW Marriott Hotel Berlin",
+          "url": "https://solo5estrellas.com/hotels/6728/jw-marriott-hotel-berlin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "SO Berlin Das Stue",
+          "url": "https://solo5estrellas.com/hotels/4885/so-berlin-das-stue.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "The Ritz Carlton, Berlin",
+          "url": "https://solo5estrellas.com/hotels/1412/the-ritz-carlton-berlin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Waldorf Astoria Berlin",
+          "url": "https://solo5estrellas.com/hotels/4169/waldorf-astoria-berlin.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Hyatt Regency Cologne",
+          "url": "https://solo5estrellas.com/hotels/3394/hyatt-regency-cologne.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Breidenbacher Hof, a Capella Hotel",
+          "url": "https://solo5estrellas.com/hotels/2671/breidenbacher-hof-a-capella-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Hyatt Regency Dusseldorf",
+          "url": "https://solo5estrellas.com/hotels/3422/hyatt-regency-dusseldorf.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "InterContinental Duesseldorf",
+          "url": "https://solo5estrellas.com/hotels/3543/intercontinental-duesseldorf.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "The Wellem",
+          "url": "https://solo5estrellas.com/hotels/4630/the-wellem.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Jumeirah Frankfurt",
+          "url": "https://solo5estrellas.com/hotels/2656/jumeirah-frankfurt-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "JW Marriott Hotel Frankfurt",
+          "url": "https://solo5estrellas.com/hotels/6590/jw-marriott-hotel-frankfurt.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Le Meridien Frankfurt",
+          "url": "https://solo5estrellas.com/hotels/4695/le-meridien-frankfurt.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Roomers ParkView, a Luxury Collection",
+          "url": "https://solo5estrellas.com/hotels/7121/roomers-parkview-a-luxury-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Sofitel Frankfurt Opera",
+          "url": "https://solo5estrellas.com/hotels/4887/sofitel-frankfurt-opera.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Steigenberger Frankfurter Hof",
+          "url": "https://solo5estrellas.com/hotels/6087/steigenberger-frankfurter-hof.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Conrad Hamburg",
+          "url": "https://solo5estrellas.com/hotels/6953/conrad-hamburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Le Meridien Hamburg",
+          "url": "https://solo5estrellas.com/hotels/3816/le-meridien-hamburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Renaissance Hamburg",
+          "url": "https://solo5estrellas.com/hotels/6888/renaissance-hamburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "The Westin Hamburg",
+          "url": "https://solo5estrellas.com/hotels/4675/the-westin-hamburg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Falkenstein Grand, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/6508/falkenstein-grand-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Schlosshotel Kronberg",
+          "url": "https://solo5estrellas.com/hotels/4407/schlosshotel-kronberg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Kempinski Dresden - Hotel Taschenbergpalais",
+          "url": "https://solo5estrellas.com/hotels/7051/kempinski-dresden-hotel-taschenbergpalais-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Schloss Lieser, Autograph Collection",
+          "url": "https://solo5estrellas.com/hotels/4992/schloss-lieser-autograph-collection.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Hyatt Regency Mainz",
+          "url": "https://solo5estrellas.com/hotels/3437/hyatt-regency-mainz.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Andaz Munich Schwabinger Tor",
+          "url": "https://solo5estrellas.com/hotels/3634/andaz-munich-schwabinger-tor.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Hotel Bayerischer Hof",
+          "url": "https://solo5estrellas.com/hotels/2058/hotel-bayerischer-hof.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "Hotel Muenchen Palace",
+          "url": "https://solo5estrellas.com/hotels/3166/hotel-muenchen-palace.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Hotel Vier Jahreszeiten Kempinski Munich",
+          "url": "https://solo5estrellas.com/hotels/1762/hotel-vier-jahreszeiten-kempinski-munich-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "Le Meridien Munich",
+          "url": "https://solo5estrellas.com/hotels/4699/le-meridien-munich.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Mandarin Oriental, Munich",
+          "url": "https://solo5estrellas.com/hotels/1435/mandarin-oriental-munich.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "Roomers Munich",
+          "url": "https://solo5estrellas.com/hotels/3859/roomers-munich.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Rosewood Munich",
+          "url": "https://solo5estrellas.com/hotels/6435/rosewood-munich.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "Sofitel Munich Bayerpost",
+          "url": "https://solo5estrellas.com/hotels/3206/sofitel-munich-bayerpost.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "The Charles Hotel",
+          "url": "https://solo5estrellas.com/hotels/2001/the-charles-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "Le Méridien Grand Hotel Nuremberg",
+          "url": "https://solo5estrellas.com/hotels/6505/le-m-ridien-grand-hotel-nuremberg.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Le Meridien Stuttgart",
+          "url": "https://solo5estrellas.com/hotels/3814/le-meridien-stuttgart.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "The Ritz-Carlton, Wolfsburg",
+          "url": "https://solo5estrellas.com/hotels/1622/the-ritz-carlton-wolfsburg.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Alemania en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "45 hoteles. Las ciudades con más hoteles son Berlín (10), Múnich (10), Frankfurt (6)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Alemania tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Berlín (10), Múnich (10), Frankfurt (6). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Alemania?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Autograph Collection (6), Le Meridien (5), Kempinski Hotels (3), Hyatt Regency Hotels (3), Rocco Forte Hotels (2). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}

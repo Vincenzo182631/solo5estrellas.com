@@ -1,0 +1,161 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tanzania",
+          "item": "https://solo5estrellas.com/countries/61/tanzania.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/countries/61/tanzania.html#webpage",
+      "url": "https://solo5estrellas.com/countries/61/tanzania.html",
+      "name": "Hoteles de lujo en Tanzania: 10 hoteles",
+      "description": "Explore 10 hoteles de lujo en Tanzania con desayuno para dos y otras ventajas de reserva.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://solo5estrellas.com/#website"
+      },
+      "about": {
+        "@type": "Place",
+        "name": "Tanzania"
+      },
+      "mainEntity": {
+        "@id": "https://solo5estrellas.com/countries/61/tanzania.html#hotels"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://solo5estrellas.com/countries/61/tanzania.html#hotels",
+      "name": "Hoteles de lujo en Tanzania",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hyatt Regency Dar es Salaam, The Kilimanjaro",
+          "url": "https://solo5estrellas.com/hotels/3653/hyatt-regency-dar-es-salaam-the-kilimanjaro.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gran Melia Arusha",
+          "url": "https://solo5estrellas.com/hotels/4260/gran-melia-arusha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Elewana The Manor at Ngorongoro",
+          "url": "https://solo5estrellas.com/hotels/3568/elewana-the-manor-at-ngorongoro.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Amani Boutique Hotel",
+          "url": "https://solo5estrellas.com/hotels/4449/amani-boutique-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Four Seasons Safari Lodge Serengeti",
+          "url": "https://solo5estrellas.com/hotels/2682/four-seasons-safari-lodge-serengeti.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Meliá Serengeti Lodge",
+          "url": "https://solo5estrellas.com/hotels/4237/meli-serengeti-lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Singita Faru Faru Lodge",
+          "url": "https://solo5estrellas.com/hotels/6655/singita-faru-faru-lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Singita Sabora Tented Camp",
+          "url": "https://solo5estrellas.com/hotels/1924/singita-sabora-tented-camp.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Singita Sasakwa Lodge",
+          "url": "https://solo5estrellas.com/hotels/6654/singita-sasakwa-lodge.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Park Hyatt Zanzibar",
+          "url": "https://solo5estrellas.com/hotels/3445/park-hyatt-zanzibar.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántos hoteles de lujo hay en Tanzania en Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "10 hoteles. Las ciudades con más hoteles son Serengeti (5), Sin ciudad indicada (1), Arusha (1)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué ciudades de Tanzania tienen más hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Serengeti (5), Sin ciudad indicada (1), Arusha (1). La tabla de esta página muestra el recuento de cada ciudad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué marcas tienen más hoteles en Tanzania?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Signature Collection (6), Hyatt Regency Hotels (1), Small Luxury Hotels of The World (1), Four Seasons (1), Park Hyatt Hotels (1). Cada marca tiene su propia página con las ventajas de reserva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es más barato reservar con Solo5Estrellas que en la web del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventajas de cada programa se añaden a esa tarifa sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la marca y del hotel: en general desayuno diario para dos y un crédito de hotel, además de ventajas sujetas a disponibilidad como mejora de habitación, entrada anticipada o salida tardía. Las ventajas exactas se confirman al reservar y se detallan en la página de cada marca."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está la lista completa de hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen."
+          }
+        }
+      ]
+    }
+  ]
+}
