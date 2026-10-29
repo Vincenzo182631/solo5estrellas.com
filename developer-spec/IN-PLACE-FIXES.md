@@ -143,12 +143,31 @@ Add `Strict-Transport-Security: max-age=31536000` (after fix 3 is stable), `X-Co
 ## 11. Amanyara: hide booking until reopening is confirmed (client decision, 14 Oct)
 Aman's own site says Amanyara is temporarily closed until 1 November 2026. Until the client confirms the reopening date with Aman, hide the rate and booking widget on `/hotels/1523/` in both the Spanish and English templates (or replace it with a notice: "Amanyara está cerrado temporalmente; consulte con nosotros las fechas de reapertura"). Keep the page indexable and the URL unchanged. Restore the widget once the date is confirmed. Check: the page returns 200 and shows no "Consultar disponibilidad" form.
 
+## 12. Hotel template: title, description, perks block, login wall (found 29 Oct; tracker Z114, Z115)
+Four problems on the hotel page template, seen on pages with high impressions:
+
+| Problem | Example pages | Fix |
+| --- | --- | --- |
+| English `<title>` ("The Homestead | Hot Springs Luxury Hotels | The Homestead"; "Hotel Sacher Salzburg | Salzburg Luxury Hotels | …"), while other hotel pages show "{hotel} | Solo 5 Estrellas por Lorraine Travel" | `/hotels/1816/` (The Omni Homestead Resort), `/hotels/1094/` (Hotel Sacher Salzburg) | These two hotels output an English SEO title stored in the CMS. Use the value from `page-metadata-drafts.csv` when the hotel has one; otherwise ignore the English field and use `{hotel name} | Solo5Estrellas`. List other hotels with a stored English title and apply the same rule. |
+| English meta description ("… offers Exclusive Complimentary Perks to guests …") | 1816, 1094 | Spanish template fallback: `Reserve {hotel name}, en {ciudad}, con los beneficios exclusivos de Solo5Estrellas.` Drafted descriptions in `page-metadata-drafts.csv` take priority. |
+| Perks block prints "Bonificaciones Exclusivas NULL" | 1816 | If the perks field is empty or NULL, hide the whole "Bonificaciones Exclusivas" block and the comparison table; do not print NULL. Then fill the perks for 1816 in the CMS (see CMS-DATA-ISSUES.md). |
+| Hotel content shown only after login (visitors and Google see a login form, no description, perks or photos) | `/hotels/3897/` (Four Seasons Hotel Madrid), `/hotels/2841/` (W Atlanta - Downtown), `/hotels/1553/` (Four Seasons Hotel Shanghai at Puxi) | Show the public hotel content (name, location, description, photos, perks) to everyone, like the other hotel pages. If confidential rates must stay private, put only the rate box behind login. Find which flag on these hotels triggers the login view and list every hotel that has it. |
+
+Titles and descriptions for the 20 hotel pages with the most impressions are in `page-metadata-drafts.csv` (source: `content/hoteles-top20/`).
+
+Check: `verify.sh` section 9 (no English title on 1816 and 1094; no "NULL" on 1816; no login form on 3897).
+
+## 13. The Plaza Hotel New York (ID 1920): 301 to the Nueva York city page (tracker Z116)
+`/hotels/1920/…` now returns 302 to the home page. The hotel is no longer in the collection (WhataHotel's page returns 404 and the city page no longer lists it). Replace the 302 with a single 301 from every `/hotels/1920/*` URL to `/cities/192/new_york.html` (or to the final Nueva York city URL once fix 4 is live, without a chain). It had 136 impressions in Search Console from 26 Jul to 25 Oct. Do the same on WhataHotel for its 1920 URLs if they still get traffic. The row is in `redirects-duplicate-slugs.csv`.
+
+Check: `verify.sh` section 9 (`/hotels/1920/The-Plaza-Hotel-New-York.html` returns 301 to the city page).
+
 ## What not to change yet
 Do not launch the new URLs from the content drafts (`/hoteles-de-lujo/...`, `/hoteles-four-seasons/`); do not change `robots.txt` Disallow rules; do not noindex anything until fixes 1-5 are live and re-crawled.
 
 ## Release plan
-1. Staging: fixes 1, 2, 7 first (template only). Run `verify.sh <staging>`.
-2. Production: fixes 1, 2, 7 (and fix 11, Amanyara booking, as soon as the client says so); run `verify.sh`; request re-indexing of the home page and 10 sample pages in Search Console.
+1. Staging: fixes 1, 2, 7 and 12 first (template only). Run `verify.sh <staging>`.
+2. Production: fixes 1, 2, 7, 12 and 13 (and fix 11, Amanyara booking, as soon as the client says so); run `verify.sh`; request re-indexing of the home page and 10 sample pages in Search Console.
 3. Fixes 3-5 together (redirects); keep a rollback copy of the old rules; watch Search Console coverage daily for two weeks.
 4. Fixes 6, 8, 9, 10.
 Report the `verify.sh` result after each step.

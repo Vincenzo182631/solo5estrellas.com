@@ -120,7 +120,7 @@
   3. Piscinas, spa y restaurantes (only what the hotel lists).
   4. Ubicación (neighbourhood, airport distance from the hotel).
   5. Preguntas frecuentes (3 to 5, from real queries).
-- **Template fixes found on 29 Oct:** two pages have no `<title>` (1816, 1094); three pages hide content behind a login wall (3897, 2841, 1553); one shows "Bonificaciones Exclusivas NULL" (1816); English meta descriptions.
+- **Template fixes found on 29 Oct:** two pages have an English `<title>` (1816, 1094); three pages hide content behind a login wall (3897, 2841, 1553); one shows "Bonificaciones Exclusivas NULL" (1816); English meta descriptions.
 - **Schema:** Hotel with address and amenityFeature; FAQPage when the FAQ exists.
 - **Measure:** position and CTR for the room/pool queries.
 

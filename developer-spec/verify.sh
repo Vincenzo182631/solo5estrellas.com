@@ -42,5 +42,12 @@ echo "$h" | grep -qi '^strict-transport-security' && ok "HSTS header present" ||
 echo "$h" | grep -qi '^x-powered-by' && no "X-Powered-By exposed" || ok "X-Powered-By removed"
 # 8 JSON-LD encoding
 bad=$(get /hotels/6494/1-hotel-brooklyn-bridge.html | grep -c $'\xef\xbf\xbd'); [ "$bad" = "0" ] && ok "no U+FFFD in hotel page" || no "$bad lines with U+FFFD (broken accents) in hotel page"
+# 9 hotel template (fix 12) and removed hotel (fix 13)
+for p in /hotels/1816/omni-homestead-.html /hotels/1094/hotel-sacher-salzburg.html; do
+  get "$p" | grep -qi 'Luxury Hotels |' && no "$p has an English <title>" || ok "$p title is not English"
+done
+get /hotels/1816/omni-homestead-.html | grep -q 'NULL' && no "/hotels/1816/ prints NULL" || ok "/hotels/1816/ prints no NULL"
+get /hotels/3897/four-seasons-hotel-madrid-.html | grep -qi 'Inicia sesión ahora para acceder' && no "/hotels/3897/ shows the login wall" || ok "/hotels/3897/ shows hotel content without login"
+c=$(code /hotels/1920/The-Plaza-Hotel-New-York.html); [ "$c" = "301" ] && ok "/hotels/1920/ redirects with 301" || no "/hotels/1920/ returns $c (should be 301 to the city page)"
 echo; echo "Result: $pass passed, $fail failed"
 [ "$fail" = "0" ]

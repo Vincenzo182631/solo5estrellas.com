@@ -17,3 +17,11 @@ All twelve region pages show every hotel under one country heading; add country 
 
 ## Country pages (added 28 Oct)
 Every Spanish country page has the title "Bienvenido | Solo 5 Estrellas", hreflang tags pointing to the home pages, a breadcrumb to `browse_region.cfm` and an English slug (`/countries/58/spain.html`). Fix the template head and use one Spanish lowercase slug per ID (Z111). Duplicate country IDs (Kuwait 141/145/147, Bhutan 74/82, Serbia 143/148, Mongolia 154/155) should 301 to one ID, and the 19 empty country IDs should return 404 (Z112).
+
+## Hotel records (added 29 Oct)
+- **1816 The Omni Homestead Resort:** perks field is empty and prints "NULL"; fill the perks from the programme (The Signature Collection) or leave empty once fix 12 hides the block. Name on the page is "Omni Homestead"; the description says "The Homestead". Use one name: "The Omni Homestead Resort".
+- **1816, 1094:** English meta description in the CMS; replace with the Spanish drafts in `page-metadata-drafts.csv`.
+- **2528 Hotel Barriere Le Majestic Cannes:** the hotel's name is "Barrière" (with the accent).
+- **2648 Paradisus Playa del Carmen, La Esmeralda:** perks list "Desayuno Gratis para 2 cada Día" for a resort sold as all-inclusive. Confirm with the hotel and correct the perk if breakfast is already in the rate.
+- **964 Necker Island:** perks text has typos ("Un Masaje de u1 Hora", "Crédito del Hesort", "An un Costo Adicional"); the last two come from the shared comparison table and appear on other hotel pages too.
+- **1920 The Plaza Hotel New York:** no longer in the collection; see fix 13.

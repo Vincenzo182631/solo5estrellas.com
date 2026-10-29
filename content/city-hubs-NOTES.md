@@ -30,3 +30,6 @@ Zones follow each hotel's public location (for example The Plaza and The Pierre 
 
 ## Measure
 Clicks, impressions, position for the city page and for the family of queries (`hoteles de lujo en miami`, `hoteles cinco estrellas nueva york`, hotel-name queries); inquiries from the pages. Check at 14, 30 and 90 days. No ranking is promised.
+
+## Update 29 Oct: Nueva York
+The Plaza Hotel New York (ID 1920) was removed from the Nueva York draft: `/hotels/1920/` redirects (302) to the home page, the WhataHotel page returns 404, and the live city page no longer lists it. The list is now 34 hotels (md, html, JSON-LD). The "67 hoteles de la colección" total in the intro was counted earlier in October; the live city page now links 63 hotel IDs, so recount before publishing.

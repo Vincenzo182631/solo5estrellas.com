@@ -2,17 +2,16 @@
 
 > Draft for `/cities/192/new_york.html`. Title: Hoteles de lujo en Nueva York | Solo5Estrellas (46). Description: Compare hoteles de lujo en Nueva York por zona: Midtown, Upper East Side, Tribeca, Brooklyn. Reserve con beneficios exclusivos de Solo5Estrellas. (145).
 
-El mejor hotel de lujo en Nueva York depende de la zona que busque: junto a Central Park y la Quinta Avenida, The Plaza, el Ritz-Carlton Central Park o The Peninsula; en el Upper East Side, cerca de los museos, The Carlyle o The Mark; y en el bajo Manhattan, el Four Seasons New York Downtown o The Beekman. Esta página ordena por zona una selección de 35 de los 67 hoteles de la colección en Nueva York.
+El mejor hotel de lujo en Nueva York depende de la zona que busque: junto a Central Park y la Quinta Avenida, el Ritz-Carlton Central Park o The Peninsula; en el Upper East Side, cerca de los museos, The Carlyle o The Mark; y en el bajo Manhattan, el Four Seasons New York Downtown o The Beekman. Esta página ordena por zona una selección de 34 de los 67 hoteles de la colección en Nueva York.
 
 Nueva York se elige por barrio más que por hotel: la zona define si va a pie a los teatros, a los museos, a las tiendas o a un restaurante de moda, y cuánto tardará en volver desde el aeropuerto. Hemos agrupado una selección de los hoteles de la colección Solo5Estrellas por zona de Manhattan y Brooklyn. Los nombres de los hoteles no se traducen.
 
-## Los 35 hoteles de la colección en Nueva York, por zona
+## Los 34 hoteles de la colección en Nueva York, por zona
 
 ### Midtown, Quinta Avenida y Central Park Sur
 
 La zona clásica para un primer viaje: Quinta Avenida, tiendas, teatros de Broadway y el borde sur de Central Park. Concentra buena parte de los hoteles de nuestra selección. Es una opción práctica si quiere caminar a todo y no depender del metro.
 
-- [The Plaza Hotel New York](/hotels/1920/the-plaza-hotel-new-york.html)
 - [Ritz-Carlton Central Park](/hotels/1214/ritz-carlton-central-park-.html)
 - [The Peninsula New York](/hotels/1048/the-peninsula-new-york-.html)
 - [St. Regis New York](/hotels/1437/st-regis-new-york-.html)
@@ -79,7 +78,7 @@ Esta lista es una selección. La página de la colección reúne 67 hoteles en N
 | Restaurantes y ambiente de barrio | Bajo Manhattan (Tribeca, SoHo). |
 | Diseño y vida nocturna | Chelsea, Hudson Yards y NoMad. |
 | Vistas de Manhattan desde fuera | Brooklyn (DUMBO, Williamsburg). |
-| Junto a Central Park | Ritz-Carlton Central Park, 1 Hotel Central Park, Le Meridien Central Park, The Plaza y The Pierre. |
+| Junto a Central Park | Ritz-Carlton Central Park, 1 Hotel Central Park, Le Meridien Central Park y The Pierre. |
 
 ## Cuándo viajar
 
@@ -104,7 +103,7 @@ Al reservar con Solo5Estrellas, operado por Lorraine Travel, muchos hoteles de l
 
 **¿Cuál es el mejor hotel de lujo en Nueva York?**
 
-Depende de la zona. Junto a Central Park y la Quinta Avenida, The Plaza, el Ritz-Carlton Central Park o The Peninsula; en el Upper East Side, The Carlyle o The Mark; en el bajo Manhattan, el Four Seasons New York Downtown o The Beekman.
+Depende de la zona. Junto a Central Park y la Quinta Avenida, el Ritz-Carlton Central Park o The Peninsula; en el Upper East Side, The Carlyle o The Mark; en el bajo Manhattan, el Four Seasons New York Downtown o The Beekman.
 
 **¿En qué zona de Nueva York conviene alojarse?**
 
@@ -116,7 +115,7 @@ En una de las cuatro zonas de esta página: Midtown y Central Park Sur, Upper Ea
 
 **¿Qué hoteles de lujo están junto a Central Park?**
 
-El Ritz-Carlton Central Park, 1 Hotel Central Park, Le Meridien Central Park, The Plaza y The Pierre están junto al parque o muy cerca de él. En Central Park Sur también está JW Marriott Essex House.
+El Ritz-Carlton Central Park, 1 Hotel Central Park, Le Meridien Central Park y The Pierre están junto al parque o muy cerca de él. En Central Park Sur también está JW Marriott Essex House.
 
 **¿Cuándo es mejor viajar a Nueva York?**
 

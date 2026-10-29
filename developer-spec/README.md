@@ -7,7 +7,7 @@ Everything here is read-only guidance written from public pages (no code or serv
 ## Files
 | File | Use |
 | --- | --- |
-| `IN-PLACE-FIXES.md` | The 11 fixes, in release order, with snippets and checks |
+| `IN-PLACE-FIXES.md` | The 13 fixes, in release order, with snippets and checks (12: hotel template; 13: The Plaza 301, added 29 Oct) |
 | `verify.sh` | 44 read-only checks; run against staging with `./verify.sh https://staging-host` |
 | `titles-descriptions.csv` | Title and description for every template (lengths checked) |
 | `titles-descriptions-chains.csv` | Title and description for all 62 chain and collection pages (all 62 now drafted; counts taken from the hotel lists), with flags and the draft folder |

@@ -46,215 +46,209 @@
       "@type": "ItemList",
       "@id": "https://solo5estrellas.com/cities/192/nueva-york.html#hotels",
       "name": "Hoteles de lujo en Nueva York",
-      "numberOfItems": 35,
+      "numberOfItems": 34,
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "The Plaza Hotel New York",
-          "url": "https://solo5estrellas.com/hotels/1920/the-plaza-hotel-new-york.html"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
           "name": "Ritz-Carlton Central Park",
           "url": "https://solo5estrellas.com/hotels/1214/ritz-carlton-central-park-.html"
         },
         {
           "@type": "ListItem",
-          "position": 3,
+          "position": 2,
           "name": "The Peninsula New York",
           "url": "https://solo5estrellas.com/hotels/1048/the-peninsula-new-york-.html"
         },
         {
           "@type": "ListItem",
-          "position": 4,
+          "position": 3,
           "name": "St. Regis New York",
           "url": "https://solo5estrellas.com/hotels/1437/st-regis-new-york-.html"
         },
         {
           "@type": "ListItem",
-          "position": 5,
+          "position": 4,
           "name": "Park Hyatt New York",
           "url": "https://solo5estrellas.com/hotels/2896/park-hyatt-new-york.html"
         },
         {
           "@type": "ListItem",
-          "position": 6,
+          "position": 5,
           "name": "Mandarin Oriental, New York",
           "url": "https://solo5estrellas.com/hotels/1323/mandarin-oriental-new-york.html"
         },
         {
           "@type": "ListItem",
-          "position": 7,
+          "position": 6,
           "name": "Four Seasons Hotel New York",
           "url": "https://solo5estrellas.com/hotels/1838/four-seasons-hotel-new-york.html"
         },
         {
           "@type": "ListItem",
-          "position": 8,
+          "position": 7,
           "name": "Aman New York",
           "url": "https://solo5estrellas.com/hotels/6438/aman-new-york.html"
         },
         {
           "@type": "ListItem",
-          "position": 9,
+          "position": 8,
           "name": "The Langham, New York, Fifth Avenue",
           "url": "https://solo5estrellas.com/hotels/2768/the-langham-new-york-fifth-avenue.html"
         },
         {
           "@type": "ListItem",
-          "position": 10,
+          "position": 9,
           "name": "Baccarat Hotel New York City",
           "url": "https://solo5estrellas.com/hotels/3120/baccarat-hotel-new-york-city.html"
         },
         {
           "@type": "ListItem",
-          "position": 11,
+          "position": 10,
           "name": "The Pierre, New York",
           "url": "https://solo5estrellas.com/hotels/1425/the-pierre-new-york.html"
         },
         {
           "@type": "ListItem",
-          "position": 12,
+          "position": 11,
           "name": "JW Marriott Essex House New York",
           "url": "https://solo5estrellas.com/hotels/1977/jw-marriott-essex-house-new-york.html"
         },
         {
           "@type": "ListItem",
-          "position": 13,
+          "position": 12,
           "name": "1 Hotel Central Park",
           "url": "https://solo5estrellas.com/hotels/6495/1-hotel-central-park.html"
         },
         {
           "@type": "ListItem",
-          "position": 14,
+          "position": 13,
           "name": "Le Meridien Central Park New York",
           "url": "https://solo5estrellas.com/hotels/3921/le-meridien-central-park-new-york.html"
         },
         {
           "@type": "ListItem",
-          "position": 15,
+          "position": 14,
           "name": "Lotte New York Palace",
           "url": "https://solo5estrellas.com/hotels/2885/lotte-new-york-palace.html"
         },
         {
           "@type": "ListItem",
-          "position": 16,
+          "position": 15,
           "name": "The Times Square EDITION",
           "url": "https://solo5estrellas.com/hotels/3373/the-times-square-edition.html"
         },
         {
           "@type": "ListItem",
-          "position": 17,
+          "position": 16,
           "name": "The Carlyle, A Rosewood Hotel",
           "url": "https://solo5estrellas.com/hotels/1119/the-carlyle-a-rosewood-hotel.html"
         },
         {
           "@type": "ListItem",
-          "position": 18,
+          "position": 17,
           "name": "The Mark",
           "url": "https://solo5estrellas.com/hotels/1118/the-mark-.html"
         },
         {
           "@type": "ListItem",
-          "position": 19,
+          "position": 18,
           "name": "The Surrey, a Corinthia Hotel",
           "url": "https://solo5estrellas.com/hotels/2438/the-surrey-a-corinthia-hotel.html"
         },
         {
           "@type": "ListItem",
-          "position": 20,
+          "position": 19,
           "name": "The Lowell",
           "url": "https://solo5estrellas.com/hotels/1456/the-lowell.html"
         },
         {
           "@type": "ListItem",
-          "position": 21,
+          "position": 20,
           "name": "Four Seasons New York Downtown",
           "url": "https://solo5estrellas.com/hotels/3103/four-seasons-new-york-downtown.html"
         },
         {
           "@type": "ListItem",
-          "position": 22,
+          "position": 21,
           "name": "The Beekman",
           "url": "https://solo5estrellas.com/hotels/3025/the-beekman.html"
         },
         {
           "@type": "ListItem",
-          "position": 23,
+          "position": 22,
           "name": "The Greenwich Hotel",
           "url": "https://solo5estrellas.com/hotels/2950/the-greenwich-hotel.html"
         },
         {
           "@type": "ListItem",
-          "position": 24,
+          "position": 23,
           "name": "Soho Grand Hotel",
           "url": "https://solo5estrellas.com/hotels/2278/soho-grand-hotel-.html"
         },
         {
           "@type": "ListItem",
-          "position": 25,
+          "position": 24,
           "name": "Nine Orchard",
           "url": "https://solo5estrellas.com/hotels/7062/nine-orchard-.html"
         },
         {
           "@type": "ListItem",
-          "position": 26,
+          "position": 25,
           "name": "Conrad New York Downtown",
           "url": "https://solo5estrellas.com/hotels/4145/conrad-new-york-downtown.html"
         },
         {
           "@type": "ListItem",
-          "position": 27,
+          "position": 26,
           "name": "Casa Cipriani New York",
           "url": "https://solo5estrellas.com/hotels/6065/casa-cipriani-new-york.html"
         },
         {
           "@type": "ListItem",
-          "position": 28,
+          "position": 27,
           "name": "Hotel 50 Bowery",
           "url": "https://solo5estrellas.com/hotels/3917/hotel-50-bowery.html"
         },
         {
           "@type": "ListItem",
-          "position": 29,
+          "position": 28,
           "name": "Pendry Manhattan West",
           "url": "https://solo5estrellas.com/hotels/5021/pendry-manhattan-west.html"
         },
         {
           "@type": "ListItem",
-          "position": 30,
+          "position": 29,
           "name": "Equinox Hotel, Hudson Yard",
           "url": "https://solo5estrellas.com/hotels/4033/equinox-hotel-hudson-yard.html"
         },
         {
           "@type": "ListItem",
-          "position": 31,
+          "position": 30,
           "name": "The Standard Highline",
           "url": "https://solo5estrellas.com/hotels/6876/the-standard-highline.html"
         },
         {
           "@type": "ListItem",
-          "position": 32,
+          "position": 31,
           "name": "The James NoMad",
           "url": "https://solo5estrellas.com/hotels/3324/the-james-nomad-.html"
         },
         {
           "@type": "ListItem",
-          "position": 33,
+          "position": 32,
           "name": "The Ritz-Carlton New York, NoMad",
           "url": "https://solo5estrellas.com/hotels/6220/the-ritz-carlton-new-york-nomad.html"
         },
         {
           "@type": "ListItem",
-          "position": 34,
+          "position": 33,
           "name": "1 Hotel Brooklyn Bridge",
           "url": "https://solo5estrellas.com/hotels/6494/1-hotel-brooklyn-bridge.html"
         },
         {
           "@type": "ListItem",
-          "position": 35,
+          "position": 34,
           "name": "The William Vale",
           "url": "https://solo5estrellas.com/hotels/6802/the-william-vale.html"
         }
@@ -268,7 +262,7 @@
           "name": "¿Cuál es el mejor hotel de lujo en Nueva York?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Depende de la zona. Junto a Central Park y la Quinta Avenida, The Plaza, el Ritz-Carlton Central Park o The Peninsula; en el Upper East Side, The Carlyle o The Mark; en el bajo Manhattan, el Four Seasons New York Downtown o The Beekman."
+            "text": "Depende de la zona. Junto a Central Park y la Quinta Avenida, el Ritz-Carlton Central Park o The Peninsula; en el Upper East Side, The Carlyle o The Mark; en el bajo Manhattan, el Four Seasons New York Downtown o The Beekman."
           }
         },
         {
@@ -292,7 +286,7 @@
           "name": "¿Qué hoteles de lujo están junto a Central Park?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "El Ritz-Carlton Central Park, 1 Hotel Central Park, Le Meridien Central Park, The Plaza y The Pierre están junto al parque o muy cerca de él. En Central Park Sur también está JW Marriott Essex House."
+            "text": "El Ritz-Carlton Central Park, 1 Hotel Central Park, Le Meridien Central Park y The Pierre están junto al parque o muy cerca de él. En Central Park Sur también está JW Marriott Essex House."
           }
         },
         {

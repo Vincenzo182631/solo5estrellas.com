@@ -34,12 +34,12 @@
 - **The Mayflower Hotel (6940):** Position 9.6 for 'mayflower hotel' (349 impressions, 0 clicks): title is the main lever.
 - **Hotel Ritz Paris (962):** Three URL variants for one ID.
 - **Altstadt Vienna (6179):** Most impressions come from German ad-campaign strings; perks need a 2-night minimum (stated on page).
-- **Omni Homestead (1816):** Live page has no <title>, an English description, and 'Bonificaciones Exclusivas NULL' (no perks loaded): CMS data fix. Description avoids perks until fixed.
+- **Omni Homestead (1816):** Live page has an English <title> ('The Homestead | Hot Springs Luxury Hotels | …'), an English description, and 'Bonificaciones Exclusivas NULL' (no perks loaded): CMS data fix. Description avoids perks until fixed.
 - **MGM Grand Hotel & Casino (2101):** Credit on page is capped at 3 days; keep the full conditions on the page.
 - **The Chesterfield Mayfair Hotel (1950):** Query is room-led ('habitaciones en …', position 7.4): add a short rooms section on the page.
 - **Paradisus Playa del Carmen, La Esmeralda (2648):** Pool and room queries ('piscina en …' 59 impressions, position 10.0). Page perks list breakfast for a resort sold as all-inclusive: confirm with the hotel.
 - **Four Seasons Hotel Madrid (3897):** Same as the existing draft (content/four-seasons-madrid/). Live page hides content behind a login wall.
-- **Hotel Sacher Salzburg (1094):** Live page has no <title> and an English description. Impressions partly from ad-campaign strings.
+- **Hotel Sacher Salzburg (1094):** Live page has an English <title> ('Hotel Sacher Salzburg | Salzburg Luxury Hotels | …') and an English description. Impressions partly from ad-campaign strings.
 - **W Atlanta-Downtown (2841):** Live page hides content behind a login wall, so perks are not named. Position 9.1 for 'w atlanta downtown'.
 - **JW Marriott Guanacaste Resort & Spa (2616):** Not in the WhataHotel country lists (hotel may be missing from country/region pages).
 - **Sofitel Baru Calablanca Beach Resort (6608):** Query 'sofitel baru todo incluido' (position 11.3): do not claim all-inclusive unless the hotel confirms.
@@ -51,7 +51,7 @@
 
 | Problem | Hotel IDs | Tracker |
 | --- | --- | --- |
-| No `<title>` tag; English meta description | 1816 (The Omni Homestead Resort), 1094 (Hotel Sacher Salzburg) | Z114 |
+| English `<title>` ("… | Hot Springs Luxury Hotels | …") and English meta description, unlike other hotel pages | 1816 (The Omni Homestead Resort), 1094 (Hotel Sacher Salzburg) | Z114 |
 | Hotel content hidden behind a login form (no description, perks or photos visible to Google) | 3897 (Four Seasons Hotel Madrid), 2841 (W Atlanta - Downtown), 1553 (Four Seasons Hotel Shanghai at Puxi) | Z115 |
 | Hotel URL redirects (302) to the home page | 1920 (The Plaza Hotel New York) | Z116 |
 | Perks field shows "NULL" | 1816 | Z114 |
