@@ -22,6 +22,6 @@ Every Spanish country page has the title "Bienvenido | Solo 5 Estrellas", hrefla
 - **1816 The Omni Homestead Resort:** perks field is empty and prints "NULL"; fill the perks from the programme (The Signature Collection) or leave empty once fix 12 hides the block. Name on the page is "Omni Homestead"; the description says "The Homestead". Use one name: "The Omni Homestead Resort".
 - **1816, 1094:** English meta description in the CMS; replace with the Spanish drafts in `page-metadata-drafts.csv`.
 - **2528 Hotel Barriere Le Majestic Cannes:** the hotel's name is "Barrière" (with the accent).
-- **2648 Paradisus Playa del Carmen, La Esmeralda:** perks list "Desayuno Gratis para 2 cada Día" for a resort sold as all-inclusive. Confirm with the hotel and correct the perk if breakfast is already in the rate.
+- **2648 Paradisus Playa del Carmen, La Esmeralda:** perks list "Desayuno Gratis para 2 cada Día", but breakfast is already in the all-inclusive rate (client confirmed 29 Oct). Remove that perk line and the breakfast row of the comparison table on this hotel; keep the upgrade, the 50-minute massage, internet and late check-out.
 - **964 Necker Island:** perks text has typos ("Un Masaje de u1 Hora", "Crédito del Hesort", "An un Costo Adicional"); the last two come from the shared comparison table and appear on other hotel pages too.
 - **1920 The Plaza Hotel New York:** no longer in the collection; see fix 13.

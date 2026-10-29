@@ -37,7 +37,7 @@
 - **Omni Homestead (1816):** Live page has an English <title> ('The Homestead | Hot Springs Luxury Hotels | …'), an English description, and 'Bonificaciones Exclusivas NULL' (no perks loaded): CMS data fix. Description avoids perks until fixed.
 - **MGM Grand Hotel & Casino (2101):** Credit on page is capped at 3 days; keep the full conditions on the page.
 - **The Chesterfield Mayfair Hotel (1950):** Query is room-led ('habitaciones en …', position 7.4): add a short rooms section on the page.
-- **Paradisus Playa del Carmen, La Esmeralda (2648):** Pool and room queries ('piscina en …' 59 impressions, position 10.0). Page perks list breakfast for a resort sold as all-inclusive: confirm with the hotel.
+- **Paradisus Playa del Carmen, La Esmeralda (2648):** Pool and room queries ('piscina en …' 59 impressions, position 10.0). Page perks list free breakfast, but breakfast is already in the all-inclusive rate (client confirmed 29 Oct): remove that perk in the CMS. Description names only the massage and upgrade.
 - **Four Seasons Hotel Madrid (3897):** Same as the existing draft (content/four-seasons-madrid/). Live page hides content behind a login wall.
 - **Hotel Sacher Salzburg (1094):** Live page has an English <title> ('Hotel Sacher Salzburg | Salzburg Luxury Hotels | …') and an English description. Impressions partly from ad-campaign strings.
 - **W Atlanta-Downtown (2841):** Live page hides content behind a login wall, so perks are not named. Position 9.1 for 'w atlanta downtown'.
