@@ -1,0 +1,17 @@
+﻿week_of,item,type,target_query_or_gap,gsc_baseline_26jul_25oct,page,owner,depends_on,status
+2026-11-02,Spanish titles and descriptions for the top 20 hotel pages: editor review,Metadata,Top 20 hotel pages by impressions,"5,025 impr., 3 clicks (20 pages)",content/hoteles-top20/,Editor,None,Drafted
+2026-11-02,Turks & Caicos hub: 'condo hoteles y residencias' section (brief 3),Hub section,condo hoteles en turks and caicos,"154 impr., pos. 18.7",/countries/64/,SEO writer,Hotel check: kitchens per suite,Brief ready
+2026-11-02,"Fix login wall, missing titles and NULL perks on hotel pages",Template fix,"Hotel pages 3897, 2841, 1553, 1816, 1094",See tracker Z114 to Z116,Hotel template,Matt,Release 1,Identified
+2026-11-09,Turks & Caicos hub: 'todo incluido' section (brief 1),Hub section,hoteles todo incluido en islas turcas y caicos,"173 impr., pos. 21 to 27",/countries/64/,SEO writer,Hotel check: which hotels sell a plan,Brief ready
+2026-11-09,Turks & Caicos hub: 'luna de miel' section (brief 2),Hub section,hoteles para luna de miel en islas turcas y caicos,"114 impr., pos. 21 to 24",/countries/64/,SEO writer,Adults-only and suite facts,Brief ready
+2026-11-16,"City hubs: '5 estrellas' title test and intro line for Londres, París, Nueva York (briefs 4 to 6)",Hub update,hoteles de 5 estrellas en londres / parís / nueva york,"514 impr. combined, pos. 12 to 26","/cities/150/, /207/, /192/",SEO,Release 1 (titles),Drafted
+2026-11-16,Remove The Plaza from the Nueva York hub until /hotels/1920/ works,Hub update,hotel plaza nueva york,15 impr.,/cities/192/,SEO,Decision on hotel 1920,To do
+2026-11-23,"Brand pages: Renaissance, Le Méridien, Dorchester Collection refinements (brief 7)",Brand page,renaissance hotels / le meridien hoteles / dorchester collection,"990 impr., pos. 9 to 17",Brand pages,SEO writer,Editor sheet decisions,Drafted
+2026-11-30,Perks guide: 'Beneficios de reservar hoteles de lujo con Solo5Estrellas' (brief 9),New guide,Supports all brand and hotel queries,n/a,New URL,SEO writer + client,Client approves wording,Brief ready
+2026-12-07,"Hotel template sections (perks, rooms, pool, location, FAQ) for the top 5 hotel pages (brief 8)",Hotel copy,"habitaciones en the chesterfield mayfair, piscina en paradisus …",159 impr. pos. 7.4; 59 impr. pos. 10.0,5 hotel pages,SEO writer,Hotel facts,Brief ready
+2026-12-14,Hotel template sections for hotel pages 6 to 20,Hotel copy,Top 20 hotel pages,See content/hoteles-top20/,15 hotel pages,SEO writer,Hotel facts,Brief ready
+2026-12-21,Holiday week: no new pages; monitor release 1 and Search Console,Monitoring,n/a,n/a,n/a,SEO,n/a,Planned
+2027-01-04,"City hub: Mayakoba (Riviera Maya), Mexico market",New hub,Mayakoba city page,"59 impr., pos. 18.2",/cities/1118/,SEO writer,Release 1,Proposed
+2027-01-11,"City hub: Mallorca, Spain market",New hub,Mallorca city page,"45 impr., pos. 8.7",/cities/883/,SEO writer,Release 1,Proposed
+2027-01-18,Second comparison guide (editor picks the pair; proposal: Dorchester Collection vs Rosewood),Comparison,"Brand queries: dorchester collection 172, rosewoodhotels 131",303 impr.,New URL,SEO writer,Editor decision,Proposed
+2027-01-25,City hub: Seychelles; review results of the November sections,New hub + review,Seychelles city page,"50 impr., pos. 6.7",/cities/1430/,SEO,Release 1,Proposed
