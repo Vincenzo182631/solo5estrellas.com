@@ -152,7 +152,7 @@
           "name": "¿Qué zona es mejor para alojarse en Islas Turcas y Caicos?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Grace Bay, en Providenciales, para la mayoría de viajeros: reúne la playa, los restaurantes y ocho de los 15 hoteles. Elija Long Bay para kitesurf, Chalk Sound para tranquilidad, o una isla menor (Parrot Cay, South Caicos, Salt Cay) para privacidad."
+            "text": "Grace Bay, en Providenciales, para la mayoría de viajeros: reúne la playa, los restaurantes y ocho de los 15 hoteles. Elija Long Bay para kitesurf, Chalk Sound para tranquilidad, o una isla menor (Parrot Cay o South Caicos) para privacidad."
           }
         },
         {
@@ -176,7 +176,31 @@
           "name": "¿Qué hotel es mejor para una luna de miel en Islas Turcas y Caicos?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Wymara y Rock House son los más románticos de la selección: suites con piscina privada y spa en Wymara, y un hotel boutique sobre el acantilado en Rock House. Para máxima privacidad, las villas de Grace Bay Club o COMO Parrot Cay."
+            "text": "Wymara (villas de un dormitorio con piscina privada), Rock House (sobre el acantilado de Chalk Sound, con piscina privada en la Ocean View Ridge One-Bedroom) y el Hotel Building de Grace Bay Club, solo para adultos. Para máxima privacidad, COMO Parrot Cay, en una isla privada."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay hoteles todo incluido de lujo en Islas Turcas y Caicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pocos. Ambergris Cay, una isla privada, vende un plan todo incluido con comidas, bebidas, actividades sin motor y traslados. Wymara ofrece un paquete con las tres comidas y bienestar, y COMO Parrot Cay anuncia una escapada con pensión completa. En la mayoría de los hoteles, al reservar con Solo5Estrellas se incluye desayuno para dos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles tienen zonas solo para adultos en Islas Turcas y Caicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Grace Bay Club tiene un edificio solo para adultos (desde 16 años) y The Ritz-Carlton una piscina solo para adultos. En esta selección ningún hotel es solo para adultos en su totalidad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es un condo hotel en Turks and Caicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un edificio de suites o apartamentos de propietarios privados que el resort alquila con servicio de hotel, normalmente con cocina. En Grace Bay, The Palms y las Ritz-Carlton Residences funcionan así; West Bay Club, Grace Bay Club (Villa Suites) y Wymara también tienen suites con cocina."
           }
         },
         {

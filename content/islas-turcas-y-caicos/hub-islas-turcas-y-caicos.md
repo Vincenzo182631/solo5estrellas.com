@@ -15,7 +15,7 @@ Islas Turcas y Caicos (también escrito Turks and Caicos o Turks & Caicos) es un
 | [Grace Bay Club Villa Seaclusion](/hotels/3944/grace-bay-club-villa-seaclusion.html) | Grace Bay, Providenciales | Villa privada con piscina y chef personal | Mejora de categoría, desayuno para dos, crédito de 100 USD, Wi-Fi, salida tarde | Por consulta |
 | [The Palms Turks and Caicos](/hotels/2172/the-palms-turks-and-caicos.html) | Grace Bay, Providenciales | Suites amplias frente al mar y servicio de mayordomo | Mejora de categoría (no aplica a Junior Suite), desayuno americano para dos, crédito de 100 USD, internet, salida tarde | En línea |
 | [West Bay Club](/hotels/2996/west-bay-club.html) | Grace Bay (tramo oeste), Providenciales | Suites estilo residencia con cocina; familias y estancias largas | Mejora de categoría, desayuno americano para dos, crédito de 100 a 300 USD según la suite, Wi-Fi, salida tarde | En línea |
-| [Wymara Resort, Turks and Caicos](/hotels/3901/wymara-resort-turks-and-caicos.html) | Grace Bay, Providenciales | Parejas; suites con piscina privada y spa | Mejora de categoría, desayuno completo para dos, crédito de 100 USD, internet, salida tarde | En línea |
+| [Wymara Resort, Turks and Caicos](/hotels/3901/wymara-resort-turks-and-caicos.html) | Grace Bay, Providenciales | Parejas; villas con piscina privada y spa | Mejora de categoría, desayuno completo para dos, crédito de 100 USD, internet, salida tarde | En línea |
 | [The Ritz-Carlton, Turks & Caicos](/hotels/4670/ritz-carlton-turks-caicos-.html) | Grace Bay, Providenciales | Marca, spa y gastronomía; viaje de aniversario o familiar | Mejora de categoría, desayuno para dos, crédito de 100 USD en comida y bebida, Wi-Fi básico, salida tarde, puntos Bonvoy | En línea |
 | [Ritz-Carlton Residences, Turks & Caicos](/hotels/6705/ritz-carlton-residences-turks-caicos.html) | Grace Bay, Providenciales | Residencias con cocina y privacidad | Consulte los beneficios con su asesor | Por confirmar |
 | [The Shore Club Turks and Caicos](/hotels/3281/the-shore-club-turks-and-caicos.html) | Long Bay, Providenciales | Kitesurf, villas y casas de playa en 18 acres de jardines | Mejora de categoría (no aplica a Junior Suite), desayuno americano para dos, crédito de 100 USD, internet, salida tarde | En línea |
@@ -24,7 +24,7 @@ Islas Turcas y Caicos (también escrito Turks and Caicos o Turks & Caicos) es un
 | [Amanyara](/hotels/1523/amanyara.html) | Northwest Point, Providenciales | Aislamiento en una reserva natural; a 25 minutos en coche del aeropuerto | Consulte los beneficios con su asesor | Por confirmar |
 | [COMO Parrot Cay, Turks & Caicos](/hotels/1057/como-parrot-cay-turks-caicos.html) | Parrot Cay (isla privada) | Bienestar, spa COMO Shambhala y privacidad; traslado en barco de 35 minutos desde Providenciales | Mejora de categoría, desayuno para dos, crédito de 100 USD en comida y bebida, internet, salida tarde | En línea |
 | [Sailrock Resort](/hotels/4293/sailrock-resort.html) | South Caicos | Buceo y snorkel; destino remoto | Mejora de categoría, desayuno para dos, crédito de 100 USD por suite o villa y estancia, Wi-Fi, salida tarde | En línea |
-| [Salterra, a Luxury Collection Resort](/hotels/6684/salterra-a-luxury-collection-resort-.html) | Salt Cay | Ballenas jorobadas en temporada, buceo e historia de la sal | Mejora de categoría, desayuno completo para dos, crédito de 100 USD (una vez por estancia), Wi-Fi básico, salida tarde | En línea |
+| [Salterra, a Luxury Collection Resort](/hotels/6684/salterra-a-luxury-collection-resort-.html) | South Caicos | Ballenas jorobadas en temporada, buceo e historia de la sal | Mejora de categoría, desayuno completo para dos, crédito de 100 USD (una vez por estancia), Wi-Fi básico, salida tarde | En línea |
 
 *Beneficios tomados de las fichas de cada hotel en Solo5Estrellas.com. Verificado el: [fecha pendiente de confirmación con cada hotel].*
 
@@ -40,18 +40,61 @@ Islas Turcas y Caicos (también escrito Turks and Caicos o Turks & Caicos) es un
 
 **Parrot Cay.** Isla privada de unas 400 hectáreas con COMO Shambhala, un retiro de bienestar. El traslado es en barco, unos 35 minutos desde Providenciales, según el hotel.
 
-**South Caicos y Salt Cay.** Dos islas menores para quienes buscan buceo y aislamiento: Sailrock (South Caicos) y Salterra (Salt Cay). Según las fichas de los hoteles, South Caicos requiere vuelo chárter. Desde Salt Cay se pueden ver ballenas jorobadas entre enero y abril.
+**South Caicos.** Isla menor para quienes buscan buceo y aislamiento, con dos hoteles: Sailrock y Salterra. Según las fichas de los hoteles, se llega en vuelo chárter. Entre enero y abril pasan ballenas jorobadas por el paso de Columbus, junto a la isla.
 
 ## Qué hotel elegir según el viaje
 
 | Si busca | Considere |
 | --- | --- |
-| Luna de miel | Wymara (suites con piscina privada y spa), Rock House (boutique en el acantilado), Grace Bay Club Villa Seascape o Seaclusion (villa privada), COMO Parrot Cay (privacidad y spa). |
+| Luna de miel | Wymara (villas con piscina privada y spa), Rock House (boutique en el acantilado), Grace Bay Club Villa Seascape o Seaclusion (villa privada), COMO Parrot Cay (privacidad y spa). |
 | Familias | West Bay Club (suites con cocina), The Shore Club (villas y casas de playa) y el ala Villas de Grace Bay Club. Confirme la política de niños de cada hotel al pedir disponibilidad. |
 | Spa y bienestar | COMO Parrot Cay (COMO Shambhala), The Ritz-Carlton (Katharina Spa) y Wymara (Awa Spa). |
-| Buceo y snorkel | Sailrock (South Caicos) y Salterra (Salt Cay) para buceo; en Grace Bay, el arrecife cercano a la costa permite snorkel desde la playa. |
+| Buceo y snorkel | Sailrock y Salterra, en South Caicos, para buceo; en Grace Bay, el arrecife cercano a la costa permite snorkel desde la playa. |
 | Deportes de viento | The Shore Club, en Long Bay, para kitesurf y lecciones con instructores. |
 | Aislamiento total | Amanyara, COMO Parrot Cay y Sailrock. |
+
+## Hoteles todo incluido en Islas Turcas y Caicos
+
+En los hoteles de lujo de las islas, el todo incluido es la excepción. La mayoría vende la habitación con desayuno o sin comidas; al reservar con Solo5Estrellas, 12 de los 15 hoteles de esta selección incluyen desayuno para dos y un crédito de hotel. Si busca un plan con comidas, estas son las opciones publicadas por los propios hoteles:
+
+| Hotel | Qué ofrece | Qué incluye |
+| --- | --- | --- |
+| [Ambergris Cay](/hotels/6860/ambergris-cay-all-inclusive.html) | Todo incluido (isla privada; fuera de los 15 hoteles de esta selección) | Desayuno, almuerzo, cena y aperitivos a la carta; bebidas con licores premium, cerveza y vino de la casa; deportes acuáticos sin motor, bicicletas eléctricas, tenis y pickleball; traslados de ida y vuelta para huéspedes en vuelo comercial. Cada bungaló y villa tiene piscina privada. |
+| [Wymara Resort](/hotels/3901/wymara-resort-turks-and-caicos.html) | Paquete "Wymara Healthful Stay" | Desayuno, almuerzo y cena diarios, yoga o pilates, meditación y tratamientos de spa. |
+| [COMO Parrot Cay](/hotels/1057/como-parrot-cay-turks-caicos.html) | Escapada con pensión completa ("Island Inclusive Getaway"), según la página del hotel | Pensión completa, traslados de ida y vuelta y algunas actividades acuáticas y de bienestar. Confirme si está disponible en sus fechas: no aparece entre las ofertas actuales del hotel. |
+
+Algunos hoteles venden planes de comidas a través de agencias o con ofertas temporales; su asesor puede consultarlos para sus fechas. Ningún otro hotel de esta selección publica un plan todo incluido en su web.
+
+## Hoteles para luna de miel en Islas Turcas y Caicos
+
+Para una luna de miel, lo que más cambia la experiencia es la privacidad: una piscina privada, una zona solo para adultos o una isla aparte. En esta selección no hay hoteles que sean solo para adultos en su totalidad; estos son los que mejor se adaptan a una pareja:
+
+| Hotel | Por qué para una luna de miel |
+| --- | --- |
+| [Grace Bay Club](/hotels/956/grace-bay-club.html) | Su Hotel Building es solo para adultos (desde 16 años), frente a Grace Bay. Ofrece un "Romance Package" con champán, masaje de 50 minutos para dos, cena a la luz de las velas en el restaurante Infiniti y desayuno diario. |
+| [Wymara Resort](/hotels/3901/wymara-resort-turks-and-caicos.html) | Villas de un dormitorio con piscina privada pequeña, pensadas para parejas; oferta "The Romance Escape". |
+| [Rock House](/hotels/6847/rock-house.html) | Hotel boutique sobre el acantilado de Chalk Sound. La Ocean View Ridge One-Bedroom tiene terraza con piscina privada. |
+| [COMO Parrot Cay](/hotels/1057/como-parrot-cay-turks-caicos.html) | Isla privada con spa COMO Shambhala. Cada beach house y villa, y la Beachfront Suite, tienen piscina privada. |
+| [Amanyara](/hotels/1523/amanyara.html) | Pabellones con piscina privada en una reserva natural. Según Aman, el hotel está cerrado temporalmente hasta el 1 de noviembre de 2026. |
+| [The Ritz-Carlton, Turks & Caicos](/hotels/4670/ritz-carlton-turks-caicos-.html) | Piscina solo para adultos con cabañas privadas, además de la piscina familiar. |
+
+Viajar entre noviembre y abril coincide con la temporada seca; vea [Cuándo viajar](#cuando-viajar).
+
+## Condo hoteles y residencias con cocina en Islas Turcas y Caicos
+
+Un condo hotel es un edificio de suites o apartamentos de propietarios privados que el resort alquila con servicio de hotel. Las unidades suelen tener cocina, lavadora y salón, por lo que funcionan bien para familias, grupos y estancias largas. En Grace Bay hay varios:
+
+| Hotel | Unidades con cocina | Bueno saber |
+| --- | --- | --- |
+| [The Palms Turks and Caicos](/hotels/2172/the-palms-turks-and-caicos.html) | Todas las suites, con cocina y lavandería; los penthouses, con cocina gourmet | Suites de propietarios privados que el resort alquila, según los anuncios inmobiliarios |
+| [Ritz-Carlton Residences, Turks & Caicos](/hotels/6705/ritz-carlton-residences-turks-caicos.html) | Todas las residencias, con cocina completa | Residencias de propietarios privados; se reservan aparte del hotel; edad mínima de 18 años para el check-in |
+| [West Bay Club](/hotels/2996/west-bay-club.html) | Estudios con cocina pequeña; suites de uno a cuatro dormitorios con cocina | Pensado para familias y parejas; hoy forma parte de Grace Bay Resorts |
+| [Grace Bay Club](/hotels/956/grace-bay-club.html) | Villa Suites de uno a tres dormitorios, con cocina completa | Las Villa Suites admiten todas las edades; el Hotel Building es solo para adultos |
+| [Wymara Resort](/hotels/3901/wymara-resort-turks-and-caicos.html) | Oceanfront Suites con cocina equipada; villas de un dormitorio con cocina pequeña; Acua Villas de cuatro dormitorios con cocina completa | Las villas tienen piscina privada |
+| [Rock House](/hotels/6847/rock-house.html) | Estudios con cocina pequeña; suites de uno y dos dormitorios con cocina | En Chalk Sound, lejos de Grace Bay |
+| [COMO Parrot Cay](/hotels/1057/como-parrot-cay-turks-caicos.html) | COMO Villa, Villa Frangipani y residencias de varios dormitorios, con cocina equipada | Las residencias se reservan por consulta |
+
+Las ventajas de Solo5Estrellas en las residencias pueden ser distintas de las del hotel; en las Ritz-Carlton Residences se confirman con su asesor.
 
 ## Cuándo viajar
 
@@ -67,7 +110,7 @@ Islas Turcas y Caicos (también escrito Turks and Caicos o Turks & Caicos) es un
 - Todos los vuelos internacionales llegan al aeropuerto internacional de Providenciales (PLS).
 - Desde Miami el vuelo directo dura entre 1 hora 40 minutos y 1 hora 50 minutos; desde Nueva York, entre 3 y 3 horas 50 minutos. Hay vuelos diarios desde Miami, Charlotte y Nueva York (JFK y Newark).
 - Desde México, Argentina, Chile, Colombia, Perú y España la ruta habitual pasa por una ciudad de Estados Unidos. Confirme horarios y requisitos de entrada (pasaporte y, según su nacionalidad, visado o autorización) antes de reservar.
-- Para llegar a Parrot Cay, Salt Cay o South Caicos hay que sumar un traslado en barco o un vuelo chárter; su asesor lo organiza junto con el hotel.
+- Para llegar a Parrot Cay o South Caicos hay que sumar un traslado en barco o un vuelo chárter; su asesor lo organiza junto con el hotel.
 
 ## Beneficios de reservar con Solo5Estrellas
 
@@ -81,7 +124,7 @@ No hay uno solo: depende del viaje. Para un primer viaje, Grace Bay Club o The R
 
 **¿Qué zona es mejor para alojarse en Islas Turcas y Caicos?**
 
-Grace Bay, en Providenciales, para la mayoría de viajeros: reúne la playa, los restaurantes y ocho de los 15 hoteles. Elija Long Bay para kitesurf, Chalk Sound para tranquilidad, o una isla menor (Parrot Cay, South Caicos, Salt Cay) para privacidad.
+Grace Bay, en Providenciales, para la mayoría de viajeros: reúne la playa, los restaurantes y ocho de los 15 hoteles. Elija Long Bay para kitesurf, Chalk Sound para tranquilidad, o una isla menor (Parrot Cay o South Caicos) para privacidad.
 
 **¿Cuándo es mejor viajar a Islas Turcas y Caicos?**
 
@@ -93,7 +136,19 @@ Se vuela al aeropuerto de Providenciales (PLS). Desde Miami son unas 1 hora 40 m
 
 **¿Qué hotel es mejor para una luna de miel en Islas Turcas y Caicos?**
 
-Wymara y Rock House son los más románticos de la selección: suites con piscina privada y spa en Wymara, y un hotel boutique sobre el acantilado en Rock House. Para máxima privacidad, las villas de Grace Bay Club o COMO Parrot Cay.
+Wymara (villas de un dormitorio con piscina privada), Rock House (sobre el acantilado de Chalk Sound, con piscina privada en la Ocean View Ridge One-Bedroom) y el Hotel Building de Grace Bay Club, solo para adultos. Para máxima privacidad, COMO Parrot Cay, en una isla privada.
+
+**¿Hay hoteles todo incluido de lujo en Islas Turcas y Caicos?**
+
+Pocos. Ambergris Cay, una isla privada, vende un plan todo incluido con comidas, bebidas, actividades sin motor y traslados. Wymara ofrece un paquete con las tres comidas y bienestar, y COMO Parrot Cay anuncia una escapada con pensión completa. En la mayoría de los hoteles, al reservar con Solo5Estrellas se incluye desayuno para dos.
+
+**¿Qué hoteles tienen zonas solo para adultos en Islas Turcas y Caicos?**
+
+Grace Bay Club tiene un edificio solo para adultos (desde 16 años) y The Ritz-Carlton una piscina solo para adultos. En esta selección ningún hotel es solo para adultos en su totalidad.
+
+**¿Qué es un condo hotel en Turks and Caicos?**
+
+Un edificio de suites o apartamentos de propietarios privados que el resort alquila con servicio de hotel, normalmente con cocina. En Grace Bay, The Palms y las Ritz-Carlton Residences funcionan así; West Bay Club, Grace Bay Club (Villa Suites) y Wymara también tienen suites con cocina.
 
 **¿Qué incluye reservar con Solo5Estrellas?**
 

@@ -52,3 +52,20 @@ Spanish: usted, sentence case, accents, USD stated, no translated hotel names. F
 
 ## Update 8 Oct: publish in place
 `browse_country.cfm?countryid=64` is Islas Turcas y Caicos and is the top organic landing page (29 clicks, 8,384 impressions) while serving the home page content. Publish this hub on that country page (`/countries/64/{slug}`), reached by a `301` from the legacy URL, instead of the new `/hoteles-de-lujo/islas-turcas-y-caicos/` URL proposed above. See `developer-spec/REDIRECT-MAPS.md`.
+
+## Update 30 Oct: three new sections (briefs 1 to 3)
+Added before "Cuándo viajar": **Hoteles todo incluido**, **Hoteles para luna de miel**, **Condo hoteles y residencias con cocina**, plus three FAQ entries (FAQPage now 11 questions). Facts were checked on 30 Oct, mostly on the hotels' official sites. Targets: "hoteles todo incluido en islas turcas y caicos" (123 impressions, position 27.0), "hoteles para luna de miel en …" (66 + 48, positions 21 to 24), "condo hoteles en turks and caicos" (154, position 18.7), Search Console 26 Jul to 25 Oct.
+
+**Corrections to the existing draft:**
+- Salterra is on **South Caicos**, not Salt Cay (Marriott lists it under South Caicos; hotel code XSCLC). Hotel table, "Dónde alojarse", "Qué hotel elegir", "Cómo llegar" and the FAQ are corrected.
+- Wymara's private pools are in its villas, not its suites. Table row and honeymoon FAQ corrected.
+
+**Check before publishing:**
+- **COMO Parrot Cay "Island Inclusive Getaway":** on the hotel's main page but not on its offers page today. The copy tells readers to confirm.
+- **The Palms** condo status comes from real-estate listings (official site blocked reading). The Shore Club kitchens come from its 2016 brochure, so it was left out of the condo table.
+- **Grace Bay Club Villa Seascape and Seaclusion** are part of the Grace Bay Resorts Private Villa Collection. They are standalone villas, not inside Grace Bay Club, and resort amenities are not included. The hotel table currently places them at Grace Bay Club; consider a note.
+- **Ambergris Cay (6860)** is named in the all-inclusive section and marked as outside the 15-hotel selection. It is on the live country list (16 hotels). Decide whether to add it to the table (counts would change to 16 in the title, description, intro and ItemList).
+- **Villa Mani (4180):** sources conflict on its location (live page says Grace Bay; other sources say Turtle Tail / Royal Palm Island), number of rooms, and whether it still operates (listed for sale in 2020). Confirm with the supplier before publishing (tracker Z118).
+- **Amanyara:** Aman's page says temporarily closed until 1 November 2026.
+
+**Sources:** gracebayclub.gracebayresorts.com (hotels, villas, estates, special offers), privatevillacollection.gracebayresorts.com, thepalmstc.com, thewestbayclub.gracebayresorts.com, wymara.com (offers, accommodation, villas), ritzcarlton.com (PLSRT, PLSRR), rockhouse.gracebayresorts.com, aman.com/resorts/amanyara, comohotels.com (COMO Parrot Cay), ambergriscay.com (all-inclusive, FAQ), marriott.com (Salterra, XSCLC). Checked 30 Oct 2026.
