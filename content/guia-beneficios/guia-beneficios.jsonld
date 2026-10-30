@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Guías",
+          "item": "https://solo5estrellas.com/guias/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Beneficios de Solo5Estrellas",
+          "item": "https://solo5estrellas.com/guias/beneficios-solo5estrellas/"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/guias/beneficios-solo5estrellas/#webpage",
+      "url": "https://solo5estrellas.com/guias/beneficios-solo5estrellas/",
+      "name": "Beneficios de reservar hoteles de lujo con Solo5Estrellas",
+      "description": "Qué incluye reservar con Solo5Estrellas: desayuno para dos, crédito de hotel, mejora de categoría y salida tardía, a la misma tarifa publicada del hotel.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Pago más por reservar con Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Paga la misma tarifa publicada del hotel; las ventajas se añaden sin cargo adicional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La mejora de categoría está garantizada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Se solicita al reservar y depende de la disponibilidad al hacer el check-in."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El desayuno está incluido en todos los hoteles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En la mayoría, sí: desayuno diario para dos. En hoteles todo incluido, o donde el desayuno ya va en la tarifa, el hotel ofrece otra ventaja. La ficha de cada hotel lo indica."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Puedo combinar las ventajas con una oferta del hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Muchas veces, sí, si la oferta es pública y se reserva con Solo5Estrellas. Algunos paquetes no son elegibles; se lo indicamos antes de confirmar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigo acumulando puntos de la cadena?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En muchos hoteles de cadena, sí. La ficha del hotel indica si la reserva acumula puntos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Quién está detrás de Solo5Estrellas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lorraine Travel, agencia de viajes desde 1948. Solo5Estrellas es su sitio en español."
+          }
+        }
+      ]
+    }
+  ]
+}

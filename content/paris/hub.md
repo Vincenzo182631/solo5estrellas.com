@@ -1,8 +1,8 @@
 # Hoteles de lujo en París
 
-> Draft for `/cities/207/Paris.html`. Title: Hoteles de lujo en París | Solo5Estrellas (41). Description: Compare hoteles de lujo en París por barrio: Triángulo de Oro, Tullerías, Saint-Germain y Torre Eiffel. Reserve con beneficios de Solo5Estrellas. (145).
+> Draft for `/cities/207/Paris.html`. Title: Hoteles de 5 estrellas en París por barrio | Solo5Estrellas (59). Description: Hoteles de 5 estrellas en París por barrio: Triángulo de Oro, Tullerías, Saint-Germain y Torre Eiffel. Reserve con beneficios de Solo5Estrellas. (144).
 
-El mejor hotel de lujo en París depende del barrio: en el Triángulo de Oro, el Four Seasons Hotel George V, Le Bristol o el Hôtel Plaza Athénée; junto a las Tullerías y la plaza Vendôme, Le Meurice, el Ritz Paris o el Hôtel de Crillon; en la orilla izquierda, el Mandarin Oriental Lutetia; y cerca de la Torre Eiffel, The Peninsula o Shangri-La. Esta página ordena por barrio 55 hoteles de la colección.
+El mejor hotel de lujo en París depende del barrio: en el Triángulo de Oro, el Four Seasons Hotel George V, Le Bristol o el Hôtel Plaza Athénée; junto a las Tullerías y la plaza Vendôme, Le Meurice, el Ritz Paris o el Hôtel de Crillon; en la orilla izquierda, el Mandarin Oriental Lutetia; y cerca de la Torre Eiffel, The Peninsula o Shangri-La. Si busca hoteles de 5 estrellas en París, esta página ordena por barrio 55 hoteles de lujo de la colección.
 
 París se elige por barrio: la zona decide si va a pie a las tiendas de la avenida Montaigne, al Louvre, a los cafés de Saint-Germain o a la Torre Eiffel, y qué línea de metro o RER le conviene desde el aeropuerto. Hemos agrupado los hoteles de la colección Solo5Estrellas por barrio. Los nombres de los hoteles no se traducen.
 

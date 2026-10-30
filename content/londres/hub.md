@@ -1,8 +1,8 @@
 # Hoteles de lujo en Londres
 
-> Draft for `/cities/150/london.html`. Title: Hoteles de lujo en Londres | Solo5Estrellas (43). Description: Compare hoteles de lujo en Londres por zona: Mayfair, St James's, Knightsbridge, Covent Garden y la City. Reserve con beneficios de Solo5Estrellas. (147).
+> Draft for `/cities/150/london.html`. Title: Hoteles de 5 estrellas en Londres por zona | Solo5Estrellas (59). Description: Hoteles de 5 estrellas en Londres por zona: Mayfair, St James's, Knightsbridge, Covent Garden y la City. Reserve con beneficios de Solo5Estrellas. (146).
 
-El mejor hotel de lujo en Londres depende de la zona: en Mayfair, Claridge's, The Connaught o The Dorchester; en St James's, The Ritz London; en Knightsbridge, The Berkeley o The Lanesborough; y junto al Támesis, The Savoy o Shangri-La Hotel at The Shard. Esta página ordena por zona 81 hoteles de la colección.
+El mejor hotel de lujo en Londres depende de la zona: en Mayfair, Claridge's, The Connaught o The Dorchester; en St James's, The Ritz London; en Knightsbridge, The Berkeley o The Lanesborough; y junto al Támesis, The Savoy o Shangri-La Hotel at The Shard. Si busca hoteles de 5 estrellas en Londres, esta página ordena por zona los 81 hoteles de lujo de la colección.
 
 Londres se elige por barrio: la zona decide si va a pie a las tiendas de Bond Street, a los teatros del West End, a los parques o a la City, y cuánto tardará en volver desde el aeropuerto. Hemos agrupado los hoteles de la colección Solo5Estrellas por zona. Los nombres de los hoteles no se traducen.
 

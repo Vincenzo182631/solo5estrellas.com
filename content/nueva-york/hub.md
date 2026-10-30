@@ -1,8 +1,8 @@
 # Hoteles de lujo en Nueva York
 
-> Draft for `/cities/192/new_york.html`. Title: Hoteles de lujo en Nueva York | Solo5Estrellas (46). Description: Compare hoteles de lujo en Nueva York por zona: Midtown, Upper East Side, Tribeca, Brooklyn. Reserve con beneficios exclusivos de Solo5Estrellas. (145).
+> Draft for `/cities/192/new_york.html`. Title: Hoteles de 5 estrellas en Nueva York | Solo5Estrellas (53). Description: Hoteles de 5 estrellas en Nueva York por zona: Midtown, Upper East Side, Tribeca y Brooklyn. Reserve con beneficios exclusivos de Solo5Estrellas. (145).
 
-El mejor hotel de lujo en Nueva York depende de la zona que busque: junto a Central Park y la Quinta Avenida, el Ritz-Carlton Central Park o The Peninsula; en el Upper East Side, cerca de los museos, The Carlyle o The Mark; y en el bajo Manhattan, el Four Seasons New York Downtown o The Beekman. Esta página ordena por zona una selección de 34 de los 67 hoteles de la colección en Nueva York.
+El mejor hotel de lujo en Nueva York depende de la zona que busque: junto a Central Park y la Quinta Avenida, el Ritz-Carlton Central Park o The Peninsula; en el Upper East Side, cerca de los museos, The Carlyle o The Mark; y en el bajo Manhattan, el Four Seasons New York Downtown o The Beekman. Si busca hoteles de 5 estrellas en Nueva York, esta página ordena por zona una selección de 34 de los 67 hoteles de lujo de la colección.
 
 Nueva York se elige por barrio más que por hotel: la zona define si va a pie a los teatros, a los museos, a las tiendas o a un restaurante de moda, y cuánto tardará en volver desde el aeropuerto. Hemos agrupado una selección de los hoteles de la colección Solo5Estrellas por zona de Manhattan y Brooklyn. Los nombres de los hoteles no se traducen.
 
