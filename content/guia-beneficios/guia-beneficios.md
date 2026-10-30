@@ -1,6 +1,6 @@
 # Beneficios de reservar hoteles de lujo con Solo5Estrellas
 
-> Draft for a new guide at `/guias/beneficios-solo5estrellas/`. Title: Beneficios de reservar hoteles de lujo | Solo5Estrellas (55). Description: Qué incluye reservar con Solo5Estrellas: desayuno para dos, crédito de hotel, mejora de categoría y salida tardía, a la misma tarifa publicada del hotel. (153). Needs client approval of the wording before publishing.
+> Draft for a new guide at `/guias/beneficios-solo5estrellas/`. Title: Beneficios de reservar hoteles de lujo | Solo5Estrellas (55). Description: Qué incluye reservar con Solo5Estrellas: desayuno para dos, crédito de hotel, mejora de categoría y salida tardía, a la misma tarifa publicada del hotel. (153). Wording approved by the client on 30 Oct 2026.
 
 Al reservar un hotel de lujo con Solo5Estrellas paga la misma tarifa publicada del hotel y recibe ventajas que no forman parte de esa tarifa: normalmente desayuno diario para dos, un crédito de hotel, una mejora de categoría si hay disponibilidad al llegar, salida tardía bajo petición y Wi-Fi. Las ventajas exactas dependen de cada hotel y aparecen en su ficha antes de reservar.
 

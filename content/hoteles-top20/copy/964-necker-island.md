@@ -1,6 +1,6 @@
 # Necker Island
 
-> Sections for `/hotels/964/Necker-Island.html`. Facts checked on 30 Oct 2026 against virginlimitededition.com (sources at the end). The live perks block lists "TODO INCLUIDO" as a perk; Necker is all-inclusive for every guest, so the perks below list only what is added for Solo5Estrellas guests. Confirm with the client.
+> Sections for `/hotels/964/Necker-Island.html`. Facts checked on 30 Oct 2026 against virginlimitededition.com (sources at the end). The live perks block lists "TODO INCLUIDO" as a perk; Necker is all-inclusive for every guest, so the perks below list only what is added for Solo5Estrellas guests (client confirmed 30 Oct).
 
 Necker Island es la isla privada de Sir Richard Branson, en el North Sound de las Islas Vírgenes Británicas. Se reserva de dos maneras: la isla entera para un grupo, en cualquier época del año, o por habitaciones en fechas concretas. En ambos casos la estancia es todo incluido.
 

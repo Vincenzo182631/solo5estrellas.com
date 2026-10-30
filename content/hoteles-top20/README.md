@@ -10,7 +10,7 @@
 | 2 | Necker Island (964) | 631 | 11.7 | Necker Island, isla privada en el Caribe | Solo5Estrellas (57) | Necker Island, la isla privada de Richard Branson en las Islas Vírgenes Británicas. Consulte las semanas de celebración y los beneficios de Solo5Estrellas. (155) |
 | 3 | The Mayflower Hotel (6940) | 369 | 9.6 | The Mayflower Hotel, Washington D. C. | Solo5Estrellas (54) | Reserve The Mayflower Hotel, Autograph Collection, en Washington D. C., con desayuno para dos, regalo de bienvenida y mejora según disponibilidad. (146) |
 | 4 | Hotel Ritz Paris (962) | 261 | 20.8 | Hotel Ritz Paris, en la place Vendôme | Solo5Estrellas (54) | Reserve el Hotel Ritz Paris, en la place Vendôme, con desayuno para dos, traslados al aeropuerto, crédito de hotel y mejora según disponibilidad. (145) |
-| 5 | Altstadt Vienna (6179) | 221 | 26.6 | Altstadt Vienna, hotel boutique en Viena | Solo5Estrellas (57) | Altstadt Vienna, hotel boutique en Neubau, Viena. Con Solo5Estrellas: desayuno para dos, crédito de hotel y mejora según disponibilidad (mínimo 2 noches). (154) |
+| 5 | Altstadt Vienna (6179) | 221 | 26.6 | Altstadt Vienna, hotel boutique en Viena | Solo5Estrellas (57) | Altstadt Vienna, hotel boutique en el Spittelberg, Viena, con desayuno incluido. Con Solo5Estrellas: crédito de hotel y mejora (mínimo 2 noches). (145) |
 | 6 | Omni Homestead (1816) | 181 | 29.3 | The Omni Homestead Resort, Virginia | Solo5Estrellas (52) | The Omni Homestead Resort, resort histórico en Hot Springs, Virginia, en los montes Allegheny. Consulte tarifas y beneficios con Solo5Estrellas. (144) |
 | 7 | San Ysidro Ranch (1726) | 180 | 10.0 | San Ysidro Ranch, Montecito (Santa Bárbara) | Solo5Estrellas (60) | Reserve San Ysidro Ranch, en Montecito, Santa Bárbara, con desayuno continental para dos, crédito en alimentos y bebidas y mejora según disponibilidad. (151) |
 | 8 | MGM Grand Hotel & Casino (2101) | 179 | 20.4 | MGM Grand Hotel & Casino, Las Vegas | Solo5Estrellas (52) | Reserve el MGM Grand Hotel & Casino, en el Strip de Las Vegas, con crédito para desayuno de dos, crédito de comida y bebida y mejora según disponibilidad. (154) |
@@ -33,7 +33,7 @@
 - **Necker Island (964):** Perks on the page are celebration-week offers (all-inclusive, massage), not breakfast; text has typos ('u1 Hora', 'Hesort').
 - **The Mayflower Hotel (6940):** Position 9.6 for 'mayflower hotel' (349 impressions, 0 clicks): title is the main lever.
 - **Hotel Ritz Paris (962):** Three URL variants for one ID.
-- **Altstadt Vienna (6179):** Most impressions come from German ad-campaign strings; perks need a 2-night minimum (stated on page).
+- **Altstadt Vienna (6179):** Most impressions come from German ad-campaign strings; perks need a 2-night minimum (stated on page). Breakfast is included for all guests, so it is not listed as a perk (client confirmed 30 Oct).
 - **Omni Homestead (1816):** Live page has an English <title> ('The Homestead | Hot Springs Luxury Hotels | …'), an English description, and 'Bonificaciones Exclusivas NULL' (no perks loaded): CMS data fix. Description avoids perks until fixed.
 - **MGM Grand Hotel & Casino (2101):** Credit on page is capped at 3 days; keep the full conditions on the page.
 - **The Chesterfield Mayfair Hotel (1950):** Query is room-led ('habitaciones en …', position 7.4): add a short rooms section on the page.

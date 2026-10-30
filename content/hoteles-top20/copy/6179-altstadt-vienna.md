@@ -1,14 +1,13 @@
 # Altstadt Vienna
 
-> Sections for `/hotels/6179/altstadt_vienna.html`. Facts checked on 30 Oct 2026 against altstadt.at and slh.com (sources at the end). The hotel's own site says breakfast is included for guests, while the live perks block lists free breakfast as a perk; confirm with the client (same case as Paradisus La Esmeralda).
+> Sections for `/hotels/6179/altstadt_vienna.html`. Facts checked on 30 Oct 2026 against altstadt.at and slh.com (sources at the end). Breakfast is included for all guests, so it is not a perk (client confirmed 30 Oct); remove it from the live perks block.
 
-Altstadt Vienna es un hotel boutique de 62 habitaciones en la Kirchengasse 41, en el Spittelberg (distrito 7, Neubau), a pocos minutos a pie del MuseumsQuartier y la Mariahilfer Straße. Lo fundó en 1991 el coleccionista Otto Ernst Wiesenthal, y su colección de arte está repartida por todo el hotel. Es miembro de Small Luxury Hotels of the World.
+Altstadt Vienna es un hotel boutique de 62 habitaciones en la Kirchengasse 41, en el Spittelberg (distrito 7, Neubau), a pocos minutos a pie del MuseumsQuartier y la Mariahilfer Straße. El desayuno está incluido para todos los huéspedes. Lo fundó en 1991 el coleccionista Otto Ernst Wiesenthal, y su colección de arte está repartida por todo el hotel. Es miembro de Small Luxury Hotels of the World.
 
 ## Beneficios al reservar con Solo5Estrellas
 
 | Ventaja | Detalle |
 | --- | --- |
-| Desayuno diario para dos | Continental, cada día de la estancia |
 | Crédito de hotel | 50 USD, uno por estancia, para comidas, bebidas y spa |
 | Mejora de categoría | Sujeta a disponibilidad al hacer el check-in |
 | Wi-Fi | De cortesía |
@@ -26,7 +25,7 @@ Varias habitaciones llevan la firma de diseñadores como Matteo Thun, Atil Kutog
 
 ## Desayuno y terraza
 
-El hotel no tiene restaurante. El desayuno, el té de la tarde y la última copa se sirven en el Red Salon; de mayo a septiembre abre la terraza en la azotea para el aperitivo.
+El hotel no tiene restaurante. El desayuno, incluido en la estancia, el té de la tarde y la última copa se sirven en el Red Salon; de mayo a septiembre abre la terraza en la azotea para el aperitivo.
 
 ## Ubicación
 
