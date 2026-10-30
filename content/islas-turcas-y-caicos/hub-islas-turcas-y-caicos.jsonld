@@ -29,7 +29,7 @@
       "@id": "https://solo5estrellas.com/hoteles-de-lujo/islas-turcas-y-caicos/#webpage",
       "url": "https://solo5estrellas.com/hoteles-de-lujo/islas-turcas-y-caicos/",
       "name": "Hoteles de lujo en Islas Turcas y Caicos (Turks and Caicos)",
-      "description": "15 hoteles de lujo en Islas Turcas y Caicos (Turks and Caicos): Grace Bay, islas privadas y villas. Compare zonas y reserve con desayuno para dos.",
+      "description": "16 hoteles de lujo en Islas Turcas y Caicos (Turks and Caicos): Grace Bay, islas privadas y villas. Compare zonas y reserve con desayuno para dos.",
       "inLanguage": "es",
       "isPartOf": {
         "@id": "https://solo5estrellas.com/#website"
@@ -42,7 +42,7 @@
       "@type": "ItemList",
       "@id": "https://solo5estrellas.com/hoteles-de-lujo/islas-turcas-y-caicos/#hotels",
       "name": "Hoteles de lujo en Islas Turcas y Caicos",
-      "numberOfItems": 15,
+      "numberOfItems": 16,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -133,6 +133,12 @@
           "position": 15,
           "name": "Salterra, a Luxury Collection Resort",
           "url": "https://solo5estrellas.com/hotels/6684/salterra-a-luxury-collection-resort-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Ambergris Cay",
+          "url": "https://solo5estrellas.com/hotels/6860/ambergris-cay-all-inclusive.html"
         }
       ]
     },
@@ -144,7 +150,7 @@
           "name": "¿Cuál es el mejor hotel de lujo en Islas Turcas y Caicos?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No hay uno solo: depende del viaje. Para un primer viaje, Grace Bay Club o The Ritz-Carlton están sobre la playa de Grace Bay. Para aislamiento, COMO Parrot Cay o Amanyara. Para buceo, Sailrock o Salterra. Nuestra selección tiene 15 hoteles."
+            "text": "No hay uno solo: depende del viaje. Para un primer viaje, Grace Bay Club o The Ritz-Carlton están sobre la playa de Grace Bay. Para aislamiento, COMO Parrot Cay o Amanyara. Para buceo, Sailrock o Salterra. Nuestra selección tiene 16 hoteles."
           }
         },
         {
@@ -152,7 +158,7 @@
           "name": "¿Qué zona es mejor para alojarse en Islas Turcas y Caicos?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Grace Bay, en Providenciales, para la mayoría de viajeros: reúne la playa, los restaurantes y ocho de los 15 hoteles. Elija Long Bay para kitesurf, Chalk Sound para tranquilidad, o una isla menor (Parrot Cay o South Caicos) para privacidad."
+            "text": "Grace Bay, en Providenciales, para la mayoría de viajeros: reúne la playa, los restaurantes y ocho de los 16 hoteles. Elija Long Bay para kitesurf, Chalk Sound para tranquilidad, o una isla menor (Parrot Cay, Ambergris Cay o South Caicos) para privacidad."
           }
         },
         {
@@ -208,7 +214,7 @@
           "name": "¿Qué incluye reservar con Solo5Estrellas?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Según el hotel: mejora de categoría sujeta a disponibilidad, desayuno para dos, crédito de hotel, Wi-Fi y salida tarde si se solicita. De los 15 hoteles, 12 incluyen desayuno para dos. En tres hoteles los beneficios se confirman por consulta con un asesor."
+            "text": "Según el hotel: mejora de categoría sujeta a disponibilidad, desayuno para dos, crédito de hotel, Wi-Fi y salida tarde si se solicita. De los 16 hoteles, 12 incluyen desayuno para dos y Ambergris Cay, todas las comidas. En tres hoteles los beneficios se confirman por consulta con un asesor."
           }
         },
         {

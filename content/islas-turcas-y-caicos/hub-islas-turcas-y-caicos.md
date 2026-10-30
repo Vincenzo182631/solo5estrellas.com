@@ -1,12 +1,12 @@
 # Hoteles de lujo en Islas Turcas y Caicos (Turks and Caicos)
 
-> Draft for publication. Proposed URL: `/hoteles-de-lujo/islas-turcas-y-caicos/`. Title: Hoteles de lujo en Islas Turcas y Caicos | Solo5Estrellas (57 chars). Description: 15 hoteles de lujo en Islas Turcas y Caicos (Turks and Caicos): Grace Bay, islas privadas y villas. Compare zonas y reserve con desayuno para dos. (146 chars).
+> Draft for publication. Proposed URL: `/hoteles-de-lujo/islas-turcas-y-caicos/`. Title: Hoteles de lujo en Islas Turcas y Caicos | Solo5Estrellas (57 chars). Description: 16 hoteles de lujo en Islas Turcas y Caicos (Turks and Caicos): Grace Bay, islas privadas y villas. Compare zonas y reserve con desayuno para dos. (146 chars).
 
-El mejor hotel de lujo en Islas Turcas y Caicos depende del viaje: Grace Bay Club o The Ritz-Carlton, en la playa de Grace Bay, para un primer viaje; COMO Parrot Cay o Amanyara para aislamiento y bienestar; Sailrock o Salterra para buceo lejos de las multitudes. De los 15 hoteles de esta selección, 12 incluyen desayuno para dos al reservar con Solo5Estrellas.
+El mejor hotel de lujo en Islas Turcas y Caicos depende del viaje: Grace Bay Club o The Ritz-Carlton, en la playa de Grace Bay, para un primer viaje; COMO Parrot Cay o Amanyara para aislamiento y bienestar; Sailrock o Salterra para buceo lejos de las multitudes. De los 16 hoteles de esta selección, 12 incluyen desayuno para dos y Ambergris Cay, todas las comidas, al reservar con Solo5Estrellas.
 
-Islas Turcas y Caicos (también escrito Turks and Caicos o Turks & Caicos) es un archipiélago británico del Caribe con aguas poco profundas, arrecifes cercanos a la costa y hoteles de escala íntima. La mayoría de los hoteles de esta página está en Providenciales; otros ocupan islas privadas o islas menores a las que se llega en barco o en vuelo chárter. Elegimos 15 propiedades y las ordenamos por zona y tipo de viaje, para que usted compare antes de pedir disponibilidad.
+Islas Turcas y Caicos (también escrito Turks and Caicos o Turks & Caicos) es un archipiélago británico del Caribe con aguas poco profundas, arrecifes cercanos a la costa y hoteles de escala íntima. La mayoría de los hoteles de esta página está en Providenciales; otros ocupan islas privadas o islas menores a las que se llega en barco o en vuelo chárter. Elegimos 16 propiedades y las ordenamos por zona y tipo de viaje, para que usted compare antes de pedir disponibilidad.
 
-## Los 15 hoteles de lujo en Islas Turcas y Caicos
+## Los 16 hoteles de lujo en Islas Turcas y Caicos
 
 | Hotel | Zona | Ideal para | Beneficios al reservar con Solo5Estrellas | Reserva |
 | --- | --- | --- | --- | --- |
@@ -25,12 +25,13 @@ Islas Turcas y Caicos (también escrito Turks and Caicos o Turks & Caicos) es un
 | [COMO Parrot Cay, Turks & Caicos](/hotels/1057/como-parrot-cay-turks-caicos.html) | Parrot Cay (isla privada) | Bienestar, spa COMO Shambhala y privacidad; traslado en barco de 35 minutos desde Providenciales | Mejora de categoría, desayuno para dos, crédito de 100 USD en comida y bebida, internet, salida tarde | En línea |
 | [Sailrock Resort](/hotels/4293/sailrock-resort.html) | South Caicos | Buceo y snorkel; destino remoto | Mejora de categoría, desayuno para dos, crédito de 100 USD por suite o villa y estancia, Wi-Fi, salida tarde | En línea |
 | [Salterra, a Luxury Collection Resort](/hotels/6684/salterra-a-luxury-collection-resort-.html) | South Caicos | Ballenas jorobadas en temporada, buceo e historia de la sal | Mejora de categoría, desayuno completo para dos, crédito de 100 USD (una vez por estancia), Wi-Fi básico, salida tarde | En línea |
+| [Ambergris Cay](/hotels/6860/ambergris-cay-all-inclusive.html) | Big Ambergris Cay (isla privada) | Todo incluido en una isla privada; bungalós y villas con piscina privada | Mejora de categoría, crédito de 100 USD (una vez por estancia), Wi-Fi, entrada temprana y salida tarde si se solicitan; las comidas ya van en la tarifa todo incluido | En línea |
 
 *Beneficios tomados de las fichas de cada hotel en Solo5Estrellas.com. Verificado el: [fecha pendiente de confirmación con cada hotel].*
 
 ## Dónde alojarse en Islas Turcas y Caicos
 
-**Grace Bay (Providenciales).** Ocho de los 15 hoteles: Grace Bay Club y sus dos villas, The Palms, West Bay Club, Wymara y los dos Ritz-Carlton. La playa mide unos 19 kilómetros, según la ficha de Grace Bay Club, y reúne restaurantes, tiendas y excursiones de snorkel. Es una base práctica para un primer viaje.
+**Grace Bay (Providenciales).** Ocho de los 16 hoteles: Grace Bay Club y sus dos villas, The Palms, West Bay Club, Wymara y los dos Ritz-Carlton. La playa mide unos 19 kilómetros, según la ficha de Grace Bay Club, y reúne restaurantes, tiendas y excursiones de snorkel. Es una base práctica para un primer viaje.
 
 **Long Bay (Providenciales).** The Shore Club se encuentra en Long Bay, una playa conocida por sus vientos constantes y el kitesurf. Queda a pocos minutos de Grace Bay.
 
@@ -42,6 +43,8 @@ Islas Turcas y Caicos (también escrito Turks and Caicos o Turks & Caicos) es un
 
 **South Caicos.** Isla menor para quienes buscan buceo y aislamiento, con dos hoteles: Sailrock y Salterra. Según las fichas de los hoteles, se llega en vuelo chárter. Entre enero y abril pasan ballenas jorobadas por el paso de Columbus, junto a la isla.
 
+**Ambergris Cay.** Isla privada en el sureste del archipiélago, con un único resort todo incluido. Según el resort, cada bungaló y villa tiene piscina privada, y se llega en avioneta desde Providenciales o South Caicos.
+
 ## Qué hotel elegir según el viaje
 
 | Si busca | Considere |
@@ -51,15 +54,15 @@ Islas Turcas y Caicos (también escrito Turks and Caicos o Turks & Caicos) es un
 | Spa y bienestar | COMO Parrot Cay (COMO Shambhala), The Ritz-Carlton (Katharina Spa) y Wymara (Awa Spa). |
 | Buceo y snorkel | Sailrock y Salterra, en South Caicos, para buceo; en Grace Bay, el arrecife cercano a la costa permite snorkel desde la playa. |
 | Deportes de viento | The Shore Club, en Long Bay, para kitesurf y lecciones con instructores. |
-| Aislamiento total | Amanyara, COMO Parrot Cay y Sailrock. |
+| Aislamiento total | Amanyara, COMO Parrot Cay, Ambergris Cay y Sailrock. |
 
 ## Hoteles todo incluido en Islas Turcas y Caicos
 
-En los hoteles de lujo de las islas, el todo incluido es la excepción. La mayoría vende la habitación con desayuno o sin comidas; al reservar con Solo5Estrellas, 12 de los 15 hoteles de esta selección incluyen desayuno para dos y un crédito de hotel. Si busca un plan con comidas, estas son las opciones publicadas por los propios hoteles:
+En los hoteles de lujo de las islas, el todo incluido es la excepción. La mayoría vende la habitación con desayuno o sin comidas; al reservar con Solo5Estrellas, 12 de los 16 hoteles de esta selección incluyen desayuno para dos y un crédito de hotel. Si busca un plan con comidas, estas son las opciones publicadas por los propios hoteles:
 
 | Hotel | Qué ofrece | Qué incluye |
 | --- | --- | --- |
-| [Ambergris Cay](/hotels/6860/ambergris-cay-all-inclusive.html) | Todo incluido (isla privada; fuera de los 15 hoteles de esta selección) | Desayuno, almuerzo, cena y aperitivos a la carta; bebidas con licores premium, cerveza y vino de la casa; deportes acuáticos sin motor, bicicletas eléctricas, tenis y pickleball; traslados de ida y vuelta para huéspedes en vuelo comercial. Cada bungaló y villa tiene piscina privada. |
+| [Ambergris Cay](/hotels/6860/ambergris-cay-all-inclusive.html) | Todo incluido (isla privada) | Desayuno, almuerzo, cena y aperitivos a la carta; bebidas con licores premium, cerveza y vino de la casa; deportes acuáticos sin motor, bicicletas eléctricas, tenis y pickleball; traslados de ida y vuelta para huéspedes en vuelo comercial. Cada bungaló y villa tiene piscina privada. |
 | [Wymara Resort](/hotels/3901/wymara-resort-turks-and-caicos.html) | Paquete "Wymara Healthful Stay" | Desayuno, almuerzo y cena diarios, yoga o pilates, meditación y tratamientos de spa. |
 | [COMO Parrot Cay](/hotels/1057/como-parrot-cay-turks-caicos.html) | Escapada con pensión completa ("Island Inclusive Getaway"), según la página del hotel | Pensión completa, traslados de ida y vuelta y algunas actividades acuáticas y de bienestar. Confirme si está disponible en sus fechas: no aparece entre las ofertas actuales del hotel. |
 
@@ -110,7 +113,7 @@ Las ventajas de Solo5Estrellas en las residencias pueden ser distintas de las de
 - Todos los vuelos internacionales llegan al aeropuerto internacional de Providenciales (PLS).
 - Desde Miami el vuelo directo dura entre 1 hora 40 minutos y 1 hora 50 minutos; desde Nueva York, entre 3 y 3 horas 50 minutos. Hay vuelos diarios desde Miami, Charlotte y Nueva York (JFK y Newark).
 - Desde México, Argentina, Chile, Colombia, Perú y España la ruta habitual pasa por una ciudad de Estados Unidos. Confirme horarios y requisitos de entrada (pasaporte y, según su nacionalidad, visado o autorización) antes de reservar.
-- Para llegar a Parrot Cay o South Caicos hay que sumar un traslado en barco o un vuelo chárter; su asesor lo organiza junto con el hotel.
+- Para llegar a Parrot Cay, Ambergris Cay o South Caicos hay que sumar un traslado en barco o un vuelo chárter; su asesor lo organiza junto con el hotel.
 
 ## Beneficios de reservar con Solo5Estrellas
 
@@ -120,11 +123,11 @@ Al reservar con Solo5Estrellas, operado por Lorraine Travel, los hoteles de esta
 
 **¿Cuál es el mejor hotel de lujo en Islas Turcas y Caicos?**
 
-No hay uno solo: depende del viaje. Para un primer viaje, Grace Bay Club o The Ritz-Carlton están sobre la playa de Grace Bay. Para aislamiento, COMO Parrot Cay o Amanyara. Para buceo, Sailrock o Salterra. Nuestra selección tiene 15 hoteles.
+No hay uno solo: depende del viaje. Para un primer viaje, Grace Bay Club o The Ritz-Carlton están sobre la playa de Grace Bay. Para aislamiento, COMO Parrot Cay o Amanyara. Para buceo, Sailrock o Salterra. Nuestra selección tiene 16 hoteles.
 
 **¿Qué zona es mejor para alojarse en Islas Turcas y Caicos?**
 
-Grace Bay, en Providenciales, para la mayoría de viajeros: reúne la playa, los restaurantes y ocho de los 15 hoteles. Elija Long Bay para kitesurf, Chalk Sound para tranquilidad, o una isla menor (Parrot Cay o South Caicos) para privacidad.
+Grace Bay, en Providenciales, para la mayoría de viajeros: reúne la playa, los restaurantes y ocho de los 16 hoteles. Elija Long Bay para kitesurf, Chalk Sound para tranquilidad, o una isla menor (Parrot Cay, Ambergris Cay o South Caicos) para privacidad.
 
 **¿Cuándo es mejor viajar a Islas Turcas y Caicos?**
 
@@ -152,7 +155,7 @@ Un edificio de suites o apartamentos de propietarios privados que el resort alqu
 
 **¿Qué incluye reservar con Solo5Estrellas?**
 
-Según el hotel: mejora de categoría sujeta a disponibilidad, desayuno para dos, crédito de hotel, Wi-Fi y salida tarde si se solicita. De los 15 hoteles, 12 incluyen desayuno para dos. En tres hoteles los beneficios se confirman por consulta con un asesor.
+Según el hotel: mejora de categoría sujeta a disponibilidad, desayuno para dos, crédito de hotel, Wi-Fi y salida tarde si se solicita. De los 16 hoteles, 12 incluyen desayuno para dos y Ambergris Cay, todas las comidas. En tres hoteles los beneficios se confirman por consulta con un asesor.
 
 **¿Se dice Islas Turcas y Caicos o Turks and Caicos?**
 

@@ -69,3 +69,13 @@ Added before "Cuándo viajar": **Hoteles todo incluido**, **Hoteles para luna de
 - **Amanyara:** Aman's page says temporarily closed until 1 November 2026.
 
 **Sources:** gracebayclub.gracebayresorts.com (hotels, villas, estates, special offers), privatevillacollection.gracebayresorts.com, thepalmstc.com, thewestbayclub.gracebayresorts.com, wymara.com (offers, accommodation, villas), ritzcarlton.com (PLSRT, PLSRR), rockhouse.gracebayresorts.com, aman.com/resorts/amanyara, comohotels.com (COMO Parrot Cay), ambergriscay.com (all-inclusive, FAQ), marriott.com (Salterra, XSCLC). Checked 30 Oct 2026.
+
+## Update 30 Oct (later): Ambergris Cay added (client decision)
+Ambergris Cay (6860) is now the 16th hotel. Changes:
+- Added a row to the hotel table and a paragraph in "Dónde alojarse".
+- Added it to "Aislamiento total", "Cómo llegar" and the zone FAQ.
+- Counts changed from 15 to 16 in the description, the intro, the H2 and the FAQ.
+- ItemList now has 16 items.
+- `page-metadata` description updated.
+
+Its perks row leaves out breakfast, because meals are in the all-inclusive rate; this is the same rule as Paradisus and Necker. Publish only after the hotel page's Belize text is replaced (`ambergris-cay-corrected-text.md`, Z9).
