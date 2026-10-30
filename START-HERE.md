@@ -28,7 +28,7 @@ Everything the SEO work needs, in one place. Nothing here is live yet: these are
 | --- | --- |
 | Send the developer package to Matt | `dist/solo5estrellas-developer-package.zip` |
 | Programme confirmation emails (16 programmes; recipients needed) | `outreach/programme-confirmation-pack.md` |
-| Search Console data: SEO Gets Core Site or weekly exports (next due Mon 3 Nov) | `reports/2026-10-27-weekly-check.md` lists the exports |
+| Search Console data: SEO Gets Core Site or weekly exports (next due Tue 3 Nov) | `reports/2026-10-27-weekly-check.md` lists the exports |
 | Open decisions list | `EOD/2026-10-29-EOD.md` |
 
 ### SEO / content: drafts ready to publish (after release 1)

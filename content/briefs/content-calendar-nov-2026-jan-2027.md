@@ -1,6 +1,6 @@
 # Content calendar: November 2026 to January 2027
 
-**Built from:** the content gaps in `reports/2026-10-29-seo-audit.md` and the briefs in `2026-10-29-content-briefs.md`. Baselines are Search Console, 26 Jul to 25 Oct 2026. Weekly Search Console checks continue every Monday (next: 3 Nov). Nothing goes live until Matt ships release 1; items marked "Release 1" wait for it.
+**Built from:** the content gaps in `reports/2026-10-29-seo-audit.md` and the briefs in `2026-10-29-content-briefs.md`. Baselines are Search Console, 26 Jul to 25 Oct 2026. Weekly Search Console checks continue every Tuesday (next: 3 Nov). Nothing goes live until Matt ships release 1; items marked "Release 1" wait for it.
 
 | Week of | Item | Query or gap | Baseline | Owner | Depends on | Status |
 | --- | --- | --- | --- | --- | --- | --- |
