@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel Ritz Paris",
+          "item": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/Hotel-Ritz-Paris.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/Hotel-Ritz-Paris.html#webpage",
+      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/Hotel-Ritz-Paris.html",
+      "name": "Hotel Ritz Paris",
+      "description": "Reserve el Hotel Ritz Paris, en la place Vendôme, con desayuno para dos, traslados al aeropuerto, crédito de hotel y mejora según disponibilidad.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Hotel Ritz Paris",
+      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/Hotel-Ritz-Paris.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "15 place Vendôme",
+        "postalCode": "75001",
+        "addressLocality": "París",
+        "addressCountry": "FR"
+      },
+      "numberOfRooms": 142
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Tiene piscina el Ritz Paris?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, una piscina de 16 metros en el Ritz Club & Spa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántas habitaciones tiene el Ritz Paris?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "142 habitaciones y suites."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay que reservar en el Bar Hemingway?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El hotel aconseja llegar antes de la apertura, hacia las 17:30. Para Bar Vendôme, Espadon y Salon Proust recomienda reservar."
+          }
+        }
+      ]
+    }
+  ]
+}

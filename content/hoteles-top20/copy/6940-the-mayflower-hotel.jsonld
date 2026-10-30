@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Mayflower Hotel, Autograph Collection",
+          "item": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/6940/the-mayflower-hotel.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/6940/the-mayflower-hotel.html#webpage",
+      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/6940/the-mayflower-hotel.html",
+      "name": "The Mayflower Hotel, Autograph Collection",
+      "description": "Reserve The Mayflower Hotel, Autograph Collection, en Washington D. C., con desayuno para dos, regalo de bienvenida y mejora según disponibilidad.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "The Mayflower Hotel, Autograph Collection",
+      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/6940/the-mayflower-hotel.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1127 Connecticut Ave NW",
+        "postalCode": "20036",
+        "addressLocality": "Washington",
+        "addressRegion": "DC",
+        "addressCountry": "US"
+      },
+      "numberOfRooms": 581
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿The Mayflower Hotel pertenece a Marriott Bonvoy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Es un hotel Autograph Collection, de Marriott, y la reserva con Solo5Estrellas acumula puntos Marriott Bonvoy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántas habitaciones tiene The Mayflower Hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "581 habitaciones y suites."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene gimnasio o piscina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tiene gimnasio abierto las 24 horas. El hotel no anuncia piscina."
+          }
+        }
+      ]
+    }
+  ]
+}

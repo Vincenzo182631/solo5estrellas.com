@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Necker Island",
+          "item": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/Necker-Island.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/Necker-Island.html#webpage",
+      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/Necker-Island.html",
+      "name": "Necker Island",
+      "description": "Necker Island, la isla privada de Richard Branson en las Islas Vírgenes Británicas. Consulte las semanas de celebración y los beneficios de Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Necker Island",
+      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/Necker-Island.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Necker Island",
+        "addressCountry": "VG"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Se puede ir a Necker Island sin alquilar toda la isla?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. En fechas concretas se reservan habitaciones individuales; el resto del año la isla se alquila completa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Necker Island es todo incluido?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: comidas, bebidas con alcohol, la mayoría de las actividades y el traslado en barco. El spa y algunas actividades se pagan aparte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se llega a Necker Island?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En avión a Beef Island (EIS) o Virgin Gorda (VIJ) y, desde allí, en lancha incluida en la tarifa; desde Beef Island son unos 30 minutos."
+          }
+        }
+      ]
+    }
+  ]
+}
