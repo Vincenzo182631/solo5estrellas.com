@@ -30,3 +30,12 @@ Every Spanish country page has the title "Bienvenido | Solo 5 Estrellas", hrefla
 - **6684 Salterra, a Luxury Collection Resort:** the AI text places the hotel on Salt Cay ("enclavado en las prístinas orillas de Salt Cay", Salt Cay salt ponds "a pocos pasos del resort"). Salterra is on South Caicos (Marriott, code XSCLC). Rewrite the expert text, the "Qué lo hace especial" block and "No te lo pierdas" (added 30 Oct; tracker Z117).
 - **4180 Villa Mani:** live page says Grace Bay; other sources place it at Turtle Tail / Royal Palm Island, with different room counts, and it was listed for sale in 2020. Confirm the villa is still bookable and correct the location, or remove it (added 30 Oct; tracker Z118).
 - **6860 Ambergris Cay:** all-inclusive, but the perks block lists "Desayuno para dos todos los días". Remove the breakfast perk line and the breakfast row of the comparison table, as for Paradisus and Necker. The Belize text fix is in `content/islas-turcas-y-caicos/ambergris-cay-corrected-text.md` (Z9) (added 30 Oct).
+
+## Added 4 Nov
+- **Country name "Méjico":** shown as the country label on Mexican hotel and city pages (e.g. Mayakoba, Paradisus 2648, the Mayakoba hotels) and 26 times on `/countries/40/`. Use "México" in every Spanish template (tracker Z120).
+- **7026 Alila Mayakoba:** city is "Playa del Carmen"; set it to Mayakoba so the Mayakoba city page lists it (Z119).
+- **Renamed hotels** (Z121): rename 2648 to "Paradisus Playa del Carmen" (ex La Esmeralda), 6608 to "Sofitel Barú Cartagena Beach Resort", 5052 to "Katikies Santorini", 2927 to "Grace Hotel, Auberge Collection" and 1655 to "Caruso, A Belmond Hotel". Also: 2616 is now "JW Marriott Guanacaste Beach Resort" on marriott.com (confirm before renaming).
+- **Closed or replaced** (fix 14): 3302 → 7026, 2841 → 7123, 1553 → 6719. Remove the old records from brand, city and country lists. 6719 Alila Shanghai shows no perks.
+- **Data errors** (Z122): "Yiu Teung Mansion" (6176, Chengdu, China) is listed under Saint Lucia. "Hotel Xcaret México" (5039) has `<br>` tags in its name.
+- **7028 Horseshoe Bay Resort:** city is "Austin"; the resort is in Horseshoe Bay, Texas, about an hour from Austin.
+- **Login wall** (Z115): also on 2314 Banyan Tree Mayakoba, 1717 Fairmont Mayakoba and 4823 Fairmont Heritage Place.

@@ -49,5 +49,11 @@ done
 get /hotels/1816/omni-homestead-.html | grep -q 'NULL' && no "/hotels/1816/ prints NULL" || ok "/hotels/1816/ prints no NULL"
 get /hotels/3897/four-seasons-hotel-madrid-.html | grep -qi 'Inicia sesión ahora para acceder' && no "/hotels/3897/ shows the login wall" || ok "/hotels/3897/ shows hotel content without login"
 c=$(code /hotels/1920/The-Plaza-Hotel-New-York.html); [ "$c" = "301" ] && ok "/hotels/1920/ redirects with 301" || no "/hotels/1920/ returns $c (should be 301 to the city page)"
+# 10 closed or renamed hotels (fix 14)
+for pair in "/hotels/3302/andaz-mayakoba-resort-riviera-maya.html /hotels/7026/" "/hotels/2841/W-Atlanta-Downtown.html /hotels/7123/" "/hotels/1553/four-seasons-hotel-shanghai-at-puxi.html /hotels/6719/"; do
+  set -- $pair
+  c=$(code "$1"); l=$(curl -s -o /dev/null -m 40 -w '%{redirect_url}' "$B$1")
+  { [ "$c" = "301" ] && echo "$l" | grep -q "$2"; } && ok "$1 redirects with 301 to $2" || no "$1 returns $c to '$l' (should be 301 to $2)"
+done
 echo; echo "Result: $pass passed, $fail failed"
 [ "$fail" = "0" ]

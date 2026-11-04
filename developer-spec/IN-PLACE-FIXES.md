@@ -162,12 +162,27 @@ Check: `verify.sh` section 9 (no English title on 1816 and 1094; no "NULL" on 18
 
 Check: `verify.sh` section 9 (`/hotels/1920/The-Plaza-Hotel-New-York.html` returns 301 to the city page).
 
+## 14. Hotels that closed or changed name (found 4 Nov; tracker Z119, Z121)
+Several hotel pages point to hotels that no longer exist under that name. Where the collection already has a record for the new hotel, redirect to it with a single 301; otherwise rename the record, update the H1 and title, and 301 the old slug to the new one.
+
+| Old page | What happened | Action |
+| --- | --- | --- |
+| `/hotels/3302/*` Andaz Mayakoba Resort Riviera Maya | Closed March 2025; reopened 12 Feb 2026 as Alila Mayakoba (record 7026). Now 302s to the home page. | 301 to `/hotels/7026/alila-mayakoba.html`. Set the city of 7026 to Mayakoba (currently "Playa del Carmen"). Remove 3302 from the Andaz brand list (live list still shows it). |
+| `/hotels/2841/*` W Atlanta - Downtown | Reopened 14 May 2026 as JW Marriott Atlanta Downtown (record 7123). | 301 to `/hotels/7123/jw-marriott-atlanta-downtown.html`; remove 2841 from lists. |
+| `/hotels/1553/*` Four Seasons Hotel Shanghai at Puxi | Building reopened 25 Sep 2024 as Alila Shanghai (record 6719). | 301 to `/hotels/6719/alila-shanghai.html`; remove 1553 from lists. 6719 shows no perks: fill them. |
+| `/hotels/2648/*` Paradisus Playa del Carmen, La Esmeralda | Renamed Paradisus Playa del Carmen in July 2020. | Rename record and slug; 301 the old slug. |
+| `/hotels/6608/*` Sofitel Baru Calablanca Beach Resort | Accor now names it Sofitel Barú Cartagena Beach Resort. | Rename record and slug; 301 the old slug. |
+
+Titles and descriptions for the target pages are in `page-metadata-drafts.csv`.
+
+Check: `verify.sh` section 10.
+
 ## What not to change yet
 Do not launch the new URLs from the content drafts (`/hoteles-de-lujo/...`, `/hoteles-four-seasons/`); do not change `robots.txt` Disallow rules; do not noindex anything until fixes 1-5 are live and re-crawled.
 
 ## Release plan
 1. Staging: fixes 1, 2, 7 and 12 first (template only). Run `verify.sh <staging>`.
 2. Production: fixes 1, 2, 7, 12 and 13 (and fix 11, Amanyara booking, as soon as the client says so); run `verify.sh`; request re-indexing of the home page and 10 sample pages in Search Console.
-3. Fixes 3-5 together (redirects); keep a rollback copy of the old rules; watch Search Console coverage daily for two weeks.
+3. Fixes 3-5 and 14 together (redirects); keep a rollback copy of the old rules; watch Search Console coverage daily for two weeks.
 4. Fixes 6, 8, 9, 10.
 Report the `verify.sh` result after each step.

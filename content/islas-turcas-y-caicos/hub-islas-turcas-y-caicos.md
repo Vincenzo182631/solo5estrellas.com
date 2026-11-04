@@ -170,6 +170,6 @@ La moneda es el dólar estadounidense. Los precios y beneficios de esta página 
 - [Hoteles de lujo en el Caribe](/regions/6/caribbean.html)
 - [Hoteles Ritz-Carlton](/chains/13/ritz_carlton.html)
 - [Hoteles Aman](/chains/21/Aman_Resorts.html)
-- [Hoteles para luna de miel](#) (colección pendiente)
+- [Hoteles de lujo para luna de miel](/guias/hoteles-luna-de-miel/)
 
 *Revisado por [nombre del asesor], [fecha].* *Fuentes: fichas de hoteles de Solo5Estrellas.com; [Visit Turks and Caicos: cuándo viajar](https://www.visittci.com/about/when-to-visit); [Visit Turks and Caicos: llegar en avión](https://visittci.com/providenciales/getting-here/arriving-by-air); [Aman: Amanyara](https://www.aman.com/resorts/amanyara).*
