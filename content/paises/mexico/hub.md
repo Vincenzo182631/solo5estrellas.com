@@ -1,8 +1,8 @@
-# Hoteles de lujo en México: 110 hoteles
+# Hoteles de lujo en México: 109 hoteles
 
-> Draft for `/countries/40/mexico.html` (publish in place with a clean slug). Title: Hoteles de lujo en México: 110 hoteles | Solo5Estrellas (55). Description: Explore 110 hoteles de lujo en México con desayuno para dos y otras ventajas de reserva. (88).
+> Draft for `/countries/40/mexico.html` (publish in place with a clean slug). Title: Hoteles de lujo en México: 109 hoteles | Solo5Estrellas (55). Description: Explore 109 hoteles de lujo en México con desayuno para dos y otras ventajas de reserva. (88).
 
-Esta página reúne 110 hoteles de lujo de México, con las ventajas de reserva de cada marca, como desayuno diario para dos y un crédito de hotel en los hoteles participantes. Las ciudades con más hoteles son Cabo San Lucas (22), Cancún (19), Ciudad de México (17).
+Esta página reúne 109 hoteles de lujo de México, con las ventajas de reserva de cada marca, como desayuno diario para dos y un crédito de hotel en los hoteles participantes. Las ciudades con más hoteles son Cabo San Lucas (22), Cancún (19), Ciudad de México (17).
 
 Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de México por ciudad. Cada hotel pertenece a una marca o colección con su propia página, donde se detallan el programa y las ventajas. Los nombres de los hoteles no se traducen.
 
@@ -16,7 +16,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de M�
 | Playa del Carmen | 9 |
 | Puerto Vallarta | 6 |
 | Punta Mita | 6 |
-| Mayakoba | 5 |
+| Mayakoba | 4 |
 | Quintana Roo | 4 |
 | Kanai | 3 |
 | Riviera Nayarit | 3 |
@@ -51,7 +51,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de M�
 
 Los 6 hoteles restantes no tienen una marca o colección asociada en la lista.
 
-## Los 110 hoteles de México
+## Los 109 hoteles de México
 
 - Acapulco: [Banyan Tree Cabo Marques](/hotels/3676/banyan-tree-cabo-marques.html); [Las Brisas Acapulco](/hotels/2244/las-brisas-acapulco.html)
 - Baja California Sur: [Hotel San Cristobal](/hotels/6996/hotel-san-cristobal.html)
@@ -62,7 +62,7 @@ Los 6 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Guanajuato: [Villa Maria Cristina](/hotels/4300/villa-maria-cristina.html)
 - Isla Mujeres: [Almare, a Luxury Collection Hotel](/hotels/6707/almare-a-luxury-collection-hotel.html); [Secrets Impression Isla Mujeres](/hotels/6337/secrets-impression-isla-mujeres-.html)
 - Kanai: [Etereo Kanai , Auberge Collection](/hotels/6100/etereo-kanai-auberge-collection.html); [The Riviera Maya EDITION at Kanai](/hotels/6547/the-riviera-maya-edition-at-kanai.html); [The St. Regis Kanai Resort, Riviera Maya](/hotels/6290/the-st-regis-kanai-resort-riviera-maya.html)
-- Mayakoba: [Andaz Mayakoba Resort Riviera Maya](/hotels/3302/andaz-mayakoba-resort-riviera-maya.html); [Banyan Tree Mayakoba](/hotels/2314/banyan-tree-mayakoba.html); [Fairmont Heritage Place Mayakoba](/hotels/4823/fairmont-heritage-place-mayakoba.html); [Fairmont Mayakoba](/hotels/1717/fairmont-mayakoba.html); [Rosewood Mayakoba](/hotels/1896/rosewood-mayakoba.html)
+- Mayakoba: [Banyan Tree Mayakoba](/hotels/2314/banyan-tree-mayakoba.html); [Fairmont Heritage Place Mayakoba](/hotels/4823/fairmont-heritage-place-mayakoba.html); [Fairmont Mayakoba](/hotels/1717/fairmont-mayakoba.html); [Rosewood Mayakoba](/hotels/1896/rosewood-mayakoba.html)
 - Mérida: [Chable Yucatan](/hotels/4184/chable-yucatan.html)
 - Playa del Carmen: [Alila Mayakoba](/hotels/7026/alila-mayakoba.html); [Grand Hyatt Playa Del Carmen Resort](/hotels/3038/grand-hyatt-playa-del-carmen-resort.html); [Hotel Xcaret Arte](/hotels/6288/hotel-xcaret-arte.html); [Hotel Xcaret México All-Inclusive Resort](/hotels/5039/hotel-xcaret-m-xico-br-all-inclusive-resort-br-.html); [Impression Moxché by Secrets](/hotels/6593/impression-moxch-by-secrets.html); [La Casa de la Playa](/hotels/6289/la-casa-de-la-playa.html); [Palmaia - The House of AiA](/hotels/4934/palmaia-the-house-of-aia.html); [Paradisus Playa del Carmen, La Esmeralda](/hotels/2648/paradisus-playa-del-carmen-la-esmeralda.html); [Paradisus Playa del Carmen, La Perla](/hotels/2649/paradisus-playa-del-carmen-la-perla.html)
 - Puerto Vallarta: [Hilton Vallarta Riviera All Inclusive Resort](/hotels/6624/hilton-vallarta-riviera-all-inclusive-resort.html); [Hyatt Ziva Puerto Vallarta](/hotels/6152/hyatt-ziva-puerto-vallarta.html); [Marriott Puerto Vallarta Resort & Spa](/hotels/3751/marriott-puerto-vallarta-resort-spa.html); [One&Only Mandarina](/hotels/4247/one-only-mandarina.html); [Rosewood Mandarina](/hotels/6764/rosewood-mandarina.html); [The Westin Playa Vallarta, an All-Inclusive Resort Accepting Bookings starting May 2026](/hotels/3779/the-westin-playa-vallarta-an-all-inclusive-resort-br-accepting-bookings-starting-may-2026-br-.html)
@@ -79,7 +79,7 @@ Los 6 hoteles restantes no tienen una marca o colección asociada en la lista.
 
 **¿Cuántos hoteles de lujo hay en México en Solo5Estrellas?**
 
-110 hoteles. Las ciudades con más hoteles son Cabo San Lucas (22), Cancún (19), Ciudad de México (17).
+109 hoteles. Las ciudades con más hoteles son Cabo San Lucas (22), Cancún (19), Ciudad de México (17).
 
 **¿Qué ciudades de México tienen más hoteles?**
 

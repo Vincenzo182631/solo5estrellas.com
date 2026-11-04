@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "MGM Grand Hotel & Casino",
+          "item": "https://solo5estrellas.com/hotels/2101/MGM-Grand-Hotel-Casino.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/2101/MGM-Grand-Hotel-Casino.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2101/MGM-Grand-Hotel-Casino.html",
+      "name": "MGM Grand Hotel & Casino",
+      "description": "Reserve el MGM Grand Hotel & Casino, en el Strip de Las Vegas, con crédito para desayuno de dos, crédito de comida y bebida y mejora según disponibilidad.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "MGM Grand Hotel & Casino",
+      "url": "https://solo5estrellas.com/hotels/2101/MGM-Grand-Hotel-Casino.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3799 S Las Vegas Blvd",
+        "addressLocality": "Las Vegas",
+        "addressRegion": "NV",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántas piscinas tiene el MGM Grand?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El Grand Pool Complex reúne varias piscinas y un río lento en 2,6 hectáreas, solo para huéspedes; además está Palm Tree Beach Club, para mayores de 21 años."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿A qué distancia está el aeropuerto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El aeropuerto Harry Reid (LAS) está a unos 5 km, entre 10 y 15 minutos en coche."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué espectáculos hay en el MGM Grand?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "KÀ, del Cirque du Soleil, el espectáculo de David Copperfield y los eventos del MGM Grand Garden Arena."
+          }
+        }
+      ]
+    }
+  ]
+}

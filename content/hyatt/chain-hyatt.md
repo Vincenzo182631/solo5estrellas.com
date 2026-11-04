@@ -1,10 +1,10 @@
-# Hoteles Hyatt y Hyatt Privé: 285 hoteles con desayuno para dos y crédito de hotel
+# Hoteles Hyatt y Hyatt Privé: 284 hoteles con desayuno para dos y crédito de hotel
 
-> Draft for `/hoteles-hyatt/ (new URL; the 8 brand pages stay in place)` (publish in place with a clean slug). Title: Hoteles Hyatt y Hyatt Privé | Solo5Estrellas (44). Description: Reserve 285 hoteles Hyatt en 63 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada. (130).
+> Draft for `/hoteles-hyatt/ (new URL; the 8 brand pages stay in place)` (publish in place with a clean slug). Title: Hoteles Hyatt y Hyatt Privé | Solo5Estrellas (44). Description: Reserve 284 hoteles Hyatt en 63 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada. (130).
 
 Reservar Hyatt con Solo5Estrellas cuesta lo mismo que en la web del hotel, porque se paga la tarifa publicada, y añade, con Hyatt Privé, desayuno diario para dos, un crédito de hotel (normalmente 100 USD), mejora de categoría prioritaria, entrada anticipada y salida tardía según disponibilidad y un detalle de bienvenida. Las reservas siguen sumando puntos y noches de World of Hyatt.
 
-Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes de lujo. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada de Hyatt Privé. Incluye las ocho marcas Hyatt que puede reservar con sus ventajas: Park Hyatt, Grand Hyatt, Hyatt Regency, Andaz, Hyatt Centric, Thompson Hotels, Alila y The Unbound Collection. Esta página reúne 285 hoteles de Hyatt en 63 países y territorios: 91 en Estados Unidos, 32 en China, 12 en India. Los nombres de los hoteles no se traducen.
+Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes de lujo. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada de Hyatt Privé. Incluye las ocho marcas Hyatt que puede reservar con sus ventajas: Park Hyatt, Grand Hyatt, Hyatt Regency, Andaz, Hyatt Centric, Thompson Hotels, Alila y The Unbound Collection. Esta página reúne 284 hoteles de Hyatt en 63 países y territorios: 91 en Estados Unidos, 32 en China, 12 en India. Los nombres de los hoteles no se traducen.
 
 ## Datos clave
 
@@ -12,11 +12,11 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 | --- | --- |
 | Programa | Hyatt Privé |
 | Lo que paga | La misma tarifa que publica Hyatt; las ventajas se añaden sin cargo adicional |
-| Marcas | Hyatt Regency (72), Grand Hyatt (53), Park Hyatt (51), Andaz (29), The Unbound Collection (24), Hyatt Centric (22), Alila (18), Thompson Hotels (16) |
+| Marcas | Hyatt Regency (72), Grand Hyatt (53), Park Hyatt (51), Andaz (28), The Unbound Collection (24), Hyatt Centric (22), Alila (18), Thompson Hotels (16) |
 | Incluye | Desayuno diario para dos, crédito de hotel (normalmente 100 USD), mejora de categoría prioritaria, entrada anticipada y salida tardía, y detalle de bienvenida |
 | Fidelización | World of Hyatt: las reservas siguen sumando puntos y noches de nivel |
 | Estancia mínima | Ninguna, salvo en Hyatt Centric (dos noches) |
-| Hoteles | 285 hoteles de Hyatt en 63 países y territorios |
+| Hoteles | 284 hoteles de Hyatt en 63 países y territorios |
 
 ## Lo que incluye reservar Hyatt con Solo5Estrellas
 
@@ -32,12 +32,12 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 
 ## Cómo reservar Hyatt con ventajas
 
-1. Elija el hotel entre los 285 de esta página.
+1. Elija el hotel entre los 284 de esta página.
 2. Reserve a través de Solo5Estrellas: paga la tarifa publicada del hotel y las ventajas se añaden a esa tarifa.
 3. Añada su número de World of Hyatt a la reserva y confirme que la tarifa suma puntos y noches de nivel.
 4. En el hotel, solicite la mejora de habitación, la entrada anticipada o la salida tardía; dependen de la disponibilidad.
 
-## Los 285 hoteles Hyatt y Hyatt Privé por país
+## Los 284 hoteles Hyatt y Hyatt Privé por país
 
 ### Norteamérica
 
@@ -155,11 +155,10 @@ Hyatt Privé es el programa de Hyatt Hotels Corporation para asesores de viajes 
 **Panamá (1)**
 - [Hotel La Compañía de Valle](/hotels/6995/hotel-la-compa-a-de-valle.html) (Ciudad de Panamá)
 
-**México (6)**
+**México (5)**
 - [Grand Hyatt Playa Del Carmen Resort](/hotels/3038/grand-hyatt-playa-del-carmen-resort.html) (Playa del Carmen)
 - [Hyatt Regency Mexico City](/hotels/3297/hyatt-regency-mexico-city.html) (Ciudad de México)
 - [Park Hyatt Los Cabos at Cabo del Sol](/hotels/6820/park-hyatt-los-cabos-at-cabo-del-sol.html) (Cabo San Lucas)
-- [Andaz Mayakoba Resort Riviera Maya](/hotels/3302/andaz-mayakoba-resort-riviera-maya.html) (Mayakoba)
 - [The Cape](/hotels/3013/the-cape.html) (Cabo San Lucas)
 - [Alila Mayakoba](/hotels/7026/alila-mayakoba.html) (Playa del Carmen)
 
@@ -495,11 +494,11 @@ Sí. Según las páginas de cada marca, las reservas hechas a través de Hyatt P
 
 **¿Cuántos hoteles Hyatt se pueden reservar en esta página?**
 
-285 hoteles en 63 países y territorios. Los países con más hoteles son Estados Unidos, China, India.
+284 hoteles en 63 países y territorios. Los países con más hoteles son Estados Unidos, China, India.
 
 **¿Qué hoteles Hyatt hay en México y España?**
 
-En México: Grand Hyatt Playa Del Carmen Resort, Hyatt Regency Mexico City, Park Hyatt Los Cabos at Cabo del Sol, Andaz Mayakoba Resort Riviera Maya, The Cape, Alila Mayakoba. En España: Grand Hyatt Barcelona, Hyatt Regency Barcelona Tower, Hyatt Regency Hesperia Madrid, Hyatt Centric Gran Via Madrid, Thompson Madrid, Hotel La Zambra.
+En México: Grand Hyatt Playa Del Carmen Resort, Hyatt Regency Mexico City, Park Hyatt Los Cabos at Cabo del Sol, The Cape, Alila Mayakoba. En España: Grand Hyatt Barcelona, Hyatt Regency Barcelona Tower, Hyatt Regency Hesperia Madrid, Hyatt Centric Gran Via Madrid, Thompson Madrid, Hotel La Zambra.
 
 **¿Qué hoteles Hyatt hay en Estados Unidos?**
 

@@ -22,8 +22,8 @@
       "@type": "CollectionPage",
       "@id": "https://solo5estrellas.com/regions/15/mexico.html#webpage",
       "url": "https://solo5estrellas.com/regions/15/mexico.html",
-      "name": "Hoteles de lujo en México: 101 hoteles",
-      "description": "Explore 101 hoteles de lujo en México con desayuno para dos y otras ventajas de reserva.",
+      "name": "Hoteles de lujo en México: 100 hoteles",
+      "description": "Explore 100 hoteles de lujo en México con desayuno para dos y otras ventajas de reserva.",
       "inLanguage": "es",
       "isPartOf": {
         "@id": "https://solo5estrellas.com/#website"
@@ -40,7 +40,7 @@
       "@type": "ItemList",
       "@id": "https://solo5estrellas.com/regions/15/mexico.html#hotels",
       "name": "Hoteles de lujo en México",
-      "numberOfItems": 101,
+      "numberOfItems": 100,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -315,336 +315,330 @@
         {
           "@type": "ListItem",
           "position": 46,
-          "name": "Andaz Mayakoba Resort Riviera Maya",
-          "url": "https://solo5estrellas.com/hotels/3302/andaz_mayakoba_resort_riviera_maya.html"
-        },
-        {
-          "@type": "ListItem",
-          "position": 47,
           "name": "Banyan Tree Mayakoba",
           "url": "https://solo5estrellas.com/hotels/2314/banyan_tree_mayakoba.html"
         },
         {
           "@type": "ListItem",
-          "position": 48,
+          "position": 47,
           "name": "Fairmont Heritage Place Mayakoba",
           "url": "https://solo5estrellas.com/hotels/4823/fairmont_heritage_place_mayakoba.html"
         },
         {
           "@type": "ListItem",
-          "position": 49,
+          "position": 48,
           "name": "Fairmont Mayakoba",
           "url": "https://solo5estrellas.com/hotels/1717/fairmont_mayakoba.html"
         },
         {
           "@type": "ListItem",
-          "position": 50,
+          "position": 49,
           "name": "Rosewood Mayakoba",
           "url": "https://solo5estrellas.com/hotels/1896/rosewood_mayakoba.html"
         },
         {
           "@type": "ListItem",
-          "position": 51,
+          "position": 50,
           "name": "Chable Yucatan",
           "url": "https://solo5estrellas.com/hotels/4184/chable_yucatan.html"
         },
         {
           "@type": "ListItem",
-          "position": 52,
+          "position": 51,
           "name": "Andaz Mexico City Condesa",
           "url": "https://solo5estrellas.com/hotels/6392/andaz_mexico_city_condesa_.html"
         },
         {
           "@type": "ListItem",
-          "position": 53,
+          "position": 52,
           "name": "Azul Talavera Hotel",
           "url": "https://solo5estrellas.com/hotels/4523/azul_talavera_hotel.html"
         },
         {
           "@type": "ListItem",
-          "position": 54,
+          "position": 53,
           "name": "Four Seasons Hotel Mexico, D.F.",
           "url": "https://solo5estrellas.com/hotels/1516/four_seasons_hotel_mexico,_d.f..html"
         },
         {
           "@type": "ListItem",
-          "position": 55,
+          "position": 54,
           "name": "Hacienda Pena Pobre",
           "url": "https://solo5estrellas.com/hotels/4297/hacienda_pena_pobre.html"
         },
         {
           "@type": "ListItem",
-          "position": 56,
+          "position": 55,
           "name": "Hyatt Regency Mexico City",
           "url": "https://solo5estrellas.com/hotels/3297/hyatt_regency_mexico_city.html"
         },
         {
           "@type": "ListItem",
-          "position": 57,
+          "position": 56,
           "name": "JW Marriott Hotel Mexico City",
           "url": "https://solo5estrellas.com/hotels/3720/jw_marriott_hotel_mexico_city.html"
         },
         {
           "@type": "ListItem",
-          "position": 58,
+          "position": 57,
           "name": "Las Alcobas Mexico City",
           "url": "https://solo5estrellas.com/hotels/2452/las_alcobas_mexico_city.html"
         },
         {
           "@type": "ListItem",
-          "position": 59,
+          "position": 58,
           "name": "Mondrian Mexico City Condesa",
           "url": "https://solo5estrellas.com/hotels/6468/mondrian_mexico_city_condesa.html"
         },
         {
           "@type": "ListItem",
-          "position": 60,
+          "position": 59,
           "name": "Presidente InterContinental Mexico City",
           "url": "https://solo5estrellas.com/hotels/2458/presidente_intercontinental_mexico_city.html"
         },
         {
           "@type": "ListItem",
-          "position": 61,
+          "position": 60,
           "name": "Sheraton Mexico City Maria Isabel",
           "url": "https://solo5estrellas.com/hotels/6890/sheraton_mexico_city_maria_isabel.html"
         },
         {
           "@type": "ListItem",
-          "position": 62,
+          "position": 61,
           "name": "Sofitel Mexico City Reforma",
           "url": "https://solo5estrellas.com/hotels/4265/sofitel_mexico_city_reforma.html"
         },
         {
           "@type": "ListItem",
-          "position": 63,
+          "position": 62,
           "name": "The Ritz Carlton Mexico City",
           "url": "https://solo5estrellas.com/hotels/4050/the_ritz_carlton_mexico_city.html"
         },
         {
           "@type": "ListItem",
-          "position": 64,
+          "position": 63,
           "name": "The St Regis Mexico City",
           "url": "https://solo5estrellas.com/hotels/2241/the_st_regis_mexico_city.html"
         },
         {
           "@type": "ListItem",
-          "position": 65,
+          "position": 64,
           "name": "W Mexico City",
           "url": "https://solo5estrellas.com/hotels/2079/w_mexico_city.html"
         },
         {
           "@type": "ListItem",
-          "position": 66,
+          "position": 65,
           "name": "Westin Santa Fe Mexico City",
           "url": "https://solo5estrellas.com/hotels/6891/westin_santa_fe_mexico_city.html"
         },
         {
           "@type": "ListItem",
-          "position": 67,
+          "position": 66,
           "name": "Grand Hyatt Playa Del Carmen Resort",
           "url": "https://solo5estrellas.com/hotels/3038/grand_hyatt_playa_del_carmen_resort.html"
         },
         {
           "@type": "ListItem",
-          "position": 68,
+          "position": 67,
           "name": "Hotel Xcaret Arte",
           "url": "https://solo5estrellas.com/hotels/6288/hotel_xcaret_arte.html"
         },
         {
           "@type": "ListItem",
-          "position": 69,
+          "position": 68,
           "name": "Hotel Xcaret México All-Inclusive Resort",
           "url": "https://solo5estrellas.com/hotels/5039/hotel_xcaret_méxico_<br>_all-inclusive_resort_</br>.html"
         },
         {
           "@type": "ListItem",
-          "position": 70,
+          "position": 69,
           "name": "Impression Moxché by Secrets",
           "url": "https://solo5estrellas.com/hotels/6593/impression_moxché_by_secrets.html"
         },
         {
           "@type": "ListItem",
-          "position": 71,
+          "position": 70,
           "name": "La Casa de la Playa",
           "url": "https://solo5estrellas.com/hotels/6289/la_casa_de_la_playa.html"
         },
         {
           "@type": "ListItem",
-          "position": 72,
+          "position": 71,
           "name": "Palmaia - The House of AiA",
           "url": "https://solo5estrellas.com/hotels/4934/palmaia_-_the_house_of_aia.html"
         },
         {
           "@type": "ListItem",
-          "position": 73,
+          "position": 72,
           "name": "Paradisus Playa del Carmen, La Esmeralda",
           "url": "https://solo5estrellas.com/hotels/2648/paradisus_playa_del_carmen,_la_esmeralda.html"
         },
         {
           "@type": "ListItem",
-          "position": 74,
+          "position": 73,
           "name": "Paradisus Playa del Carmen, La Perla",
           "url": "https://solo5estrellas.com/hotels/2649/paradisus_playa_del_carmen,_la_perla.html"
         },
         {
           "@type": "ListItem",
-          "position": 75,
+          "position": 74,
           "name": "Hilton Vallarta Riviera All Inclusive Resort",
           "url": "https://solo5estrellas.com/hotels/6624/hilton_vallarta_riviera_all_inclusive_resort.html"
         },
         {
           "@type": "ListItem",
-          "position": 76,
+          "position": 75,
           "name": "Hyatt Ziva Puerto Vallarta",
           "url": "https://solo5estrellas.com/hotels/6152/hyatt_ziva_puerto_vallarta.html"
         },
         {
           "@type": "ListItem",
-          "position": 77,
+          "position": 76,
           "name": "Marriott Puerto Vallarta Resort & Spa",
           "url": "https://solo5estrellas.com/hotels/3751/marriott_puerto_vallarta_resort_&_spa.html"
         },
         {
           "@type": "ListItem",
-          "position": 78,
+          "position": 77,
           "name": "One&Only Mandarina",
           "url": "https://solo5estrellas.com/hotels/4247/one&only_mandarina.html"
         },
         {
           "@type": "ListItem",
-          "position": 79,
+          "position": 78,
           "name": "Rosewood Mandarina",
           "url": "https://solo5estrellas.com/hotels/6764/rosewood_mandarina.html"
         },
         {
           "@type": "ListItem",
-          "position": 80,
+          "position": 79,
           "name": "The Westin Playa Vallarta, an All-Inclusive Resort Accepting Bookings starting May 2026",
           "url": "https://solo5estrellas.com/hotels/3779/the_westin_playa_vallarta,_an_all-inclusive_resort__<br>_accepting_bookings_starting_may_2026_<br>.html"
         },
         {
           "@type": "ListItem",
-          "position": 81,
+          "position": 80,
           "name": "Conrad Punta de Mita",
           "url": "https://solo5estrellas.com/hotels/4139/conrad_punta_de_mita.html"
         },
         {
           "@type": "ListItem",
-          "position": 82,
+          "position": 81,
           "name": "Four Seasons Resort Punta Mita",
           "url": "https://solo5estrellas.com/hotels/1414/four_seasons_resort_punta_mita.html"
         },
         {
           "@type": "ListItem",
-          "position": 83,
+          "position": 82,
           "name": "Naviva, Four Seasons, Punta Mita",
           "url": "https://solo5estrellas.com/hotels/6103/naviva,_four_seasons,_punta_mita.html"
         },
         {
           "@type": "ListItem",
-          "position": 84,
+          "position": 83,
           "name": "Susurros del Corazón, Auberge Collection",
           "url": "https://solo5estrellas.com/hotels/6286/susurros_del_corazón,_auberge_collection.html"
         },
         {
           "@type": "ListItem",
-          "position": 85,
+          "position": 84,
           "name": "The St. Regis Punta Mita Resort",
           "url": "https://solo5estrellas.com/hotels/2212/the_st._regis_punta_mita_resort.html"
         },
         {
           "@type": "ListItem",
-          "position": 86,
+          "position": 85,
           "name": "W Punta de Mita",
           "url": "https://solo5estrellas.com/hotels/3111/w_punta_de_mita.html"
         },
         {
           "@type": "ListItem",
-          "position": 87,
+          "position": 86,
           "name": "Atelier Playa Mujeres",
           "url": "https://solo5estrellas.com/hotels/6315/atelier_playa_mujeres.html"
         },
         {
           "@type": "ListItem",
-          "position": 88,
+          "position": 87,
           "name": "Habitas Bacalar",
           "url": "https://solo5estrellas.com/hotels/6311/habitas_bacalar.html"
         },
         {
           "@type": "ListItem",
-          "position": 89,
+          "position": 88,
           "name": "Habitas Tulum",
           "url": "https://solo5estrellas.com/hotels/6312/habitas_tulum.html"
         },
         {
           "@type": "ListItem",
-          "position": 90,
+          "position": 89,
           "name": "Unico 20 87 Hotel Riviera Maya",
           "url": "https://solo5estrellas.com/hotels/4097/unico_20_87_hotel_riviera_maya.html"
         },
         {
           "@type": "ListItem",
-          "position": 91,
+          "position": 90,
           "name": "Delta Hotels Riviera Nayarit, An All-Inclusive Resort",
           "url": "https://solo5estrellas.com/hotels/6943/delta_hotels_riviera_nayarit,_an_all-inclusive_resort.html"
         },
         {
           "@type": "ListItem",
-          "position": 92,
+          "position": 91,
           "name": "Grand Velas Riviera Nayarit",
           "url": "https://solo5estrellas.com/hotels/2049/grand_velas_riviera_nayarit_.html"
         },
         {
           "@type": "ListItem",
-          "position": 93,
+          "position": 92,
           "name": "Siari, a Ritz-Carlton Reserve",
           "url": "https://solo5estrellas.com/hotels/7083/siari,_a_ritz-carlton_reserve.html"
         },
         {
           "@type": "ListItem",
-          "position": 94,
+          "position": 93,
           "name": "Belmond Casa de Sierra Nevada",
           "url": "https://solo5estrellas.com/hotels/1302/belmond_casa_de_sierra_nevada.html"
         },
         {
           "@type": "ListItem",
-          "position": 95,
+          "position": 94,
           "name": "Numu Boutique Hotel San Miguel de Allende",
           "url": "https://solo5estrellas.com/hotels/6561/numu_boutique_hotel_san_miguel_de_allende.html"
         },
         {
           "@type": "ListItem",
-          "position": 96,
+          "position": 95,
           "name": "Rosewood San Miguel Allende",
           "url": "https://solo5estrellas.com/hotels/3479/rosewood_san_miguel_allende.html"
         },
         {
           "@type": "ListItem",
-          "position": 97,
+          "position": 96,
           "name": "JW Marriott Monterrey Valle",
           "url": "https://solo5estrellas.com/hotels/4724/jw_marriott_monterrey_valle.html"
         },
         {
           "@type": "ListItem",
-          "position": 98,
+          "position": 97,
           "name": "Four Seasons Resort Tamarindo",
           "url": "https://solo5estrellas.com/hotels/4746/four_seasons_resort_tamarindo.html"
         },
         {
           "@type": "ListItem",
-          "position": 99,
+          "position": 98,
           "name": "Conrad Tulum Riviera Maya",
           "url": "https://solo5estrellas.com/hotels/5042/conrad_tulum_riviera_maya.html"
         },
         {
           "@type": "ListItem",
-          "position": 100,
+          "position": 99,
           "name": "La Casa que Canta",
           "url": "https://solo5estrellas.com/hotels/1978/la_casa_que_canta.html"
         },
         {
           "@type": "ListItem",
-          "position": 101,
+          "position": 100,
           "name": "Thompson Zihuatanejo",
           "url": "https://solo5estrellas.com/hotels/3931/thompson_zihuatanejo.html"
         }
@@ -658,7 +652,7 @@
           "name": "¿Cuántos hoteles de lujo hay en México en Solo5Estrellas?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "101 hoteles. Las ciudades con más hoteles son Cabo San Lucas (20), Cancún (16), México (15)."
+            "text": "100 hoteles. Las ciudades con más hoteles son Cabo San Lucas (20), Cancún (16), México (15)."
           }
         },
         {

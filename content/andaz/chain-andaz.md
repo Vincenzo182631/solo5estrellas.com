@@ -1,10 +1,10 @@
-# Hoteles Andaz: 29 hoteles con desayuno para dos y crédito de hotel
+# Hoteles Andaz: 28 hoteles con desayuno para dos y crédito de hotel
 
-> Draft for `/collection/54/andaz-hotels-under-the-hyatt-prive-program.html` (publish in place with a clean slug). Title: Hoteles Andaz: beneficios exclusivos | Solo5Estrellas (53). Description: Reserve 29 hoteles Andaz en 17 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada. (129).
+> Draft for `/collection/54/andaz-hotels-under-the-hyatt-prive-program.html` (publish in place with a clean slug). Title: Hoteles Andaz: beneficios exclusivos | Solo5Estrellas (53). Description: Reserve 28 hoteles Andaz en 16 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada. (129).
 
 Reservar Andaz con Solo5Estrellas cuesta lo mismo que en la web del hotel, porque se paga la tarifa publicada, y añade, con Hyatt Privé, desayuno diario para dos, crédito de hotel (normalmente 100 USD por estancia), mejora de habitación (confirmada en 24 horas), entrada anticipada y salida tardía según disponibilidad, detalle de bienvenida y Wi-Fi de cortesía. Las reservas siguen sumando puntos y noches de World of Hyatt.
 
-Andaz es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada de Hyatt Privé, el programa de Hyatt para asesores de viajes de lujo. Esta página reúne 29 hoteles de Andaz en 17 países y territorios: 8 en Estados Unidos, 4 en China, 2 en Tailandia. Los nombres de los hoteles no se traducen.
+Andaz es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada de Hyatt Privé, el programa de Hyatt para asesores de viajes de lujo. Esta página reúne 28 hoteles de Andaz en 16 países y territorios: 8 en Estados Unidos, 4 en China, 2 en Tailandia. Los nombres de los hoteles no se traducen.
 
 ## Datos clave
 
@@ -15,7 +15,7 @@ Andaz es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, operado 
 | Incluye | Desayuno diario para dos, crédito de hotel (normalmente 100 USD por estancia), mejora de habitación (confirmada en 24 horas), entrada anticipada y salida tardía según disponibilidad, detalle de bienvenida y Wi-Fi de cortesía |
 | Fidelización | World of Hyatt: las reservas siguen sumando puntos y noches de nivel |
 | Estancia mínima | Ninguna |
-| Hoteles | 29 hoteles de Andaz en 17 países y territorios |
+| Hoteles | 28 hoteles de Andaz en 16 países y territorios |
 
 ## Lo que incluye reservar Andaz con Solo5Estrellas
 
@@ -31,12 +31,12 @@ Andaz es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, operado 
 
 ## Cómo reservar Andaz con ventajas
 
-1. Elija el hotel entre los 29 de esta página.
+1. Elija el hotel entre los 28 de esta página.
 2. Reserve a través de Solo5Estrellas: paga la tarifa publicada del hotel y las ventajas se añaden a esa tarifa.
 3. Añada su número de World of Hyatt a la reserva y confirme que la tarifa suma puntos y noches de nivel.
 4. En el hotel, solicite la mejora de habitación, la entrada anticipada o la salida tardía; dependen de la disponibilidad.
 
-## Los 29 hoteles Andaz por país
+## Los 28 hoteles Andaz por país
 
 ### Norteamérica
 
@@ -54,9 +54,6 @@ Andaz es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, operado 
 - [Andaz Ottawa Byward Market](/hotels/3379/andaz-ottawa-byward-market.html) (Ottawa, Ontario)
 
 ### México, Caribe y Centroamérica
-
-**México (1)**
-- [Andaz Mayakoba Resort Riviera Maya](/hotels/3302/andaz-mayakoba-resort-riviera-maya.html) (Mayakoba)
 
 **Costa Rica (1)**
 - [Andaz Costa Rica Resort at Peninsula Papagayo](/hotels/2760/andaz-costa-rica-resort-at-peninsula-papagayo.html) (Peninsula Papagayo)
@@ -140,11 +137,11 @@ Sí. Según la página de la marca, las reservas hechas a través de Hyatt Priv�
 
 **¿Cuántos hoteles Andaz se pueden reservar en esta página?**
 
-29 hoteles en 17 países y territorios. Los países con más hoteles son Estados Unidos, China, Tailandia.
+28 hoteles en 16 países y territorios. Los países con más hoteles son Estados Unidos, China, Tailandia.
 
 **¿Qué hoteles Andaz hay en México y España?**
 
-En México: Andaz Mayakoba Resort Riviera Maya. Esta página no incluye hoteles en España.
+Esta página no incluye hoteles en México ni en España. El antiguo Andaz Mayakoba es hoy Alila Mayakoba (vea Hoteles Alila).
 
 **¿Qué hoteles Andaz hay en Estados Unidos?**
 

@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "México",
+          "item": "https://solo5estrellas.com/regions/15/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mayakoba",
+          "item": "https://solo5estrellas.com/cities/1118/mayakoba.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/1118/mayakoba.html#webpage",
+      "url": "https://solo5estrellas.com/cities/1118/mayakoba.html",
+      "name": "Hoteles de lujo en Mayakoba",
+      "description": "Mayakoba, en la Riviera Maya: Rosewood, Banyan Tree, Alila y Fairmont, entre lagunas y manglares. Reserve con ventajas de Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Hoteles de lujo en Mayakoba",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Rosewood Mayakoba",
+          "url": "https://solo5estrellas.com/hotels/1896/rosewood-mayakoba.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Banyan Tree Mayakoba",
+          "url": "https://solo5estrellas.com/hotels/2314/banyan-tree-mayakoba.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Alila Mayakoba",
+          "url": "https://solo5estrellas.com/hotels/7026/alila-mayakoba.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Fairmont Mayakoba",
+          "url": "https://solo5estrellas.com/hotels/1717/fairmont-mayakoba.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Fairmont Heritage Place Mayakoba",
+          "url": "https://solo5estrellas.com/hotels/4823/fairmont-heritage-place-mayakoba.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Qué es Mayakoba?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un complejo turístico privado de unas 240 hectáreas en Playa del Carmen, con lagunas, manglares, una milla de playa, hoteles de lujo y el campo de golf El Camaleón."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles hay en Mayakoba?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rosewood Mayakoba, Banyan Tree Mayakoba, Fairmont Mayakoba y Alila Mayakoba, además de las residencias Fairmont Heritage Place. Todos están en la colección Solo5Estrellas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Mayakoba es todo incluido?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No como complejo. Fairmont Mayakoba y Fairmont Heritage Place ofrecen un plan todo incluido opcional; Rosewood y Banyan Tree se reservan sin él."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿A qué distancia está Mayakoba del aeropuerto de Cancún?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A unos 48 km, unos 40 minutos en coche."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sigue el torneo de golf del PGA Tour en Mayakoba?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. El torneo se jugó en El Camaleón de 2007 a 2022 y desde 2023 se celebra en Los Cabos. En enero de 2027 El Camaleón recibe el Latin America Amateur Championship."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuándo hay sargazo en Mayakoba?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El sargazo suele llegar a las playas del Caribe mexicano entre abril y octubre, según la Secretaría de Marina; la cantidad varía cada año."
+          }
+        }
+      ]
+    }
+  ]
+}

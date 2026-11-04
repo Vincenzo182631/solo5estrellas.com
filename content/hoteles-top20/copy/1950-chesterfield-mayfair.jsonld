@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Chesterfield Mayfair Hotel",
+          "item": "https://solo5estrellas.com/hotels/1950/the-chesterfield-mayfair-hotel.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/1950/the-chesterfield-mayfair-hotel.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1950/the-chesterfield-mayfair-hotel.html",
+      "name": "The Chesterfield Mayfair Hotel",
+      "description": "Habitaciones de The Chesterfield Mayfair, en Londres. Con Solo5Estrellas: desayuno completo para dos, crédito en Butler's y mejora según disponibilidad.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "The Chesterfield Mayfair Hotel",
+      "url": "https://solo5estrellas.com/hotels/1950/the-chesterfield-mayfair-hotel.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "35 Charles Street",
+        "postalCode": "W1J 5EB",
+        "addressLocality": "Londres",
+        "addressCountry": "GB"
+      },
+      "numberOfRooms": 108
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Qué habitaciones tiene The Chesterfield Mayfair?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "94 habitaciones (Classic Single, Classic Double y Superior) y 14 suites, entre ellas la Mayfair Suite en dos niveles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la estación de metro más cercana?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Green Park, a 6 minutos a pie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene gimnasio o spa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. El hotel no tiene gimnasio ni spa."
+          }
+        }
+      ]
+    }
+  ]
+}

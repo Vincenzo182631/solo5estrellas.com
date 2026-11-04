@@ -28,8 +28,8 @@
       "@type": "CollectionPage",
       "@id": "https://solo5estrellas.com/hoteles-hyatt/#webpage",
       "url": "https://solo5estrellas.com/hoteles-hyatt/",
-      "name": "Hoteles Hyatt y Hyatt Privé: 285 hoteles con desayuno para dos y crédito de hotel",
-      "description": "Reserve 285 hoteles Hyatt en 63 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "name": "Hoteles Hyatt y Hyatt Privé: 284 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 284 hoteles Hyatt en 63 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
       "inLanguage": "es",
       "isPartOf": {
         "@id": "https://solo5estrellas.com/#website"
@@ -46,7 +46,7 @@
       "@type": "ItemList",
       "@id": "https://solo5estrellas.com/hoteles-hyatt/#hotels",
       "name": "Hoteles Hyatt y Hyatt Privé",
-      "numberOfItems": 285,
+      "numberOfItems": 284,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -1227,534 +1227,528 @@
         {
           "@type": "ListItem",
           "position": 197,
-          "name": "Andaz Mayakoba Resort Riviera Maya",
-          "url": "https://solo5estrellas.com/hotels/3302/andaz-mayakoba-resort-riviera-maya.html"
-        },
-        {
-          "@type": "ListItem",
-          "position": 198,
           "name": "Andaz Amsterdam, Prinsengracht",
           "url": "https://solo5estrellas.com/hotels/3377/andaz-amsterdam-prinsengracht.html"
         },
         {
           "@type": "ListItem",
-          "position": 199,
+          "position": 198,
           "name": "Andaz Lisbon",
           "url": "https://solo5estrellas.com/hotels/6934/andaz-lisbon.html"
         },
         {
           "@type": "ListItem",
-          "position": 200,
+          "position": 199,
           "name": "Andaz Seoul Gangnam",
           "url": "https://solo5estrellas.com/hotels/4108/andaz-seoul-gangnam.html"
         },
         {
           "@type": "ListItem",
-          "position": 201,
+          "position": 200,
           "name": "Andaz One Bangkok",
           "url": "https://solo5estrellas.com/hotels/7132/andaz-one-bangkok.html"
         },
         {
           "@type": "ListItem",
-          "position": 202,
+          "position": 201,
           "name": "Andaz Pattaya Jomtien Beach",
           "url": "https://solo5estrellas.com/hotels/6393/andaz-pattaya-jomtien-beach.html"
         },
         {
           "@type": "ListItem",
-          "position": 203,
+          "position": 202,
           "name": "Andaz Capital Gate, Abu Dhabi",
           "url": "https://solo5estrellas.com/hotels/3633/andaz-capital-gate-abu-dhabi.html"
         },
         {
           "@type": "ListItem",
-          "position": 204,
+          "position": 203,
           "name": "Andaz Dubai The Palm",
           "url": "https://solo5estrellas.com/hotels/4122/andaz-dubai-the-palm.html"
         },
         {
           "@type": "ListItem",
-          "position": 205,
+          "position": 204,
           "name": "Andaz London Liverpool Street",
           "url": "https://solo5estrellas.com/hotels/3383/andaz-london-liverpool-street-.html"
         },
         {
           "@type": "ListItem",
-          "position": 206,
+          "position": 205,
           "name": "Hyatt Centric Downtown Sacramento",
           "url": "https://solo5estrellas.com/hotels/6116/hyatt-centric-downtown-sacramento.html"
         },
         {
           "@type": "ListItem",
-          "position": 207,
+          "position": 206,
           "name": "Hyatt Centric Brickell Miami",
           "url": "https://solo5estrellas.com/hotels/3933/hyatt-centric-brickell-miami.html"
         },
         {
           "@type": "ListItem",
-          "position": 208,
+          "position": 207,
           "name": "Hyatt Centric Waikiki Beach",
           "url": "https://solo5estrellas.com/hotels/3911/hyatt-centric-waikiki-beach.html"
         },
         {
           "@type": "ListItem",
-          "position": 209,
+          "position": 208,
           "name": "Hyatt Centric French Quarter New Orleans",
           "url": "https://solo5estrellas.com/hotels/3926/hyatt-centric-french-quarter-new-orleans.html"
         },
         {
           "@type": "ListItem",
-          "position": 210,
+          "position": 209,
           "name": "Hyatt Centric Times Square New York",
           "url": "https://solo5estrellas.com/hotels/3908/hyatt-centric-times-square-new-york.html"
         },
         {
           "@type": "ListItem",
-          "position": 211,
+          "position": 210,
           "name": "Hyatt Centric Portland",
           "url": "https://solo5estrellas.com/hotels/6720/hyatt-centric-portland.html"
         },
         {
           "@type": "ListItem",
-          "position": 212,
+          "position": 211,
           "name": "Hyatt Centric Center City Philadelphia",
           "url": "https://solo5estrellas.com/hotels/4205/hyatt-centric-center-city-philadelphia.html"
         },
         {
           "@type": "ListItem",
-          "position": 213,
+          "position": 212,
           "name": "Hyatt Centric Park City",
           "url": "https://solo5estrellas.com/hotels/4209/hyatt-centric-park-city.html"
         },
         {
           "@type": "ListItem",
-          "position": 214,
+          "position": 213,
           "name": "Hyatt Centric Old Town Alexandria",
           "url": "https://solo5estrellas.com/hotels/6400/hyatt-centric-old-town-alexandria.html"
         },
         {
           "@type": "ListItem",
-          "position": 215,
+          "position": 214,
           "name": "Hyatt Centric Las Condes Santiago",
           "url": "https://solo5estrellas.com/hotels/3906/hyatt-centric-las-condes-santiago.html"
         },
         {
           "@type": "ListItem",
-          "position": 216,
+          "position": 215,
           "name": "Hyatt Centric Victoria Harbour Hong Kong",
           "url": "https://solo5estrellas.com/hotels/4212/hyatt-centric-victoria-harbour-hong-kong.html"
         },
         {
           "@type": "ListItem",
-          "position": 217,
+          "position": 216,
           "name": "Hyatt Centric La Rosiere",
           "url": "https://solo5estrellas.com/hotels/4120/hyatt-centric-la-rosiere.html"
         },
         {
           "@type": "ListItem",
-          "position": 218,
+          "position": 217,
           "name": "Hyatt Centric Guatemala City",
           "url": "https://solo5estrellas.com/hotels/3930/hyatt-centric-guatemala-city.html"
         },
         {
           "@type": "ListItem",
-          "position": 219,
+          "position": 218,
           "name": "Hyatt Centric Candolim Goa",
           "url": "https://solo5estrellas.com/hotels/4841/hyatt-centric-candolim-goa.html"
         },
         {
           "@type": "ListItem",
-          "position": 220,
+          "position": 219,
           "name": "Hyatt Centric The Liberties Dublin",
           "url": "https://solo5estrellas.com/hotels/6121/hyatt-centric-the-liberties-dublin.html"
         },
         {
           "@type": "ListItem",
-          "position": 221,
+          "position": 220,
           "name": "Hyatt Centric Milan Centrale",
           "url": "https://solo5estrellas.com/hotels/4210/hyatt-centric-milan-centrale.html"
         },
         {
           "@type": "ListItem",
-          "position": 222,
+          "position": 221,
           "name": "Hyatt Centric Ginza Tokyo",
           "url": "https://solo5estrellas.com/hotels/4206/hyatt-centric-ginza-tokyo.html"
         },
         {
           "@type": "ListItem",
-          "position": 223,
+          "position": 222,
           "name": "Hyatt Centric San Isidro Lima",
           "url": "https://solo5estrellas.com/hotels/3934/hyatt-centric-san-isidro-lima.html"
         },
         {
           "@type": "ListItem",
-          "position": 224,
+          "position": 223,
           "name": "Hyatt Centric Gran Via Madrid",
           "url": "https://solo5estrellas.com/hotels/3928/hyatt-centric-gran-via-madrid.html"
         },
         {
           "@type": "ListItem",
-          "position": 225,
+          "position": 224,
           "name": "Hyatt Centric Levent Istanbul",
           "url": "https://solo5estrellas.com/hotels/3903/hyatt-centric-levent-istanbul.html"
         },
         {
           "@type": "ListItem",
-          "position": 226,
+          "position": 225,
           "name": "Hyatt Centric Jumeirah Dubai",
           "url": "https://solo5estrellas.com/hotels/6120/hyatt-centric-jumeirah-dubai.html"
         },
         {
           "@type": "ListItem",
-          "position": 227,
+          "position": 226,
           "name": "Hyatt Centric Montevideo",
           "url": "https://solo5estrellas.com/hotels/3904/hyatt-centric-montevideo.html"
         },
         {
           "@type": "ListItem",
-          "position": 228,
+          "position": 227,
           "name": "Thompson Denver",
           "url": "https://solo5estrellas.com/hotels/6228/thompson-denver.html"
         },
         {
           "@type": "ListItem",
-          "position": 229,
+          "position": 228,
           "name": "Thompson Washington D.C.",
           "url": "https://solo5estrellas.com/hotels/4196/thompson-washington-d-c-.html"
         },
         {
           "@type": "ListItem",
-          "position": 230,
+          "position": 229,
           "name": "Thompson Miami Beach",
           "url": "https://solo5estrellas.com/hotels/6770/thompson-miami-beach.html"
         },
         {
           "@type": "ListItem",
-          "position": 231,
+          "position": 230,
           "name": "Thompson Savannah",
           "url": "https://solo5estrellas.com/hotels/6268/thompson-savannah.html"
         },
         {
           "@type": "ListItem",
-          "position": 232,
+          "position": 231,
           "name": "Thompson Chicago",
           "url": "https://solo5estrellas.com/hotels/2912/thompson-chicago.html"
         },
         {
           "@type": "ListItem",
-          "position": 233,
+          "position": 232,
           "name": "Gild Hall",
           "url": "https://solo5estrellas.com/hotels/3916/gild-hall-.html"
         },
         {
           "@type": "ListItem",
-          "position": 234,
+          "position": 233,
           "name": "The Beekman",
           "url": "https://solo5estrellas.com/hotels/3025/the-beekman.html"
         },
         {
           "@type": "ListItem",
-          "position": 235,
+          "position": 234,
           "name": "Thompson Central Park New York",
           "url": "https://solo5estrellas.com/hotels/6088/thompson-central-park-new-york.html"
         },
         {
           "@type": "ListItem",
-          "position": 236,
+          "position": 235,
           "name": "Thompson Nashville",
           "url": "https://solo5estrellas.com/hotels/3927/thompson-nashville.html"
         },
         {
           "@type": "ListItem",
-          "position": 237,
+          "position": 236,
           "name": "Thompson Austin",
           "url": "https://solo5estrellas.com/hotels/6277/thompson-austin.html"
         },
         {
           "@type": "ListItem",
-          "position": 238,
+          "position": 237,
           "name": "Thompson Dallas",
           "url": "https://solo5estrellas.com/hotels/4626/thompson-dallas.html"
         },
         {
           "@type": "ListItem",
-          "position": 239,
+          "position": 238,
           "name": "Thompson Seattle",
           "url": "https://solo5estrellas.com/hotels/3203/thompson-seattle.html"
         },
         {
           "@type": "ListItem",
-          "position": 240,
+          "position": 239,
           "name": "Thompson Shanghai Expo",
           "url": "https://solo5estrellas.com/hotels/6998/thompson-shanghai-expo.html"
         },
         {
           "@type": "ListItem",
-          "position": 241,
+          "position": 240,
           "name": "The Cape",
           "url": "https://solo5estrellas.com/hotels/3013/the-cape.html"
         },
         {
           "@type": "ListItem",
-          "position": 242,
+          "position": 241,
           "name": "Thompson Zihuatanejo",
           "url": "https://solo5estrellas.com/hotels/3931/thompson-zihuatanejo.html"
         },
         {
           "@type": "ListItem",
-          "position": 243,
+          "position": 242,
           "name": "Thompson Madrid",
           "url": "https://solo5estrellas.com/hotels/6118/thompson-madrid.html"
         },
         {
           "@type": "ListItem",
-          "position": 244,
+          "position": 243,
           "name": "Royal Palms Resort and Spa",
           "url": "https://solo5estrellas.com/hotels/1063/royal-palms-resort-and-spa-.html"
         },
         {
           "@type": "ListItem",
-          "position": 245,
+          "position": 244,
           "name": "Hotel Figueroa",
           "url": "https://solo5estrellas.com/hotels/6208/hotel-figueroa.html"
         },
         {
           "@type": "ListItem",
-          "position": 246,
+          "position": 245,
           "name": "Kissel Uptown Oakland",
           "url": "https://solo5estrellas.com/hotels/6123/kissel-uptown-oakland.html"
         },
         {
           "@type": "ListItem",
-          "position": 247,
+          "position": 246,
           "name": "Mar Monte Hotel",
           "url": "https://solo5estrellas.com/hotels/4221/mar-monte-hotel.html"
         },
         {
           "@type": "ListItem",
-          "position": 248,
+          "position": 247,
           "name": "The Shay Hotel",
           "url": "https://solo5estrellas.com/hotels/6207/the-shay-hotel.html"
         },
         {
           "@type": "ListItem",
-          "position": 249,
+          "position": 248,
           "name": "Thompson Hollywood",
           "url": "https://solo5estrellas.com/hotels/6209/thompson-hollywood.html"
         },
         {
           "@type": "ListItem",
-          "position": 250,
+          "position": 249,
           "name": "Maison Metier",
           "url": "https://solo5estrellas.com/hotels/6884/maison-metier.html"
         },
         {
           "@type": "ListItem",
-          "position": 251,
+          "position": 250,
           "name": "The Eliza Jane",
           "url": "https://solo5estrellas.com/hotels/3976/the-eliza-jane.html"
         },
         {
           "@type": "ListItem",
-          "position": 252,
+          "position": 251,
           "name": "Hotel Kansas City",
           "url": "https://solo5estrellas.com/hotels/4629/hotel-kansas-city.html"
         },
         {
           "@type": "ListItem",
-          "position": 253,
+          "position": 252,
           "name": "The Manner",
           "url": "https://solo5estrellas.com/hotels/6883/the-manner.html"
         },
         {
           "@type": "ListItem",
-          "position": 254,
+          "position": 253,
           "name": "Fordson Hotel",
           "url": "https://solo5estrellas.com/hotels/6674/fordson-hotel.html"
         },
         {
           "@type": "ListItem",
-          "position": 255,
+          "position": 254,
           "name": "The Bellevue Hotel",
           "url": "https://solo5estrellas.com/hotels/1894/the-bellevue-hotel.html"
         },
         {
           "@type": "ListItem",
-          "position": 256,
+          "position": 255,
           "name": "Holston House Nashville",
           "url": "https://solo5estrellas.com/hotels/3912/holston-house-nashville.html"
         },
         {
           "@type": "ListItem",
-          "position": 257,
+          "position": 256,
           "name": "The Driskill Hotel",
           "url": "https://solo5estrellas.com/hotels/2002/the-driskill-hotel.html"
         },
         {
           "@type": "ListItem",
-          "position": 258,
+          "position": 257,
           "name": "The Fairmount San Antonio",
           "url": "https://solo5estrellas.com/hotels/6885/the-fairmount-san-antonio.html"
         },
         {
           "@type": "ListItem",
-          "position": 259,
+          "position": 258,
           "name": "Jinmao Hotel, Lijiang",
           "url": "https://solo5estrellas.com/hotels/3501/jinmao-hotel-lijiang.html"
         },
         {
           "@type": "ListItem",
-          "position": 260,
+          "position": 259,
           "name": "Hotel Du Louvre",
           "url": "https://solo5estrellas.com/hotels/3641/hotel-du-louvre.html"
         },
         {
           "@type": "ListItem",
-          "position": 261,
+          "position": 260,
           "name": "Parisi Udvar Hotel Budapest",
           "url": "https://solo5estrellas.com/hotels/3915/parisi-udvar-hotel-budapest.html"
         },
         {
           "@type": "ListItem",
-          "position": 262,
+          "position": 261,
           "name": "Keraton at The Plaza",
           "url": "https://solo5estrellas.com/hotels/2831/keraton-at-the-plaza.html"
         },
         {
           "@type": "ListItem",
-          "position": 263,
+          "position": 262,
           "name": "Hotel Toranomon Hills",
           "url": "https://solo5estrellas.com/hotels/6677/hotel-toranomon-hills.html"
         },
         {
           "@type": "ListItem",
-          "position": 264,
+          "position": 263,
           "name": "Hotel La Compañía de Valle",
           "url": "https://solo5estrellas.com/hotels/6995/hotel-la-compa-a-de-valle.html"
         },
         {
           "@type": "ListItem",
-          "position": 265,
+          "position": 264,
           "name": "Hotel La Zambra",
           "url": "https://solo5estrellas.com/hotels/6126/hotel-la-zambra.html"
         },
         {
           "@type": "ListItem",
-          "position": 266,
+          "position": 265,
           "name": "Hotel Reisen",
           "url": "https://solo5estrellas.com/hotels/7095/hotel-reisen.html"
         },
         {
           "@type": "ListItem",
-          "position": 267,
+          "position": 266,
           "name": "Great Scotland Yard",
           "url": "https://solo5estrellas.com/hotels/3909/great-scotland-yard.html"
         },
         {
           "@type": "ListItem",
-          "position": 268,
+          "position": 267,
           "name": "Alila Marea Beach Resort Encinitas",
           "url": "https://solo5estrellas.com/hotels/4614/alila-marea-beach-resort-encinitas.html"
         },
         {
           "@type": "ListItem",
-          "position": 269,
+          "position": 268,
           "name": "Alila Napa Valley",
           "url": "https://solo5estrellas.com/hotels/3169/alila-napa-valley.html"
         },
         {
           "@type": "ListItem",
-          "position": 270,
+          "position": 269,
           "name": "Ventana Big Sur",
           "url": "https://solo5estrellas.com/hotels/2441/ventana-big-sur.html"
         },
         {
           "@type": "ListItem",
-          "position": 271,
+          "position": 270,
           "name": "Alila Villas Koh Russey",
           "url": "https://solo5estrellas.com/hotels/3947/alila-villas-koh-russey.html"
         },
         {
           "@type": "ListItem",
-          "position": 272,
+          "position": 271,
           "name": "Alila Anji",
           "url": "https://solo5estrellas.com/hotels/3957/alila-anji.html"
         },
         {
           "@type": "ListItem",
-          "position": 273,
+          "position": 272,
           "name": "Alila Shanghai",
           "url": "https://solo5estrellas.com/hotels/6719/alila-shanghai.html"
         },
         {
           "@type": "ListItem",
-          "position": 274,
+          "position": 273,
           "name": "Alila Wuzhen",
           "url": "https://solo5estrellas.com/hotels/3965/alila-wuzhen.html"
         },
         {
           "@type": "ListItem",
-          "position": 275,
+          "position": 274,
           "name": "Alila Diwa Goa",
           "url": "https://solo5estrellas.com/hotels/3959/alila-diwa-goa.html"
         },
         {
           "@type": "ListItem",
-          "position": 276,
+          "position": 275,
           "name": "Alila Fort Bishangarh",
           "url": "https://solo5estrellas.com/hotels/3960/alila-fort-bishangarh.html"
         },
         {
           "@type": "ListItem",
-          "position": 277,
+          "position": 276,
           "name": "Alila Manggis",
           "url": "https://solo5estrellas.com/hotels/3961/alila-manggis.html"
         },
         {
           "@type": "ListItem",
-          "position": 278,
+          "position": 277,
           "name": "Alila SCBD Jakarta",
           "url": "https://solo5estrellas.com/hotels/3962/alila-scbd-jakarta.html"
         },
         {
           "@type": "ListItem",
-          "position": 279,
+          "position": 278,
           "name": "Alila Seminyak",
           "url": "https://solo5estrellas.com/hotels/3963/alila-seminyak.html"
         },
         {
           "@type": "ListItem",
-          "position": 280,
+          "position": 279,
           "name": "Alila Solo",
           "url": "https://solo5estrellas.com/hotels/3964/alila-solo.html"
         },
         {
           "@type": "ListItem",
-          "position": 281,
+          "position": 280,
           "name": "Alila Ubud",
           "url": "https://solo5estrellas.com/hotels/3061/alila-ubud.html"
         },
         {
           "@type": "ListItem",
-          "position": 282,
+          "position": 281,
           "name": "Alila Villas Uluwatu",
           "url": "https://solo5estrellas.com/hotels/3060/alila-villas-uluwatu.html"
         },
         {
           "@type": "ListItem",
-          "position": 283,
+          "position": 282,
           "name": "Alila Bangsar Kuala Lumpur",
           "url": "https://solo5estrellas.com/hotels/3958/alila-bangsar-kuala-lumpur.html"
         },
         {
           "@type": "ListItem",
-          "position": 284,
+          "position": 283,
           "name": "Alila Mayakoba",
           "url": "https://solo5estrellas.com/hotels/7026/alila-mayakoba.html"
         },
         {
           "@type": "ListItem",
-          "position": 285,
+          "position": 284,
           "name": "Alila Jabal Akhdar",
           "url": "https://solo5estrellas.com/hotels/3608/-alila-jabal-akhdar.html"
         }
@@ -1792,7 +1786,7 @@
           "name": "¿Cuántos hoteles Hyatt se pueden reservar en esta página?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "285 hoteles en 63 países y territorios. Los países con más hoteles son Estados Unidos, China, India."
+            "text": "284 hoteles en 63 países y territorios. Los países con más hoteles son Estados Unidos, China, India."
           }
         },
         {
@@ -1800,7 +1794,7 @@
           "name": "¿Qué hoteles Hyatt hay en México y España?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "En México: Grand Hyatt Playa Del Carmen Resort, Hyatt Regency Mexico City, Park Hyatt Los Cabos at Cabo del Sol, Andaz Mayakoba Resort Riviera Maya, The Cape, Alila Mayakoba. En España: Grand Hyatt Barcelona, Hyatt Regency Barcelona Tower, Hyatt Regency Hesperia Madrid, Hyatt Centric Gran Via Madrid, Thompson Madrid, Hotel La Zambra."
+            "text": "En México: Grand Hyatt Playa Del Carmen Resort, Hyatt Regency Mexico City, Park Hyatt Los Cabos at Cabo del Sol, The Cape, Alila Mayakoba. En España: Grand Hyatt Barcelona, Hyatt Regency Barcelona Tower, Hyatt Regency Hesperia Madrid, Hyatt Centric Gran Via Madrid, Thompson Madrid, Hotel La Zambra."
           }
         },
         {

@@ -28,8 +28,8 @@
       "@type": "CollectionPage",
       "@id": "https://solo5estrellas.com/collection/54/andaz-hotels.html#webpage",
       "url": "https://solo5estrellas.com/collection/54/andaz-hotels.html",
-      "name": "Hoteles Andaz: 29 hoteles con desayuno para dos y crédito de hotel",
-      "description": "Reserve 29 hoteles Andaz en 17 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "name": "Hoteles Andaz: 28 hoteles con desayuno para dos y crédito de hotel",
+      "description": "Reserve 28 hoteles Andaz en 16 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
       "inLanguage": "es",
       "isPartOf": {
         "@id": "https://solo5estrellas.com/#website"
@@ -46,7 +46,7 @@
       "@type": "ItemList",
       "@id": "https://solo5estrellas.com/collection/54/andaz-hotels.html#hotels",
       "name": "Hoteles Andaz",
-      "numberOfItems": 29,
+      "numberOfItems": 28,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -171,54 +171,48 @@
         {
           "@type": "ListItem",
           "position": 21,
-          "name": "Andaz Mayakoba Resort Riviera Maya",
-          "url": "https://solo5estrellas.com/hotels/3302/andaz-mayakoba-resort-riviera-maya.html"
-        },
-        {
-          "@type": "ListItem",
-          "position": 22,
           "name": "Andaz Amsterdam, Prinsengracht",
           "url": "https://solo5estrellas.com/hotels/3377/andaz-amsterdam-prinsengracht.html"
         },
         {
           "@type": "ListItem",
-          "position": 23,
+          "position": 22,
           "name": "Andaz Lisbon",
           "url": "https://solo5estrellas.com/hotels/6934/andaz-lisbon.html"
         },
         {
           "@type": "ListItem",
-          "position": 24,
+          "position": 23,
           "name": "Andaz Seoul Gangnam",
           "url": "https://solo5estrellas.com/hotels/4108/andaz-seoul-gangnam.html"
         },
         {
           "@type": "ListItem",
-          "position": 25,
+          "position": 24,
           "name": "Andaz One Bangkok",
           "url": "https://solo5estrellas.com/hotels/7132/andaz-one-bangkok.html"
         },
         {
           "@type": "ListItem",
-          "position": 26,
+          "position": 25,
           "name": "Andaz Pattaya Jomtien Beach",
           "url": "https://solo5estrellas.com/hotels/6393/andaz-pattaya-jomtien-beach.html"
         },
         {
           "@type": "ListItem",
-          "position": 27,
+          "position": 26,
           "name": "Andaz Capital Gate, Abu Dhabi",
           "url": "https://solo5estrellas.com/hotels/3633/andaz-capital-gate-abu-dhabi.html"
         },
         {
           "@type": "ListItem",
-          "position": 28,
+          "position": 27,
           "name": "Andaz Dubai The Palm",
           "url": "https://solo5estrellas.com/hotels/4122/andaz-dubai-the-palm.html"
         },
         {
           "@type": "ListItem",
-          "position": 29,
+          "position": 28,
           "name": "Andaz London Liverpool Street",
           "url": "https://solo5estrellas.com/hotels/3383/andaz-london-liverpool-street-.html"
         }
@@ -256,7 +250,7 @@
           "name": "¿Cuántos hoteles Andaz se pueden reservar en esta página?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "29 hoteles en 17 países y territorios. Los países con más hoteles son Estados Unidos, China, Tailandia."
+            "text": "28 hoteles en 16 países y territorios. Los países con más hoteles son Estados Unidos, China, Tailandia."
           }
         },
         {
@@ -264,7 +258,7 @@
           "name": "¿Qué hoteles Andaz hay en México y España?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "En México: Andaz Mayakoba Resort Riviera Maya. Esta página no incluye hoteles en España."
+            "text": "Esta página no incluye hoteles en México ni en España. El antiguo Andaz Mayakoba es hoy Alila Mayakoba (vea Hoteles Alila)."
           }
         },
         {

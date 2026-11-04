@@ -1,12 +1,19 @@
 # JW Marriott Atlanta Downtown
 
-> Sections for `/hotels/2841/W-Atlanta-Downtown.html`. **The W Atlanta – Downtown reopened on 14 May 2026 as the JW Marriott Atlanta Downtown** (Marriott code ATLJD). Rename the hotel record and the page; the slug should follow (301 from the W slug). marriott.com blocked direct reading; facts come from trade press and indexed Marriott pages (sources at the end). The live page hides its perks behind a login, so no perks are listed: confirm them with the client.
+> Sections for `/hotels/7123/jw-marriott-atlanta-downtown.html`. **The W Atlanta – Downtown (2841) reopened on 14 May 2026 as this hotel**, which already has its own record (7123). Redirect every `/hotels/2841/` URL with a 301 to `/hotels/7123/jw-marriott-atlanta-downtown.html` (see IN-PLACE-FIXES 14). marriott.com blocked direct reading; facts come from trade press and indexed Marriott pages (sources at the end). Perks from the live 7123 page.
 
 El JW Marriott Atlanta Downtown abrió el 14 de mayo de 2026 en la torre que durante más de quince años ocupó el W Atlanta – Downtown, en el 45 de Ivan Allen Jr. Boulevard. Está a una manzana del Centennial Olympic Park y cerca del Georgia Aquarium y del Mercedes-Benz Stadium. Tiene 237 habitaciones, una piscina en la azotea y un salón ejecutivo.
 
 ## Beneficios al reservar con Solo5Estrellas
 
-Consulte con su asesor las ventajas disponibles para este hotel. Las reservas acumulan puntos Marriott Bonvoy.
+| Ventaja | Detalle |
+| --- | --- |
+| Desayuno diario para dos | Cada día de la estancia |
+| Obsequio de bienvenida | A la llegada |
+| Mejora de categoría | Sujeta a disponibilidad al hacer el check-in |
+| Wi-Fi | Básico, de cortesía |
+| Salida tardía | Bajo petición, sujeta a disponibilidad |
+| Puntos Marriott Bonvoy | Se acumulan con la reserva |
 
 ## Habitaciones y suites
 
@@ -38,4 +45,4 @@ Sí, con cabañas y el bar The Perch.
 ### ¿Qué hay cerca del hotel?
 El Centennial Olympic Park, a una manzana, el Georgia Aquarium y el Mercedes-Benz Stadium.
 
-*Fuentes: [Lodging Magazine](https://lodgingmagazine.com/jw-marriott-atlanta-downtown-opens/), [Hotel Dive](https://www.hoteldive.com/news/marriott-luxury-hotel-rebrand-opening-atlanta/813193/), [ConventionSouth](https://conventionsouth.com/jw-marriott-atlanta-downtown-opens-following-major-reimagination/), [The Atlanta Journal-Constitution](https://www.ajc.com/business/2026/02/downtown-atlanta-to-gain-new-luxury-hotel-ahead-of-world-cup/), [marriott.com (ATLJD)](https://www.marriott.com/en-us/hotels/atljd-jw-marriott-atlanta-downtown/overview/). Consultado el 4 de noviembre de 2026.*
+*Fuentes: [Lodging Magazine](https://lodgingmagazine.com/jw-marriott-atlanta-downtown-opens/), [Hotel Dive](https://www.hoteldive.com/news/marriott-luxury-hotel-rebrand-opening-atlanta/813193/), [ConventionSouth](https://conventionsouth.com/jw-marriott-atlanta-downtown-opens-following-major-reimagination/), [The Atlanta Journal-Constitution](https://www.ajc.com/business/2026/02/downtown-atlanta-to-gain-new-luxury-hotel-ahead-of-world-cup/), [marriott.com (ATLJD)](https://www.marriott.com/en-us/hotels/atljd-jw-marriott-atlanta-downtown/overview/). Ventajas: ficha del hotel en Solo5Estrellas.com. Consultado el 4 de noviembre de 2026.*
