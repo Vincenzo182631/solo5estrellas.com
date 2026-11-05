@@ -7,6 +7,7 @@
 **Selection:** 29 hotels from the collection in 10 destinations, chosen for features their official sites confirm: private pools, adults-only policies and published honeymoon packages. All 29 live hotel pages returned 200 on 4 Nov 2026. No prices, ratings or "best" claims.
 
 **Flags (check before publishing):**
+- **North Island (4045):** left Marriott's Luxury Collection on 1 Jul 2025 and now takes bookings directly; confirm it can still be sold (tracker Z123). Name updated in the copy on 5 Nov.
 - **Belmond Hotel Caruso (1655):** now branded "Caruso, A Belmond Hotel, Amalfi Coast"; closed for the season, reopening 13 Apr 2027.
 - **Grace Santorini (2927):** now "Grace Hotel, Auberge Collection"; usually closed November to mid-April.
 - **Katikies Kirini Santorini (5052):** the official site now calls it "Katikies Santorini". Consider renaming the record.

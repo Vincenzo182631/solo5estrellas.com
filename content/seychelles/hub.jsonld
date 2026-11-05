@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "África",
+          "item": "https://solo5estrellas.com/regions/3/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Seychelles",
+          "item": "https://solo5estrellas.com/cities/1430/seychelles.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/1430/seychelles.html#webpage",
+      "url": "https://solo5estrellas.com/cities/1430/seychelles.html",
+      "name": "Hoteles de lujo en Seychelles",
+      "description": "Hoteles de lujo en Seychelles por isla: Mahé, Praslin e islas privadas, con villas con piscina privada. Reserve con ventajas de Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Hoteles de lujo en Seychelles",
+      "numberOfItems": 7,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Four Seasons Resort Seychelles",
+          "url": "https://solo5estrellas.com/hotels/2287/four-seasons-resort-seychelles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Anantara Maia Seychelles Villas",
+          "url": "https://solo5estrellas.com/hotels/6080/anantara-maia-seychelles-villas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mango House Seychelles",
+          "url": "https://solo5estrellas.com/hotels/4651/mango-house-seychelles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Raffles Seychelles",
+          "url": "https://solo5estrellas.com/hotels/4898/raffles-seychelles.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Four Seasons Resort Seychelles at Desroches Island",
+          "url": "https://solo5estrellas.com/hotels/3289/four-seasons-resort-seychelles-at-desroches-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Waldorf Astoria Seychelles Platte Island",
+          "url": "https://solo5estrellas.com/hotels/6849/waldorf-astoria-seychelles-platte-island.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "North Island",
+          "url": "https://solo5estrellas.com/hotels/4045/north-island-a-luxury-collection-resort-seychelles.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuándo es mejor viajar a Seychelles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hace calor todo el año. Abril, mayo, octubre y noviembre son los meses de transición entre los vientos alisios, con mar más tranquilo; de diciembre a febrero llueve más."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se va de Mahé a Praslin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En avión con Air Seychelles, en unos 15 minutos, o en el ferri Cat Cocos desde Victoria, en alrededor de una hora."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué isla elegir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mahé, por comodidad, porque tiene el aeropuerto internacional; Praslin, por sus playas y el Vallée de Mai; una isla privada, como Desroches, Platte o North Island, para máxima privacidad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se necesita visado para Seychelles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, pero hay que tramitar antes del viaje la Travel Authorisation en seychelles.govtas.com. Al llegar se pide pasaporte válido, billete de vuelta y alojamiento confirmado."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay hoteles con club infantil en Seychelles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: los dos Four Seasons, Raffles Seychelles, Waldorf Astoria Platte Island y Mango House."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué moneda se usa en Seychelles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La rupia de Seychelles (SCR)."
+          }
+        }
+      ]
+    }
+  ]
+}

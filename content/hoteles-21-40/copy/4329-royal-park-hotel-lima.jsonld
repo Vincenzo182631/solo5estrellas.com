@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Royal Park Hotel",
+          "item": "https://solo5estrellas.com/hotels/4329/royal-park-hotel-lima.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/4329/royal-park-hotel-lima.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/4329/royal-park-hotel-lima.html",
+      "name": "Royal Park Hotel",
+      "description": "Royal Park Hotel, en San Isidro (Lima), junto al campo de golf, con piscina en la azotea. Con Solo5Estrellas: desayuno para dos y crédito de hotel.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Royal Park Hotel",
+      "url": "https://solo5estrellas.com/hotels/4329/royal-park-hotel-lima.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Camino Real 1050",
+        "addressLocality": "San Isidro, Lima",
+        "addressCountry": "PE"
+      },
+      "numberOfRooms": 75
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿En qué barrio está el Royal Park Hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En San Isidro, junto al Lima Golf Club."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene piscina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, una piscina en la azotea."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿A qué distancia está el aeropuerto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El aeropuerto Jorge Chávez está a unos 16 km."
+          }
+        }
+      ]
+    }
+  ]
+}

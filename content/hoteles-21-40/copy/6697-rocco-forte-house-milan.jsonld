@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rocco Forte House Via Manzoni Milano",
+          "item": "https://solo5estrellas.com/hotels/6697/Rocco-Forte-House-Milan.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/6697/Rocco-Forte-House-Milan.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6697/Rocco-Forte-House-Milan.html",
+      "name": "Rocco Forte House Via Manzoni Milano",
+      "description": "Rocco Forte House Via Manzoni Milano: 11 apartamentos con cocina en el Cuadrilátero de la Moda. Con Solo5Estrellas: desayuno y crédito de 100 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Rocco Forte House Via Manzoni Milano",
+      "url": "https://solo5estrellas.com/hotels/6697/Rocco-Forte-House-Milan.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Manzoni 46",
+        "postalCode": "20121",
+        "addressLocality": "Milán",
+        "addressCountry": "IT"
+      },
+      "numberOfRooms": 11
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Rocco Forte House Milan es un hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Son 11 apartamentos privados con cocina, con el servicio de conserjería de Rocco Forte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene restaurante?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No; el conserje puede organizar la compra o reservar restaurantes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene gimnasio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, abierto las 24 horas."
+          }
+        }
+      ]
+    }
+  ]
+}

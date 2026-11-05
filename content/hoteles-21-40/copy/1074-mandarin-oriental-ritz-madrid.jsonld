@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mandarin Oriental Ritz, Madrid",
+          "item": "https://solo5estrellas.com/hotels/1074/Mandarin-Oriental-Ritz-Madrid.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/1074/Mandarin-Oriental-Ritz-Madrid.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1074/Mandarin-Oriental-Ritz-Madrid.html",
+      "name": "Mandarin Oriental Ritz, Madrid",
+      "description": "Mandarin Oriental Ritz, Madrid, junto al Prado, con spa y piscina. Con Solo5Estrellas: desayuno para dos, crédito de 100 USD y mejora según disponibilidad.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Mandarin Oriental Ritz, Madrid",
+      "url": "https://solo5estrellas.com/hotels/1074/Mandarin-Oriental-Ritz-Madrid.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Plaza de la Lealtad 5",
+        "postalCode": "28014",
+        "addressLocality": "Madrid",
+        "addressCountry": "ES"
+      },
+      "numberOfRooms": 153
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuándo abrió el Ritz de Madrid?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El 2 de octubre de 1910; reabrió como Mandarin Oriental Ritz en abril de 2021."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene piscina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, una piscina cubierta y climatizada en el spa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué museos hay cerca?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El Museo del Prado y el Thyssen-Bornemisza, a pocos pasos."
+          }
+        }
+      ]
+    }
+  ]
+}

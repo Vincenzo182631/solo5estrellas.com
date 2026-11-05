@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hôtel San Régis",
+          "item": "https://solo5estrellas.com/hotels/2072/hotel-san-regis-paris.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/2072/hotel-san-regis-paris.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2072/hotel-san-regis-paris.html",
+      "name": "Hôtel San Régis",
+      "description": "Hôtel San Régis, mansión de 1857 en la rue Jean-Goujon de París, con 42 habitaciones. Con Solo5Estrellas: desayuno para dos y mejora según disponibilidad.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Hôtel San Régis",
+      "url": "https://solo5estrellas.com/hotels/2072/hotel-san-regis-paris.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "12 rue Jean-Goujon",
+        "postalCode": "75008",
+        "addressLocality": "París",
+        "addressCountry": "FR"
+      },
+      "numberOfRooms": 42
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Dónde está el Hôtel San Régis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En el 12 de la rue Jean-Goujon, en el Triángulo de Oro del distrito 8 de París."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántas habitaciones tiene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "42: 30 habitaciones y 12 suites."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Desde cuándo es hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desde 1923, en una mansión construida en 1857."
+          }
+        }
+      ]
+    }
+  ]
+}

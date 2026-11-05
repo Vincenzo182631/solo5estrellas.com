@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "El Palace Barcelona",
+          "item": "https://solo5estrellas.com/hotels/2429/el-palace-hotel.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/2429/el-palace-hotel.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2429/el-palace-hotel.html",
+      "name": "El Palace Barcelona",
+      "description": "El Palace Barcelona, el antiguo Ritz de 1919, con piscina en la azotea. Con Solo5Estrellas: desayuno para dos, crédito de spa y mejora de categoría.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "El Palace Barcelona",
+      "url": "https://solo5estrellas.com/hotels/2429/el-palace-hotel.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gran Via de les Corts Catalanes 668",
+        "postalCode": "08010",
+        "addressLocality": "Barcelona",
+        "addressCountry": "ES"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿El Palace Barcelona era el antiguo Ritz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, abrió en 1919 como Hotel Ritz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene piscina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, en la azotea, junto al Rooftop Garden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es su restaurante principal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Amar Barcelona, del chef Rafa Zafra."
+          }
+        }
+      ]
+    }
+  ]
+}

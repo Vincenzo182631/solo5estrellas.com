@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ashford Castle",
+          "item": "https://solo5estrellas.com/hotels/1879/ashford_castle_.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/1879/ashford_castle_.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1879/ashford_castle_.html",
+      "name": "Ashford Castle",
+      "description": "Ashford Castle, castillo de 1228 junto al lago Corrib, en el oeste de Irlanda, con spa y piscina. Consulte las ventajas al reservar con Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Ashford Castle",
+      "url": "https://solo5estrellas.com/hotels/1879/ashford_castle_.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cong",
+        "addressRegion": "Condado de Mayo",
+        "addressCountry": "IE"
+      },
+      "numberOfRooms": 83
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuándo se construyó Ashford Castle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En 1228. Fue de la familia Guinness desde 1852 y es hotel desde 1939."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Admite niños?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, con horarios infantiles en la piscina Éalú."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué aeropuerto queda más cerca?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ireland West (Knock), a alrededor de una hora en coche."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Casa de Campo Resort & Villas",
+          "item": "https://solo5estrellas.com/hotels/1125/Casa-de-Campo-Resort-Villas-.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/1125/Casa-de-Campo-Resort-Villas-.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1125/Casa-de-Campo-Resort-Villas-.html",
+      "name": "Casa de Campo Resort & Villas",
+      "description": "Casa de Campo, en La Romana: tres campos de golf de Pete Dye y plan todo incluido opcional. Con Solo5Estrellas: desayuno para dos y crédito de spa o golf.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Casa de Campo Resort & Villas",
+      "url": "https://solo5estrellas.com/hotels/1125/Casa-de-Campo-Resort-Villas-.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Romana",
+        "addressCountry": "DO"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Casa de Campo tiene plan todo incluido?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, el plan opcional \"Casa Inclusive\", con comidas, bebidas por copa y muchas actividades."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos campos de golf tiene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tres, diseñados por Pete Dye: Teeth of the Dog, Dye Fore y The Links."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué aeropuerto queda más cerca?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El de La Romana (LRM), a unos 9 km."
+          }
+        }
+      ]
+    }
+  ]
+}

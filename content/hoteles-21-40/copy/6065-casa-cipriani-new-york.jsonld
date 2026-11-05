@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Casa Cipriani New York",
+          "item": "https://solo5estrellas.com/hotels/6065/casa-cipriani-new-york.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/6065/casa-cipriani-new-york.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6065/casa-cipriani-new-york.html",
+      "name": "Casa Cipriani New York",
+      "description": "Casa Cipriani New York, en el Battery Maritime Building de Manhattan, con spa. Con Solo5Estrellas: desayuno para dos y crédito de 100 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Casa Cipriani New York",
+      "url": "https://solo5estrellas.com/hotels/6065/casa-cipriani-new-york.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "10 South Street",
+        "postalCode": "10004",
+        "addressLocality": "Nueva York",
+        "addressRegion": "NY",
+        "addressCountry": "US"
+      },
+      "numberOfRooms": 47
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Los huéspedes pueden usar el club Casa Cipriani?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según fuentes externas, sí, durante la estancia. Confírmelo al reservar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántas habitaciones tiene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "47: 28 habitaciones y 19 suites."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene spa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, una planta de bienestar con spa y gimnasio."
+          }
+        }
+      ]
+    }
+  ]
+}

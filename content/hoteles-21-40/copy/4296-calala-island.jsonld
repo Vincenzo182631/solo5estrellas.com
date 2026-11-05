@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Calala Island",
+          "item": "https://solo5estrellas.com/hotels/4296/calala-island.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/4296/calala-island.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/4296/calala-island.html",
+      "name": "Calala Island",
+      "description": "Calala Island, isla privada todo incluido en los Cayos Perlas de Nicaragua, con cuatro suites. Reserve con Solo5Estrellas y mejora según disponibilidad.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Calala Island",
+      "url": "https://solo5estrellas.com/hotels/4296/calala-island.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cayos Perlas",
+        "addressCountry": "NI"
+      },
+      "numberOfRooms": 4
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo se llega a Calala Island?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Con un vuelo de 50 minutos de Managua a Bluefields y 90 minutos en barco, incluidos en la tarifa; el helicóptero es opcional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántas suites tiene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cuatro, para un máximo de diez huéspedes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es todo incluido?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí."
+          }
+        }
+      ]
+    }
+  ]
+}

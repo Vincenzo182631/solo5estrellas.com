@@ -41,7 +41,7 @@ La temporada seca va de mayo a octubre; de noviembre a abril es la época de llu
 
 Los meses de viento más suave son abril, mayo, octubre y noviembre. Los vuelos internacionales llegan a Mahé; Praslin queda a unos 15 minutos en avioneta o a menos de una hora en ferri.
 
-- **[North Island, a Luxury Collection Resort](/hotels/4045/north-island-a-luxury-collection-resort-seychelles.html):** una isla privada con 11 villas, cada una con piscina, a unos 15 minutos en helicóptero de Mahé.
+- **[North Island](/hotels/4045/north-island-a-luxury-collection-resort-seychelles.html):** una isla privada con 11 villas, cada una con piscina, a unos 15 minutos en helicóptero de Mahé; desde julio de 2025 funciona de forma independiente.
 - **[Four Seasons Resort Seychelles](/hotels/2287/four-seasons-resort-seychelles.html):** villas con piscina privada en la ladera sobre Petite Anse; tiene una página propia de lunas de miel.
 - **[Raffles Seychelles](/hotels/4898/raffles-seychelles.html):** villas con piscina en Praslin, como la Ocean View Pool Villa.
 
