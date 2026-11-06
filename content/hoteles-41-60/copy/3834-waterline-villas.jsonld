@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Waterline Villas & Marina, Autograph Collection",
+          "item": "https://solo5estrellas.com/hotels/3834/waterline-marina-resort-beach-club-autograph-collection.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/3834/waterline-marina-resort-beach-club-autograph-collection.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/3834/waterline-marina-resort-beach-club-autograph-collection.html",
+      "name": "Waterline Villas & Marina, Autograph Collection",
+      "description": "Waterline Villas & Marina, Autograph Collection: villas de dos dormitorios con cocina en Anna Maria Island (Florida). Reserve con Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Waterline Villas & Marina, Autograph Collection",
+      "url": "https://solo5estrellas.com/hotels/3834/waterline-marina-resort-beach-club-autograph-collection.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "5325 Marina Drive",
+        "postalCode": "34217",
+        "addressLocality": "Holmes Beach",
+        "addressRegion": "FL",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Está abierto tras los huracanes de 2024?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Reabrió en octubre de 2024 y se reserva a través de Marriott."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué tipo de alojamiento ofrece?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Villas de dos dormitorios con cocina completa, de unos 100 m²."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Admite mascotas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, con un cargo por estancia."
+          }
+        }
+      ]
+    }
+  ]
+}

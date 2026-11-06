@@ -1,4 +1,4 @@
-# Solo5Estrellas SEO: start here (updated 5 November 2026)
+# Solo5Estrellas SEO: start here (updated 6 November 2026)
 
 Everything the SEO work needs, in one place. Nothing here is live yet: these are drafts, specifications and reports. The developer release is the step that turns them into results.
 
@@ -39,10 +39,10 @@ Everything the SEO work needs, in one place. Nothing here is live yet: these are
 | Country pages | 131 | `content/paises/` (index: `content/paises/INDEX.md`) |
 | Turks & Caicos country page | 1 | `content/islas-turcas-y-caicos/` |
 | City pages | 7 | `content/londres/`, `paris/`, `nueva-york/`, `miami/`, `mayakoba/`, `mallorca/`, `seychelles/` (notes: `content/city-hubs-NOTES.md` and each folder's `NOTES.md`) |
-| Hotel pages | 40 | `content/hoteles-top20/` (ranks 1 to 20) and `content/hoteles-21-40/` (ranks 21 to 40): titles, descriptions and full sections in `copy/`; Four Seasons Madrid in `content/four-seasons-madrid/` |
+| Hotel pages | 59 | `content/hoteles-top20/` (ranks 1 to 20), `content/hoteles-21-40/` (21 to 40) and `content/hoteles-41-60/` (41 to 60): titles, descriptions and full sections in `copy/`; Four Seasons Madrid in `content/four-seasons-madrid/` |
 | Guides | 4 | `content/four-seasons-vs-ritz-carlton/`, `content/dorchester-vs-rosewood/`, `content/guia-luna-de-miel/` (honeymoon), `content/guia-beneficios/` (perks) |
 | Missing content list | 1 | `content/z12-missing-content/` |
-| All titles and descriptions | 259 pages | `content/page-metadata.csv` |
+| All titles and descriptions | 278 pages | `content/page-metadata.csv` |
 | Keyword to page map | | `content/keyword-page-map.csv` |
 
 Each folder holds the copy (`.md`), ready HTML (`.html`), structured data (`.jsonld`), notes (`NOTES.md`) and, in the previews zip, a `preview.png`.
@@ -64,4 +64,4 @@ Each folder holds the copy (`.md`), ready HTML (`.html`), structured data (`.jso
 | Daily EOD notes | `EOD/` |
 
 ## 3. Tracker
-`Solo5Estrellas_SEO_Tracker.xlsx`: 183 findings (master tracker), completed work D1 to D121, page metadata, EOD log, dashboard.
+`Solo5Estrellas_SEO_Tracker.xlsx`: 184 findings (master tracker), completed work D1 to D124, page metadata, EOD log, dashboard.

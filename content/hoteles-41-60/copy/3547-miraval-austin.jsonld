@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Miraval Austin Resort & Spa",
+          "item": "https://solo5estrellas.com/hotels/3547/Miraval-Austin-Resort-Spa.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/3547/Miraval-Austin-Resort-Spa.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/3547/Miraval-Austin-Resort-Spa.html",
+      "name": "Miraval Austin Resort & Spa",
+      "description": "Miraval Austin Resort & Spa, todo incluido de bienestar solo para adultos junto al lago Travis. Con Solo5Estrellas: crédito de 100 USD y mejora.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Miraval Austin Resort & Spa",
+      "url": "https://solo5estrellas.com/hotels/3547/Miraval-Austin-Resort-Spa.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "13500 FM 2769",
+        "postalCode": "78726",
+        "addressLocality": "Austin",
+        "addressRegion": "TX",
+        "addressCountry": "US"
+      },
+      "numberOfRooms": 117
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Miraval Austin es todo incluido?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: comidas, bebidas sin alcohol, actividades, un crédito diario para el spa y propinas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la edad mínima?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "18 años."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuándo abrió?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En febrero de 2019."
+          }
+        }
+      ]
+    }
+  ]
+}

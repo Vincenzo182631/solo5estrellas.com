@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ladera Resort",
+          "item": "https://solo5estrellas.com/hotels/1463/ladera-resort.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/1463/ladera-resort.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1463/ladera-resort.html",
+      "name": "Ladera Resort",
+      "description": "Ladera, resort solo para adultos frente a los Pitons de Santa Lucía, con piscina en cada suite. Con Solo5Estrellas: desayuno para dos y crédito de spa.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Ladera Resort",
+      "url": "https://solo5estrellas.com/hotels/1463/ladera-resort.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rabot Estate",
+        "addressLocality": "Soufrière",
+        "addressCountry": "LC"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la edad mínima?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "18 años; es un resort solo para adultos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Incluye traslados?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, de llegada y de salida. Hewanorra está a unos 45 minutos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene playa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No está en la playa, pero ofrece traslado tres veces al día de lunes a sábado."
+          }
+        }
+      ]
+    }
+  ]
+}

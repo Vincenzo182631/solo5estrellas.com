@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Nujuma, a Ritz-Carlton Reserve",
+          "item": "https://solo5estrellas.com/hotels/6669/nujuma-a-ritz-carlton-reserve.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/6669/nujuma-a-ritz-carlton-reserve.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6669/nujuma-a-ritz-carlton-reserve.html",
+      "name": "Nujuma, a Ritz-Carlton Reserve",
+      "description": "Nujuma, a Ritz-Carlton Reserve: villas con piscina en las islas Ummahat del mar Rojo. Con Solo5Estrellas: desayuno para dos y crédito de 100 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Nujuma, a Ritz-Carlton Reserve",
+      "url": "https://solo5estrellas.com/hotels/6669/nujuma-a-ritz-carlton-reserve.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Islas Ummahat, mar Rojo",
+        "addressCountry": "SA"
+      },
+      "numberOfRooms": 65
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo se llega a Nujuma?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En hidroavión, unos 27 minutos, o en barco desde el aeropuerto internacional del Mar Rojo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántas villas tiene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "65, todas con piscina."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué restaurantes tiene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sita, Jamaa, Tabrah y el bar Maia."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -57,3 +57,16 @@ Every Spanish country page has the title "Bienvenido | Solo 5 Estrellas", hrefla
   - 6113 is now "Zoëtry Mallorca Wellness & Spa".
   - The Spain country draft counts 17 Mallorca hotels; the live city page lists 19 (Z127).
 - **Login wall** (Z115) also on: 6664 Four Seasons Formentor, 7032 Mandarin Oriental Punta Negra, 2287 and 3289 Four Seasons Seychelles, 4651 Mango House, 4898 Raffles Seychelles, 3616 El Mangroove, 1079 Cap-Ferrat.
+
+## Added 6 Nov (ranks 41–60; tracker Z128)
+- **2218 W Atlanta – Midtown:** now The Starling Atlanta Midtown (Hilton Curio), not in the collection. Remove it from lists and 301 it to the Atlanta city page, or add The Starling and redirect there.
+- **Renames:**
+  - 3834 → "Waterline Villas & Marina, Autograph Collection"
+  - 6852 → "Four Seasons Hotel Mykonos"
+  - 1271 → "Four Seasons Resort Peninsula Papagayo, Costa Rica"
+  - 2291 → "Verdura Resort, a Rocco Forte Hotel"
+- **Locations:**
+  - 6788 Fairmont La Hacienda is in San Roque (La Alcaidesa, Cádiz); its page header shows no name or city.
+  - 6433 Villa Le Blanc is in Menorca, not "Balearic Islands".
+- **All-inclusive with a breakfast perk** (client rule: remove the breakfast line): 6288 Hotel Xcaret Arte, 3547 Miraval Austin. Also 4296 Calala (pending decision).
+- **3001 Hotel Único Madrid:** remove any mention of the Ramón Freixa restaurant (closed December 2024); the restaurant is now El Patio de Claudio.

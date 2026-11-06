@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pulitzer Amsterdam",
+          "item": "https://solo5estrellas.com/hotels/1126/hotel-pulitzer-amsterdam.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/1126/hotel-pulitzer-amsterdam.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1126/hotel-pulitzer-amsterdam.html",
+      "name": "Pulitzer Amsterdam",
+      "description": "Pulitzer Amsterdam, 25 casas de canal en las Nueve Calles. Con Solo5Estrellas: desayuno americano para dos, crédito de 100 USD y mejora.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Pulitzer Amsterdam",
+      "url": "https://solo5estrellas.com/hotels/1126/hotel-pulitzer-amsterdam.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Prinsengracht 323",
+        "postalCode": "1016 GZ",
+        "addressLocality": "Ámsterdam",
+        "addressCountry": "NL"
+      },
+      "numberOfRooms": 223
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántas habitaciones tiene Pulitzer Amsterdam?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "223, repartidas en 25 casas de canal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Admite mascotas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, un perro o gato pequeño por habitación, con suplemento."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la edad mínima para reservar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "18 años; los niños son bienvenidos."
+          }
+        }
+      ]
+    }
+  ]
+}

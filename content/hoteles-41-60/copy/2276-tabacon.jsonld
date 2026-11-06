@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tabacón Thermal Resort & Spa",
+          "item": "https://solo5estrellas.com/hotels/2276/tabacon-thermal-resort-spa.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/2276/tabacon-thermal-resort-spa.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2276/tabacon-thermal-resort-spa.html",
+      "name": "Tabacón Thermal Resort & Spa",
+      "description": "Tabacón Thermal Resort & Spa, junto al volcán Arenal, con río termal y spa. Con Solo5Estrellas: desayuno para dos, crédito de 100 USD y mejora.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Tabacón Thermal Resort & Spa",
+      "url": "https://solo5estrellas.com/hotels/2276/tabacon-thermal-resort-spa.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Fortuna",
+        "addressRegion": "Alajuela",
+        "addressCountry": "CR"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Las aguas termales están incluidas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, para los huéspedes; Shangri-La Gardens es solo para mayores de 18 años."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿A qué temperatura está el agua?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Entre unos 22 y 38 °C."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Admite niños?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, salvo en Shangri-La Gardens y en la Private Pool Suite, solo para adultos."
+          }
+        }
+      ]
+    }
+  ]
+}
