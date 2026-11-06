@@ -12,3 +12,18 @@ Perks, programme wording and the hotel list come from our live collection page. 
 1. Perks, programme name and the hotels that take part, with the programme.
 2. Reviewer name, verification date and English URL for hreflang: the pair is in `developer-spec/hreflang-map.csv` (the English page exists and returns 200).
 3. Page counts: the live text and header may disagree with the list (Z42); the draft uses the list.
+
+## Update 6 Nov: perks and names corrected (tracker Z125)
+- **Perks:** now follow the official Rosewood Elite brochure (daily breakfast for up to two, a one-category upgrade on arrival subject to availability, and a welcome note and amenity from the hotel's managing director).
+  - Removed: the 100 USD credit, early check-in, late check-out and Wi-Fi as standard perks. The credit is described as "según el hotel" (some hotels add one; e.g. Rosewood Mayakoba's live page shows 125 USD).
+  - H1, description and page metadata updated.
+- **Names and places:**
+  - Rosewood Miramar Beach (Montecito)
+  - Rosewood Sand Hill (Menlo Park)
+  - Las Ventanas al Paraíso, A Rosewood Resort
+  - Rosewood Mandarina (Riviera Nayarit)
+  - Rosewood Mayakoba (Riviera Maya)
+  - Rosewood San Miguel de Allende
+  - Hôtel de Crillon, A Rosewood Hotel
+  - Rosewood Matakauri
+- **Brand size:** about 44 properties worldwide (official, May 2026), replacing "más de 20 países".

@@ -63,7 +63,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Hotel Plaza Athenee Paris",
+          "name": "Hôtel Plaza Athénée",
           "url": "https://solo5estrellas.com/hotels/1008/Hotel-Plaza-Athenee-Paris.html"
         },
         {
@@ -120,7 +120,7 @@
           "name": "¿Qué incluye reservar Dorchester Collection con Solo5Estrellas?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, entrada anticipada y salida tardía según disponibilidad, y una bienvenida de la dirección del hotel. El desayuno, el crédito y la bienvenida se confirman al reservar."
+            "text": "Desayuno diario para dos, un crédito de hotel (según el hotel y la categoría), mejora de habitación, entrada anticipada y salida tardía según disponibilidad, y una bienvenida de la dirección del hotel. El desayuno, el crédito y la bienvenida se confirman al reservar."
           }
         },
         {

@@ -1,8 +1,8 @@
-# Hoteles de lujo en España: 107 hoteles
+# Hoteles de lujo en España: 112 hoteles
 
-> Draft for `/countries/58/spain.html` (publish in place with a clean slug). Title: Hoteles de lujo en España: 107 hoteles | Solo5Estrellas (55). Description: Explore 107 hoteles de lujo en España con desayuno para dos y otras ventajas de reserva. (88).
+> Draft for `/countries/58/spain.html` (publish in place with a clean slug). Title: Hoteles de lujo en España: 112 hoteles | Solo5Estrellas (55). Description: Explore 112 hoteles de lujo en España con desayuno para dos y otras ventajas de reserva. (88).
 
-Esta página reúne 107 hoteles de lujo de España, con las ventajas de reserva de cada marca, como desayuno diario para dos y un crédito de hotel en los hoteles participantes. Las ciudades con más hoteles son Barcelona (21), Madrid (21), Mallorca (17).
+Esta página reúne 112 hoteles de lujo de España, con las ventajas de reserva de cada marca, como desayuno diario para dos y un crédito de hotel en los hoteles participantes. Las ciudades con más hoteles son Barcelona (21), Madrid (21), Mallorca (19).
 
 Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de España por ciudad. Cada hotel pertenece a una marca o colección con su propia página, donde se detallan el programa y las ventajas. Los nombres de los hoteles no se traducen.
 
@@ -12,8 +12,9 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Es
 | --- | --- |
 | Barcelona | 21 |
 | Madrid | 21 |
-| Mallorca | 17 |
+| Mallorca | 19 |
 | Ibiza | 8 |
+| Marbella | 5 |
 | Sevilla | 5 |
 | Valencia | 5 |
 | Málaga | 4 |
@@ -21,12 +22,11 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Es
 | Bilbao | 3 |
 | Granada | 3 |
 | Estepona | 2 |
-| Marbella | 2 |
-| Islas Baleares | 1 |
 | Baqueira | 1 |
 | Casares | 1 |
 | Elciego | 1 |
 | Formentera | 1 |
+| Islas Baleares | 1 |
 | La Rioja | 1 |
 | Monroyo | 1 |
 | Salamanca | 1 |
@@ -38,20 +38,20 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Es
 | --- | --- |
 | [Small Luxury Hotels of The World](/collection/47/) | 15 |
 | [Autograph Collection](/collection/68/) | 13 |
-| [Preferred Hotels & Resorts](/collection/25/) | 12 |
-| [The Signature Collection](/collection/79/) | 9 |
-| [Leading Hotels of the World](/collection/38/) | 8 |
+| [Preferred Hotels & Resorts](/collection/25/) | 13 |
+| [The Signature Collection](/collection/79/) | 10 |
+| [Leading Hotels of the World](/collection/38/) | 10 |
 | [The Luxury Collection](/collection/51/) | 6 |
 | [Mandarin Oriental](/collection/5/) | 3 |
+| [InterContinental Hotels & Resorts](/collection/15/) | 3 |
 | [Ritz Carlton Hotels & Resorts](/collection/13/) | 2 |
 | [Hyatt Regency Hotels](/collection/29/) | 2 |
-| [InterContinental Hotels & Resorts](/collection/15/) | 2 |
 | [Kimpton Hotels](/collection/87/) | 2 |
 | [EDITION Hotels](/collection/74/) | 2 |
 
 Los 8 hoteles restantes no tienen una marca o colección asociada en la lista.
 
-## Los 107 hoteles de España
+## Los 112 hoteles de España
 
 - Baqueira: [Baqueira Ski Resort, Autograph Collection](/hotels/3745/baqueira-ski-resort-autograph-collection.html)
 - Barcelona: [Cotton House Hotel, Autograph Collection](/hotels/3799/cotton-house-hotel-autograph-collection.html); [El Palace Hotel](/hotels/2429/el-palace-hotel.html); [Grand Hotel Central Barcelona](/hotels/3005/grand-hotel-central-barcelona.html); [Grand Hyatt Barcelona](/hotels/3913/grand-hyatt-barcelona.html); [Hotel Arts Barcelona](/hotels/952/hotel-arts-barcelona.html); [Hotel Claris, Barcelona](/hotels/1258/hotel-claris-barcelona.html); [Hotel Miramar Barcelona](/hotels/1974/hotel-miramar-barcelona.html); [Hotel Neri Barcelona](/hotels/3221/hotel-neri-barcelona.html); [Hyatt Regency Barcelona Tower](/hotels/4222/hyatt-regency-barcelona-tower.html); [InterContinental Barcelona](/hotels/4768/intercontinental-barcelona.html); [Kimpton Vividora Barcelona](/hotels/6258/kimpton-vividora-barcelona-.html); [Labtwentytwo Barcelona, a Tribute Portfolio Hotel](/hotels/6902/labtwentytwo-barcelona-a-tribute-portfolio-hotel.html); [Le Meridien Barcelona](/hotels/2221/le-meridien-barcelona-.html); [Majestic Hotel & Spa Barcelona](/hotels/3615/majestic-hotel-spa-barcelona.html); [Mandarin Oriental Barcelona](/hotels/2355/mandarin-oriental-barcelona.html); [Monument Hotel](/hotels/3318/monument-hotel.html); [Renaissance Barcelona Hotel](/hotels/6901/renaissance-barcelona-hotel.html); [SLS Barcelona](/hotels/6798/sls-barcelona.html); [The Barcelona EDITION](/hotels/3369/the-barcelona-edition.html); [The Serras Hotel Barcelona](/hotels/4551/the-serras-hotel-barcelona.html); [The Wittmore](/hotels/4417/the-wittmore.html)
@@ -65,8 +65,8 @@ Los 8 hoteles restantes no tienen una marca o colección asociada en la lista.
 - Islas Baleares: [Villa Le Blanc Gran Melia](/hotels/6433/villa-le-blanc-gran-melia.html)
 - La Rioja: [Palacio Tondon, La Rioja Brinas](/hotels/6489/palacio-tondon-la-rioja-brinas.html)
 - Madrid: [Bless Hotel Madrid](/hotels/6634/bless-hotel-madrid.html); [Four Seasons Hotel Madrid](/hotels/3897/four-seasons-hotel-madrid-.html); [Gran Meliá Fenix](/hotels/4036/gran-meli-fenix.html); [Hotel Circulo Gran Via, Autograph Collection](/hotels/3839/hotel-circulo-gran-via-autograph-collection.html); [Hotel Palacio Del Retiro](/hotels/4981/hotel-palacio-del-retiro.html); [Hotel Unico, Madrid](/hotels/3001/hotel-unico-madrid.html); [Hotel Villa Real](/hotels/2075/hotel-villa-real.html); [Hotel Wellington, Madrid](/hotels/4555/hotel-wellington-madrid.html); [Hyatt Centric Gran Via Madrid](/hotels/3928/hyatt-centric-gran-via-madrid.html); [Hyatt Regency Hesperia Madrid](/hotels/4112/hyatt-regency-hesperia-madrid.html); [InterContinental Madrid](/hotels/1383/intercontinental-madrid.html); [JW Marriott Hotel Madrid](/hotels/6358/jw-marriott-hotel-madrid.html); [Mandarin Oriental Ritz, Madrid](/hotels/1074/mandarin-oriental-ritz-madrid.html); [Palacio de los Duques, a Gran Meliá Hotel](/hotels/4037/palacio-de-los-duques-a-gran-meli-hotel.html); [Rosewood Villa Magna](/hotels/2920/rosewood-villa-magna.html); [Santo Mauro, a Luxury Collection Hotel](/hotels/1487/santo-mauro-a-luxury-collection-hotel.html); [The Madrid EDITION](/hotels/6213/the-madrid-edition.html); [The Palace Madrid](/hotels/1011/the-palace-madrid.html); [The Principal Madrid Hotel](/hotels/3599/the-principal-madrid-hotel.html); [Thompson Madrid](/hotels/6118/thompson-madrid.html); [URSO Hotel & Spa](/hotels/4416/urso-hotel-spa.html)
-- Mallorca: [Belmond La Residencia](/hotels/1073/belmond-la-residencia.html); [Can Bordoy Grand House & Garden Hotel](/hotels/4584/can-bordoy-grand-house-garden-hotel-.html); [Castillo Hotel Son Vida](/hotels/2807/castillo-hotel-son-vida.html); [Convent de la Missio](/hotels/4240/convent-de-la-missio.html); [Finca Serena Mallorca](/hotels/4437/finca-serena-mallorca.html); [Fontsanta Hotel Thermal Spa & Wellness](/hotels/7152/fontsanta-hotel-thermal-spa-wellness.html); [Four Seasons Resort Mallorca at Formentor](/hotels/6664/four-seasons-resort-mallorca-at-formentor.html); [Hacienda Son Antem Golf Resort](/hotels/7069/hacienda-son-antem-golf-resort.html); [Jumeirah Mallorca](/hotels/2753/jumeirah-mallorca.html); [Kimpton Aysla Mallorca](/hotels/6306/kimpton-aysla-mallorca.html); [Lindner Hotel Mallorca Portals Nous](/hotels/6675/lindner-hotel-mallorca-portals-nous.html); [Mandarin Oriental Punta Negra, Mallorca](/hotels/7032/mandarin-oriental-punta-negra-mallorca.html); [Pleta De Mar Luxury By Nature](/hotels/7153/pleta-de-mar-luxury-by-nature.html); [Son Bunyola](/hotels/4224/son-bunyola.html); [The Lodge Mallorca](/hotels/6391/the-lodge-mallorca.html); [The St Regis Mardavall Mallorca Resort](/hotels/1382/the-st-regis-mardavall-mallorca-resort.html); [Zoetry Mallorca Resort & Spa](/hotels/6113/zoetry-mallorca-resort-spa.html)
-- Marbella: [Nobu Hotel Marbella](/hotels/4419/nobu-hotel-marbella.html); [The Westin La Quinta Golf Resort & Spa](/hotels/6546/the-westin-la-quinta-golf-resort-spa.html)
+- Mallorca: [Belmond La Residencia](/hotels/1073/belmond-la-residencia.html); [Can Bordoy Grand House & Garden Hotel](/hotels/4584/can-bordoy-grand-house-garden-hotel-.html); [Cap Vermell Grand Hotel](/hotels/6824/cap-vermell-grand-hotel.html); [Castillo Hotel Son Vida](/hotels/2807/castillo-hotel-son-vida.html); [Convent de la Missio](/hotels/4240/convent-de-la-missio.html); [Finca Serena Mallorca](/hotels/4437/finca-serena-mallorca.html); [Fontsanta Hotel Thermal Spa & Wellness](/hotels/7152/fontsanta-hotel-thermal-spa-wellness.html); [Four Seasons Resort Mallorca at Formentor](/hotels/6664/four-seasons-resort-mallorca-at-formentor.html); [Grand Hotel Son Net](/hotels/7162/grand-hotel-son-net.html); [Hacienda Son Antem Golf Resort](/hotels/7069/hacienda-son-antem-golf-resort.html); [Jumeirah Mallorca](/hotels/2753/jumeirah-mallorca.html); [Kimpton Aysla Mallorca](/hotels/6306/kimpton-aysla-mallorca.html); [Lindner Hotel Mallorca Portals Nous](/hotels/6675/lindner-hotel-mallorca-portals-nous.html); [Mandarin Oriental Punta Negra, Mallorca](/hotels/7032/mandarin-oriental-punta-negra-mallorca.html); [Pleta De Mar Luxury By Nature](/hotels/7153/pleta-de-mar-luxury-by-nature.html); [Son Bunyola](/hotels/4224/son-bunyola.html); [The Lodge Mallorca](/hotels/6391/the-lodge-mallorca.html); [The St Regis Mardavall Mallorca Resort](/hotels/1382/the-st-regis-mardavall-mallorca-resort.html); [Zoetry Mallorca Resort & Spa](/hotels/6113/zoetry-mallorca-resort-spa.html)
+- Marbella: [Don Carlos Marbella](/hotels/7165/don-carlos-marbella.html); [Kimpton Los Monteros Marbella](/hotels/7167/kimpton-los-monteros-marbella.html); [ME Marbella](/hotels/2264/me-marbella.html); [Nobu Hotel Marbella](/hotels/4419/nobu-hotel-marbella.html); [The Westin La Quinta Golf Resort & Spa](/hotels/6546/the-westin-la-quinta-golf-resort-spa.html)
 - Monroyo: [Hotel Torre del Marques](/hotels/4828/hotel-torre-del-marques.html)
 - Málaga: [Fairmont La Hacienda Costa Del Sol](/hotels/6788/fairmont-la-hacienda-costa-del-sol.html); [Hotel La Zambra](/hotels/6126/hotel-la-zambra.html); [Hotel Vincci Seleccion Posada del Patio](/hotels/4566/hotel-vincci-seleccion-posada-del-patio.html); [Palacio Solecio](/hotels/4418/palacio-solecio.html)
 - Salamanca: [Hacienda Zorita Wine Hotel & Organic Farm](/hotels/4436/hacienda-zorita-wine-hotel-organic-farm.html)
@@ -82,11 +82,11 @@ Los 8 hoteles restantes no tienen una marca o colección asociada en la lista.
 
 **¿Cuántos hoteles de lujo hay en España en Solo5Estrellas?**
 
-107 hoteles. Las ciudades con más hoteles son Barcelona (21), Madrid (21), Mallorca (17).
+112 hoteles. Las ciudades con más hoteles son Barcelona (21), Madrid (21), Mallorca (19).
 
 **¿Qué ciudades de España tienen más hoteles?**
 
-Barcelona (21), Madrid (21), Mallorca (17). La tabla de esta página muestra el recuento de cada ciudad.
+Barcelona (21), Madrid (21), Mallorca (19). La tabla de esta página muestra el recuento de cada ciudad.
 
 **¿Qué marcas tienen más hoteles en España?**
 

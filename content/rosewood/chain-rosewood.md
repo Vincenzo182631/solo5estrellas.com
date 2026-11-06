@@ -1,10 +1,10 @@
-# Hoteles Rosewood: 42 hoteles con desayuno para dos y crédito de hotel
+# Hoteles Rosewood: 42 hoteles con desayuno para dos y ventajas Rosewood Elite
 
-> Draft for `/collection/10/rosewood-hotels-resorts.html` (publish in place with a clean slug). Title: Hoteles Rosewood: beneficios exclusivos | Solo5Estrellas (56). Description: Reserve 42 hoteles Rosewood en 23 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada. (132).
+> Draft for `/collection/10/rosewood-hotels-resorts.html` (publish in place with a clean slug). Title: Hoteles Rosewood: beneficios exclusivos | Solo5Estrellas (56). Description: Reserve 42 hoteles Rosewood en 23 países con desayuno para dos, mejora de categoría y detalle de bienvenida, a la misma tarifa publicada. (137).
 
-Reservar Rosewood con Solo5Estrellas cuesta lo mismo que en la web del hotel, porque se paga la tarifa publicada, y añade desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, un detalle de bienvenida y Wi-Fi de cortesía. Rosewood no tiene programa de puntos.
+Reservar Rosewood con Solo5Estrellas cuesta lo mismo que en la web del hotel, porque se paga la tarifa publicada, y añade desayuno diario para dos, una mejora de una categoría a la llegada según disponibilidad y un detalle de bienvenida; algunos hoteles suman un crédito de hotel. Rosewood no tiene programa de puntos.
 
-Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más de 20 países, bajo su filosofía "A Sense of Place". Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada de Rosewood Elite, el programa de Rosewood Hotel Group para asesores de viaje. Esta página reúne 42 hoteles de Rosewood en 23 países y territorios: 7 en Estados Unidos, 4 en China, 4 en México. Los nombres de los hoteles no se traducen.
+Rosewood Hotels & Resorts gestiona unas 44 propiedades de lujo de diseño individual en todo el mundo, bajo su filosofía "A Sense of Place". Solo5Estrellas, operado por Lorraine Travel desde 1948, es una agencia autorizada de Rosewood Elite, el programa de Rosewood Hotel Group para asesores de viaje. Esta página reúne 42 hoteles de Rosewood en 23 países y territorios: 7 en Estados Unidos, 4 en China, 4 en México. Los nombres de los hoteles no se traducen.
 
 ## Datos clave
 
@@ -12,7 +12,7 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 | --- | --- |
 | Programa | Rosewood Elite |
 | Lo que paga | La misma tarifa que publica Rosewood; las ventajas se añaden sin cargo adicional |
-| Incluye | Desayuno diario para dos, crédito de hotel (100 USD), prioridad para la mejora, entrada anticipada y salida tardía, detalle de bienvenida y Wi-Fi |
+| Incluye | Desayuno diario para dos, mejora de una categoría a la llegada (según disponibilidad) y detalle de bienvenida; crédito de hotel según el hotel |
 | Fidelización | Rosewood no tiene programa de puntos |
 | Hoteles | 42 hoteles de Rosewood en 23 países y territorios |
 | Estancia mínima | Se confirma al reservar |
@@ -22,26 +22,24 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 | Ventaja | Detalle | Disponibilidad |
 | --- | --- | --- |
 | Desayuno diario para dos | Desayuno diario para dos huéspedes. | Se confirma al reservar |
-| Crédito de hotel | Crédito de 100 USD por estancia para spa, restauración o servicios; el importe y su uso dependen del hotel. | Se confirma al reservar |
-| Mejora de habitación | Mejora con prioridad. | Sujeta a disponibilidad |
-| Entrada anticipada y salida tardía | Cuando haya disponibilidad. | Sujetas a disponibilidad |
-| Detalle de bienvenida | Reconocimiento VIP con un detalle de bienvenida personalizado. | Se confirma al reservar |
-| Wi-Fi de cortesía | Wi-Fi de alta velocidad de cortesía. | Se confirma al reservar |
+| Crédito de hotel | Algunos hoteles añaden un crédito; el importe y su uso dependen del hotel y figuran en su ficha. | Según el hotel |
+| Mejora de habitación | Una categoría superior a la llegada. | Sujeta a disponibilidad |
+| Detalle de bienvenida | Nota y detalle de bienvenida del director del hotel. | Se confirma al reservar |
 
 ## Cómo reservar Rosewood con ventajas
 
 1. Elija el hotel entre los 42 de esta página.
 2. Reserve a través de Solo5Estrellas: paga la tarifa publicada del hotel y las ventajas se añaden a esa tarifa.
-3. Revise lo confirmado: desayuno, crédito, detalle de bienvenida y Wi-Fi se confirman al reservar.
-4. En el hotel, solicite la mejora de habitación, la entrada anticipada o la salida tardía; dependen de la disponibilidad.
+3. Revise lo confirmado: el desayuno y el detalle de bienvenida se confirman al reservar; el crédito, si el hotel lo ofrece, aparece en su ficha.
+4. La mejora de una categoría se asigna a la llegada, según la disponibilidad del hotel.
 
 ## Los 42 hoteles Rosewood por país
 
 ### Norteamérica
 
 **Estados Unidos (7)**
-- [Rosewood Miramar Beach Hotel](/hotels/3483/rosewood-miramar-beach-hotel.html) (Santa Bárbara, California)
-- [Rosewood Sand Hill](/hotels/2295/rosewood-sand-hill.html) (Palo Alto, California)
+- [Rosewood Miramar Beach](/hotels/3483/rosewood-miramar-beach-hotel.html) (Montecito, California)
+- [Rosewood Sand Hill](/hotels/2295/rosewood-sand-hill.html) (Menlo Park, California)
 - [Rosewood Washington, D.C.](/hotels/3092/rosewood-washington-d-c-.html) (Washington D. C., District of Columbia)
 - [Kona Village, A Rosewood Resort](/hotels/6370/kona-village-a-rosewood-resort.html) (Big Island, Hawaii)
 - [Rosewood Inn of the Anasazi](/hotels/1907/rosewood-inn-of-the-anasazi.html) (Santa Fe, New Mexico)
@@ -54,10 +52,10 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 ### México, Caribe y Centroamérica
 
 **México (4)**
-- [Las Ventanas Al Paraiso](/hotels/985/las-ventanas-al-paraiso.html) (Cabo San Lucas)
-- [Rosewood Mandarina](/hotels/6764/rosewood-mandarina.html) (Puerto Vallarta)
-- [Rosewood Mayakoba](/hotels/1896/rosewood-mayakoba.html) (Mayakoba)
-- [Rosewood San Miguel Allende](/hotels/3479/rosewood-san-miguel-allende.html) (San Miguel de Allende)
+- [Las Ventanas al Paraíso, A Rosewood Resort](/hotels/985/las-ventanas-al-paraiso.html) (Cabo San Lucas)
+- [Rosewood Mandarina](/hotels/6764/rosewood-mandarina.html) (Riviera Nayarit)
+- [Rosewood Mayakoba](/hotels/1896/rosewood-mayakoba.html) (Riviera Maya)
+- [Rosewood San Miguel de Allende](/hotels/3479/rosewood-san-miguel-allende.html) (San Miguel de Allende)
 
 **Bahamas (1)**
 - [Rosewood Baha Mar](/hotels/2982/rosewood-baha-mar.html) (Nassau)
@@ -80,7 +78,7 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 - [Rosewood Vienna](/hotels/6291/rosewood-vienna.html) (Viena)
 
 **Francia (2)**
-- [Hotel de Crillon](/hotels/1448/hotel-de-crillon.html) (París)
+- [Hôtel de Crillon, A Rosewood Hotel](/hotels/1448/hotel-de-crillon.html) (París)
 - [Rosewood Courchevel Le Jardin Alpin](/hotels/6955/rosewood-courchevel-le-jardin-alpin.html) (Courchevel)
 
 **Alemania (1)**
@@ -137,7 +135,7 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 **Nueva Zelanda (3)**
 - [Rosewood Cape Kidnappers](/hotels/2468/rosewood-cape-kidnappers.html) (Te Awanga)
 - [Rosewood Kauri Cliffs](/hotels/1243/rosewood-kauri-cliffs.html) (Matauri Bay)
-- [Rosewood Matakauri Lodge](/hotels/1255/rosewood-matakauri-lodge.html) (Queenstown)
+- [Rosewood Matakauri](/hotels/1255/rosewood-matakauri-lodge.html) (Queenstown)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -145,10 +143,9 @@ Rosewood Hotels & Resorts gestiona hoteles de lujo de diseño individual en más
 | --- | --- | --- |
 | Tarifa de la habitación | La tarifa publicada del hotel | La misma tarifa publicada |
 | Desayuno diario para dos | No forma parte de la tarifa publicada | Incluido, se confirma al reservar |
-| Crédito de hotel | No forma parte de la tarifa publicada | 100 USD, se confirma al reservar |
-| Mejora de habitación | No forma parte de la tarifa publicada | Prioridad, sujeta a disponibilidad |
-| Entrada anticipada y salida tardía | No forman parte de la tarifa publicada | Sujetas a disponibilidad |
-| Detalle de bienvenida y Wi-Fi | No forman parte de la tarifa publicada | Se confirman al reservar |
+| Crédito de hotel | No forma parte de la tarifa publicada | Según el hotel |
+| Mejora de habitación | No forma parte de la tarifa publicada | Una categoría a la llegada, sujeta a disponibilidad |
+| Detalle de bienvenida | No forma parte de la tarifa publicada | Se confirma al reservar |
 
 ## Preguntas frecuentes sobre Rosewood
 
@@ -158,7 +155,7 @@ No. Con Solo5Estrellas paga la misma tarifa publicada que el hotel, y las ventaj
 
 **¿Qué incluye reservar Rosewood con Solo5Estrellas?**
 
-Desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, entrada anticipada y salida tardía según disponibilidad, un detalle de bienvenida y Wi-Fi de cortesía. Las condiciones dependen del hotel y se confirman al reservar.
+Desayuno diario para dos, una mejora de una categoría a la llegada según disponibilidad y un detalle de bienvenida del director del hotel. Algunos hoteles añaden un crédito; las condiciones de cada hotel figuran en su ficha.
 
 **¿Rosewood tiene programa de puntos?**
 
@@ -170,15 +167,15 @@ No. Rosewood no tiene un programa de fidelización por puntos; las ventajas de R
 
 **¿Qué hoteles Rosewood hay en México y España?**
 
-En México: Las Ventanas Al Paraiso, Rosewood Mandarina, Rosewood Mayakoba, Rosewood San Miguel Allende. En España: Rosewood Villa Magna.
+En México: Las Ventanas al Paraíso, A Rosewood Resort, Rosewood Mandarina, Rosewood Mayakoba, Rosewood San Miguel de Allende. En España: Rosewood Villa Magna.
 
 **¿Qué hoteles Rosewood hay en Estados Unidos?**
 
-7 hoteles, entre ellos Rosewood Miramar Beach Hotel, Rosewood Sand Hill, Rosewood Washington, D.C., Kona Village, A Rosewood Resort, Rosewood Inn of the Anasazi, The Carlyle, A Rosewood Hotel y 1 más; la lista completa está en esta página.
+7 hoteles, entre ellos Rosewood Miramar Beach, Rosewood Sand Hill, Rosewood Washington, D.C., Kona Village, A Rosewood Resort, Rosewood Inn of the Anasazi, The Carlyle, A Rosewood Hotel y 1 más; la lista completa está en esta página.
 
 **¿Qué es Rosewood Elite?**
 
-Es el programa de Rosewood Hotel Group para asesores de viaje seleccionados. Las reservas se hacen a las tarifas publicadas del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y la prioridad para la mejora de habitación.
+Es el programa de Rosewood Hotel Group para asesores de viaje seleccionados. Las reservas se hacen a las tarifas publicadas del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y la mejora de una categoría a la llegada, según disponibilidad.
 
 **¿Hay estancia mínima para las ventajas?**
 
@@ -190,8 +187,8 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 
 ## Restricciones y letra pequeña
 
-- Crédito de hotel: 100 USD por estancia; no está garantizado en todos los hoteles y se confirma al reservar.
-- Mejora de habitación, entrada anticipada y salida tardía: sujetas a disponibilidad y según el hotel.
+- Crédito de hotel: no forma parte de las ventajas estándar de Rosewood Elite; algunos hoteles lo ofrecen y su importe figura en la ficha del hotel.
+- Mejora de habitación: una categoría, a la llegada y sujeta a disponibilidad.
 - Tarifas: las ventajas se aplican a tarifas publicadas y a ofertas destacadas; el motor de reservas indica qué tarifas las incluyen.
 - Ofertas: las ventajas se aplican además de las ofertas públicas si reserva la tarifa de la oferta a través de Solo5Estrellas.
 

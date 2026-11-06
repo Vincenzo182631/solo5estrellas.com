@@ -22,8 +22,8 @@
       "@type": "CollectionPage",
       "@id": "https://solo5estrellas.com/countries/58/espana.html#webpage",
       "url": "https://solo5estrellas.com/countries/58/espana.html",
-      "name": "Hoteles de lujo en España: 107 hoteles",
-      "description": "Explore 107 hoteles de lujo en España con desayuno para dos y otras ventajas de reserva.",
+      "name": "Hoteles de lujo en España: 112 hoteles",
+      "description": "Explore 112 hoteles de lujo en España con desayuno para dos y otras ventajas de reserva.",
       "inLanguage": "es",
       "isPartOf": {
         "@id": "https://solo5estrellas.com/#website"
@@ -40,7 +40,7 @@
       "@type": "ItemList",
       "@id": "https://solo5estrellas.com/countries/58/espana.html#hotels",
       "name": "Hoteles de lujo en España",
-      "numberOfItems": 107,
+      "numberOfItems": 112,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -465,222 +465,252 @@
         {
           "@type": "ListItem",
           "position": 71,
+          "name": "Cap Vermell Grand Hotel",
+          "url": "https://solo5estrellas.com/hotels/6824/cap-vermell-grand-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
           "name": "Castillo Hotel Son Vida",
           "url": "https://solo5estrellas.com/hotels/2807/castillo-hotel-son-vida.html"
         },
         {
           "@type": "ListItem",
-          "position": 72,
+          "position": 73,
           "name": "Convent de la Missio",
           "url": "https://solo5estrellas.com/hotels/4240/convent-de-la-missio.html"
         },
         {
           "@type": "ListItem",
-          "position": 73,
+          "position": 74,
           "name": "Finca Serena Mallorca",
           "url": "https://solo5estrellas.com/hotels/4437/finca-serena-mallorca.html"
         },
         {
           "@type": "ListItem",
-          "position": 74,
+          "position": 75,
           "name": "Fontsanta Hotel Thermal Spa & Wellness",
           "url": "https://solo5estrellas.com/hotels/7152/fontsanta-hotel-thermal-spa-wellness.html"
         },
         {
           "@type": "ListItem",
-          "position": 75,
+          "position": 76,
           "name": "Four Seasons Resort Mallorca at Formentor",
           "url": "https://solo5estrellas.com/hotels/6664/four-seasons-resort-mallorca-at-formentor.html"
         },
         {
           "@type": "ListItem",
-          "position": 76,
+          "position": 77,
+          "name": "Grand Hotel Son Net",
+          "url": "https://solo5estrellas.com/hotels/7162/grand-hotel-son-net.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 78,
           "name": "Hacienda Son Antem Golf Resort",
           "url": "https://solo5estrellas.com/hotels/7069/hacienda-son-antem-golf-resort.html"
         },
         {
           "@type": "ListItem",
-          "position": 77,
+          "position": 79,
           "name": "Jumeirah Mallorca",
           "url": "https://solo5estrellas.com/hotels/2753/jumeirah-mallorca.html"
         },
         {
           "@type": "ListItem",
-          "position": 78,
+          "position": 80,
           "name": "Kimpton Aysla Mallorca",
           "url": "https://solo5estrellas.com/hotels/6306/kimpton-aysla-mallorca.html"
         },
         {
           "@type": "ListItem",
-          "position": 79,
+          "position": 81,
           "name": "Lindner Hotel Mallorca Portals Nous",
           "url": "https://solo5estrellas.com/hotels/6675/lindner-hotel-mallorca-portals-nous.html"
         },
         {
           "@type": "ListItem",
-          "position": 80,
+          "position": 82,
           "name": "Mandarin Oriental Punta Negra, Mallorca",
           "url": "https://solo5estrellas.com/hotels/7032/mandarin-oriental-punta-negra-mallorca.html"
         },
         {
           "@type": "ListItem",
-          "position": 81,
+          "position": 83,
           "name": "Pleta De Mar Luxury By Nature",
           "url": "https://solo5estrellas.com/hotels/7153/pleta-de-mar-luxury-by-nature.html"
         },
         {
           "@type": "ListItem",
-          "position": 82,
+          "position": 84,
           "name": "Son Bunyola",
           "url": "https://solo5estrellas.com/hotels/4224/son-bunyola.html"
         },
         {
           "@type": "ListItem",
-          "position": 83,
+          "position": 85,
           "name": "The Lodge Mallorca",
           "url": "https://solo5estrellas.com/hotels/6391/the-lodge-mallorca.html"
         },
         {
           "@type": "ListItem",
-          "position": 84,
+          "position": 86,
           "name": "The St Regis Mardavall Mallorca Resort",
           "url": "https://solo5estrellas.com/hotels/1382/the-st-regis-mardavall-mallorca-resort.html"
         },
         {
           "@type": "ListItem",
-          "position": 85,
+          "position": 87,
           "name": "Zoetry Mallorca Resort & Spa",
           "url": "https://solo5estrellas.com/hotels/6113/zoetry-mallorca-resort-spa.html"
         },
         {
           "@type": "ListItem",
-          "position": 86,
+          "position": 88,
+          "name": "Don Carlos Marbella",
+          "url": "https://solo5estrellas.com/hotels/7165/don-carlos-marbella.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 89,
+          "name": "Kimpton Los Monteros Marbella",
+          "url": "https://solo5estrellas.com/hotels/7167/kimpton-los-monteros-marbella.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 90,
+          "name": "ME Marbella",
+          "url": "https://solo5estrellas.com/hotels/2264/me-marbella.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 91,
           "name": "Nobu Hotel Marbella",
           "url": "https://solo5estrellas.com/hotels/4419/nobu-hotel-marbella.html"
         },
         {
           "@type": "ListItem",
-          "position": 87,
+          "position": 92,
           "name": "The Westin La Quinta Golf Resort & Spa",
           "url": "https://solo5estrellas.com/hotels/6546/the-westin-la-quinta-golf-resort-spa.html"
         },
         {
           "@type": "ListItem",
-          "position": 88,
+          "position": 93,
           "name": "Hotel Torre del Marques",
           "url": "https://solo5estrellas.com/hotels/4828/hotel-torre-del-marques.html"
         },
         {
           "@type": "ListItem",
-          "position": 89,
+          "position": 94,
           "name": "Hacienda Zorita Wine Hotel & Organic Farm",
           "url": "https://solo5estrellas.com/hotels/4436/hacienda-zorita-wine-hotel-organic-farm.html"
         },
         {
           "@type": "ListItem",
-          "position": 90,
+          "position": 95,
           "name": "Hotel Maria Cristina",
           "url": "https://solo5estrellas.com/hotels/2782/hotel-maria-cristina.html"
         },
         {
           "@type": "ListItem",
-          "position": 91,
+          "position": 96,
           "name": "Hotel Palacio Del Carmen",
           "url": "https://solo5estrellas.com/hotels/6357/hotel-palacio-del-carmen-.html"
         },
         {
           "@type": "ListItem",
-          "position": 92,
+          "position": 97,
           "name": "Querencia de Seville, Autograph Collection",
           "url": "https://solo5estrellas.com/hotels/7070/querencia-de-seville-autograph-collection.html"
         },
         {
           "@type": "ListItem",
-          "position": 93,
+          "position": 98,
           "name": "Cavalta Boutique Hotel",
           "url": "https://solo5estrellas.com/hotels/6871/cavalta-boutique-hotel.html"
         },
         {
           "@type": "ListItem",
-          "position": 94,
+          "position": 99,
           "name": "Gran Melia Colon",
           "url": "https://solo5estrellas.com/hotels/2510/gran-melia-colon.html"
         },
         {
           "@type": "ListItem",
-          "position": 95,
+          "position": 100,
           "name": "Hotel Alfonso XIII",
           "url": "https://solo5estrellas.com/hotels/2056/hotel-alfonso-xiii.html"
         },
         {
           "@type": "ListItem",
-          "position": 96,
+          "position": 101,
           "name": "Radisson Collection Hotel, Magdalena Plaza Sevilla",
           "url": "https://solo5estrellas.com/hotels/5058/radisson-collection-hotel-magdalena-plaza-sevilla.html"
         },
         {
           "@type": "ListItem",
-          "position": 97,
+          "position": 102,
           "name": "SO/ Sotogrande",
           "url": "https://solo5estrellas.com/hotels/4897/so-sotogrande.html"
         },
         {
           "@type": "ListItem",
-          "position": 98,
+          "position": 103,
           "name": "Gran Melia Palacio de Isora",
           "url": "https://solo5estrellas.com/hotels/6473/gran-melia-palacio-de-isora.html"
         },
         {
           "@type": "ListItem",
-          "position": 99,
+          "position": 104,
           "name": "Royal Hideaway Corales Beach <li>Adults Only</li>",
           "url": "https://solo5estrellas.com/hotels/7158/royal-hideaway-corales-beach-li-adults-only-li-.html"
         },
         {
           "@type": "ListItem",
-          "position": 100,
+          "position": 105,
           "name": "The Ritz-Carlton, Abama",
           "url": "https://solo5estrellas.com/hotels/1857/the-ritz-carlton-abama.html"
         },
         {
           "@type": "ListItem",
-          "position": 101,
+          "position": 106,
           "name": "Tivoli la Caleta Tenerife Resort",
           "url": "https://solo5estrellas.com/hotels/6826/tivoli-la-caleta-tenerife-resort.html"
         },
         {
           "@type": "ListItem",
-          "position": 102,
+          "position": 107,
           "name": "Grand Hotel Centenari, Valenica",
           "url": "https://solo5estrellas.com/hotels/6865/grand-hotel-centenari-valenica.html"
         },
         {
           "@type": "ListItem",
-          "position": 103,
+          "position": 108,
           "name": "Hospes Palau de la Mar",
           "url": "https://solo5estrellas.com/hotels/6825/hospes-palau-de-la-mar.html"
         },
         {
           "@type": "ListItem",
-          "position": 104,
+          "position": 109,
           "name": "Only YOU Hotel Valencia",
           "url": "https://solo5estrellas.com/hotels/6803/only-you-hotel-valencia.html"
         },
         {
           "@type": "ListItem",
-          "position": 105,
+          "position": 110,
           "name": "Palacio Santa Clara, Autograph Collection",
           "url": "https://solo5estrellas.com/hotels/6639/palacio-santa-clara-autograph-collection.html"
         },
         {
           "@type": "ListItem",
-          "position": 106,
+          "position": 111,
           "name": "The Westin Valencia",
           "url": "https://solo5estrellas.com/hotels/1827/the-westin-valencia-.html"
         },
         {
           "@type": "ListItem",
-          "position": 107,
+          "position": 112,
           "name": "Abadia Retuerta LeDomaine",
           "url": "https://solo5estrellas.com/hotels/5033/abadia-retuerta-ledomaine.html"
         }

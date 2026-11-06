@@ -28,8 +28,8 @@
       "@type": "CollectionPage",
       "@id": "https://solo5estrellas.com/collection/10/rosewood-hotels-resorts.html#webpage",
       "url": "https://solo5estrellas.com/collection/10/rosewood-hotels-resorts.html",
-      "name": "Hoteles Rosewood: 42 hoteles con desayuno para dos y crédito de hotel",
-      "description": "Reserve 42 hoteles Rosewood en 23 países con desayuno para dos, crédito de hotel y mejora de categoría, a la misma tarifa publicada.",
+      "name": "Hoteles Rosewood: 42 hoteles con desayuno para dos y ventajas Rosewood Elite",
+      "description": "Reserve 42 hoteles Rosewood en 23 países con desayuno para dos, mejora de categoría y detalle de bienvenida, a la misma tarifa publicada.",
       "inLanguage": "es",
       "isPartOf": {
         "@id": "https://solo5estrellas.com/#website"
@@ -51,7 +51,7 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "Rosewood Miramar Beach Hotel",
+          "name": "Rosewood Miramar Beach",
           "url": "https://solo5estrellas.com/hotels/3483/rosewood-miramar-beach-hotel.html"
         },
         {
@@ -201,7 +201,7 @@
         {
           "@type": "ListItem",
           "position": 26,
-          "name": "Las Ventanas Al Paraiso",
+          "name": "Las Ventanas al Paraíso, A Rosewood Resort",
           "url": "https://solo5estrellas.com/hotels/985/las-ventanas-al-paraiso.html"
         },
         {
@@ -219,7 +219,7 @@
         {
           "@type": "ListItem",
           "position": 29,
-          "name": "Rosewood San Miguel Allende",
+          "name": "Rosewood San Miguel de Allende",
           "url": "https://solo5estrellas.com/hotels/3479/rosewood-san-miguel-allende.html"
         },
         {
@@ -243,7 +243,7 @@
         {
           "@type": "ListItem",
           "position": 33,
-          "name": "Rosewood Matakauri Lodge",
+          "name": "Rosewood Matakauri",
           "url": "https://solo5estrellas.com/hotels/1255/rosewood-matakauri-lodge.html"
         },
         {
@@ -318,7 +318,7 @@
           "name": "¿Qué incluye reservar Rosewood con Solo5Estrellas?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Desayuno diario para dos, un crédito de hotel de 100 USD, prioridad para la mejora de habitación, entrada anticipada y salida tardía según disponibilidad, un detalle de bienvenida y Wi-Fi de cortesía. Las condiciones dependen del hotel y se confirman al reservar."
+            "text": "Desayuno diario para dos, una mejora de una categoría a la llegada según disponibilidad y un detalle de bienvenida del director del hotel. Algunos hoteles añaden un crédito; las condiciones de cada hotel figuran en su ficha."
           }
         },
         {
@@ -342,7 +342,7 @@
           "name": "¿Qué hoteles Rosewood hay en México y España?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "En México: Las Ventanas Al Paraiso, Rosewood Mandarina, Rosewood Mayakoba, Rosewood San Miguel Allende. En España: Rosewood Villa Magna."
+            "text": "En México: Las Ventanas al Paraíso, A Rosewood Resort, Rosewood Mandarina, Rosewood Mayakoba, Rosewood San Miguel de Allende. En España: Rosewood Villa Magna."
           }
         },
         {
@@ -350,7 +350,7 @@
           "name": "¿Qué hoteles Rosewood hay en Estados Unidos?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "7 hoteles, entre ellos Rosewood Miramar Beach Hotel, Rosewood Sand Hill, Rosewood Washington, D.C., Kona Village, A Rosewood Resort, Rosewood Inn of the Anasazi, The Carlyle, A Rosewood Hotel y 1 más; la lista completa está en esta página."
+            "text": "7 hoteles, entre ellos Rosewood Miramar Beach, Rosewood Sand Hill, Rosewood Washington, D.C., Kona Village, A Rosewood Resort, Rosewood Inn of the Anasazi, The Carlyle, A Rosewood Hotel y 1 más; la lista completa está en esta página."
           }
         },
         {
@@ -358,7 +358,7 @@
           "name": "¿Qué es Rosewood Elite?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Es el programa de Rosewood Hotel Group para asesores de viaje seleccionados. Las reservas se hacen a las tarifas publicadas del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y la prioridad para la mejora de habitación."
+            "text": "Es el programa de Rosewood Hotel Group para asesores de viaje seleccionados. Las reservas se hacen a las tarifas publicadas del hotel e incluyen ventajas de cortesía como el desayuno diario para dos y la mejora de una categoría a la llegada, según disponibilidad."
           }
         },
         {

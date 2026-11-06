@@ -16,3 +16,10 @@ Perks, programme wording and the hotel list come from our live collection page (
 
 ## Data findings
 - The page header says "6 hoteles" while the page text and the list show 9. This is the same header-count error that affects 23 chain pages (see Z42).
+
+## Update 6 Nov: perks and facts corrected (tracker Z125)
+- **Credit:** now "según el hotel y la categoría". Sources give 100 in local currency or USD 100–200.
+- **Upgrade:** confirmed at booking at most hotels, subject to availability; at 45 Park Lane it is given on arrival. Early check-in and late check-out are kept (supported by One Mile at a Time).
+- **Hotel Principe di Savoia (Milan):** closes for restoration on 1 Jan 2027 and plans to reopen in 2029. Added to the hotel list and to the restrictions.
+- **Spelling:** "Hôtel Plaza Athénée".
+- **Group size:** Dorchester Collection has 10 hotels. Coworth Park (Ascot) is not in the collection, and the page now says so.

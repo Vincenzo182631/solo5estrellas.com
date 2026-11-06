@@ -14,3 +14,10 @@ Hotel list, cities and brands come from the country record (the same ID on Whata
 ## Verify before publishing
 1. Reviewer name and verification date.
 2. Country slug: Spanish, lowercase (`espana`), agreed with the developer (Z72).
+
+## Update 6 Nov: recount (tracker Z127)
+The live Spain page lists 112 hotels; the draft had 107. Added the five missing hotels:
+- Mallorca: Cap Vermell Grand Hotel (6824), Grand Hotel Son Net (7162). Mallorca is now 19, matching the live Mallorca city page.
+- Marbella: Don Carlos Marbella (7165), Kimpton Los Monteros Marbella (7167), ME Marbella (2264). Marbella is now 5.
+
+Updated the city table, the brand table, the totals and the ItemList (112 items). Brands come from WhataHotel's Spain list, which uses the same IDs: Leading Hotels +2, Preferred +1, The Signature Collection +1, InterContinental (IHG Destined) +1.
