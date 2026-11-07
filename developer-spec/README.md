@@ -2,16 +2,16 @@
 
 Everything here is read-only guidance written from public pages (no code or server access). Baseline: `verify.sh` 8 passed, 36 failed on 23 Oct 2026 (6 and 38 on 8 Oct; the script is unchanged and I could not establish what moved the two checks). Nothing has been released. Goal: 44 of 44.
 
-*Package refreshed 23 Oct 2026.*
+*Package refreshed 7 Nov 2026. Start with `MATT-SUMMARY.md` (one page).*
 
 ## Files
 | File | Use |
 | --- | --- |
 | `IN-PLACE-FIXES.md` | The 14 fixes, in release order, with snippets and checks (12: hotel template; 13: The Plaza 301; 14: closed or renamed hotels) |
-| `verify.sh` | 44 read-only checks; run against staging with `./verify.sh https://staging-host` |
+| `verify.sh` | 52 read-only checks (8 pass on the live site on 7 Nov); run against staging with `./verify.sh https://staging-host` |
 | `titles-descriptions.csv` | Title and description for every template (lengths checked) |
 | `titles-descriptions-chains.csv` | Title and description for all 62 chain and collection pages (all 62 now drafted; counts taken from the hotel lists), with flags and the draft folder |
-| `page-metadata-drafts.csv` | Title, description, H1 and target URL for every drafted page (71 rows) |
+| `page-metadata-drafts.csv` | Title, description, H1 and target URL for every drafted page (278 rows) |
 | `SCHEMA-HOTEL.md` | Hotel and breadcrumb JSON-LD, social tags, what to remove |
 | `REDIRECT-MAPS.md` + 3 CSVs | Slug and legacy-URL redirect rules, with test sets; `redirects-observed-search-console.csv` is the newest (23 Oct): 1,404 URLs for 650 page IDs, with impressions |
 | `hreflang-map.csv` | English WhataHotel URL for every drafted page (213 rows; the live English tag works on the chain pages, returns 404 on the 12 region pages and points to the home page on the 131 country pages; the working URL is listed) |
@@ -22,10 +22,10 @@ Everything here is read-only guidance written from public pages (no code or serv
 ## Release plan
 | Release | Contents | Done when |
 | --- | --- | --- |
-| 1 (same day, low risk) | Fix 1 head markup, fix 2 canonical, fix 7 titles and descriptions | View source shows one valid description, one canonical, a Spanish title on a hotel, a city and a chain page |
+| 1 (same day, low risk) | Fix 1 head markup, fix 2 canonical, fix 7 titles and descriptions, fix 12 hotel template, fix 13 The Plaza | View source shows one valid description, one canonical, a Spanish title on a hotel, a city and a chain page |
 | 2 | Fix 3 host and HTTPS 301, fix 6 sitemap and robots | `http` and the other host return 301; robots has a Sitemap line; sitemap lists the real pages |
-| 3 | Fix 4 slugs and 404s, fix 5 legacy URLs (see `REDIRECT-MAPS.md`) | Redirect test set passes; unknown IDs return 404 |
-| 4 | Fix 8 hreflang, fix 9 encoding, fix 10 headers and cookies | `verify.sh` 44 of 44 |
+| 3 | Fix 4 slugs and 404s, fix 5 legacy URLs (see `REDIRECT-MAPS.md`), fix 14 closed or renamed hotels | Redirect test set passes; unknown IDs return 404 |
+| 4 | Fix 8 hreflang, fix 9 encoding, fix 10 headers and cookies | `verify.sh` 52 of 52 |
 
 Order reason: release 1 fixes what every page shares and can't break a URL; release 3 changes URLs, so it ships alone and gets watched.
 
