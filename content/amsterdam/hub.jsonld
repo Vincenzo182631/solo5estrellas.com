@@ -1,0 +1,190 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Países Bajos",
+          "item": "https://solo5estrellas.com/countries/43/paises-bajos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ámsterdam",
+          "item": "https://solo5estrellas.com/cities/10/amsterdam.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/10/amsterdam.html#webpage",
+      "url": "https://solo5estrellas.com/cities/10/amsterdam.html",
+      "name": "Hoteles de lujo en Ámsterdam",
+      "description": "Hoteles de lujo en Ámsterdam por barrio: canales, Museumplein, Centrum y Oost, muchos en edificios históricos. Reserve con ventajas de Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Hoteles de lujo en Ámsterdam",
+      "numberOfItems": 14,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Rosewood Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/6785/rosewood-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Waldorf Astoria Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/3242/waldorf-astoria-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Dylan Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/2312/the-dylan-amsterdam-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Pulitzer Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/1126/hotel-pulitzer-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Andaz Amsterdam Prinsengracht",
+          "url": "https://solo5estrellas.com/hotels/3377/andaz-amsterdam-prinsengracht.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Canal House",
+          "url": "https://solo5estrellas.com/hotels/4475/canal-house.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "De L'Europe Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/2729/de-l-europe-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "InterContinental Amstel Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/939/intercontinental-amstel-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Sofitel Legend The Grand Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/2186/sofitel-legend-the-grand-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "W Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/3823/w-amsterdam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Kimpton De Witt Amsterdam",
+          "url": "https://solo5estrellas.com/hotels/4024/kimpton-de-witt-amsterdam-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Mandarin Oriental Conservatorium",
+          "url": "https://solo5estrellas.com/hotels/2772/mandarin-oriental-conservatorium-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Amsterdam Marriott Hotel",
+          "url": "https://solo5estrellas.com/hotels/4694/amsterdam-marriott-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Pillows Grand Boutique Hotel Maurits at the Park",
+          "url": "https://solo5estrellas.com/hotels/6095/pillows-grand-boutique-hotel-maurits-at-the-park.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿En qué barrio alojarse en Ámsterdam?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En el Anillo de Canales, Patrimonio Mundial de la UNESCO, para alojarse en casas históricas; en Museumplein, junto a los grandes museos; junto al Amstel, para vistas al río; o en Centrum, cerca de la estación Centraal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se va del aeropuerto al centro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En tren de Schiphol a Ámsterdam Centraal, en unos 17 minutos, o en el autobús 397 hacia Museumplein y Leidseplein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuándo es la temporada de tulipanes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De mediados de marzo a mediados de mayo. Keukenhof abre del 18 de marzo al 9 de mayo de 2027."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es el Día del Rey?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La fiesta nacional del 27 de abril, con mercadillos en la calle y la ciudad vestida de naranja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay tasa turística en Ámsterdam?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, un porcentaje del precio de la habitación, de los más altos de Europa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles de lujo ocupan edificios históricos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rosewood (antiguo Palacio de Justicia), Sofitel Legend The Grand (antiguo ayuntamiento), Andaz (antigua biblioteca pública), Mandarin Oriental Conservatorium (antiguo banco y conservatorio) y Waldorf Astoria (seis palacios del Herengracht), entre otros."
+          }
+        }
+      ]
+    }
+  ]
+}
