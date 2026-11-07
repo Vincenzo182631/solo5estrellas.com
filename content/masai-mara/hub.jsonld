@@ -1,0 +1,124 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "África",
+          "item": "https://solo5estrellas.com/regions/3/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Masái Mara",
+          "item": "https://solo5estrellas.com/cities/743/masai-mara.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/743/masai-mara.html#webpage",
+      "url": "https://solo5estrellas.com/cities/743/masai-mara.html",
+      "name": "Lodges y campamentos de lujo en el Masái Mara",
+      "description": "Campamentos de lujo en el Masái Mara: Ritz-Carlton, Mahali Mzuri y Fairmont Mara Safari Club. Cuándo ver la Gran Migración y cómo llegar desde Nairobi.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Campamentos de lujo en el Masái Mara",
+      "numberOfItems": 3,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "The Ritz-Carlton, Masai Mara Safari Camp",
+          "url": "https://solo5estrellas.com/hotels/7007/ritz-carlton-masai-mara-safari-camp.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mahali Mzuri",
+          "url": "https://solo5estrellas.com/hotels/3551/mahali-mzuri-safari-camp.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Fairmont Mara Safari Club",
+          "url": "https://solo5estrellas.com/hotels/2373/fairmont-mara-safari-club.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuándo ver la Gran Migración en el Masái Mara?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Normalmente entre julio y octubre, cuando las manadas llegan desde el Serengeti. Las fechas varían cada año según las lluvias."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se llega al Masái Mara?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En avioneta desde el aeropuerto Wilson de Nairobi, unos 45 a 60 minutos, o por carretera, entre 5 y 6 horas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es una reserva privada (conservancy)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un área protegida junto a la reserva nacional, en tierras masái arrendadas a los campamentos. Suelen limitar el número de camas y cobran sus propias tasas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se necesita visado para Kenia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se necesita una Autorización Electrónica de Viaje (eTA), que se solicita antes del viaje en etakenya.go.ke."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Están incluidos los safaris?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En The Ritz-Carlton y en Mahali Mzuri, sí, junto con las comidas. En Fairmont Mara Safari Club, confírmelo con su asesor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Pueden ir niños?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Mahali Mzuri admite niños desde 2 años y The Ritz-Carlton, desde 6."
+          }
+        }
+      ]
+    }
+  ]
+}
