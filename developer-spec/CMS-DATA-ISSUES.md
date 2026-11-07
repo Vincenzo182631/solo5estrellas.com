@@ -70,3 +70,22 @@ Every Spanish country page has the title "Bienvenido | Solo 5 Estrellas", hrefla
   - 6433 Villa Le Blanc is in Menorca, not "Balearic Islands".
 - **All-inclusive with a breakfast perk** (client rule: remove the breakfast line): 6288 Hotel Xcaret Arte, 3547 Miraval Austin. Also 4296 Calala (pending decision).
 - **3001 Hotel Único Madrid:** remove any mention of the Ramón Freixa restaurant (closed December 2024); the restaurant is now El Patio de Claudio.
+
+## Added 7 Nov (ranks 62–81; tracker Z129)
+- **Client to decide (not clearly five-star):** 6943 Delta Hotels Riviera Nayarit (Marriott "Classic Premium"), 6502 Paris Marriott Opera Ambassador (4-star), 3257 JW Marriott Phoenix Desert Ridge (950-room convention resort), 3129 Hôtel du Collectionneur (own site says both 4 and 5 stars).
+- **Renames:**
+  - 4333 → "S Hotel Montego Bay"
+  - 3129 → "Hôtel du Collectionneur" (drop "Arc de Triomphe")
+  - 6995 → "Hotel La Compañía del Valle" (not "de Valle")
+- **Locations:**
+  - 6995 is in El Valle de Antón, about 80 km from Panama City.
+  - 6869 Four Seasons Puerto Rico is in Río Grande (Bahía Beach), not San Juan.
+  - 6798 SLS Barcelona is at Port Fòrum (Sant Adrià de Besòs).
+  - 7009 Four Seasons Yachts is a yacht, listed as a Miami hotel; not bookable online, no perks.
+- **Perks:**
+  - Breakfast on full-board or all-inclusive hotels (client rule: remove): 5034 Fogo Island Inn, 6943 Delta Riviera Nayarit.
+  - 4333 S Hotel Montego Bay: all-inclusive dining; keep breakfast only if a room-only rate exists.
+  - 4085 Nantipa: perks say breakfast for "3 Personas" (likely a typo).
+- **3114 The Beaumont:** the Colony Grill was replaced by Rosi in 2025; remove old restaurant text.
+- **2885 Lotte New York Palace:** managed by Highgate since June 2026 (owner and brand unchanged).
+- **Login wall** (Z115) also on: 1202 Fairmont Chateau Lake Louise, 3359 San Domenico Palace.

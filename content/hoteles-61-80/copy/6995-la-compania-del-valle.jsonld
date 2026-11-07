@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel La Compañía del Valle",
+          "item": "https://solo5estrellas.com/hotels/6995/Hotel-La-Compa-a-de-Valle.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/6995/Hotel-La-Compa-a-de-Valle.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6995/Hotel-La-Compa-a-de-Valle.html",
+      "name": "Hotel La Compañía del Valle",
+      "description": "Hotel La Compañía del Valle, en el cráter de El Valle de Antón (Panamá), con Elysium Spa. Con Solo5Estrellas: desayuno para dos y crédito de 100 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Hotel La Compañía del Valle",
+      "url": "https://solo5estrellas.com/hotels/6995/Hotel-La-Compa-a-de-Valle.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "El Valle de Antón",
+        "addressRegion": "Coclé",
+        "addressCountry": "PA"
+      },
+      "numberOfRooms": 70
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Está en el Casco Viejo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Está en El Valle de Antón, a unos 80 km de Ciudad de Panamá; su hermano en la capital es La Compañía Casco Antiguo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene spa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, el Elysium Spa, con piscina salina y baños romanos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántas habitaciones tiene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "70."
+          }
+        }
+      ]
+    }
+  ]
+}

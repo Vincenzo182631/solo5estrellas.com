@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Lotte New York Palace",
+          "item": "https://solo5estrellas.com/hotels/2885/lotte-new-york-palace.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/2885/lotte-new-york-palace.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2885/lotte-new-york-palace.html",
+      "name": "Lotte New York Palace",
+      "description": "Lotte New York Palace, frente a la catedral de San Patricio, con The Towers. Con Solo5Estrellas: desayuno para dos y crédito de hotel de 100 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Lotte New York Palace",
+      "url": "https://solo5estrellas.com/hotels/2885/lotte-new-york-palace.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "455 Madison Avenue",
+        "postalCode": "10022",
+        "addressLocality": "Nueva York",
+        "addressRegion": "NY",
+        "addressCountry": "US"
+      },
+      "numberOfRooms": 909
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Tiene piscina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No; tiene Ila Spa y gimnasio abierto las 24 horas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué son The Towers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un hotel dentro del hotel, con 176 habitaciones en las plantas 41 a 55 y recepción propia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde se puede desayunar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En Villard, en Pomme Palais o en la habitación."
+          }
+        }
+      ]
+    }
+  ]
+}

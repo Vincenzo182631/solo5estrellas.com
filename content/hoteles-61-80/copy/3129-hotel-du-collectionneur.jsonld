@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hôtel du Collectionneur",
+          "item": "https://solo5estrellas.com/hotels/3129/Hotel_du_Collectionneur_Arc_de_Triomphe_Paris.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/3129/Hotel_du_Collectionneur_Arc_de_Triomphe_Paris.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/3129/Hotel_du_Collectionneur_Arc_de_Triomphe_Paris.html",
+      "name": "Hôtel du Collectionneur",
+      "description": "Hôtel du Collectionneur, art déco cerca del parque Monceau, con spa, piscina y jardín. Con Solo5Estrellas: desayuno para dos y crédito de 100 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Hôtel du Collectionneur",
+      "url": "https://solo5estrellas.com/hotels/3129/Hotel_du_Collectionneur_Arc_de_Triomphe_Paris.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "51-57 Rue de Courcelles",
+        "postalCode": "75008",
+        "addressLocality": "París",
+        "addressCountry": "FR"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Tiene piscina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, cubierta, en el spa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuáles son las suites más grandes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las suites Triomphe, Monceau y Eiffel, de unos 160 m² ampliables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene jardín?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, de unos 800 m²."
+          }
+        }
+      ]
+    }
+  ]
+}

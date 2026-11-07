@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "S Hotel Montego Bay",
+          "item": "https://solo5estrellas.com/hotels/4333/s-hotel-jamaica.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/4333/s-hotel-jamaica.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/4333/s-hotel-jamaica.html",
+      "name": "S Hotel Montego Bay",
+      "description": "S Hotel Montego Bay, en el Hip Strip junto a Doctor's Cave Beach, con piscina en la azotea. Con Solo5Estrellas: desayuno y crédito de 50 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "S Hotel Montego Bay",
+      "url": "https://solo5estrellas.com/hotels/4333/s-hotel-jamaica.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "7 Jimmy Cliff Boulevard",
+        "addressLocality": "Montego Bay",
+        "addressCountry": "JM"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Admite niños?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, desde 8 años; quien hace el check-in debe tener 21 años o más."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿A qué distancia está el aeropuerto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A unos cinco minutos en coche."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene playa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, acceso directo a Doctor's Cave Beach."
+          }
+        }
+      ]
+    }
+  ]
+}

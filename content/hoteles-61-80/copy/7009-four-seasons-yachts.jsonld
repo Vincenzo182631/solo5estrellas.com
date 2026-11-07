@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Four Seasons Yachts: Four Seasons I",
+          "item": "https://solo5estrellas.com/hotels/7009/four-seasons-yacht.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/7009/four-seasons-yacht.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/7009/four-seasons-yacht.html",
+      "name": "Four Seasons Yachts: Four Seasons I",
+      "description": "Four Seasons I, el primer yate de Four Seasons: 95 suites con terraza, viajes por el Mediterráneo y el Caribe. Consulte itinerarios con su asesor.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Four Seasons I es todo incluido?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Incluye el desayuno, las bebidas sin alcohol y las propinas; el almuerzo, la cena y el alcohol se pagan aparte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuándo zarpó por primera vez?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El 20 de marzo de 2026, desde Málaga."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántas suites tiene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "95, todas con terraza."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Fogo Island Inn",
+          "item": "https://solo5estrellas.com/hotels/5034/Fogo-Island-Inn.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/5034/Fogo-Island-Inn.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/5034/Fogo-Island-Inn.html",
+      "name": "Fogo Island Inn",
+      "description": "Fogo Island Inn, 29 habitaciones frente al Atlántico en Terranova, con todas las comidas incluidas. Con Solo5Estrellas: regalo artesanal y mejora.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Fogo Island Inn",
+      "url": "https://solo5estrellas.com/hotels/5034/Fogo-Island-Inn.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fogo Island",
+        "addressRegion": "NL",
+        "addressCountry": "CA"
+      },
+      "numberOfRooms": 29
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Fogo Island Inn abre todo el año?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No; abre aproximadamente de abril a finales de octubre."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye la tarifa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Todas las comidas, bebidas sin alcohol y excursiones guiadas por tierra."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Admite niños?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, desde 8 años."
+          }
+        }
+      ]
+    }
+  ]
+}

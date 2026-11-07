@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Masseria Torre Maizza, a Rocco Forte Hotel",
+          "item": "https://solo5estrellas.com/hotels/4082/Rocco-Forte-Masseria-Torre-Maizza.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/4082/Rocco-Forte-Masseria-Torre-Maizza.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/4082/Rocco-Forte-Masseria-Torre-Maizza.html",
+      "name": "Masseria Torre Maizza, a Rocco Forte Hotel",
+      "description": "Masseria Torre Maizza, de Rocco Forte, masía del siglo XVI en Puglia con golf y club de playa. Con Solo5Estrellas: desayuno para dos y crédito de 100 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Masseria Torre Maizza, a Rocco Forte Hotel",
+      "url": "https://solo5estrellas.com/hotels/4082/Rocco-Forte-Masseria-Torre-Maizza.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Savelletri di Fasano",
+        "addressRegion": "Puglia",
+        "addressCountry": "IT"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿A qué distancia está el aeropuerto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A unos 40 minutos de Brindisi y 50 de Bari; el hotel ofrece traslados."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene golf?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, un campo de nueve hoyos y zona de prácticas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene playa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, el club de playa Lido Bambù, en la costa del Adriático."
+          }
+        }
+      ]
+    }
+  ]
+}

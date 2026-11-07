@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Paris Marriott Opera Ambassador Hotel",
+          "item": "https://solo5estrellas.com/hotels/6502/paris-marriott-opera-ambassador-hotel.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/6502/paris-marriott-opera-ambassador-hotel.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6502/paris-marriott-opera-ambassador-hotel.html",
+      "name": "Paris Marriott Opera Ambassador Hotel",
+      "description": "Paris Marriott Opera Ambassador, en el bulevar Haussmann junto a la Ópera Garnier. Con Solo5Estrellas: desayuno para dos y amenidad de bienvenida.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Paris Marriott Opera Ambassador Hotel",
+      "url": "https://solo5estrellas.com/hotels/6502/paris-marriott-opera-ambassador-hotel.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "16 Boulevard Haussmann",
+        "postalCode": "75009",
+        "addressLocality": "París",
+        "addressCountry": "FR"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuántas estrellas tiene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cuatro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué restaurante tiene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La brasserie Sixtine y el Bar Lindbergh."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuándo se construyó?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En 1927; se renovó en 2021."
+          }
+        }
+      ]
+    }
+  ]
+}
