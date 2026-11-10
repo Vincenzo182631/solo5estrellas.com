@@ -1,4 +1,4 @@
-# Solo5Estrellas SEO: start here (updated 7 November 2026)
+# Solo5Estrellas SEO: start here (updated 10 November 2026)
 
 Everything the SEO work needs, in one place. Nothing here is live yet: these are drafts, specifications and reports. The developer release is the step that turns them into results.
 
@@ -8,11 +8,11 @@ Everything the SEO work needs, in one place. Nothing here is live yet: these are
 | Step | What | File |
 | --- | --- | --- |
 | 1 | Read the package README, then apply fixes in release order | `developer-spec/README.md`, `developer-spec/IN-PLACE-FIXES.md` (13 fixes) |
-| 2 | Release 1 (template only): broken meta title tag, canonicals, Spanish titles and descriptions, hotel template (English titles, NULL perks, login wall) | Fixes 1, 2, 7, 12; titles in `developer-spec/page-metadata-drafts.csv` (233 pages), `titles-descriptions-chains.csv`, `titles-descriptions.csv` |
+| 2 | Release 1 (template only): broken meta title tag, canonicals, Spanish titles and descriptions, hotel template (English titles, NULL perks, login wall) | Fixes 1, 2, 7, 12; titles in `developer-spec/page-metadata-drafts.csv` (323 pages), `titles-descriptions-chains.csv`, `titles-descriptions.csv` |
 | 3 | Redirects: http to https 301, one host, one slug per ID, legacy `browse_*.cfm` URLs, The Plaza 301 | Fixes 3 to 5 and 13; `redirects-duplicate-slugs.csv`, `redirects-legacy-browse.csv`, `redirects-observed-search-console.csv` (1,404 URLs, test set), `REDIRECT-MAPS.md` |
 | 4 | Sitemap, robots, hreflang, encoding, headers | Fixes 6, 8 to 10; `hreflang-map.csv` |
 | 5 | Hotel schema | `SCHEMA-HOTEL.md` |
-| 6 | Data fixes in the CMS | `CMS-DATA-ISSUES.md` |
+| 6 | Data fixes in the CMS: hotel records in one checklist (59 fixes on 53 records, 17 login-wall pages) | `HOTEL-RECORD-CLEANUP.md` (and `.csv`), `CMS-DATA-ISSUES.md` |
 | 7 | Check after every step | `verify.sh` (52 checks; 8 pass today) |
 | | Everything above in one file to send | `dist/solo5estrellas-developer-package.zip` |
 
@@ -38,11 +38,11 @@ Everything the SEO work needs, in one place. Nothing here is live yet: these are
 | Region pages | 12 | `content/europa/`, `asia-pacifico/`, `africa/`, `oceania/`, `caribe/`, `centroamerica/`, `norteamerica/`, `sudamerica/`, `hawai/`, `mexico/`, `canada/`, `oriente-medio/` |
 | Country pages | 131 | `content/paises/` (index: `content/paises/INDEX.md`) |
 | Turks & Caicos country page | 1 | `content/islas-turcas-y-caicos/` |
-| City pages | 9 | `content/londres/`, `paris/`, `nueva-york/`, `miami/`, `mayakoba/`, `mallorca/`, `seychelles/`, `amsterdam/`, `masai-mara/` (notes: `content/city-hubs-NOTES.md` and each folder's `NOTES.md`) |
-| Hotel pages | 79 | `content/hoteles-top20/` (ranks 1 to 20), `content/hoteles-21-40/` (21 to 40), `content/hoteles-41-60/` (41 to 61) and `content/hoteles-61-80/` (62 to 81): titles, descriptions and full sections in `copy/`; Four Seasons Madrid in `content/four-seasons-madrid/` |
+| City pages | 12 | `content/londres/`, `paris/`, `nueva-york/`, `miami/`, `mayakoba/`, `mallorca/`, `seychelles/`, `amsterdam/`, `masai-mara/`, `seattle/`, `porto-cervo/`, `nairobi/` (notes: `content/city-hubs-NOTES.md` and each folder's `NOTES.md`) |
+| Hotel pages | 99 | `content/hoteles-top20/` (ranks 1 to 20), `content/hoteles-21-40/` (21 to 40), `content/hoteles-41-60/` (41 to 61), `content/hoteles-61-80/` (62 to 81) and `content/hoteles-82-101/` (82 to 101): titles, descriptions and full sections in `copy/`; Four Seasons Madrid in `content/four-seasons-madrid/` |
 | Guides | 4 | `content/four-seasons-vs-ritz-carlton/`, `content/dorchester-vs-rosewood/`, `content/guia-luna-de-miel/` (honeymoon), `content/guia-beneficios/` (perks) |
 | Missing content list | 1 | `content/z12-missing-content/` |
-| All titles and descriptions | 300 pages | `content/page-metadata.csv` |
+| All titles and descriptions | 323 pages | `content/page-metadata.csv` |
 | Keyword to page map | | `content/keyword-page-map.csv` |
 
 Each folder holds the copy (`.md`), ready HTML (`.html`), structured data (`.jsonld`), notes (`NOTES.md`) and, in the previews zip, a `preview.png`.
@@ -64,4 +64,4 @@ Each folder holds the copy (`.md`), ready HTML (`.html`), structured data (`.jso
 | Daily EOD notes | `EOD/` |
 
 ## 3. Tracker
-`Solo5Estrellas_SEO_Tracker.xlsx`: 185 findings (master tracker), completed work D1 to D128, page metadata, EOD log, dashboard.
+`Solo5Estrellas_SEO_Tracker.xlsx`: 186 findings (master tracker), completed work D1 to D131, page metadata, EOD log, dashboard.

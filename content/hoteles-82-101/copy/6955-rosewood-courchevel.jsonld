@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rosewood Courchevel Le Jardin Alpin",
+          "item": "https://solo5estrellas.com/hotels/6955/rosewood-courchevel-le-jardin-alpin.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/6955/rosewood-courchevel-le-jardin-alpin.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6955/rosewood-courchevel-le-jardin-alpin.html",
+      "name": "Rosewood Courchevel Le Jardin Alpin",
+      "description": "Rosewood Courchevel Le Jardin Alpin, esquí en pie en Courchevel 1850, con Asaya Spa. Con Solo5Estrellas: desayuno para dos y crédito de resort de 95 EUR.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Rosewood Courchevel Le Jardin Alpin",
+      "url": "https://solo5estrellas.com/hotels/6955/rosewood-courchevel-le-jardin-alpin.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Courchevel",
+        "postalCode": "73120",
+        "addressCountry": "FR"
+      },
+      "numberOfRooms": 51
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Abre todo el año?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, solo en la temporada de esquí; confirme las fechas con su asesor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene acceso directo a las pistas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, a Les Trois Vallées."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es adecuado para familias?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: tiene club infantil y spa familiar."
+          }
+        }
+      ]
+    }
+  ]
+}

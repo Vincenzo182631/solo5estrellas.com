@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sensei Lanai, A Four Seasons Resort",
+          "item": "https://solo5estrellas.com/hotels/1418/sensei-lanai-a-four-seasons-resort.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/1418/sensei-lanai-a-four-seasons-resort.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1418/sensei-lanai-a-four-seasons-resort.html",
+      "name": "Sensei Lanai, A Four Seasons Resort",
+      "description": "Sensei Lanai, retiro de bienestar de Four Seasons en Hawái, desde 16 años, con vuelo desde Honolulu. Con Solo5Estrellas: desayuno y crédito.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Sensei Lanai, A Four Seasons Resort",
+      "url": "https://solo5estrellas.com/hotels/1418/sensei-lanai-a-four-seasons-resort.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "One Keomoku Highway",
+        "postalCode": "96763",
+        "addressLocality": "Lanai City",
+        "addressRegion": "HI",
+        "addressCountry": "US"
+      },
+      "numberOfRooms": 96
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la edad mínima?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "16 años."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Está incluido el vuelo desde Honolulu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, la tarifa incluye un vuelo semiprivado de Lanai Air."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Va a cambiar de nombre?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: desde el 16 de diciembre de 2026 se llamará Four Seasons Resort Lanai at Koele."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trump International Hotel Las Vegas",
+          "item": "https://solo5estrellas.com/hotels/2193/trump-international-tower-las-vegas.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/2193/trump-international-tower-las-vegas.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2193/trump-international-tower-las-vegas.html",
+      "name": "Trump International Hotel Las Vegas",
+      "description": "Trump International Hotel Las Vegas, sin casino y libre de humo, con suites con cocina. Con Solo5Estrellas: desayuno para dos y crédito de 50 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Trump International Hotel Las Vegas",
+      "url": "https://solo5estrellas.com/hotels/2193/trump-international-tower-las-vegas.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2000 Fashion Show Drive",
+        "postalCode": "89109",
+        "addressLocality": "Las Vegas",
+        "addressRegion": "NV",
+        "addressCountry": "US"
+      },
+      "numberOfRooms": 1282
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Tiene casino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No; es un hotel sin casino y libre de humo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Las suites tienen cocina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: las suites estudio tienen cocina americana y las de un dormitorio, cocina completa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la edad mínima para registrarse?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "21 años."
+          }
+        }
+      ]
+    }
+  ]
+}

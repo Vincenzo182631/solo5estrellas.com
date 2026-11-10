@@ -89,3 +89,12 @@ Every Spanish country page has the title "Bienvenido | Solo 5 Estrellas", hrefla
 - **3114 The Beaumont:** the Colony Grill was replaced by Rosi in 2025; remove old restaurant text.
 - **2885 Lotte New York Palace:** managed by Highgate since June 2026 (owner and brand unchanged).
 - **Login wall** (Z115) also on: 1202 Fairmont Chateau Lake Louise, 3359 San Domenico Palace.
+
+## Added 10 Nov (ranks 82–101 and city pages; tracker Z130)
+The full list of hotel record fixes found so far (ranks 1 to 101 and the city pages) is now in one place: `HOTEL-RECORD-CLEANUP.md` (and `.csv`). New this batch:
+- **Renames:** 6111 → "La Réserve Genève – Hotel and Spa"; 2193 → "Trump International Hotel Las Vegas"; 3526 → "The Santa Maria, a Luxury Collection Hotel & Golf Resort"; 1112 → "The Langham, Hong Kong"; 1030 → "Hôtel de la Cité Carcassonne – MGallery Collection"; 2168 Pan Pacific Seattle → "1 Hotel Seattle"; 1047 → "Romazzino, A Belmond Hotel, Costa Smeralda"; 1418 Sensei Lanai → "Four Seasons Resort Lanai at Koele" from 16 Dec 2026.
+- **Wrong places:** 6379 Barracuda is in Itacaré, not Salvador; 3311 Karen Blixen Camp is in the Masai Mara, not Nairobi.
+- **Client to decide (not clearly five-star):** 6621 Fontainebleau Las Vegas (3,644-room casino resort), 6920 Hotel U14 (Autograph Collection).
+- **Perks:** 6379 Barracuda rates include breakfast (remove the breakfast line; client confirms). 2168 and 1047: confirm the perks still apply after the rebrand.
+- **Old text:** 3526 Ocean Prime no longer listed; 4367 L'Hotel's separate restaurant gone.
+- **Login wall** (Z115) also on: 2962 Miami Beach EDITION, 4077 Four Seasons Tokyo at Otemachi, and Seattle 1483, 2250, 1227, 3203, 2455, Nairobi 7024.

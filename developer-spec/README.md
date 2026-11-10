@@ -11,10 +11,11 @@ Everything here is read-only guidance written from public pages (no code or serv
 | `verify.sh` | 52 read-only checks (8 pass on the live site on 7 Nov); run against staging with `./verify.sh https://staging-host` |
 | `titles-descriptions.csv` | Title and description for every template (lengths checked) |
 | `titles-descriptions-chains.csv` | Title and description for all 62 chain and collection pages (all 62 now drafted; counts taken from the hotel lists), with flags and the draft folder |
-| `page-metadata-drafts.csv` | Title, description, H1 and target URL for every drafted page (300 rows) |
+| `page-metadata-drafts.csv` | Title, description, H1 and target URL for every drafted page (323 rows) |
 | `SCHEMA-HOTEL.md` | Hotel and breadcrumb JSON-LD, social tags, what to remove |
 | `REDIRECT-MAPS.md` + 3 CSVs | Slug and legacy-URL redirect rules, with test sets; `redirects-observed-search-console.csv` is the newest (23 Oct): 1,404 URLs for 650 page IDs, with impressions |
 | `hreflang-map.csv` | English WhataHotel URL for every drafted page (213 rows; the live English tag works on the chain pages, returns 404 on the 12 region pages and points to the home page on the 131 country pages; the working URL is listed) |
+| `HOTEL-RECORD-CLEANUP.md` / `.csv` | One list of every hotel record to redirect, rename, relocate or correct (59 fixes on 53 records, plus 17 login-wall pages), in order of work |
 | `CMS-DATA-ISSUES.md` | Data problems that sit in the CMS records, not in templates (slug typos, markup in names, empty locations, hand-typed counts) |
 | `../style-guide/` | Spanish style guide and place-name list (156 names) |
 | `../content/` | 62 chain pages, 12 region pages, 131 country pages (`content/paises/`, index in `INDEX.md`), hub and city drafts: for the editor, not for the developer |

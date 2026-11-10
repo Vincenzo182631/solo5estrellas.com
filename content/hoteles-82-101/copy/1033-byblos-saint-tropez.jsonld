@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hôtel Byblos Saint-Tropez",
+          "item": "https://solo5estrellas.com/hotels/1033/byblos-saint-tropez.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/1033/byblos-saint-tropez.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1033/byblos-saint-tropez.html",
+      "name": "Hôtel Byblos Saint-Tropez",
+      "description": "Hôtel Byblos, en el centro de Saint-Tropez desde 1967, con Les Caves du Roy y spa Sisley. Con Solo5Estrellas: desayuno bufé para dos y almuerzo.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Hôtel Byblos Saint-Tropez",
+      "url": "https://solo5estrellas.com/hotels/1033/byblos-saint-tropez.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "20 Avenue Paul Signac",
+        "postalCode": "83990",
+        "addressLocality": "Saint-Tropez",
+        "addressCountry": "FR"
+      },
+      "numberOfRooms": 86
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuándo abre el Byblos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abre por temporada; la próxima comienza el 22 de abril de 2027."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El club de playa está en el hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No; Byblos Beach está en la playa de Pampelonne, en Ramatuelle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es Les Caves du Roy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La discoteca del hotel, abierta desde 1967."
+          }
+        }
+      ]
+    }
+  ]
+}
