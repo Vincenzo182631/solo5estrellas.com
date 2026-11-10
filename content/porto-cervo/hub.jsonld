@@ -1,0 +1,122 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Italia",
+          "item": "https://solo5estrellas.com/countries/33/italia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Porto Cervo",
+          "item": "https://solo5estrellas.com/cities/910/porto-cervo.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/910/porto-cervo.html#webpage",
+      "url": "https://solo5estrellas.com/cities/910/porto-cervo.html",
+      "name": "Hoteles de lujo en Porto Cervo y la Costa Esmeralda",
+      "description": "Hoteles de lujo en Porto Cervo y la Costa Esmeralda (Cerdeña): Cala di Volpe, Romazzino, Cervo y CPH Pevero. Temporada, vuelos y ventajas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Hoteles de lujo en Porto Cervo",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Cervo Hotel, Costa Smeralda Resort",
+          "url": "https://solo5estrellas.com/hotels/6925/cervo-hotel-costa-smeralda-resort.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "CPH Pevero Hotel",
+          "url": "https://solo5estrellas.com/hotels/6415/cph-pevero-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hotel Cala di Volpe, a Luxury Collection Hotel",
+          "url": "https://solo5estrellas.com/hotels/1710/hotel-cala-di-volpe.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Romazzino, A Belmond Hotel, Costa Smeralda",
+          "url": "https://solo5estrellas.com/hotels/1047/romazzino.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuál es el aeropuerto más cercano a Porto Cervo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Olbia Costa Smeralda (OLB), a unos 30 km, entre 35 y 45 minutos por carretera."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Los hoteles de la Costa Esmeralda abren todo el año?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Abren aproximadamente de abril o mayo a octubre; confirme las fechas con su asesor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se puede llegar en ferri desde España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: Grimaldi Lines une Barcelona con Porto Torres, en unas 12 a 15 horas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hotel está en el pueblo de Porto Cervo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cervo Hotel, frente a la Piazzetta y el puerto deportivo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hotel tiene villas con piscina privada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Romazzino, A Belmond Hotel, con seis villas con piscina."
+          }
+        }
+      ]
+    }
+  ]
+}

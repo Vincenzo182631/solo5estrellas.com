@@ -1,0 +1,134 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Estados Unidos",
+          "item": "https://solo5estrellas.com/countries/67/estados-unidos.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Seattle",
+          "item": "https://solo5estrellas.com/cities/269/seattle.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/269/seattle.html#webpage",
+      "url": "https://solo5estrellas.com/cities/269/seattle.html",
+      "name": "Hoteles de lujo en Seattle",
+      "description": "Hoteles de lujo en Seattle por zona: Downtown, Pike Place Market y South Lake Union, con Fairmont Olympic y Four Seasons. Reserve con Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Hoteles de lujo en Seattle",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Fairmont Olympic Hotel",
+          "url": "https://solo5estrellas.com/hotels/1483/fairmont-olympic-seattle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "W Seattle",
+          "url": "https://solo5estrellas.com/hotels/2455/w-seattle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Grand Hyatt Seattle",
+          "url": "https://solo5estrellas.com/hotels/1227/grand-hyatt-seattle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Four Seasons Hotel Seattle",
+          "url": "https://solo5estrellas.com/hotels/2250/four-seasons-hotel-seattle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Thompson Seattle",
+          "url": "https://solo5estrellas.com/hotels/3203/thompson-seattle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "1 Hotel Seattle",
+          "url": "https://solo5estrellas.com/hotels/2168/pan-pacific-hotel-seattle.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo se llega del aeropuerto al centro de Seattle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En el tren ligero Link, en unos 38 minutos, sin necesidad de coche."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la mejor época para visitar Seattle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De junio a septiembre, la época más seca y soleada."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hotel está junto al mercado de Pike Place?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Four Seasons Hotel Seattle y Thompson Seattle están a pocos pasos del mercado."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué fue del Pan Pacific Hotel Seattle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Reabrió en abril de 2025 como 1 Hotel Seattle, en la misma dirección de South Lake Union."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se necesita visado para viajar a Seattle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Los ciudadanos de países del Programa de Exención de Visados, como España, necesitan una autorización ESTA aprobada antes del viaje."
+          }
+        }
+      ]
+    }
+  ]
+}
