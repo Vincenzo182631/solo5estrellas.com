@@ -1,10 +1,10 @@
 # Hotel record cleanup: one list for Matt
 
-**What this is:** every renamed, closed, misplaced or wrongly described hotel found while drafting the 99 hotel pages (ranks 1 to 101 by impressions, Search Console export of 27 Oct) and the city pages, in one place. Checked between 29 Oct and 10 Nov 2026. Details and sources are in each batch's `content/hoteles-*/README.md` and copy files.
+**What this is:** every renamed, closed, misplaced or wrongly described hotel found while drafting the 116 hotel pages (ranks 1 to 121 by impressions, Search Console export of 27 Oct) and the city pages, in one place. Checked between 29 Oct and 11 Nov 2026. Details and sources are in each batch's `content/hoteles-*/README.md` and copy files. Client decisions are collected in `outreach/client-decision-sheet.xlsx`.
 
-**Totals:** 59 fixes on 53 hotel records, plus a login wall on 17 hotel pages. "Dev" items Matt can do now; "Client" items wait for a client decision; "Dev + Client" needs both.
+**Totals:** 80 fixes on 70 hotel records, plus a login wall on 20 hotel pages. "Dev" items Matt can do now; "Client" items wait for a client decision; "Dev + Client" needs both.
 
-**Order of work:** sections 1 to 3 first (they send Google and guests to the wrong hotel or place), then 8 and 9, then 10. Sections 4, 6 and 7 wait for the client.
+**Order of work:** sections 1 to 3 first (they send Google and guests to the wrong hotel or place), then 5, 8 and 9, then 10. Sections 4, 6 and 7 wait for the client.
 
 ## 1. Redirect or retire (the hotel no longer exists under this record)
 
@@ -14,6 +14,7 @@
 | 2841 | W Atlanta-Downtown | Reopened 14 May 2026 as JW Marriott Atlanta Downtown (record 7123). 301 /hotels/2841/ to /hotels/7123/. | Dev | Z121 |
 | 1553 | Four Seasons Hotel Shanghai at Puxi | Four Seasons left; reopened 25 Sep 2024 as Alila Shanghai (record 6719). 301 /hotels/1553/ to /hotels/6719/. | Dev | Z121 |
 | 2218 | W Atlanta – Midtown | Since 2022 The Starling Atlanta Midtown (Hilton Curio), not in the collection. 301 to the Atlanta city page, or add The Starling and redirect there (client decides). | Dev + Client | Z128 |
+| 2970 | The St. Regis Moscow Nikolskaya | No longer a Marriott hotel (Marriott left Russia in 2022); Bonvoy perks cannot be honoured. Client decides: remove and 301 to the Russia page (recommended) or keep. | Client | Z131 |
 
 ## 2. Rename the record (and the slug, with a 301 from the old one)
 
@@ -38,6 +39,12 @@
 | 1112 | The Langham Hotel, Hong Kong | The Langham, Hong Kong (no "Hotel"). | Dev | Z130 |
 | 1030 | Hotel de la Cite Carcassonne | Hôtel de la Cité Carcassonne – MGallery Collection. | Dev | Z130 |
 | 1418 | Sensei Lanai, A Four Seasons Resort | Becomes Four Seasons Resort Lanai at Koele on 16 Dec 2026 (full Four Seasons management). Rename then; recheck age policy and perks. | Dev + Client | Z130 |
+| 2798 | Hotel Paracas | Hotel Paracas, a Luxury Collection Resort, Paracas. | Dev | Z131 |
+| 6985 | JW Marriott Quito | JW Marriott Hotel Quito. | Dev | Z131 |
+| 5008 | The Prince Sakura Tower | The Prince Sakura Tower Tokyo, Autograph Collection. | Dev | Z131 |
+| 2055 | Hotel Palacio de Santa Paula | Hotel Palacio de Santa Paula, Autograph Collection. | Dev | Z131 |
+| 3096 | Shangri-La's Rasa Sentosa Resort & Spa | Shangri-La Rasa Sentosa, Singapore. | Dev | Z131 |
+| 944 | Belmond Hotel Splendido | Splendido, A Belmond Hotel, Portofino (reopened June 2025). | Dev | Z131 |
 
 ## 3. Wrong city or location
 
@@ -51,6 +58,9 @@
 | 6798 | SLS Barcelona | At Port Fòrum, Sant Adrià de Besòs (next to Diagonal Mar); keep under Barcelona but fix the address. | Dev | Z129 |
 | 3311 | Karen Blixen Camp | In the Masai Mara (Mara North Conservancy), not Nairobi. Move the record to city 743. | Dev | Z130 |
 | 6379 | Barracuda Hotel and Villas | In Itacaré (Bahia), not Salvador; nearest airport Ilhéus. | Dev | Z130 |
+| 6623 | Koro Sun Resort and Rainforest Spa | City shows only "Fiji": it is in Savusavu, Vanua Levu. | Dev | Z131 |
+| 2297 | Grand Velas Riviera Maya | In Playa del Carmen (Riviera Maya), not Cancún; and "Méjico" should be "México". | Dev | Z131 |
+| 4280 | Sublime Samana Hotel & Residences | Town misspelt "Las Terranas": it is Las Terrenas. | Dev | Z131 |
 
 ## 4. Not a hotel (client decides)
 
@@ -64,13 +74,16 @@
 | ID | Record now says | Fix | Who | Tracker |
 | --- | --- | --- | --- | --- |
 | 1125 | Casa de Campo | Page header shows no name or city. | Dev | Z126 |
+| 6947 | The Laurus, Singapore | Page header shows no name or city. It is The Laurus, a Luxury Collection Resort, Singapore, on Sentosa. | Dev | Z131 |
 
-## 6. Confirm the hotel is open (client)
+## 6. Closed or status to confirm
 
 | ID | Record now says | Fix | Who | Tracker |
 | --- | --- | --- | --- | --- |
 | 4329 | Royal Park Hotel Lima | May still be closed; reopening (May 2026) not confirmed. | Client | Z126 |
 | 4224 | Son Bunyola | Status after a reported storm closure not fully confirmed; season March to mid-November. | Client | Z126 |
+| 1424 | Four Seasons Santa Barbara, The Biltmore | Closed since March 2020; reopening 2027, date not announced (about 138 keys). Hide the booking path and show "Reabre en 2027". | Dev + Client | Z131 |
+| 1401 | ? (header blank) Amangani | Closed for refurbishment since Apr 2025; reopening reported for 2027. Hide the booking path; also fix the blank page header (no name or city). | Dev + Client | Z131 |
 
 ## 7. Not clearly five-star (client decides)
 
@@ -83,6 +96,13 @@
 | 3129 | Hotel du Collectionneur | Own site says both 4 and 5 stars. Keep? | Client | Z129 |
 | 6621 | Fontainebleau Las Vegas | 3,644-room casino and convention resort. Keep? | Client | Z130 |
 | 6920 | Hotel U14, Autograph Collection | Autograph Collection is Marriott's upper-upscale tier. Keep? | Client | Z130 |
+| 5008 | The Prince Sakura Tower | Autograph Collection is Marriott's upper-upscale tier. Keep? | Client | Z131 |
+| 6623 | Koro Sun Resort and Rainforest Spa | Independent upscale family resort. Keep? | Client | Z131 |
+| 6079 | Crown Towers Perth | Luxury hotel inside a casino complex. Keep? | Client | Z131 |
+| 2055 | Hotel Palacio de Santa Paula | Autograph Collection is Marriott's upper-upscale tier. Keep? | Client | Z131 |
+| 4306 | The Outpost Hotel Sentosa | Positioned as upscale, not five-star. Keep? | Client | Z131 |
+| 4433 | Eight Hotel Portofino | 4-star (SLH member). Keep? | Client | Z131 |
+| 4090 | 71 Nyhavn Hotel | Four-star hotel (Arp-Hansen). Keep? | Client | Z131 |
 
 ## 8. Template and data errors
 
@@ -106,6 +126,7 @@
 | 4085 | Hotel Nantipa | Breakfast for "3 Personas": likely a typo for 2 (client confirms). | Client | Z129 |
 | 964 | Necker Island | Typos in the perks text ("u1 Hora", "Hesort"). | Dev | Z121 |
 | 6379 | Barracuda Hotel and Villas | Rates include breakfast: remove the breakfast line, as for Altstadt Vienna (client confirms). | Client | Z130 |
+| 2297 | Grand Velas Riviera Maya | All-inclusive: remove the breakfast line. | Dev | Z131 |
 
 ## 10. Out-of-date text on the page
 
@@ -117,6 +138,6 @@
 
 ## 11. Login wall (Z115)
 
-These hotel pages hide the description, perks and photos behind a login form, so Google sees no content: 1079, 1202, 1227, 1410, 1483, 1553, 2250, 2455, 2841, 2962, 3203, 3359, 3616, 3834, 3897, 4077, 7024. Show the content to everyone; keep the login only for booking.
+These hotel pages hide the description, perks and photos behind a login form, so Google sees no content: 1079, 1202, 1227, 1410, 1483, 1553, 2250, 2455, 2841, 2962, 3203, 3359, 3616, 3834, 3897, 4077, 4955, 5008, 6830, 7024. Show the content to everyone; keep the login only for booking.
 
 A CSV of the same list (sortable) is in `HOTEL-RECORD-CLEANUP.csv`.

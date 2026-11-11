@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Crown Towers Perth",
+          "item": "https://solo5estrellas.com/hotels/6079/Crown-Towers-Perth.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/6079/Crown-Towers-Perth.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6079/Crown-Towers-Perth.html",
+      "name": "Crown Towers Perth",
+      "description": "Crown Towers Perth, el hotel de lujo del complejo Crown junto al río Swan, con Crown Spa. Con Solo5Estrellas: desayuno para dos y crédito de 100 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Crown Towers Perth",
+      "url": "https://solo5estrellas.com/hotels/6079/Crown-Towers-Perth.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Burswood, Perth",
+        "addressRegion": "WA",
+        "postalCode": "6100",
+        "addressCountry": "AU"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Tiene casino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, en el complejo Crown Perth."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye el Crystal Club?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Desayuno, aperitivos por la tarde y conserjería, en el salón de la planta 15."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué restaurantes hay?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Entre otros, Nobu y Rockpool Bar & Grill, en el complejo."
+          }
+        }
+      ]
+    }
+  ]
+}

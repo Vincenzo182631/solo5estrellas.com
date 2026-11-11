@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Grand Velas Riviera Maya",
+          "item": "https://solo5estrellas.com/hotels/2297/grand-velas-riviera-maya.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/2297/grand-velas-riviera-maya.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2297/grand-velas-riviera-maya.html",
+      "name": "Grand Velas Riviera Maya",
+      "description": "Grand Velas Riviera Maya, todo incluido junto a Playa del Carmen, con tres zonas y SE Spa. Con Solo5Estrellas: crédito de 150 USD y mejora de categoría.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Grand Velas Riviera Maya",
+      "url": "https://solo5estrellas.com/hotels/2297/grand-velas-riviera-maya.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carretera Cancún-Tulum km 62",
+        "postalCode": "77710",
+        "addressLocality": "Playa del Carmen",
+        "addressRegion": "Quintana Roo",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es solo para adultos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Tiene una piscina solo para adultos en Grand Class y algunos restaurantes y bares con edad mínima."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es todo incluido?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, con servicio a la suite las 24 horas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿A qué distancia está el aeropuerto de Cancún?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A unos 35 minutos."
+          }
+        }
+      ]
+    }
+  ]
+}

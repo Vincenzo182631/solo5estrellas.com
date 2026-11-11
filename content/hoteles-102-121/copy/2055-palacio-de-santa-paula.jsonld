@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel Palacio de Santa Paula, Autograph Collection",
+          "item": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula-.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula-.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula-.html",
+      "name": "Hotel Palacio de Santa Paula, Autograph Collection",
+      "description": "Hotel Palacio de Santa Paula, en un convento del siglo XVI en el centro de Granada. Con Solo5Estrellas: desayuno para dos y amenidad de bienvenida.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Hotel Palacio de Santa Paula, Autograph Collection",
+      "url": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula-.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gran Vía de Colón 31",
+        "postalCode": "18001",
+        "addressLocality": "Granada",
+        "addressCountry": "ES"
+      },
+      "numberOfRooms": 72
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Está en un edificio histórico?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, en un convento del siglo XVI y una casa morisca del siglo XIV."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿A qué distancia está la Alhambra?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A unos 2 km."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene aparcamiento?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, con aparcacoches."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Imperial Hotel, Tokyo",
+          "item": "https://solo5estrellas.com/hotels/3579/imperial-hotel-tokyo.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/3579/imperial-hotel-tokyo.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/3579/imperial-hotel-tokyo.html",
+      "name": "Imperial Hotel, Tokyo",
+      "description": "Imperial Hotel, Tokio, frente al parque Hibiya desde 1890, con la Frank Lloyd Wright Suite. Con Solo5Estrellas: desayuno americano y crédito de 100 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Imperial Hotel, Tokyo",
+      "url": "https://solo5estrellas.com/hotels/3579/imperial-hotel-tokyo.html",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1-1-1 Uchisaiwai-cho, Chiyoda-ku",
+        "postalCode": "100-8558",
+        "addressLocality": "Tokio",
+        "addressCountry": "JP"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Está abierto durante la reconstrucción?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Los dos edificios están abiertos; la Tower seguirá abierta hasta que empiece su demolición, prevista hacia finales del año fiscal 2030."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es la Frank Lloyd Wright Suite?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Una suite de 214 m² en el Main Building, en homenaje al arquitecto del edificio de 1923."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde está?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Frente al parque Hibiya, entre el Palacio Imperial y Ginza."
+          }
+        }
+      ]
+    }
+  ]
+}

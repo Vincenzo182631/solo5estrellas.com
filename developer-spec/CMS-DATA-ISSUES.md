@@ -98,3 +98,12 @@ The full list of hotel record fixes found so far (ranks 1 to 101 and the city pa
 - **Perks:** 6379 Barracuda rates include breakfast (remove the breakfast line; client confirms). 2168 and 1047: confirm the perks still apply after the rebrand.
 - **Old text:** 3526 Ocean Prime no longer listed; 4367 L'Hotel's separate restaurant gone.
 - **Login wall** (Z115) also on: 2962 Miami Beach EDITION, 4077 Four Seasons Tokyo at Otemachi, and Seattle 1483, 2250, 1227, 3203, 2455, Nairobi 7024.
+
+## Added 11 Nov (ranks 102–121 and city pages; tracker Z131)
+All hotel record fixes are in `HOTEL-RECORD-CLEANUP.md` (now 80 fixes on 70 records, plus 20 login-wall pages). New this batch:
+- **Closed or no longer bookable as listed:** 2970 The St. Regis Moscow (no longer Marriott); 1424 Four Seasons Biltmore Santa Barbara (closed since 2020, reopening 2027); 1401 Amangani (closed for refurbishment; page header also blank).
+- **Renames:** 2798 → "Hotel Paracas, a Luxury Collection Resort, Paracas"; 6985 → "JW Marriott Hotel Quito"; 5008 → "The Prince Sakura Tower Tokyo, Autograph Collection"; 2055 → "Hotel Palacio de Santa Paula, Autograph Collection"; 3096 → "Shangri-La Rasa Sentosa, Singapore"; 944 → "Splendido, A Belmond Hotel, Portofino".
+- **Wrong places:** 2297 Grand Velas is in Playa del Carmen, not Cancún ("Méjico" → "México"); 4280 "Las Terranas" → Las Terrenas; 6623 Koro Sun shows only "Fiji" (Savusavu).
+- **Missing header:** 6947 The Laurus (on Sentosa).
+- **Perks:** 2297 Grand Velas is all-inclusive (remove the breakfast line).
+- **Login wall** (Z115) also on: 5008, 6830 Raffles Sentosa, 4955 Sofitel Sentosa.

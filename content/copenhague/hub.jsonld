@@ -1,0 +1,120 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dinamarca",
+          "item": "https://solo5estrellas.com/countries/118/dinamarca.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Copenhague",
+          "item": "https://solo5estrellas.com/cities/649/copenhagen.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/649/copenhagen.html#webpage",
+      "url": "https://solo5estrellas.com/cities/649/copenhagen.html",
+      "name": "Hoteles de lujo en Copenhague",
+      "description": "Hoteles de lujo en Copenhague: d'Angleterre, Nimb en Tivoli, Nobis, Villa Copenhagen y 71 Nyhavn, por zona. Metro desde el aeropuerto y ventajas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Hoteles de lujo en Copenhague",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hotel d'Angleterre",
+          "url": "https://solo5estrellas.com/hotels/3236/hotel-d-angleterre-copenhagen-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "71 Nyhavn Hotel",
+          "url": "https://solo5estrellas.com/hotels/4090/71-nyhavn-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nimb Hotel",
+          "url": "https://solo5estrellas.com/hotels/3659/nimb-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Nobis Hotel Copenhagen",
+          "url": "https://solo5estrellas.com/hotels/3316/nobis-hotel-copenhagen.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Villa Copenhagen",
+          "url": "https://solo5estrellas.com/hotels/4530/villa-copenhagen.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo se llega del aeropuerto al centro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En metro, en unos 13 minutos hasta Kongens Nytorv, o en tren, en unos 15 minutos hasta la estación Central."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hotel está dentro de Tivoli?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nimb Hotel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hay algún hotel con piscina abierta todo el año?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí: la piscina climatizada en la azotea de Villa Copenhagen. El Hotel d'Angleterre tiene piscina cubierta en su spa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuándo abre Tivoli en Navidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Del 13 de noviembre al 3 de enero."
+          }
+        }
+      ]
+    }
+  ]
+}

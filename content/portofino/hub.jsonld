@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Italia",
+          "item": "https://solo5estrellas.com/countries/33/italia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Portofino",
+          "item": "https://solo5estrellas.com/cities/221/portofino.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/221/portofino.html#webpage",
+      "url": "https://solo5estrellas.com/cities/221/portofino.html",
+      "name": "Hoteles de lujo en Portofino",
+      "description": "Hoteles de lujo en Portofino: Splendido y Splendido Mare de Belmond y Eight Hotel. Temporada, cómo llegar desde Génova y ventajas de Solo5Estrellas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Hoteles de lujo en Portofino",
+      "numberOfItems": 3,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Splendido, A Belmond Hotel, Portofino",
+          "url": "https://solo5estrellas.com/hotels/944/belmond-hotel-splendido-.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Splendido Mare, A Belmond Hotel",
+          "url": "https://solo5estrellas.com/hotels/6110/belmond-hotel-splendido-mare.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Eight Hotel Portofino",
+          "url": "https://solo5estrellas.com/hotels/4433/eight-hotel-portofino.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Se puede llegar en coche a Portofino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, hasta el aparcamiento de la piazza della Libertà; el centro es peatonal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la estación de tren más cercana?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Santa Margherita Ligure, unida a Portofino por el autobús 82 y, en temporada, por barco."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Los hoteles abren todo el año?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Abren aproximadamente de marzo o mayo a noviembre; Splendido Mare abre también en Navidad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es el aeropuerto más cercano?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Génova, a alrededor de una hora en coche."
+          }
+        }
+      ]
+    }
+  ]
+}

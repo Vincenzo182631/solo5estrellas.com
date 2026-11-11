@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Le Sereno, St. Barths",
+          "item": "https://solo5estrellas.com/hotels/6349/le-sereno-hotel-st-barths.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/6349/le-sereno-hotel-st-barths.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6349/le-sereno-hotel-st-barths.html",
+      "name": "Le Sereno, St. Barths",
+      "description": "Le Sereno, en la laguna de Grand Cul-de-Sac, San Bartolomé; reabre el 16 de noviembre de 2026. Con Solo5Estrellas: desayuno y crédito de 100 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Le Sereno, St. Barths",
+      "url": "https://solo5estrellas.com/hotels/6349/le-sereno-hotel-st-barths.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Grand Cul-de-Sac",
+        "addressCountry": "BL"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuándo reabre?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El 16 de noviembre de 2026."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La playa es privada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es una playa casi privada en la laguna de Grand Cul-de-Sac."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se llega a San Bartolomé?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Por Saint-Martin, con un vuelo de unos 10 minutos o en ferri."
+          }
+        }
+      ]
+    }
+  ]
+}

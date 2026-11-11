@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hotel Paracas, a Luxury Collection Resort",
+          "item": "https://solo5estrellas.com/hotels/2798/hotel-paracas.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/2798/hotel-paracas.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2798/hotel-paracas.html",
+      "name": "Hotel Paracas, a Luxury Collection Resort",
+      "description": "Hotel Paracas, a Luxury Collection Resort, en la bahía de Paracas, con muelle a las islas Ballestas. Con Solo5Estrellas: desayuno para dos y crédito.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Hotel Paracas, a Luxury Collection Resort",
+      "url": "https://solo5estrellas.com/hotels/2798/hotel-paracas.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Paracas",
+        "addressRegion": "Ica",
+        "addressCountry": "PE"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿A qué distancia está de Lima?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A unos 240 km al sur."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se puede ir a las islas Ballestas desde el hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, desde su muelle privado."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene piscina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, dos."
+          }
+        }
+      ]
+    }
+  ]
+}

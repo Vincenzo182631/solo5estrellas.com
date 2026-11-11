@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sublime Samaná Hotel & Residences",
+          "item": "https://solo5estrellas.com/hotels/4280/sublime-samana-hotel-residences.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://solo5estrellas.com/hotels/4280/sublime-samana-hotel-residences.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/4280/sublime-samana-hotel-residences.html",
+      "name": "Sublime Samaná Hotel & Residences",
+      "description": "Sublime Samaná, suites con cocina en la playa Cosón de Las Terrenas, con spa y dos piscinas. Con Solo5Estrellas: desayuno y crédito de 100 USD.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "Hotel",
+      "name": "Sublime Samaná Hotel & Residences",
+      "url": "https://solo5estrellas.com/hotels/4280/sublime-samana-hotel-residences.html",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Las Terrenas",
+        "addressRegion": "Samaná",
+        "addressCountry": "DO"
+      },
+      "numberOfRooms": 40
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es todo incluido?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No; se reserva solo alojamiento o con desayuno."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es el aeropuerto más cercano?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Samaná El Catey, a unos 25 minutos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tiene piscina solo para adultos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, una de sus dos piscinas."
+          }
+        }
+      ]
+    }
+  ]
+}
