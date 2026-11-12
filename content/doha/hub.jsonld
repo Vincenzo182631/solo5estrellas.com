@@ -1,0 +1,206 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://solo5estrellas.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Oriente Medio",
+          "item": "https://solo5estrellas.com/regions/18/oriente-medio.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Doha",
+          "item": "https://solo5estrellas.com/cities/446/doha.html"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://solo5estrellas.com/cities/446/doha.html#webpage",
+      "url": "https://solo5estrellas.com/cities/446/doha.html",
+      "name": "Hoteles de lujo en Doha",
+      "description": "Hoteles de lujo en Doha por zona: West Bay, Lusail, The Pearl y Msheireb, con playa privada o junto al Souq. Metro desde el aeropuerto y ventajas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Solo5Estrellas",
+        "url": "https://solo5estrellas.com/"
+      },
+      "publisher": {
+        "@type": "TravelAgency",
+        "name": "Lorraine Travel",
+        "url": "https://solo5estrellas.com/"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Hoteles de lujo en Doha",
+      "numberOfItems": 18,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Four Seasons Hotel Doha",
+          "url": "https://solo5estrellas.com/hotels/1550/four-seasons-hotel-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The Ritz-Carlton, Doha",
+          "url": "https://solo5estrellas.com/hotels/1629/the-ritz-carlton-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The St. Regis Doha",
+          "url": "https://solo5estrellas.com/hotels/2622/the-st-regis-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Waldorf Astoria Doha West Bay",
+          "url": "https://solo5estrellas.com/hotels/6322/waldorf-astoria-doha-west-bay.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "W Doha Hotel & Residences",
+          "url": "https://solo5estrellas.com/hotels/2876/w-doha-hotel-residences.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Grand Hyatt Doha Hotel & Villas",
+          "url": "https://solo5estrellas.com/hotels/1014/grand-hyatt-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "InterContinental Doha Beach & Spa",
+          "url": "https://solo5estrellas.com/hotels/4000/intercontinental-doha-beach.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "InterContinental Doha The City",
+          "url": "https://solo5estrellas.com/hotels/4786/intercontinental-doha-the-city.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Raffles Doha",
+          "url": "https://solo5estrellas.com/hotels/6471/raffles-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Fairmont Doha",
+          "url": "https://solo5estrellas.com/hotels/6642/fairmont-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Rosewood Doha",
+          "url": "https://solo5estrellas.com/hotels/6895/rosewood-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Waldorf Astoria Lusail, Doha",
+          "url": "https://solo5estrellas.com/hotels/6321/waldorf-astoria-lusail-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Four Seasons Resort and Residences at The Pearl-Qatar",
+          "url": "https://solo5estrellas.com/hotels/6436/four-seasons-doha-the-pearl-qatar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Mandarin Oriental, Doha",
+          "url": "https://solo5estrellas.com/hotels/6203/mandarin-oriental-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Park Hyatt Doha",
+          "url": "https://solo5estrellas.com/hotels/4117/park-hyatt-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Banyan Tree Doha",
+          "url": "https://solo5estrellas.com/hotels/6470/banyan-tree-doha.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Sharq Village & Spa, a Ritz-Carlton Hotel",
+          "url": "https://solo5estrellas.com/hotels/1856/sharq-village-and-spa-a-ritz-carlton-hotel.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Maysan Doha, LXR Hotels & Resorts",
+          "url": "https://solo5estrellas.com/hotels/6324/maysan-doha-lxr-hotels-resorts.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo se llega del aeropuerto al hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En la línea roja del metro, que une la Terminal 1 del aeropuerto de Hamad con el centro, West Bay y Lusail, o en taxi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la mejor época para viajar a Doha?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De noviembre a febrero, con temperaturas de 15 a 20 °C."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hoteles tienen playa privada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Entre otros, The Ritz-Carlton, The St. Regis, Grand Hyatt, InterContinental Doha Beach & Spa, Sharq Village, Waldorf Astoria Lusail y Four Seasons at The Pearl."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hotel está más cerca del Souq Waqif?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Los de Msheireb Downtown: Mandarin Oriental, Park Hyatt y Banyan Tree."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Necesito visado?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Los ciudadanos españoles pueden entrar sin visado previo para estancias turísticas; confirme las condiciones en visitqatar.com."
+          }
+        }
+      ]
+    }
+  ]
+}
