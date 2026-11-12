@@ -43,14 +43,14 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 **Estados Unidos (47)**
 - [Mountain Shadows](/hotels/3685/mountain-shadows.html) (Paradise Valley)
 - [The Global Ambassador](/hotels/6595/the-global-ambassador.html) (Phoenix)
-- [The Wigwam Resort](/hotels/2504/the-wigwam-resort-.html) (Litchfield Park)
+- [The Wigwam Resort](/hotels/2504/the-wigwam-resort.html) (Litchfield Park)
 - [Carneros Resort & Spa](/hotels/1636/carneros-resort-spa.html) (Napa Valley)
 - [Casa Del Mar](/hotels/1111/casa-del-mar.html) (Santa Monica)
 - [Casa Palmero at Pebble Beach](/hotels/3679/casa-palmero-at-pebble-beach.html) (Pebble Beach)
 - [Cavallo Point - the Lodge at the Golden Gate](/hotels/2256/cavallo-point-the-lodge-at-the-golden-gate.html) (Sausalito)
 - [Hotel Californian](/hotels/3329/hotel-californian.html) (Santa Bárbara)
 - [Huntley Santa Monica Beach Hotel](/hotels/2163/huntley-santa-monica-beach-hotel.html) (Santa Monica)
-- [Post Ranch Inn](/hotels/2110/post-ranch-inn-.html) (Big Sur)
+- [Post Ranch Inn](/hotels/2110/post-ranch-inn.html) (Big Sur)
 - [Rancho Bernardo Inn](/hotels/4250/rancho-bernardo-inn.html) (San Diego)
 - [Shutters On The Beach Hotel](/hotels/1187/shutters-on-the-beach-hotel.html) (Santa Monica)
 - [The Balboa Bay Club & Resort](/hotels/1384/the-balboa-bay-club-resort.html) (Newport Beach)
@@ -76,7 +76,7 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 - [The Saint Paul Hotel](/hotels/4579/the-saint-paul-hotel.html) (St Paul)
 - [Pendry Natirar](/hotels/7133/pendry-natirar.html) (Peapack)
 - [Lake House on Canandaigua](/hotels/6757/lake-house-on-canandaigua.html) (Rochester)
-- [The Mark](/hotels/1118/the-mark-.html) (Nueva York)
+- [The Mark](/hotels/1118/the-mark.html) (Nueva York)
 - [The Park Lane Hotel](/hotels/2626/the-park-lane-hotel.html) (Nueva York)
 - [The Prince Kitano New York](/hotels/6756/the-prince-kitano-new-york.html) (Nueva York)
 - [The Sanctuary at Kiawah Island](/hotels/1405/the-sanctuary-at-kiawah-island.html) (Kiawah Island)
@@ -99,12 +99,12 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 
 **México (7)**
 - [Azul Talavera Hotel](/hotels/4523/azul-talavera-hotel.html) (Ciudad de México)
-- [Grand Velas Boutique Hotel](/hotels/7004/grand-velas-boutique-hotel-.html) (Cabo San Lucas)
+- [Grand Velas Boutique Hotel](/hotels/7004/grand-velas-boutique-hotel.html) (Cabo San Lucas)
 - [Grand Velas Los Cabos](/hotels/3229/grand-velas-los-cabos.html) (Cabo San Lucas)
 - [Haven Riviera Cancún](/hotels/3698/haven-riviera-canc-n.html) (Cancún)
 - [Las Brisas Acapulco](/hotels/2244/las-brisas-acapulco.html) (Acapulco)
 - [Live Aqua Cancun](/hotels/2017/live-aqua-cancun.html) (Cancún)
-- [Nizuc Resort & Spa](/hotels/2849/nizuc-resort-spa-.html) (Cancún)
+- [Nizuc Resort & Spa](/hotels/2849/nizuc-resort-spa.html) (Cancún)
 
 **Puerto Rico (1)**
 - [Condado Vanderbilt](/hotels/2998/condado-vanderbilt.html) (San Juan)
@@ -117,7 +117,7 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 **Suecia (3)**
 - [At Six](/hotels/3315/at-six.html) (Estocolmo)
 - [Hotel Diplomat Stockholm](/hotels/4585/hotel-diplomat-stockholm.html) (Estocolmo)
-- [Villa Dagmar Hotel](/hotels/4586/villa-dagmar-hotel-.html) (Estocolmo)
+- [Villa Dagmar Hotel](/hotels/4586/villa-dagmar-hotel.html) (Estocolmo)
 
 **República Checa (2)**
 - [Alchymist Grand Hotel & Spa](/hotels/3126/alchymist-grand-hotel-spa.html) (Praga)
@@ -141,7 +141,7 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 - [Castille Paris](/hotels/2583/castille-paris.html) (París)
 - [Hotel De Paris, St. Tropez](/hotels/2774/hotel-de-paris-st-tropez.html) (St. Tropez)
 - [Hotel du Collectionneur Arc de Triomphe Paris](/hotels/3129/hotel-du-collectionneur-arc-de-triomphe-paris.html) (París)
-- [Hotel Keppler](/hotels/4124/hotel-keppler-.html) (París)
+- [Hotel Keppler](/hotels/4124/hotel-keppler.html) (París)
 - [Hotel Les Terrasses d'Eze](/hotels/4532/hotel-les-terrasses-d-eze.html) (Eze)
 - [Hotel Napoleon Paris](/hotels/3130/hotel-napoleon-paris.html) (París)
 - [Hotel Regina - Paris](/hotels/3131/hotel-regina-paris.html) (París)
@@ -161,7 +161,7 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 - [The K Club](/hotels/3179/the-k-club.html) (Kildare)
 
 **Italia (25)**
-- [Excelsior Belvedere Hotel](/hotels/4515/-excelsior-belvedere-hotel.html) (Ischia)
+- [Excelsior Belvedere Hotel](/hotels/4515/excelsior-belvedere-hotel.html) (Ischia)
 - [Almar Giardino di Costanza Mazara del Vallo](/hotels/1578/almar-giardino-di-costanza-mazara-del-vallo.html) (Mazara del Vallo)
 - [Almar Lido Jesolo Resort & Spa](/hotels/7136/almar-lido-jesolo-resort-spa.html) (Lido di Jesolo)
 - [Armani Hotel Milano](/hotels/2619/armani-hotel-milano.html) (Milán)
@@ -170,7 +170,7 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 - [Corso 281](/hotels/4517/corso-281.html) (Roma)
 - [Grand Hotel Poltu Quatu](/hotels/4540/grand-hotel-poltu-quatu.html) (Arzachena)
 - [Grand Hotel San Pietro](/hotels/6759/grand-hotel-san-pietro.html) (Taormina)
-- [Grand Hotel Tremezzo, Lake Como](/hotels/1122/grand-hotel-tremezzo-lake-como-.html) (Lake Como)
+- [Grand Hotel Tremezzo, Lake Como](/hotels/1122/grand-hotel-tremezzo-lake-como.html) (Lake Como)
 - [Hotel Bernini Palace Florence](/hotels/1935/hotel-bernini-palace-florence.html) (Florencia)
 - [Hotel Bristol Palace](/hotels/4514/hotel-bristol-palace.html) (Génova)
 - [Hotel Il Castelfalfi](/hotels/4516/hotel-il-castelfalfi.html) (Toscana)
@@ -178,48 +178,48 @@ Preferred Hotels & Resorts es una colección global de hoteles independientes cu
 - [Hotel Villa Cipriani](/hotels/4541/hotel-villa-cipriani.html) (Asolo)
 - [Locanda Rossa](/hotels/4542/locanda-rossa.html) (Capalbio)
 - [Masseria San Domenico](/hotels/1363/masseria-san-domenico.html) (Savelletri di Fasano)
-- [Parco dei Principi Grand Hotel](/hotels/3137/parco-dei-principi-grand-hotel-.html) (Roma)
+- [Parco dei Principi Grand Hotel](/hotels/3137/parco-dei-principi-grand-hotel.html) (Roma)
 - [Passalacqua Lake Como](/hotels/7135/passalacqua-lake-como.html) (Lake Como)
 - [Principi di Piemonte UNA Esperienze](/hotels/7012/principi-di-piemonte-una-esperienze.html) (Milán)
 - [San Clemente Palace Venice](/hotels/1284/san-clemente-palace-venice.html) (Venecia)
 - [The First Roma Arte](/hotels/3955/the-first-roma-arte.html) (Roma)
 - [The First Roma Dolce](/hotels/4519/the-first-roma-dolce.html) (Roma)
-- [Toscana Resort Castelfalfi](/hotels/6271/toscana-resort-castelfalfi-.html) (Florencia)
+- [Toscana Resort Castelfalfi](/hotels/6271/toscana-resort-castelfalfi.html) (Florencia)
 - [Umilta 36](/hotels/6427/umilta-36.html) (Roma)
 
 **Portugal (3)**
 - [Epic SANA Marques](/hotels/6534/epic-sana-marques.html) (Lisboa)
-- [Myriad](/hotels/6535/myriad-.html) (Lisboa)
+- [Myriad](/hotels/6535/myriad.html) (Lisboa)
 - [The One Palacio da Anunciada](/hotels/4547/the-one-palacio-da-anunciada.html) (Lisboa)
 
 **España (10)**
-- [Can Bordoy Grand House & Garden Hotel](/hotels/4584/can-bordoy-grand-house-garden-hotel-.html) (Mallorca)
+- [Can Bordoy Grand House & Garden Hotel](/hotels/4584/can-bordoy-grand-house-garden-hotel.html) (Mallorca)
 - [Finca Cortesin Hotel Golf & Spa](/hotels/2427/finca-cortesin-hotel-golf-spa.html) (Casares)
 - [Hotel Vincci Seleccion Posada del Patio](/hotels/4566/hotel-vincci-seleccion-posada-del-patio.html) (Málaga)
 - [Hotel Wellington, Madrid](/hotels/4555/hotel-wellington-madrid.html) (Madrid)
 - [Monument Hotel](/hotels/3318/monument-hotel.html) (Barcelona)
 - [Only YOU Hotel Valencia](/hotels/6803/only-you-hotel-valencia.html) (Valencia)
 - [Pure Salt Port Adriano](/hotels/4552/pure-salt-port-adriano.html) (Islas Baleares)
-- [Pure Salt Port Adriano Hotel](/hotels/4556/pure-salt-port-adriano-hotel-.html) (Islas Baleares)
+- [Pure Salt Port Adriano Hotel](/hotels/4556/pure-salt-port-adriano-hotel.html) (Islas Baleares)
 - [Seda Club Hotel](/hotels/6378/seda-club-hotel.html) (Granada)
 - [The Serras Hotel Barcelona](/hotels/4551/the-serras-hotel-barcelona.html) (Barcelona)
 
 **Suiza (4)**
 - [7132 Hotel](/hotels/4568/7132-hotel.html) (Vals)
 - [Hotel Metropole Geneva](/hotels/4587/hotel-metropole-geneva.html) (Ginebra)
-- [Storchen Zurich Hotel](/hotels/4569/storchen-zurich-hotel-.html) (Zúrich)
-- [The Capra Hotel](/hotels/4561/the-capra-hotel-.html) (Saas-Fee)
+- [Storchen Zurich Hotel](/hotels/4569/storchen-zurich-hotel.html) (Zúrich)
+- [The Capra Hotel](/hotels/4561/the-capra-hotel.html) (Saas-Fee)
 
 **Ucrania (1)**
 - [Citadel Inn Hotel & Resort](/hotels/3194/citadel-inn-hotel-resort.html) (Lviv)
 
 **Reino Unido (6)**
 - [Middle Eight Hotel](/hotels/4559/middle-eight-hotel.html) (Londres)
-- [Royal Lancaster London Hotel](/hotels/4557/royal-lancaster-london-hotel-.html) (Londres)
+- [Royal Lancaster London Hotel](/hotels/4557/royal-lancaster-london-hotel.html) (Londres)
 - [The Grand York](/hotels/4573/the-grand-york.html) (York)
 - [The Guardsman](/hotels/4571/the-guardsman.html) (Londres)
 - [The Londoner](/hotels/6556/the-londoner.html) (Londres)
-- [The Stafford London](/hotels/981/the-stafford-london-.html) (Londres)
+- [The Stafford London](/hotels/981/the-stafford-london.html) (Londres)
 
 ### África
 

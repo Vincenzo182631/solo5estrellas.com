@@ -36,7 +36,7 @@ Un hotel no tiene una marca o colección asociada en la lista.
 
 ## Los 12 hoteles de Croacia
 
-- Sin ciudad indicada: [Hyatt Regency Zadar](/hotels/6989/-hyatt-regency-zadar.html)
+- Sin ciudad indicada: [Hyatt Regency Zadar](/hotels/6989/hyatt-regency-zadar.html)
 - Bale: [Meneghetti Wine Hotel & Winery](/hotels/6633/meneghetti-wine-hotel-winery.html)
 - Croatia: [Hotel Vestibul Palace](/hotels/4349/hotel-vestibul-palace.html)
 - Dubrovnik: [Hotel Bellevue Dubrovnik](/hotels/6841/hotel-bellevue-dubrovnik.html); [Hotel Excelsior Dubrovnik](/hotels/2585/hotel-excelsior-dubrovnik.html); [Sun Gardens Dubrovnik](/hotels/6298/sun-gardens-dubrovnik.html); [Villa Dubrovnik](/hotels/3022/villa-dubrovnik.html)

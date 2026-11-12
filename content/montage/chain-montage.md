@@ -40,16 +40,16 @@ Montage International es una compañía hotelera de lujo con sede en el sur de C
 ### Norteamérica
 
 **Estados Unidos (5)**
-- [Montage Healdsburg](/hotels/4575/Montage-Healdsburg.html) (Healdsburg, California)
-- [Montage Laguna Beach](/hotels/1253/Montage-Laguna-Beach-.html) (Laguna Beach, California)
-- [Montage Big Sky](/hotels/6238/Montage-Big-Sky.html) (Big Sky, Montana)
-- [Montage Palmetto Bluff](/hotels/1569/Montage-Palmetto-Bluff.html) (Bluffton, South Carolina)
-- [Montage Deer Valley](/hotels/2394/Montage-Deer-Valley.html) (Deer Valley, Utah)
+- [Montage Healdsburg](/hotels/4575/montage-healdsburg.html) (Healdsburg, California)
+- [Montage Laguna Beach](/hotels/1253/montage-laguna-beach.html) (Laguna Beach, California)
+- [Montage Big Sky](/hotels/6238/montage-big-sky.html) (Big Sky, Montana)
+- [Montage Palmetto Bluff](/hotels/1569/montage-palmetto-bluff.html) (Bluffton, South Carolina)
+- [Montage Deer Valley](/hotels/2394/montage-deer-valley.html) (Deer Valley, Utah)
 
 ### México, Caribe y Centroamérica
 
 **México (1)**
-- [Montage Los Cabos, Mexico](/hotels/3337/Montage-Los-Cabos-Mexico.html) (Cabo San Lucas)
+- [Montage Los Cabos, Mexico](/hotels/3337/montage-los-cabos-mexico.html) (Cabo San Lucas)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -112,6 +112,6 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles Rosewood](/collection/10/)
 - [Hoteles Aman](/chains/21/Aman_Resorts.html)
 - [Hoteles Peninsula](/collection/9/)
-- [Hoteles de lujo en Miami](/cities/168/Miami.html)
+- [Hoteles de lujo en Miami](/cities/168/miami.html)
 
-*Fuentes externas: [Montage International: Preferred Hotel Group](https://www.montageinternational.com/?p=532); [WhataHotel: Montage Los Cabos](https://whatahotel.com/hotels/3337/Montage-Los-Cabos-Mexico.html). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*
+*Fuentes externas: [Montage International: Preferred Hotel Group](https://www.montageinternational.com/?p=532); [WhataHotel: Montage Los Cabos](https://whatahotel.com/hotels/3337/montage-los-cabos-mexico.html). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

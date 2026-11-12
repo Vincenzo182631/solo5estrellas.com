@@ -33,7 +33,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Jo
 
 ## Los 11 hoteles de Jordania
 
-- Ammán: [Four Seasons Hotel Amman](/hotels/1841/four-seasons-hotel-amman.html); [Grand Hyatt Amman](/hotels/3392/grand-hyatt-amman-.html); [Hotel Fairmont Amman](/hotels/6132/hotel-fairmont-amman.html); [InterContinental Jordan](/hotels/3998/intercontinental-jordan-.html); [Kempinski Hotel Amman](/hotels/2383/kempinski-hotel-amman.html); [Kempinski Hotel Ishtar Dead Sea](/hotels/1794/kempinski-hotel-ishtar-dead-sea.html); [The St. Regis Amman](/hotels/3885/the-st-regis-amman.html); [W Amman](/hotels/3529/w-amman.html)
+- Ammán: [Four Seasons Hotel Amman](/hotels/1841/four-seasons-hotel-amman.html); [Grand Hyatt Amman](/hotels/3392/grand-hyatt-amman.html); [Hotel Fairmont Amman](/hotels/6132/hotel-fairmont-amman.html); [InterContinental Jordan](/hotels/3998/intercontinental-jordan.html); [Kempinski Hotel Amman](/hotels/2383/kempinski-hotel-amman.html); [Kempinski Hotel Ishtar Dead Sea](/hotels/1794/kempinski-hotel-ishtar-dead-sea.html); [The St. Regis Amman](/hotels/3885/the-st-regis-amman.html); [W Amman](/hotels/3529/w-amman.html)
 - Aqaba: [Al Manara](/hotels/3863/al-manara.html); [Hyatt Regency Aqaba Ayla](/hotels/4204/hyatt-regency-aqaba-ayla.html)
 - Suweima: [Dead Sea Marriott Resort & Spa](/hotels/3755/dead-sea-marriott-resort-spa.html)
 
@@ -65,7 +65,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Oriente Medio](/regions/18/middle_east.html)
+- [Hoteles de lujo en Oriente Medio](/regions/18/middle-east.html)
 - [Hoteles Kempinski Hotels](/collection/4/)
 - [Hoteles Four Seasons](/collection/2/)
 - [Hoteles Grand Hyatt](/collection/28/)

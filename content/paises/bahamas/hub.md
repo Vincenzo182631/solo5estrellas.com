@@ -28,7 +28,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ba
 ## Los 8 hoteles de Bahamas
 
 - Eleuthera: [French Leave Resort](/hotels/3873/french-leave-resort.html); [The Cove Eleuthera](/hotels/3298/the-cove-eleuthera.html)
-- Nassau: [Grand Hyatt Baha Mar](/hotels/3397/grand-hyatt-baha-mar-.html); [SLS Baha Mar](/hotels/3497/sls-baha-mar.html); [The Cove Atlantis](/hotels/1773/the-cove-atlantis.html); [The Ocean Club, A Four Seasons Resort, Bahamas](/hotels/1132/the-ocean-club-a-four-seasons-resort-bahamas.html); [The Reef at Atlantis](/hotels/2298/the-reef-at-atlantis.html); [The Royal at Atlantis](/hotels/6805/the-royal-at-atlantis.html)
+- Nassau: [Grand Hyatt Baha Mar](/hotels/3397/grand-hyatt-baha-mar.html); [SLS Baha Mar](/hotels/3497/sls-baha-mar.html); [The Cove Atlantis](/hotels/1773/the-cove-atlantis.html); [The Ocean Club, A Four Seasons Resort, Bahamas](/hotels/1132/the-ocean-club-a-four-seasons-resort-bahamas.html); [The Reef at Atlantis](/hotels/2298/the-reef-at-atlantis.html); [The Royal at Atlantis](/hotels/6805/the-royal-at-atlantis.html)
 
 ## Preguntas frecuentes sobre hoteles en Bahamas
 

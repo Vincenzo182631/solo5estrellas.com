@@ -33,9 +33,9 @@ Un hotel no tiene una marca o colección asociada en la lista.
 
 ## Los 17 hoteles de Perú
 
-- Colca Canyon: [Belmond Las Casitas](/hotels/3280/belmond-las-casitas-.html)
-- Cusco: [Belmond Hotel Monasterio](/hotels/1077/belmond-hotel-monasterio-.html); [Belmond Hotel Rio Sagrado](/hotels/2461/belmond-hotel-rio-sagrado.html); [Belmond Palacio Nazarenas](/hotels/2623/belmond-palacio-nazarenas.html); [Explora Valle Sagrado](/hotels/3232/explora-valle-sagrado.html); [JW Marriott El Convento Cusco](/hotels/3743/jw-marriott-el-convento-cusco.html); [Palacio del Inka, a Luxury Collection Hotel, Cusco](/hotels/2796/palacio-del-inka-a-luxury-collection-hotel-cusco.html)
-- Lima: [Belmond Miraflores Park](/hotels/1519/belmond-miraflores-park-.html); [Hyatt Centric San Isidro Lima](/hotels/3934/hyatt-centric-san-isidro-lima.html); [JW Marriott Hotel Lima](/hotels/3718/jw-marriott-hotel-lima.html); [Manto Hotel Lima - Mgallery](/hotels/6164/manto-hotel-lima-mgallery.html); [Royal Park Hotel Lima](/hotels/4329/royal-park-hotel-lima.html); [Swissotel Lima](/hotels/4856/swissotel-lima-.html); [Westin Lima Hotel & Convention Center](/hotels/2737/westin-lima-hotel-convention-center.html)
+- Colca Canyon: [Belmond Las Casitas](/hotels/3280/belmond-las-casitas.html)
+- Cusco: [Belmond Hotel Monasterio](/hotels/1077/belmond-hotel-monasterio.html); [Belmond Hotel Rio Sagrado](/hotels/2461/belmond-hotel-rio-sagrado.html); [Belmond Palacio Nazarenas](/hotels/2623/belmond-palacio-nazarenas.html); [Explora Valle Sagrado](/hotels/3232/explora-valle-sagrado.html); [JW Marriott El Convento Cusco](/hotels/3743/jw-marriott-el-convento-cusco.html); [Palacio del Inka, a Luxury Collection Hotel, Cusco](/hotels/2796/palacio-del-inka-a-luxury-collection-hotel-cusco.html)
+- Lima: [Belmond Miraflores Park](/hotels/1519/belmond-miraflores-park.html); [Hyatt Centric San Isidro Lima](/hotels/3934/hyatt-centric-san-isidro-lima.html); [JW Marriott Hotel Lima](/hotels/3718/jw-marriott-hotel-lima.html); [Manto Hotel Lima - Mgallery](/hotels/6164/manto-hotel-lima-mgallery.html); [Royal Park Hotel Lima](/hotels/4329/royal-park-hotel-lima.html); [Swissotel Lima](/hotels/4856/swissotel-lima.html); [Westin Lima Hotel & Convention Center](/hotels/2737/westin-lima-hotel-convention-center.html)
 - Machu Picchu: [Belmond Sanctuary Lodge](/hotels/1990/belmond-sanctuary-lodge.html)
 - Paracas: [Hotel Paracas](/hotels/2798/hotel-paracas.html)
 - Urubamba: [Tambo del Inka, a Luxury Collection Resort & Spa, Valle Sagrado](/hotels/2797/tambo-del-inka-a-luxury-collection-resort-spa-valle-sagrado.html)
@@ -68,7 +68,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Sudamérica](/regions/13/south_america.html)
+- [Hoteles de lujo en Sudamérica](/regions/13/south-america.html)
 - [Hoteles Belmond Bellini Club](/collection/62/)
 - [Hoteles The Luxury Collection](/collection/51/)
 - [Hoteles The Signature Collection](/collection/79/)

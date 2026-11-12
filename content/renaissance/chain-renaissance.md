@@ -99,7 +99,7 @@ Renaissance Hotels es una marca lifestyle de Marriott International, de hoteles 
 ### Asia
 
 **China (1)**
-- [Renaissance Hong Kong Harbour View Hotel](/hotels/3760/renaissance-hong-kong-harbour-view-hotel-.html) (Hong Kong)
+- [Renaissance Hong Kong Harbour View Hotel](/hotels/3760/renaissance-hong-kong-harbour-view-hotel.html) (Hong Kong)
 
 **Indonesia (1)**
 - [Renaissance Bali Uluwatu Resort & Spa](/hotels/4691/renaissance-bali-uluwatu-resort-spa.html) (Bali)

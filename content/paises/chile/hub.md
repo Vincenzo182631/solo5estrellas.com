@@ -30,10 +30,10 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ch
 
 ## Los 9 hoteles de Chile
 
-- Easter Island: [explora en Rapa Nui, Posada de Mike](/hotels/1821/explora-en-rapa-nui-posada-de-mike-.html)
-- Patagonia: [Explora Patagonia Torres Del Paine](/hotels/1464/explora-patagonia-torres-del-paine.html); [The Singular Patagonia](/hotels/2590/the-singular-patagonia-.html)
+- Easter Island: [explora en Rapa Nui, Posada de Mike](/hotels/1821/explora-en-rapa-nui-posada-de-mike.html)
+- Patagonia: [Explora Patagonia Torres Del Paine](/hotels/1464/explora-patagonia-torres-del-paine.html); [The Singular Patagonia](/hotels/2590/the-singular-patagonia.html)
 - San Pedro: [explora Atacama](/hotels/2047/explora-atacama.html)
-- Santiago: [Hyatt Centric Las Condes Santiago](/hotels/3906/hyatt-centric-las-condes-santiago.html); [Mandarin Oriental Santiago](/hotels/2044/mandarin-oriental-santiago.html); [Renaissance Santiago Hotel](/hotels/3738/renaissance-santiago-hotel.html); [The Ritz-Carlton, Santiago](/hotels/3347/the-ritz-carlton-santiago.html); [W Santiago](/hotels/2634/w-santiago-.html)
+- Santiago: [Hyatt Centric Las Condes Santiago](/hotels/3906/hyatt-centric-las-condes-santiago.html); [Mandarin Oriental Santiago](/hotels/2044/mandarin-oriental-santiago.html); [Renaissance Santiago Hotel](/hotels/3738/renaissance-santiago-hotel.html); [The Ritz-Carlton, Santiago](/hotels/3347/the-ritz-carlton-santiago.html); [W Santiago](/hotels/2634/w-santiago.html)
 
 ## Preguntas frecuentes sobre hoteles en Chile
 
@@ -63,7 +63,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Sudamérica](/regions/13/south_america.html)
+- [Hoteles de lujo en Sudamérica](/regions/13/south-america.html)
 - [Hoteles The Signature Collection](/collection/79/)
 - [Hoteles Hyatt Centric Hotels](/collection/77/)
 - [Hoteles Mandarin Oriental](/collection/5/)

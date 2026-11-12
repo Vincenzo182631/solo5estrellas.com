@@ -14,7 +14,7 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Norteamérica",
-          "item": "https://solo5estrellas.com/regions/10/north_america.html"
+          "item": "https://solo5estrellas.com/regions/10/north-america.html"
         },
         {
           "@type": "ListItem",
@@ -52,19 +52,19 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Ritz-Carlton Central Park",
-          "url": "https://solo5estrellas.com/hotels/1214/ritz-carlton-central-park-.html"
+          "url": "https://solo5estrellas.com/hotels/1214/ritz-carlton-central-park.html"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "The Peninsula New York",
-          "url": "https://solo5estrellas.com/hotels/1048/the-peninsula-new-york-.html"
+          "url": "https://solo5estrellas.com/hotels/1048/the-peninsula-new-york.html"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "St. Regis New York",
-          "url": "https://solo5estrellas.com/hotels/1437/st-regis-new-york-.html"
+          "url": "https://solo5estrellas.com/hotels/1437/st-regis-new-york.html"
         },
         {
           "@type": "ListItem",
@@ -148,7 +148,7 @@
           "@type": "ListItem",
           "position": 17,
           "name": "The Mark",
-          "url": "https://solo5estrellas.com/hotels/1118/the-mark-.html"
+          "url": "https://solo5estrellas.com/hotels/1118/the-mark.html"
         },
         {
           "@type": "ListItem",
@@ -184,13 +184,13 @@
           "@type": "ListItem",
           "position": 23,
           "name": "Soho Grand Hotel",
-          "url": "https://solo5estrellas.com/hotels/2278/soho-grand-hotel-.html"
+          "url": "https://solo5estrellas.com/hotels/2278/soho-grand-hotel.html"
         },
         {
           "@type": "ListItem",
           "position": 24,
           "name": "Nine Orchard",
-          "url": "https://solo5estrellas.com/hotels/7062/nine-orchard-.html"
+          "url": "https://solo5estrellas.com/hotels/7062/nine-orchard.html"
         },
         {
           "@type": "ListItem",
@@ -232,7 +232,7 @@
           "@type": "ListItem",
           "position": 31,
           "name": "The James NoMad",
-          "url": "https://solo5estrellas.com/hotels/3324/the-james-nomad-.html"
+          "url": "https://solo5estrellas.com/hotels/3324/the-james-nomad.html"
         },
         {
           "@type": "ListItem",

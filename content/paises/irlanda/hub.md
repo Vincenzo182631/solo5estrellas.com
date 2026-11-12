@@ -50,7 +50,7 @@ Un hotel no tiene una marca o colección asociada en la lista.
 - Cork: [Hayfield Manor](/hotels/1293/hayfield-manor.html); [The River Lee](/hotels/6555/the-river-lee.html)
 - County Clare: [Dromoland Castle](/hotels/1700/dromoland-castle.html); [Trump Hotel, Doonbeg Ireland](/hotels/2440/trump-hotel-doonbeg-ireland.html)
 - County Kerry: [Killarney Park Hotel](/hotels/1350/killarney-park-hotel.html); [Park Hotel Kenmare](/hotels/5041/park-hotel-kenmare.html)
-- County Mayo: [Ashford Castle](/hotels/1879/ashford-castle-.html)
+- County Mayo: [Ashford Castle](/hotels/1879/ashford-castle.html)
 - Dublín: [Anantara The Marker Dublin](/hotels/6551/anantara-the-marker-dublin.html); [Conrad Dublin](/hotels/4125/conrad-dublin.html); [Dylan Hotel Dublin](/hotels/6840/dylan-hotel-dublin.html); [Hyatt Centric The Liberties Dublin](/hotels/6121/hyatt-centric-the-liberties-dublin.html); [InterContinental Dublin](/hotels/3591/intercontinental-dublin.html); [The College Green Hotel Dublin, Autograph Collection](/hotels/6926/the-college-green-hotel-dublin-autograph-collection.html); [The Fitzwilliam Hotel](/hotels/2138/the-fitzwilliam-hotel.html); [The Merrion](/hotels/6253/the-merrion.html); [The Shelbourne](/hotels/4070/the-shelbourne.html); [The Westbury Dublin](/hotels/2570/the-westbury-dublin.html); [The Westin Dublin](/hotels/1289/the-westin-dublin.html); [The Wilder Townhouse](/hotels/6071/the-wilder-townhouse.html)
 - Enniskerry: [Powerscourt Hotel, Autograph Collection](/hotels/3778/powerscourt-hotel-autograph-collection.html)
 - Galway: [Glenlo Abbey Hotel & Estate](/hotels/4230/glenlo-abbey-hotel-estate.html)

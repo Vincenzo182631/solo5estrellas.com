@@ -39,15 +39,15 @@ Trump Hotels es la marca hotelera de The Trump Organization, con establecimiento
 ### Norteamérica
 
 **Estados Unidos (4)**
-- [Trump National Doral Miami](/hotels/2882/Trump-National-Doral-Miami-.html) (Miami, Florida)
-- [Trump International Hotel & Tower Chicago](/hotels/2197/Trump-International-Hotel-Tower-Chicago.html) (Chicago, Illinois)
-- [Trump International Tower Las Vegas](/hotels/2193/Trump-International-Tower-Las-Vegas.html) (Las Vegas, Nevada)
-- [Trump International Hotel & Tower, New York](/hotels/2142/Trump-International-Hotel-Tower-New-York.html) (Nueva York)
+- [Trump National Doral Miami](/hotels/2882/trump-national-doral-miami.html) (Miami, Florida)
+- [Trump International Hotel & Tower Chicago](/hotels/2197/trump-international-hotel-tower-chicago.html) (Chicago, Illinois)
+- [Trump International Tower Las Vegas](/hotels/2193/trump-international-tower-las-vegas.html) (Las Vegas, Nevada)
+- [Trump International Hotel & Tower, New York](/hotels/2142/trump-international-hotel-tower-new-york.html) (Nueva York)
 
 ### Europa
 
 **Irlanda (1)**
-- [Trump Hotel, Doonbeg Ireland](/hotels/2440/Trump-Hotel-Doonbeg-Ireland.html) (Doonbeg, County Clare)
+- [Trump Hotel, Doonbeg Ireland](/hotels/2440/trump-hotel-doonbeg-ireland.html) (Doonbeg, County Clare)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -108,8 +108,8 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 
 ## Siga explorando
 
-- [Hoteles de lujo en Miami](/cities/168/Miami.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Miami](/cities/168/miami.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 - [Hoteles Ritz-Carlton](/collection/13/)
 - [Hoteles JW Marriott](/collection/67/)
 - [Hoteles Waldorf Astoria](/collection/45/)

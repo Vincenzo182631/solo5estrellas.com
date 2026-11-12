@@ -10,7 +10,7 @@ Los nombres de los hoteles no se traducen.
 
 | Hotel | Zona | Entorno | Beneficios al reservar con Solo5Estrellas |
 | --- | --- | --- | --- |
-| [Fairmont The Norfolk](/hotels/2375/fairmont-the-norfolk-.html) | Centro (Harry Thuku Road) | Abrió en 1904, entre jardines; Theodore Roosevelt se alojó aquí en 1909 | Desayuno para dos, crédito de 100 USD, mejora según disponibilidad |
+| [Fairmont The Norfolk](/hotels/2375/fairmont-the-norfolk.html) | Centro (Harry Thuku Road) | Abrió en 1904, entre jardines; Theodore Roosevelt se alojó aquí en 1909 | Desayuno para dos, crédito de 100 USD, mejora según disponibilidad |
 | [Hemingways Nairobi](/hotels/6073/hemingways-nairobi.html) | Karen | 45 suites con balcón y servicio de mayordomo, con vistas a las colinas de Ngong; abrió en 2013 | Desayuno continental para dos, crédito de 100 USD, mejora según disponibilidad (mínimo dos noches) |
 | [JW Marriott Hotel Nairobi](/hotels/6986/jw-marriott-hotel-nairobi.html) | Westlands | El hotel más alto de Kenia, con 35 plantas; abrió en marzo de 2024; spa y piscina exterior | Desayuno para dos, amenidad de bienvenida, mejora según disponibilidad y puntos Marriott Bonvoy |
 | [Sankara Nairobi, Autograph Collection](/hotels/7024/sankara-nairobi-autograph-collection.html) | Westlands | Piscina climatizada y bar Sarabi en la azotea, con más de 200 obras de arte; reabrió en julio de 2025 tras su renovación | Consulte con su asesor |

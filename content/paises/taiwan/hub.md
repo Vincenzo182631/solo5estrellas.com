@@ -32,7 +32,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ta
 
 - Lukang: [Union House Lukang](/hotels/4309/union-house-lukang.html)
 - Tainan: [Shangri-La’s Far Eastern Plaza, Tainan](/hotels/3512/shangri-la-s-far-eastern-plaza-tainan.html)
-- Taipei: [Grand Hyatt Taipei](/hotels/3384/grand-hyatt-taipei.html); [Mandarin Oriental, Taipei](/hotels/6198/mandarin-oriental-taipei.html); [Palais de Chine Hotel](/hotels/4583/palais-de-chine-hotel.html); [Regent Taipei](/hotels/2284/regent-taipei-.html); [Shangri-La's Far Eastern Plaza Hotel, Taipei](/hotels/3098/shangri-la-s-far-eastern-plaza-hotel-taipei.html); [W Taipei](/hotels/2868/w-taipei.html)
+- Taipei: [Grand Hyatt Taipei](/hotels/3384/grand-hyatt-taipei.html); [Mandarin Oriental, Taipei](/hotels/6198/mandarin-oriental-taipei.html); [Palais de Chine Hotel](/hotels/4583/palais-de-chine-hotel.html); [Regent Taipei](/hotels/2284/regent-taipei.html); [Shangri-La's Far Eastern Plaza Hotel, Taipei](/hotels/3098/shangri-la-s-far-eastern-plaza-hotel-taipei.html); [W Taipei](/hotels/2868/w-taipei.html)
 
 ## Preguntas frecuentes sobre hoteles en Taiwán
 
@@ -62,7 +62,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles Shangri-la Hotels](/collection/33/)
 - [Hoteles Small Luxury Hotels of The World](/collection/47/)
 - [Hoteles Grand Hyatt](/collection/28/)

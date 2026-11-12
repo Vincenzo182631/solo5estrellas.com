@@ -26,7 +26,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de An
 
 ## Los 5 hoteles de Anguila
 
-- Anguila: [Aurora Anguilla Resort & Golf Club](/hotels/3577/aurora-anguilla-resort-golf-club-.html); [Belmond Cap Juluca](/hotels/2563/belmond-cap-juluca.html); [Four Seasons Resort Anguilla](/hotels/3133/four-seasons-resort-anguilla-.html); [Malliouhana, Auberge Collection](/hotels/3706/malliouhana-auberge-collection.html); [Zemi Beach House](/hotels/3665/zemi-beach-house.html)
+- Anguila: [Aurora Anguilla Resort & Golf Club](/hotels/3577/aurora-anguilla-resort-golf-club.html); [Belmond Cap Juluca](/hotels/2563/belmond-cap-juluca.html); [Four Seasons Resort Anguilla](/hotels/3133/four-seasons-resort-anguilla.html); [Malliouhana, Auberge Collection](/hotels/3706/malliouhana-auberge-collection.html); [Zemi Beach House](/hotels/3665/zemi-beach-house.html)
 
 ## Preguntas frecuentes sobre hoteles en Anguila
 

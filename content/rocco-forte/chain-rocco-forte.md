@@ -41,26 +41,26 @@ Rocco Forte Hotels es un grupo familiar fundado por Sir Rocco Forte y Olga Poliz
 ### Europa
 
 **Bélgica (1)**
-- [Rocco Forte Hotel Amigo](/hotels/1219/Rocco-Forte-Hotel-Amigo-.html) (Bruselas)
+- [Rocco Forte Hotel Amigo](/hotels/1219/rocco-forte-hotel-amigo.html) (Bruselas)
 
 **Alemania (2)**
-- [Hotel de Rome](/hotels/1765/Hotel-de-Rome-.html) (Berlín)
-- [The Charles Hotel](/hotels/2001/The-Charles-Hotel.html) (Múnich)
+- [Hotel de Rome](/hotels/1765/hotel-de-rome.html) (Berlín)
+- [The Charles Hotel](/hotels/2001/the-charles-hotel.html) (Múnich)
 
 **Italia (9)**
-- [Hotel De La Ville](/hotels/1972/Hotel-De-La-Ville.html) (Roma)
-- [Hotel de Russie](/hotels/1107/Hotel-de-Russie.html) (Roma)
-- [Hotel Savoy, a Rocco Forte Hotel](/hotels/1110/Hotel-Savoy-a-Rocco-Forte-Hotel.html) (Florencia)
-- [Rocco Forte House, Milan](/hotels/6697/Rocco-Forte-House-Milan.html) (Milán)
-- [Rocco Forte House, Rome](/hotels/6695/Rocco-Forte-House-Rome.html) (Roma)
-- [The Carlton Milano](/hotels/7018/The-Carlton-Milano.html) (Milán)
-- [Verdura Golf & Spa Resort](/hotels/2291/Verdura-Golf-Spa-Resort.html) (Sicilia)
-- [Verdura Resort, Rocco Forte Private Villas](/hotels/6693/Verdura-Resort-Rocco-Forte-Private-Villas.html) (Sicilia)
-- [Villa Igiea, a Rocco Forte Hotel](/hotels/3317/Villa-Igiea-a-Rocco-Forte-Hotel.html) (Palermo)
+- [Hotel De La Ville](/hotels/1972/hotel-de-la-ville.html) (Roma)
+- [Hotel de Russie](/hotels/1107/hotel-de-russie.html) (Roma)
+- [Hotel Savoy, a Rocco Forte Hotel](/hotels/1110/hotel-savoy-a-rocco-forte-hotel.html) (Florencia)
+- [Rocco Forte House, Milan](/hotels/6697/rocco-forte-house-milan.html) (Milán)
+- [Rocco Forte House, Rome](/hotels/6695/rocco-forte-house-rome.html) (Roma)
+- [The Carlton Milano](/hotels/7018/the-carlton-milano.html) (Milán)
+- [Verdura Golf & Spa Resort](/hotels/2291/verdura-golf-spa-resort.html) (Sicilia)
+- [Verdura Resort, Rocco Forte Private Villas](/hotels/6693/verdura-resort-rocco-forte-private-villas.html) (Sicilia)
+- [Villa Igiea, a Rocco Forte Hotel](/hotels/3317/villa-igiea-a-rocco-forte-hotel.html) (Palermo)
 
 **Reino Unido (2)**
-- [Rocco Forte The Balmoral, Edinburgh](/hotels/1084/Rocco-Forte-The-Balmoral-Edinburgh-.html) (Edimburgo)
-- [Brown's Hotel London](/hotels/1149/Brown-s-Hotel-London.html) (Londres)
+- [Rocco Forte The Balmoral, Edinburgh](/hotels/1084/rocco-forte-the-balmoral-edinburgh.html) (Edimburgo)
+- [Brown's Hotel London](/hotels/1149/brown-s-hotel-london.html) (Londres)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

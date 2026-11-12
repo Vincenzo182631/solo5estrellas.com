@@ -51,7 +51,7 @@ Westin Hotels & Resorts es una marca de Marriott International centrada en el bi
 - [The Westin Fort Lauderdale Beach Resort](/hotels/2347/the-westin-fort-lauderdale-beach-resort.html) (Fort Lauderdale)
 - [Walt Disney World Swan](/hotels/4733/walt-disney-world-swan.html) (Orlando and Disney World)
 - [Westin Cape Coral at Marina Village](/hotels/6426/westin-cape-coral-at-marina-village.html) (Cape Coral)
-- [Moana Surfrider, a Westin Resort](/hotels/2102/moana-surfrider-a-westin-resort-.html) (Honolulu)
+- [Moana Surfrider, a Westin Resort](/hotels/2102/moana-surfrider-a-westin-resort.html) (Honolulu)
 - [The Westin Hapuna Beach Resort](/hotels/2052/the-westin-hapuna-beach-resort.html) (Big Island)
 - [The Westin Maui Resort and Spa](/hotels/2147/the-westin-maui-resort-and-spa.html) (Maui)
 - [The Westin Michigan Avenue](/hotels/2162/the-westin-michigan-avenue.html) (Chicago)
@@ -61,7 +61,7 @@ Westin Hotels & Resorts es una marca de Marriott International centrada en el bi
 - [The Westin Lake Las Vegas Resort & Spa](/hotels/3848/the-westin-lake-las-vegas-resort-spa.html) (Las Vegas)
 - [The Westin Charlotte](/hotels/6439/the-westin-charlotte.html) (Charlotte)
 - [The Westin Philadelphia](/hotels/3853/the-westin-philadelphia.html) (Filadelfia)
-- [The Westin Nashville](/hotels/6810/-the-westin-nashville.html) (Nashville)
+- [The Westin Nashville](/hotels/6810/the-westin-nashville.html) (Nashville)
 - [The Westin Austin Downtown](/hotels/7020/the-westin-austin-downtown.html) (Austin)
 - [The Westin Riverwalk](/hotels/2203/the-westin-riverwalk.html) (San Antonio)
 - [Westin Galleria Houston](/hotels/6240/westin-galleria-houston.html) (Houston)
@@ -69,14 +69,14 @@ Westin Hotels & Resorts es una marca de Marriott International centrada en el bi
 ### México, Caribe y Centroamérica
 
 **México (2)**
-- [The Westin Playa Vallarta, an All-Inclusive Resort Accepting Bookings starting May 2026](/hotels/3779/the-westin-playa-vallarta-an-all-inclusive-resort-br-accepting-bookings-starting-may-2026-br-.html) (Puerto Vallarta)
+- [The Westin Playa Vallarta, an All-Inclusive Resort Accepting Bookings starting May 2026](/hotels/3779/the-westin-playa-vallarta-an-all-inclusive-resort-br-accepting-bookings-starting-may-2026-br.html) (Puerto Vallarta)
 - [Westin Santa Fe Mexico City](/hotels/6891/westin-santa-fe-mexico-city.html) (Ciudad de México)
 
 **Islas Vírgenes de EE. UU. (1)**
-- [The Westin Beach Resort & Spa at Frenchman’s Reef](/hotels/6658/the-westin-beach-resort-spa-at-frenchman-s-reef-.html) (St. Thomas)
+- [The Westin Beach Resort & Spa at Frenchman’s Reef](/hotels/6658/the-westin-beach-resort-spa-at-frenchman-s-reef.html) (St. Thomas)
 
 **República Dominicana (1)**
-- [The Westin Punta Cana Resort & Club](/hotels/3015/the-westin-punta-cana-resort-club-.html) (Punta Cana)
+- [The Westin Punta Cana Resort & Club](/hotels/3015/the-westin-punta-cana-resort-club.html) (Punta Cana)
 
 **Gran Caimán (1)**
 - [The Westin Grand Cayman Seven Mile Beach Resort & Spa](/hotels/3788/the-westin-grand-cayman-seven-mile-beach-resort-spa.html) (Gran Caimán)
@@ -109,7 +109,7 @@ Westin Hotels & Resorts es una marca de Marriott International centrada en el bi
 
 **España (2)**
 - [The Westin La Quinta Golf Resort & Spa](/hotels/6546/the-westin-la-quinta-golf-resort-spa.html) (Marbella)
-- [The Westin Valencia](/hotels/1827/the-westin-valencia-.html) (Valencia)
+- [The Westin Valencia](/hotels/1827/the-westin-valencia.html) (Valencia)
 
 **Reino Unido (1)**
 - [The Westin London City](/hotels/5029/the-westin-london-city.html) (Londres)
@@ -209,6 +209,6 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles EDITION](/collection/74/)
 - [Hoteles Bulgari](/collection/71/)
 - [Hoteles de lujo en Londres](/cities/150/london.html)
-- [Hoteles de lujo en Miami](/cities/168/Miami.html)
+- [Hoteles de lujo en Miami](/cities/168/miami.html)
 
 *Fuentes externas: [One Mile at a Time: Marriott STARS y Luminous](https://onemileatatime.com/guides/marriott-stars-luminous/); [Upgraded Points: Marriott STARS y Luminous](https://upgradedpoints.com/travel/hotels/marriott-stars-luminous-programs/). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

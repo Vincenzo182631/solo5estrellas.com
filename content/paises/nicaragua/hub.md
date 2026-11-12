@@ -55,7 +55,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Centroamérica](/regions/7/central_america.html)
+- [Hoteles de lujo en Centroamérica](/regions/7/central-america.html)
 - [Hoteles Small Luxury Hotels of The World](/collection/47/)
 - [Hoteles The Signature Collection](/collection/79/)
 

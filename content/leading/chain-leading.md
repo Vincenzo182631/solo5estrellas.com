@@ -43,33 +43,33 @@ The Leading Hotels of the World es una colección de hoteles de lujo independien
 - [Ambiente Sedona, A Landscape Hotel](/hotels/6549/ambiente-sedona-a-landscape-hotel.html) (Sedona)
 - [San Ysidro Ranch](/hotels/1726/san-ysidro-ranch.html) (Santa Bárbara)
 - [Sonnenalp Hotel](/hotels/4215/sonnenalp-hotel.html) (Vail)
-- [The Hay Adams](/hotels/1718/the-hay-adams-.html) (Washington D. C.)
-- [Acqualina Resort](/hotels/1395/acqualina-resort-.html) (Miami Beach)
+- [The Hay Adams](/hotels/1718/the-hay-adams.html) (Washington D. C.)
+- [Acqualina Resort](/hotels/1395/acqualina-resort.html) (Miami Beach)
 - [Faena Hotel Miami Beach](/hotels/3494/faena-hotel-miami-beach.html) (Miami Beach)
 - [The Setai](/hotels/1387/the-setai.html) (South Beach, Miami)
-- [Halekulani](/hotels/947/halekulani-.html) (Honolulu)
+- [Halekulani](/hotels/947/halekulani.html) (Honolulu)
 - [The Kahala Resort](/hotels/976/the-kahala-resort.html) (Honolulu)
 - [Chatham Bars Inn](/hotels/1783/chatham-bars-inn.html) (Cape Cod)
 - [The Newbury Boston](/hotels/5069/the-newbury-boston.html) (Boston)
 - [The Greenwich Hotel](/hotels/2950/the-greenwich-hotel.html) (Nueva York)
 - [The Lowell](/hotels/1456/the-lowell.html) (Nueva York)
-- [The Rittenhouse](/hotels/1257/the-rittenhouse-.html) (Filadelfia)
-- [Hutton Hotel](/hotels/2352/hutton-hotel-.html) (Nashville)
+- [The Rittenhouse](/hotels/1257/the-rittenhouse.html) (Filadelfia)
+- [Hutton Hotel](/hotels/2352/hutton-hotel.html) (Nashville)
 - [The Joule Dallas](/hotels/2208/the-joule-dallas.html) (Dallas)
 
 **Canadá (1)**
-- [The Hazelton Hotel](/hotels/2663/the-hazelton-hotel-.html) (Toronto, Ontario)
+- [The Hazelton Hotel](/hotels/2663/the-hazelton-hotel.html) (Toronto, Ontario)
 
 ### México, Caribe y Centroamérica
 
 **Anguila (1)**
-- [Aurora Anguilla Resort & Golf Club](/hotels/3577/aurora-anguilla-resort-golf-club-.html) (Anguila)
+- [Aurora Anguilla Resort & Golf Club](/hotels/3577/aurora-anguilla-resort-golf-club.html) (Anguila)
 
 **Antigua (1)**
 - [Carlisle Bay](/hotels/1356/carlisle-bay.html) (St. Mary's)
 
 **Panamá (1)**
-- [Bristol Panama](/hotels/2437/bristol-panama-.html) (Ciudad de Panamá)
+- [Bristol Panama](/hotels/2437/bristol-panama.html) (Ciudad de Panamá)
 
 **Islas Turcas y Caicos (4)**
 - [Grace Bay Club](/hotels/956/grace-bay-club.html) (Islas Turcas y Caicos)
@@ -81,8 +81,8 @@ The Leading Hotels of the World es una colección de hoteles de lujo independien
 - [Chable Maroma](/hotels/4185/chable-maroma.html) (Cancún)
 - [Chable Yucatan](/hotels/4184/chable-yucatan.html) (Mérida)
 - [Grand Velas Riviera Maya](/hotels/2297/grand-velas-riviera-maya.html) (Cancún)
-- [Grand Velas Riviera Nayarit](/hotels/2049/grand-velas-riviera-nayarit-.html) (Riviera Nayarit)
-- [Marquis Los Cabos](/hotels/2353/marquis-los-cabos-.html) (Cabo San Lucas)
+- [Grand Velas Riviera Nayarit](/hotels/2049/grand-velas-riviera-nayarit.html) (Riviera Nayarit)
+- [Marquis Los Cabos](/hotels/2353/marquis-los-cabos.html) (Cabo San Lucas)
 - [Paradisus Los Cabos](/hotels/3336/paradisus-los-cabos.html) (Cabo San Lucas)
 - [Unico 20 87 Hotel Riviera Maya](/hotels/4097/unico-20-87-hotel-riviera-maya.html) (Quintana Roo)
 
@@ -90,7 +90,7 @@ The Leading Hotels of the World es una colección de hoteles de lujo independien
 - [Sandy Lane](/hotels/935/sandy-lane.html) (St. James (Barbados))
 
 **República Dominicana (3)**
-- [Casa de Campo Resort & Villas](/hotels/1125/casa-de-campo-resort-villas-.html) (La Romana)
+- [Casa de Campo Resort & Villas](/hotels/1125/casa-de-campo-resort-villas.html) (La Romana)
 - [Paradisus Grand Cana](/hotels/1993/paradisus-grand-cana.html) (Punta Cana)
 - [Tortuga Bay](/hotels/1650/tortuga-bay.html) (Punta Cana)
 
@@ -109,10 +109,10 @@ The Leading Hotels of the World es una colección de hoteles de lujo independien
 - [Hotel Hermitage](/hotels/1678/hotel-hermitage.html) (Montecarlo)
 
 **Suecia (1)**
-- [Grand Hotel Stockholm](/hotels/2524/grand-hotel-stockholm-.html) (Estocolmo)
+- [Grand Hotel Stockholm](/hotels/2524/grand-hotel-stockholm.html) (Estocolmo)
 
 **Dinamarca (1)**
-- [Hotel D'Angleterre Copenhagen](/hotels/3236/hotel-d-angleterre-copenhagen-.html) (Copenhague)
+- [Hotel D'Angleterre Copenhagen](/hotels/3236/hotel-d-angleterre-copenhagen.html) (Copenhague)
 
 **Finlandia (1)**
 - [Hotel Kamp](/hotels/2641/hotel-kamp.html) (Helsinki)
@@ -136,13 +136,13 @@ The Leading Hotels of the World es una colección de hoteles de lujo independien
 - [Hotel Bayerischer Hof](/hotels/2058/hotel-bayerischer-hof.html) (Múnich)
 
 **Grecia (3)**
-- [Katikies Kirini Santorini](/hotels/5052/katikies-kirini-santorini-.html) (Santorini)
+- [Katikies Kirini Santorini](/hotels/5052/katikies-kirini-santorini.html) (Santorini)
 - [Kivotos Mykonos](/hotels/1786/kivotos-mykonos.html) (Mykonos)
 - [Lesante Blu Exclusive Beach Resort](/hotels/4216/lesante-blu-exclusive-beach-resort.html) (Zakinthos)
 
 **Irlanda (4)**
 - [Adare Manor](/hotels/3357/adare-manor.html) (Limerick)
-- [Ashford Castle](/hotels/1879/ashford-castle-.html) (County Mayo)
+- [Ashford Castle](/hotels/1879/ashford-castle.html) (County Mayo)
 - [Killarney Park Hotel](/hotels/1350/killarney-park-hotel.html) (County Kerry)
 - [The Westbury Dublin](/hotels/2570/the-westbury-dublin.html) (Dublin)
 
@@ -150,14 +150,14 @@ The Leading Hotels of the World es una colección de hoteles de lujo independien
 - [Baglioni Hotel Regina](/hotels/1182/baglioni-hotel-regina.html) (Roma)
 - [Baglioni Resort Cala del Porto](/hotels/5057/baglioni-resort-cala-del-porto.html) (Punta Ala)
 - [Baglioni Resort Sardinia](/hotels/5044/baglioni-resort-sardinia.html) (Cerdeña)
-- [Borgo Egnazia](/hotels/2728/borgo-egnazia-.html) (Savelletri di Fasano)
+- [Borgo Egnazia](/hotels/2728/borgo-egnazia.html) (Savelletri di Fasano)
 - [Cala Beach Resort](/hotels/6828/cala-beach-resort.html) (Punta Ala)
 - [Casa Baglioni Milan](/hotels/6308/casa-baglioni-milan.html) (Milán)
 - [Castel Monastero](/hotels/2431/castel-monastero.html) (Castelnuovo Berardenga)
 - [Como Castello del Nero](/hotels/1795/como-castello-del-nero.html) (Florencia)
 - [Due Torri Hotel](/hotels/4189/due-torri-hotel.html) (Verona)
 - [Gran Melia Villa Agrippina](/hotels/4232/gran-melia-villa-agrippina.html) (Roma)
-- [Grand Hotel Continental](/hotels/1919/grand-hotel-continental-.html) (Toscana)
+- [Grand Hotel Continental](/hotels/1919/grand-hotel-continental.html) (Toscana)
 - [Grand Hotel Excelsior Vittoria](/hotels/1268/grand-hotel-excelsior-vittoria.html) (Sorrento)
 - [Grand Hotel Majestic gia Baglioni](/hotels/4188/grand-hotel-majestic-gia-baglioni.html) (Bologna)
 - [Hotel Hassler](/hotels/1660/hotel-hassler.html) (Roma)
@@ -167,7 +167,7 @@ The Leading Hotels of the World es una colección de hoteles de lujo independien
 - [Hotel Terme di Saturnia](/hotels/1069/hotel-terme-di-saturnia.html) (Saturnia (Grosseto))
 - [Il San Corrado di Noto Resort](/hotels/7074/il-san-corrado-di-noto-resort.html) (Sicilia)
 - [Le Sirenuse](/hotels/1017/le-sirenuse.html) (Amalfi Coast)
-- [Luna Hotel Baglioni](/hotels/1158/luna-hotel-baglioni-.html) (Venecia)
+- [Luna Hotel Baglioni](/hotels/1158/luna-hotel-baglioni.html) (Venecia)
 - [Palazzo Avino](/hotels/1054/palazzo-avino.html) (Amalfi Coast)
 - [Palazzo Parigi](/hotels/3000/palazzo-parigi.html) (Milán)
 - [Portrait Roma](/hotels/1897/portrait-roma.html) (Roma)
@@ -178,13 +178,13 @@ The Leading Hotels of the World es una colección de hoteles de lujo independien
 - [Villa La Massa](/hotels/1055/villa-la-massa.html) (Florencia)
 
 **Países Bajos (2)**
-- [De L’Europe](/hotels/2729/de-l-europe-.html) (Ámsterdam)
+- [De L’Europe](/hotels/2729/de-l-europe.html) (Ámsterdam)
 - [Hotel des Indes](/hotels/2803/hotel-des-indes.html) (La Haya)
 
 **Portugal (6)**
 - [Bairro Alto Hotel](/hotels/6973/bairro-alto-hotel.html) (Lisboa)
 - [Hotel Vila Vita Parc](/hotels/4094/hotel-vila-vita-parc.html) (Algarve)
-- [Olissippo Lapa Palace](/hotels/2313/olissippo-lapa-palace-.html) (Lisboa)
+- [Olissippo Lapa Palace](/hotels/2313/olissippo-lapa-palace.html) (Lisboa)
 - [Tivoli Avenida Liberdade Lisboa](/hotels/2654/tivoli-avenida-liberdade-lisboa.html) (Lisboa)
 - [Valverde Sintra Palacio de Seteais](/hotels/3598/valverde-sintra-palacio-de-seteais.html) (Sintra)
 - [Vidago Palace Hotel](/hotels/6978/vidago-palace-hotel.html) (Vidago)
@@ -204,20 +204,20 @@ The Leading Hotels of the World es una colección de hoteles de lujo independien
 - [Baur au Lac](/hotels/1029/baur-au-lac.html) (Zúrich)
 - [Beau-Rivage Geneva](/hotels/3500/beau-rivage-geneva.html) (Ginebra)
 - [Beau-Rivage Palace](/hotels/1007/beau-rivage-palace.html) (Lausanne)
-- [Bellevue Palace](/hotels/1832/bellevue-palace-.html) (Berna)
+- [Bellevue Palace](/hotels/1832/bellevue-palace.html) (Berna)
 - [Burgenstock Hotel & Alpine Spa](/hotels/6936/burgenstock-hotel-alpine-spa.html) (Lucerna)
-- [Grand Hotel Les Trois Rois](/hotels/2526/grand-hotel-les-trois-rois-.html) (Basilea)
+- [Grand Hotel Les Trois Rois](/hotels/2526/grand-hotel-les-trois-rois.html) (Basilea)
 - [Hôtel d’Angleterre Geneva](/hotels/2061/h-tel-d-angleterre-geneva.html) (Ginebra)
 - [Hotel Splendide Royal Lugano](/hotels/3613/hotel-splendide-royal-lugano.html) (Lugano)
 - [La Réserve Eden au Lac Zurich](/hotels/4038/la-r-serve-eden-au-lac-zurich.html) (Zúrich)
 - [La Reserve Geneve Hotel, Spa & Villa](/hotels/6111/la-reserve-geneve-hotel-spa-villa.html) (Ginebra)
-- [The Dolder Grand](/hotels/2243/the-dolder-grand-.html) (Zúrich)
+- [The Dolder Grand](/hotels/2243/the-dolder-grand.html) (Zúrich)
 - [Victoria-Jungfrau Grand Hotel & Spa](/hotels/991/victoria-jungfrau-grand-hotel-spa.html) (Interlaken)
 
 **Reino Unido (6)**
 - [The Gleneagles Hotel](/hotels/1446/the-gleneagles-hotel.html) (Perthshire)
 - [Hotel Cafe Royal](/hotels/3009/hotel-cafe-royal.html) (Londres)
-- [Milestone Hotel](/hotels/1946/milestone-hotel-.html) (Londres)
+- [Milestone Hotel](/hotels/1946/milestone-hotel.html) (Londres)
 - [One Aldwych](/hotels/2356/one-aldwych.html) (Londres)
 - [The Lanesborough](/hotels/1440/the-lanesborough.html) (Londres)
 - [The Ritz London](/hotels/1044/the-ritz-london.html) (Londres)
@@ -225,14 +225,14 @@ The Leading Hotels of the World es una colección de hoteles de lujo independien
 ### África
 
 **Sudáfrica (2)**
-- [Saxon Hotel, Villas & Spa](/hotels/2493/saxon-hotel-villas-spa-.html) (Johannesburg)
+- [Saxon Hotel, Villas & Spa](/hotels/2493/saxon-hotel-villas-spa.html) (Johannesburg)
 - [The Twelve Apostles Hotel & Spa](/hotels/1562/the-twelve-apostles-hotel-spa.html) (Ciudad del Cabo)
 
 ### Oriente Medio y norte de África
 
 **Marruecos (2)**
 - [La Mamounia](/hotels/1043/la-mamounia.html) (Marrakech)
-- [Royal Mansour Marrakech](/hotels/2378/royal-mansour-marrakech-.html) (Marrakech)
+- [Royal Mansour Marrakech](/hotels/2378/royal-mansour-marrakech.html) (Marrakech)
 
 **Israel (2)**
 - [Mamilla Hotel](/hotels/3032/mamilla-hotel.html) (Jerusalén)

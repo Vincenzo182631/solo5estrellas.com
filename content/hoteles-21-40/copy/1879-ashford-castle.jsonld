@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Ashford Castle",
-          "item": "https://solo5estrellas.com/hotels/1879/ashford_castle_.html"
+          "item": "https://solo5estrellas.com/hotels/1879/ashford-castle.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/1879/ashford_castle_.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/1879/ashford_castle_.html",
+      "@id": "https://solo5estrellas.com/hotels/1879/ashford-castle.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1879/ashford-castle.html",
       "name": "Ashford Castle",
       "description": "Ashford Castle, castillo de 1228 junto al lago Corrib, en el oeste de Irlanda, con spa y piscina. Consulte las ventajas al reservar con Solo5Estrellas.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Ashford Castle",
-      "url": "https://solo5estrellas.com/hotels/1879/ashford_castle_.html",
+      "url": "https://solo5estrellas.com/hotels/1879/ashford-castle.html",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Cong",

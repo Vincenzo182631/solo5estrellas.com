@@ -43,16 +43,16 @@ Waldorf Astoria Hotels & Resorts es la marca de lujo insignia de Hilton, hereder
 - [Arizona Biltmore Resort and Spa](/hotels/960/arizona-biltmore-resort-and-spa.html) (Phoenix)
 - [Waldorf Astoria Beverly Hills](/hotels/3235/waldorf-astoria-beverly-hills.html) (Beverly Hills)
 - [Waldorf Astoria Monarch Beach](/hotels/1213/waldorf-astoria-monarch-beach.html) (Dana Point)
-- [Waldorf Astoria Washington D.C.](/hotels/3239/waldorf-astoria-washington-d-c-.html) (Washington D. C.)
+- [Waldorf Astoria Washington D.C.](/hotels/3239/waldorf-astoria-washington-d-c.html) (Washington D. C.)
 - [Waldorf Astoria Orlando](/hotels/2322/waldorf-astoria-orlando.html) (Orlando and Disney World)
 - [Waldorf Astoria Atlanta Buckhead](/hotels/3956/waldorf-astoria-atlanta-buckhead.html) (Atlanta)
 - [Grand Wailea, A Waldorf Astoria Resort](/hotels/2246/grand-wailea-a-waldorf-astoria-resort.html) (Maui)
 - [Ho’olei at Grand Wailea](/hotels/4138/ho-olei-at-grand-wailea.html) (Maui)
 - [Waldorf Astoria Chicago](/hotels/2698/waldorf-astoria-chicago.html) (Chicago)
-- [The Roosevelt New Orleans](/hotels/2514/the-roosevelt-new-orleans-.html) (New Orleans)
+- [The Roosevelt New Orleans](/hotels/2514/the-roosevelt-new-orleans.html) (New Orleans)
 - [Waldorf Astoria Las Vegas](/hotels/2319/waldorf-astoria-las-vegas.html) (Las Vegas)
 - [The Waldorf Astoria New York](/hotels/2419/the-waldorf-astoria-new-york.html) (Nueva York)
-- [Waldorf Astoria Park City](/hotels/2422/waldorf-astoria-park-city-.html) (Park City)
+- [Waldorf Astoria Park City](/hotels/2422/waldorf-astoria-park-city.html) (Park City)
 
 ### México, Caribe y Centroamérica
 
@@ -102,7 +102,7 @@ Waldorf Astoria Hotels & Resorts es la marca de lujo insignia de Hilton, hereder
 
 **Catar (2)**
 - [Waldorf Astoria Doha West Bay](/hotels/6322/waldorf-astoria-doha-west-bay.html) (Doha)
-- [Waldorf Astoria Lusail, Doha](/hotels/6321/waldorf-astoria-lusail-doha-.html) (Doha)
+- [Waldorf Astoria Lusail, Doha](/hotels/6321/waldorf-astoria-lusail-doha.html) (Doha)
 
 **Arabia Saudita (1)**
 - [Waldorf Astoria Jeddah Qasr Al Sharq](/hotels/4173/waldorf-astoria-jeddah-qasr-al-sharq.html) (Jeddah)
@@ -191,6 +191,6 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles LXR](/collection/81/)
 - [Hoteles Ritz-Carlton](/collection/13/)
 - [Hoteles St. Regis](/collection/16/)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 
 *Fuentes externas: [One Mile at a Time: Hilton for Luxury](https://onemileatatime.com/guides/hilton-for-luxury/). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

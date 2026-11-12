@@ -56,7 +56,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles Four Seasons](/collection/2/)
 - [Hoteles Waldorf Astoria Hotels](/collection/45/)
 - [Hoteles Sheraton Hotels & Resorts](/collection/86/)

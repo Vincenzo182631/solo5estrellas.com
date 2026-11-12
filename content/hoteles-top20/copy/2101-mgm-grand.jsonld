@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "MGM Grand Hotel & Casino",
-          "item": "https://solo5estrellas.com/hotels/2101/MGM-Grand-Hotel-Casino.html"
+          "item": "https://solo5estrellas.com/hotels/2101/mgm-grand-hotel-casino.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/2101/MGM-Grand-Hotel-Casino.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/2101/MGM-Grand-Hotel-Casino.html",
+      "@id": "https://solo5estrellas.com/hotels/2101/mgm-grand-hotel-casino.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2101/mgm-grand-hotel-casino.html",
       "name": "MGM Grand Hotel & Casino",
       "description": "Reserve el MGM Grand Hotel & Casino, en el Strip de Las Vegas, con crédito para desayuno de dos, crédito de comida y bebida y mejora según disponibilidad.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "MGM Grand Hotel & Casino",
-      "url": "https://solo5estrellas.com/hotels/2101/MGM-Grand-Hotel-Casino.html",
+      "url": "https://solo5estrellas.com/hotels/2101/mgm-grand-hotel-casino.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "3799 S Las Vegas Blvd",

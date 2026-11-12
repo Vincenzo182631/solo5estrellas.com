@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Vdara Hotel & Spa",
-          "item": "https://solo5estrellas.com/hotels/6657/vdara-hotel-spa-.html"
+          "item": "https://solo5estrellas.com/hotels/6657/vdara-hotel-spa.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/6657/vdara-hotel-spa-.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/6657/vdara-hotel-spa-.html",
+      "@id": "https://solo5estrellas.com/hotels/6657/vdara-hotel-spa.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6657/vdara-hotel-spa.html",
       "name": "Vdara Hotel & Spa",
       "description": "Vdara Hotel & Spa, hotel de suites sin casino junto a ARIA, en el Strip de Las Vegas. Con Solo5Estrellas: crédito de 100 USD y mejora de categoría.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Vdara Hotel & Spa",
-      "url": "https://solo5estrellas.com/hotels/6657/vdara-hotel-spa-.html",
+      "url": "https://solo5estrellas.com/hotels/6657/vdara-hotel-spa.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "2600 West Harmon Avenue",

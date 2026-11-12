@@ -36,7 +36,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Co
 
 - Busan: [Park Hyatt Busan](/hotels/3459/park-hyatt-busan.html)
 - Jeju: [JW Marriott Jeju Resort & Spa](/hotels/6410/jw-marriott-jeju-resort-spa.html)
-- Seúl: [Andaz Seoul Gangnam](/hotels/4108/andaz-seoul-gangnam.html); [Conrad Seoul](/hotels/4136/conrad-seoul.html); [Fairmont Ambassador Seoul](/hotels/4948/fairmont-ambassador-seoul.html); [Four Seasons Hotel Seoul](/hotels/3011/four-seasons-hotel-seoul.html); [Grand Hyatt Seoul](/hotels/2045/grand-hyatt-seoul.html); [JW Marriott Dongdaemun Square](/hotels/4982/jw-marriott-dongdaemun-square.html); [JW Marriott Hotel Seoul](/hotels/3721/jw-marriott-hotel-seoul.html); [L’Escape, a Luxury Collection Hotel](/hotels/7111/l-escape-a-luxury-collection-hotel.html); [Park Hyatt Seoul](/hotels/1559/park-hyatt-seoul-.html); [Sofitel Ambassador Seoul Hotel & Serviced Residences](/hotels/6478/sofitel-ambassador-seoul-hotel-serviced-residences.html); [The Shilla Seoul](/hotels/7019/the-shilla-seoul.html); [The Westin Josun Seoul](/hotels/5012/the-westin-josun-seoul.html)
+- Seúl: [Andaz Seoul Gangnam](/hotels/4108/andaz-seoul-gangnam.html); [Conrad Seoul](/hotels/4136/conrad-seoul.html); [Fairmont Ambassador Seoul](/hotels/4948/fairmont-ambassador-seoul.html); [Four Seasons Hotel Seoul](/hotels/3011/four-seasons-hotel-seoul.html); [Grand Hyatt Seoul](/hotels/2045/grand-hyatt-seoul.html); [JW Marriott Dongdaemun Square](/hotels/4982/jw-marriott-dongdaemun-square.html); [JW Marriott Hotel Seoul](/hotels/3721/jw-marriott-hotel-seoul.html); [L’Escape, a Luxury Collection Hotel](/hotels/7111/l-escape-a-luxury-collection-hotel.html); [Park Hyatt Seoul](/hotels/1559/park-hyatt-seoul.html); [Sofitel Ambassador Seoul Hotel & Serviced Residences](/hotels/6478/sofitel-ambassador-seoul-hotel-serviced-residences.html); [The Shilla Seoul](/hotels/7019/the-shilla-seoul.html); [The Westin Josun Seoul](/hotels/5012/the-westin-josun-seoul.html)
 
 ## Preguntas frecuentes sobre hoteles en Corea del Sur
 
@@ -66,7 +66,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles JW Marriott Hotel](/collection/67/)
 - [Hoteles Park Hyatt Hotels](/collection/8/)
 - [Hoteles Andaz Hotels](/collection/54/)

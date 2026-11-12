@@ -35,7 +35,7 @@ La temporada seca va de mayo a octubre; de noviembre a abril es la época de llu
 
 - **[Four Seasons Resort Bora Bora](/hotels/2280/four-seasons-resort-bora-bora.html):** bungalós sobre el agua con piscina pequeña de agua dulce frente al monte Otemanu; publica un itinerario de luna de miel de una semana.
 - **[Conrad Bora Bora Nui](/hotels/2507/conrad-bora-bora-nui.html):** todas las villas tienen piscina privada, entre ellas las King Overwater Pool Villas.
-- **[The St. Regis Resort Bora Bora](/hotels/1801/the-st-regis-resort-bora-bora-.html):** villas sobre el agua de uno y dos dormitorios, cada una con piscina privada o jacuzzi.
+- **[The St. Regis Resort Bora Bora](/hotels/1801/the-st-regis-resort-bora-bora.html):** villas sobre el agua de uno y dos dormitorios, cada una con piscina privada o jacuzzi.
 
 ## Seychelles
 
@@ -59,14 +59,14 @@ Muchos hoteles de la isla abren solo de primavera a otoño. Desde Atenas hay vue
 
 - **[Canaves Oia Suites](/hotels/3628/canaves-oia-suites.html):** solo admite huéspedes desde 13 años; todas las suites y villas tienen piscina privada con vista a la caldera.
 - **[Grace Santorini, Auberge Collection](/hotels/2927/grace-santorini-auberge-collection.html):** edad mínima de 14 años, salvo en The Villa. Suele cerrar de noviembre a mediados de abril.
-- **[Katikies Kirini Santorini](/hotels/5052/katikies-kirini-santorini-.html):** admite niños desde 13 años y tiene una Honeymoon Suite con piscina privada y vista a la caldera.
+- **[Katikies Kirini Santorini](/hotels/5052/katikies-kirini-santorini.html):** admite niños desde 13 años y tiene una Honeymoon Suite con piscina privada y vista a la caldera.
 
 ## Costa Amalfitana
 
 La temporada va aproximadamente de abril a octubre. Positano está a unos 75 a 90 minutos del aeropuerto de Nápoles.
 
 - **[Belmond Hotel Caruso](/hotels/1655/belmond-hotel-caruso.html):** en Ravello, con piscina infinita climatizada en el punto más alto del pueblo. Cerrado por temporada; reabre el 13 de abril de 2027.
-- **[Monastero Santa Rosa](/hotels/2652/monastero-santa-rosa-.html):** 20 habitaciones y suites en un antiguo monasterio, con piscina excavada en el acantilado.
+- **[Monastero Santa Rosa](/hotels/2652/monastero-santa-rosa.html):** 20 habitaciones y suites en un antiguo monasterio, con piscina excavada en el acantilado.
 - **[Le Sirenuse](/hotels/1017/le-sirenuse.html):** en Positano; no admite niños menores de 6 años. Abre desde marzo.
 
 ## Riviera Maya y Cancún
@@ -81,7 +81,7 @@ La época más seca va de diciembre a abril. La temporada de huracanes del Atlá
 
 El clima es desértico; el riesgo de tormentas y huracanes va de mediados de mayo a noviembre. De enero a marzo se ven ballenas. El aeropuerto está a unos 20 minutos de San José del Cabo.
 
-- **[Grand Velas Boutique Hotel](/hotels/7004/grand-velas-boutique-hotel-.html):** solo para adultos, desde 18 años; 79 suites, cada una con piscina pequeña o jacuzzi en la terraza.
+- **[Grand Velas Boutique Hotel](/hotels/7004/grand-velas-boutique-hotel.html):** solo para adultos, desde 18 años; 79 suites, cada una con piscina pequeña o jacuzzi en la terraza.
 - **[Waldorf Astoria Los Cabos Pedregal](/hotels/2262/waldorf-astoria-los-cabos-pedregal.html):** todas las habitaciones, suites y villas tienen piscina pequeña privada; se llega por un túnel privado.
 - **[Las Ventanas al Paraíso](/hotels/985/las-ventanas-al-paraiso.html):** suites con terraza en la azotea y villas con piscina infinita privada.
 
@@ -91,7 +91,7 @@ La temporada de lluvias va de noviembre a marzo. Uluwatu está a unos 30 minutos
 
 - **[Alila Villas Uluwatu](/hotels/3060/alila-villas-uluwatu.html):** villas con piscina sobre el acantilado y una oferta de luna de miel, "Clifftop Infinite Romance".
 - **[Mandapa, A Ritz-Carlton Reserve](/hotels/2965/mandapa-a-ritz-carlton-reserve.html):** 25 villas con piscina junto al río Ayung, en Ubud, con mayordomo las 24 horas.
-- **[Bvlgari Resort Bali](/hotels/1736/bvlgari-resort-bali-.html):** villas con piscina privada sobre un acantilado de 160 metros.
+- **[Bvlgari Resort Bali](/hotels/1736/bvlgari-resort-bali.html):** villas con piscina privada sobre un acantilado de 160 metros.
 
 ## Santa Lucía
 

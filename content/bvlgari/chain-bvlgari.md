@@ -41,39 +41,39 @@ Bulgari Hotels & Resorts (también escrito Bvlgari) es la división hotelera de 
 
 El primer Bulgari, en Milán, y el hotel de Roma, frente al Mausoleo de Augusto.
 
-- [Bvlgari Hotel, Milano](/hotels/1295/Bvlgari-Hotel-Milano.html) (Milán)
-- [Bvlgari Hotel Roma](/hotels/6592/Bvlgari-Hotel-Roma.html) (Roma)
+- [Bvlgari Hotel, Milano](/hotels/1295/bvlgari-hotel-milano.html) (Milán)
+- [Bvlgari Hotel Roma](/hotels/6592/bvlgari-hotel-roma.html) (Roma)
 
 ### Europa: Francia y Reino Unido
 
 Un hotel en París y otro en Londres.
 
-- [Bvlgari Hotel Paris](/hotels/4054/Bvlgari-Hotel-Paris.html) (París)
-- [Bvlgari Hotel London](/hotels/2940/Bvlgari-Hotel-London.html) (Londres)
+- [Bvlgari Hotel Paris](/hotels/4054/bvlgari-hotel-paris.html) (París)
+- [Bvlgari Hotel London](/hotels/2940/bvlgari-hotel-london.html) (Londres)
 
 ### Asia
 
 Tokio, Pekín, Shanghái y un resort en Bali.
 
-- [Bvlgari Hotel Tokyo](/hotels/6368/Bvlgari-Hotel-Tokyo.html) (Tokio)
-- [Bvlgari Hotel Beijing](/hotels/3508/-Bvlgari-Hotel-Beijing.html) (Pekín)
-- [Bvlgari Shanghai](/hotels/3364/Bvlgari-Shanghai.html) (Shanghái)
-- [Bvlgari Resort Bali](/hotels/1736/Bvlgari-Resort-Bali-.html) (Bali)
+- [Bvlgari Hotel Tokyo](/hotels/6368/bvlgari-hotel-tokyo.html) (Tokio)
+- [Bvlgari Hotel Beijing](/hotels/3508/bvlgari-hotel-beijing.html) (Pekín)
+- [Bvlgari Shanghai](/hotels/3364/bvlgari-shanghai.html) (Shanghái)
+- [Bvlgari Resort Bali](/hotels/1736/bvlgari-resort-bali.html) (Bali)
 
 ### Oriente Medio
 
 Un hotel en Dubái.
 
-- [Bvlgari Hotel, Dubai](/hotels/3492/Bvlgari-Hotel-Dubai.html) (Dubái)
+- [Bvlgari Hotel, Dubai](/hotels/3492/bvlgari-hotel-dubai.html) (Dubái)
 
 ## Qué Bulgari elegir según el viaje
 
 | Si busca | Considere |
 | --- | --- |
-| Ciudad europea | [Bvlgari Hotel, Milano](/hotels/1295/Bvlgari-Hotel-Milano.html), [Bvlgari Hotel Roma](/hotels/6592/Bvlgari-Hotel-Roma.html), [Bvlgari Hotel Paris](/hotels/4054/Bvlgari-Hotel-Paris.html), [Bvlgari Hotel London](/hotels/2940/Bvlgari-Hotel-London.html) |
-| Ciudad asiática | [Bvlgari Hotel Tokyo](/hotels/6368/Bvlgari-Hotel-Tokyo.html), [Bvlgari Hotel Beijing](/hotels/3508/-Bvlgari-Hotel-Beijing.html), [Bvlgari Shanghai](/hotels/3364/Bvlgari-Shanghai.html) |
-| Resort de playa | [Bvlgari Resort Bali](/hotels/1736/Bvlgari-Resort-Bali-.html) |
-| Oriente Medio | [Bvlgari Hotel, Dubai](/hotels/3492/Bvlgari-Hotel-Dubai.html) |
+| Ciudad europea | [Bvlgari Hotel, Milano](/hotels/1295/bvlgari-hotel-milano.html), [Bvlgari Hotel Roma](/hotels/6592/bvlgari-hotel-roma.html), [Bvlgari Hotel Paris](/hotels/4054/bvlgari-hotel-paris.html), [Bvlgari Hotel London](/hotels/2940/bvlgari-hotel-london.html) |
+| Ciudad asiática | [Bvlgari Hotel Tokyo](/hotels/6368/bvlgari-hotel-tokyo.html), [Bvlgari Hotel Beijing](/hotels/3508/bvlgari-hotel-beijing.html), [Bvlgari Shanghai](/hotels/3364/bvlgari-shanghai.html) |
+| Resort de playa | [Bvlgari Resort Bali](/hotels/1736/bvlgari-resort-bali.html) |
+| Oriente Medio | [Bvlgari Hotel, Dubai](/hotels/3492/bvlgari-hotel-dubai.html) |
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

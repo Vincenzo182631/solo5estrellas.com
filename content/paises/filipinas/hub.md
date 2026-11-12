@@ -37,7 +37,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Fi
 
 - Luzon Island: [Fairmont Makati](/hotels/4967/fairmont-makati.html); [Raffles Makati](/hotels/4968/raffles-makati.html)
 - Mactan: [Shangri-La's Mactan Resort & Spa, Cebu](/hotels/3090/shangri-la-s-mactan-resort-spa-cebu.html)
-- Makati: [Makati Shangri-La, Manila](/hotels/2379/makati-shangri-la-manila-.html)
+- Makati: [Makati Shangri-La, Manila](/hotels/2379/makati-shangri-la-manila.html)
 - Manila: [Conrad Manila](/hotels/4148/conrad-manila.html); [Grand Hyatt Manila](/hotels/6673/grand-hyatt-manila.html); [The Peninsula Manila](/hotels/1888/the-peninsula-manila.html)
 - Pamalican Island: [Amanpulo](/hotels/1532/amanpulo.html)
 - Tagaytay: [Anya Resort Tagaytay](/hotels/4304/anya-resort-tagaytay.html)
@@ -71,7 +71,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles Shangri-la Hotels](/collection/33/)
 - [Hoteles Fairmont Hotels](/collection/1/)
 - [Hoteles Raffles Hotels](/collection/11/)

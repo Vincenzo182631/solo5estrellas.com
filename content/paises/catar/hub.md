@@ -33,7 +33,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ca
 
 ## Los 19 hoteles de Catar
 
-- Doha: [Banyan Tree Doha](/hotels/6470/banyan-tree-doha.html); [Fairmont Doha](/hotels/6642/fairmont-doha.html); [Four Seasons Doha, The Pearl-Qatar](/hotels/6436/four-seasons-doha-the-pearl-qatar.html); [Four Seasons Hotel Doha](/hotels/1550/four-seasons-hotel-doha.html); [Grand Hyatt Doha](/hotels/1014/grand-hyatt-doha.html); [InterContinental Doha Beach](/hotels/4000/intercontinental-doha-beach.html); [InterContinental Doha The City](/hotels/4786/intercontinental-doha-the-city.html); [Le Royal Meridien Doha](/hotels/6408/le-royal-meridien-doha.html); [Mandarin Oriental, Doha](/hotels/6203/mandarin-oriental-doha.html); [Maysan Doha, LXR Hotels & Resorts](/hotels/6324/maysan-doha-lxr-hotels-resorts.html); [Park Hyatt Doha](/hotels/4117/park-hyatt-doha.html); [Raffles Doha](/hotels/6471/raffles-doha.html); [Rosewood Doha](/hotels/6895/rosewood-doha.html); [Sharq Village and Spa, A Ritz-Carlton Hotel](/hotels/1856/sharq-village-and-spa-a-ritz-carlton-hotel.html); [The Ritz Carlton Doha](/hotels/1629/the-ritz-carlton-doha.html); [The St. Regis Doha](/hotels/2622/the-st-regis-doha-.html); [W Doha Hotel & Residences](/hotels/2876/w-doha-hotel-residences.html); [Waldorf Astoria Doha West Bay](/hotels/6322/waldorf-astoria-doha-west-bay.html); [Waldorf Astoria Lusail, Doha](/hotels/6321/waldorf-astoria-lusail-doha-.html)
+- Doha: [Banyan Tree Doha](/hotels/6470/banyan-tree-doha.html); [Fairmont Doha](/hotels/6642/fairmont-doha.html); [Four Seasons Doha, The Pearl-Qatar](/hotels/6436/four-seasons-doha-the-pearl-qatar.html); [Four Seasons Hotel Doha](/hotels/1550/four-seasons-hotel-doha.html); [Grand Hyatt Doha](/hotels/1014/grand-hyatt-doha.html); [InterContinental Doha Beach](/hotels/4000/intercontinental-doha-beach.html); [InterContinental Doha The City](/hotels/4786/intercontinental-doha-the-city.html); [Le Royal Meridien Doha](/hotels/6408/le-royal-meridien-doha.html); [Mandarin Oriental, Doha](/hotels/6203/mandarin-oriental-doha.html); [Maysan Doha, LXR Hotels & Resorts](/hotels/6324/maysan-doha-lxr-hotels-resorts.html); [Park Hyatt Doha](/hotels/4117/park-hyatt-doha.html); [Raffles Doha](/hotels/6471/raffles-doha.html); [Rosewood Doha](/hotels/6895/rosewood-doha.html); [Sharq Village and Spa, A Ritz-Carlton Hotel](/hotels/1856/sharq-village-and-spa-a-ritz-carlton-hotel.html); [The Ritz Carlton Doha](/hotels/1629/the-ritz-carlton-doha.html); [The St. Regis Doha](/hotels/2622/the-st-regis-doha.html); [W Doha Hotel & Residences](/hotels/2876/w-doha-hotel-residences.html); [Waldorf Astoria Doha West Bay](/hotels/6322/waldorf-astoria-doha-west-bay.html); [Waldorf Astoria Lusail, Doha](/hotels/6321/waldorf-astoria-lusail-doha.html)
 
 ## Preguntas frecuentes sobre hoteles en Catar
 
@@ -63,7 +63,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Oriente Medio](/regions/18/middle_east.html)
+- [Hoteles de lujo en Oriente Medio](/regions/18/middle-east.html)
 - [Hoteles Four Seasons](/collection/2/)
 - [Hoteles InterContinental Hotels & Resorts](/collection/15/)
 - [Hoteles Ritz Carlton Hotels & Resorts](/collection/13/)

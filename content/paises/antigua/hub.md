@@ -28,8 +28,8 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de An
 ## Los 5 hoteles de Antigua
 
 - English Harbour: [The Inn at English Harbour](/hotels/4272/the-inn-at-english-harbour.html)
-- St. Johns (Antigua): [Curtain Bluff All Inclusive Resort](/hotels/1218/curtain-bluff-br-all-inclusive-resort-.html); [Jumby Bay Island Resort](/hotels/1124/jumby-bay-island-resort.html)
-- St. Mary's: [Carlisle Bay](/hotels/1356/carlisle-bay.html); [Hermitage Bay](/hotels/2911/hermitage-bay-.html)
+- St. Johns (Antigua): [Curtain Bluff All Inclusive Resort](/hotels/1218/curtain-bluff-br-all-inclusive-resort.html); [Jumby Bay Island Resort](/hotels/1124/jumby-bay-island-resort.html)
+- St. Mary's: [Carlisle Bay](/hotels/1356/carlisle-bay.html); [Hermitage Bay](/hotels/2911/hermitage-bay.html)
 
 ## Preguntas frecuentes sobre hoteles en Antigua
 

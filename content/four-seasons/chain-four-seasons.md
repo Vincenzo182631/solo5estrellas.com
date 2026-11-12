@@ -39,7 +39,7 @@ Four Seasons Hotels and Resorts es una compañía hotelera de lujo con sede en T
 
 **España.** Un hotel urbano en Madrid y un resort en Mallorca.
 
-- [Four Seasons Hotel Madrid](/hotels/3897/four-seasons-hotel-madrid-.html) (Madrid)
+- [Four Seasons Hotel Madrid](/hotels/3897/four-seasons-hotel-madrid.html) (Madrid)
 - [Four Seasons Resort Mallorca at Formentor](/hotels/6664/four-seasons-resort-mallorca-at-formentor.html) (Mallorca)
 
 **México.** Resorts de playa en el Pacífico y Los Cabos, y un hotel urbano en Ciudad de México.
@@ -49,16 +49,16 @@ Four Seasons Hotels and Resorts es una compañía hotelera de lujo con sede en T
 - [Four Seasons Los Cabos at Costa Palmas](/hotels/3614/four-seasons-los-cabos-at-costa-palmas.html) (Cabo San Lucas)
 - [Four Seasons Cabo San Lucas @ Cabo del Sol](/hotels/6554/four-seasons-cabo-san-lucas-cabo-del-sol.html) (Cabo San Lucas)
 - [Four Seasons Resort Tamarindo](/hotels/4746/four-seasons-resort-tamarindo.html) (Tamarindo)
-- [Four Seasons Hotel Mexico, D.F.](/hotels/1516/four-seasons-hotel-mexico-d-f-.html) (Ciudad de México)
+- [Four Seasons Hotel Mexico, D.F.](/hotels/1516/four-seasons-hotel-mexico-d-f.html) (Ciudad de México)
 
 **Miami y Florida.** Del hotel urbano de Miami a los resorts de playa de Palm Beach y Naples, y un resort en Orlando junto a Walt Disney World.
 
-- [Four Seasons Hotel Miami](/hotels/1326/four-seasons-hotel-miami-.html) (Miami)
+- [Four Seasons Hotel Miami](/hotels/1326/four-seasons-hotel-miami.html) (Miami)
 - [Four Seasons Hotel at the Surf Club](/hotels/3109/four-seasons-hotel-at-the-surf-club.html) (Miami Beach)
 - [Four Seasons Fort Lauderdale](/hotels/5035/four-seasons-fort-lauderdale.html) (Fort Lauderdale)
 - [Four Seasons Resort Palm Beach](/hotels/950/four-seasons-resort-palm-beach.html) (Palm Beach)
 - [Four Seasons Naples Beach Club](/hotels/6813/four-seasons-naples-beach-club.html) (Naples (Florida))
-- [Four Seasons Orlando at Walt Disney World®](/hotels/2878/four-seasons-orlando-at-walt-disney-world-.html) (Orlando (Walt Disney World))
+- [Four Seasons Orlando at Walt Disney World®](/hotels/2878/four-seasons-orlando-at-walt-disney-world.html) (Orlando (Walt Disney World))
 
 **Nueva York, Las Vegas y California.** Hoteles urbanos en Nueva York y Las Vegas, y hoteles y resorts en California.
 
@@ -73,18 +73,18 @@ Four Seasons Hotels and Resorts es una compañía hotelera de lujo con sede en T
 **Hawái.** Cuatro islas, cinco resorts.
 
 - [Four Seasons Hualalai](/hotels/2154/four-seasons-hualalai.html) (Isla Grande (Hawái))
-- [Four Seasons Maui at Wailea](/hotels/1421/four-seasons-maui-at-wailea-.html) (Maui)
+- [Four Seasons Maui at Wailea](/hotels/1421/four-seasons-maui-at-wailea.html) (Maui)
 - [Four Seasons Oahu at Ko Olina](/hotels/3046/four-seasons-oahu-at-ko-olina.html) (Honolulu)
 - [Four Seasons Resort Lanai](/hotels/1419/four-seasons-resort-lanai.html) (Lanai)
 - [Sensei Lanai, A Four Seasons Resort](/hotels/1418/sensei-lanai-a-four-seasons-resort.html) (Lanai)
 
 **Caribe y Centroamérica.** Resorts de playa en el Caribe y Centroamérica.
 
-- [Four Seasons Resort Anguilla](/hotels/3133/four-seasons-resort-anguilla-.html) (Anguila)
+- [Four Seasons Resort Anguilla](/hotels/3133/four-seasons-resort-anguilla.html) (Anguila)
 - [Four Seasons Resort Nevis](/hotels/1422/four-seasons-resort-nevis.html) (San Cristóbal y Nieves)
 - [Four Seasons Puerto Rico](/hotels/6869/four-seasons-puerto-rico.html) (San Juan)
 - [The Ocean Club, A Four Seasons Resort, Bahamas](/hotels/1132/the-ocean-club-a-four-seasons-resort-bahamas.html) (Nassau)
-- [Four Seasons Resort Costa Rica](/hotels/1271/four-seasons-resort-costa-rica-.html) (Peninsula Papagayo)
+- [Four Seasons Resort Costa Rica](/hotels/1271/four-seasons-resort-costa-rica.html) (Peninsula Papagayo)
 
 **Sudamérica.** Un hotel en Buenos Aires, dos en Bogotá y un resort en Cartagena.
 
@@ -101,22 +101,22 @@ Four Seasons Hotels and Resorts es una compañía hotelera de lujo con sede en T
 - [Four Seasons Hotel Florence](/hotels/1927/four-seasons-hotel-florence.html) (Florencia)
 - [Four Seasons Hotel Milano](/hotels/995/four-seasons-hotel-milano.html) (Milán)
 - [Four Seasons Danieli](/hotels/2561/four-seasons-danieli.html) (Venecia)
-- [San Domenico Palace Taormina, a Four Seasons](/hotels/3359/san-domenico-palace-taormina-a-four-seasons-.html) (Taormina)
+- [San Domenico Palace Taormina, a Four Seasons](/hotels/3359/san-domenico-palace-taormina-a-four-seasons.html) (Taormina)
 - [Four Seasons Hotel Ritz Lisbon](/hotels/1018/four-seasons-hotel-ritz-lisbon.html) (Lisboa)
 - [Four Seasons Hotel Prague](/hotels/1160/four-seasons-hotel-prague.html) (Praga)
-- [Four Seasons Astir Palace Hotel Athens](/hotels/3466/-four-seasons-astir-palace-hotel-athens.html) (Atenas)
+- [Four Seasons Astir Palace Hotel Athens](/hotels/3466/four-seasons-astir-palace-hotel-athens.html) (Atenas)
 - [Four Seasons Resort Mykonos](/hotels/6852/four-seasons-resort-mykonos.html) (Mykonos)
 - [Four Seasons Hotel des Bergues](/hotels/1552/four-seasons-hotel-des-bergues.html) (Ginebra)
-- [Four Seasons Hotel Gresham Palace](/hotels/1324/four-seasons-hotel-gresham-palace-.html) (Budapest)
+- [Four Seasons Hotel Gresham Palace](/hotels/1324/four-seasons-hotel-gresham-palace.html) (Budapest)
 - [Grand-Hotel Du Cap-Ferrat, A Four Seasons Hotel](/hotels/1079/grand-hotel-du-cap-ferrat-a-four-seasons-hotel.html) (Cap Ferrat)
-- [Four Seasons Hotel Istanbul, Bosphorus](/hotels/2173/four-seasons-hotel-istanbul-bosphorus-.html) (Estambul)
+- [Four Seasons Hotel Istanbul, Bosphorus](/hotels/2173/four-seasons-hotel-istanbul-bosphorus.html) (Estambul)
 
 ## Qué Four Seasons elegir según el viaje
 
 | Si busca | Considere |
 | --- | --- |
-| Resorts de playa | [Four Seasons Resort Punta Mita](/hotels/1414/four-seasons-resort-punta-mita.html), [Four Seasons Los Cabos at Costa Palmas](/hotels/3614/four-seasons-los-cabos-at-costa-palmas.html), [Four Seasons Resort Nevis](/hotels/1422/four-seasons-resort-nevis.html), [Four Seasons Resort Anguilla](/hotels/3133/four-seasons-resort-anguilla-.html), [Four Seasons Resort Bora Bora](/hotels/2280/four-seasons-resort-bora-bora.html), [Four Seasons Resort Mykonos](/hotels/6852/four-seasons-resort-mykonos.html), [Four Seasons Resort Mallorca at Formentor](/hotels/6664/four-seasons-resort-mallorca-at-formentor.html) |
-| Hoteles urbanos | [Four Seasons Hotel Madrid](/hotels/3897/four-seasons-hotel-madrid-.html), [Four Seasons Hotel Mexico, D.F.](/hotels/1516/four-seasons-hotel-mexico-d-f-.html), [Four Seasons Hotel New York](/hotels/1838/four-seasons-hotel-new-york.html), [Four Seasons Paris, George V](/hotels/1096/four-seasons-paris-george-v.html), [Four Seasons London at Park Lane](/hotels/1423/four-seasons-london-at-park-lane.html), [Four Seasons Hotel Tokyo at Marunouchi](/hotels/1789/four-seasons-hotel-tokyo-at-marunouchi.html) |
+| Resorts de playa | [Four Seasons Resort Punta Mita](/hotels/1414/four-seasons-resort-punta-mita.html), [Four Seasons Los Cabos at Costa Palmas](/hotels/3614/four-seasons-los-cabos-at-costa-palmas.html), [Four Seasons Resort Nevis](/hotels/1422/four-seasons-resort-nevis.html), [Four Seasons Resort Anguilla](/hotels/3133/four-seasons-resort-anguilla.html), [Four Seasons Resort Bora Bora](/hotels/2280/four-seasons-resort-bora-bora.html), [Four Seasons Resort Mykonos](/hotels/6852/four-seasons-resort-mykonos.html), [Four Seasons Resort Mallorca at Formentor](/hotels/6664/four-seasons-resort-mallorca-at-formentor.html) |
+| Hoteles urbanos | [Four Seasons Hotel Madrid](/hotels/3897/four-seasons-hotel-madrid.html), [Four Seasons Hotel Mexico, D.F.](/hotels/1516/four-seasons-hotel-mexico-d-f.html), [Four Seasons Hotel New York](/hotels/1838/four-seasons-hotel-new-york.html), [Four Seasons Paris, George V](/hotels/1096/four-seasons-paris-george-v.html), [Four Seasons London at Park Lane](/hotels/1423/four-seasons-london-at-park-lane.html), [Four Seasons Hotel Tokyo at Marunouchi](/hotels/1789/four-seasons-hotel-tokyo-at-marunouchi.html) |
 | Montaña y esquí | [Four Seasons Resort Whistler](/hotels/1354/four-seasons-resort-whistler.html), [Four Seasons Resort Vail](/hotels/2390/four-seasons-resort-vail.html), [Four Seasons Resort Jackson Hole](/hotels/1325/four-seasons-resort-jackson-hole.html), [Four Seasons Hotel Megeve](/hotels/3288/four-seasons-hotel-megeve.html) |
 | Islas y retiros remotos | [Four Seasons Resort Bora Bora](/hotels/2280/four-seasons-resort-bora-bora.html), [Four Seasons Maldives at Kuda Huraa](/hotels/1849/four-seasons-maldives-at-kuda-huraa.html), [Four Seasons Resort Seychelles](/hotels/2287/four-seasons-resort-seychelles.html), [Four Seasons Resort Lanai](/hotels/1419/four-seasons-resort-lanai.html) |
 | Safari | [Four Seasons Safari Lodge Serengeti](/hotels/2682/four-seasons-safari-lodge-serengeti.html) |
@@ -199,11 +199,11 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 - [Beverly Wilshire, A Four Seasons Hotel](/hotels/1453/beverly-wilshire-a-four-seasons-hotel.html) (Beverly Hills)
 - [Four Seasons Aviara Residence Club](/hotels/2543/four-seasons-aviara-residence-club.html) (San Diego (Aviara))
 - [Four Seasons Hotel Los Angeles at Beverly Hills](/hotels/1415/four-seasons-hotel-los-angeles-at-beverly-hills.html) (Beverly Hills)
-- [Four Seasons Hotel San Francisco](/hotels/1197/four-seasons-hotel-san-francisco-.html) (San Francisco)
+- [Four Seasons Hotel San Francisco](/hotels/1197/four-seasons-hotel-san-francisco.html) (San Francisco)
 - [Four Seasons Hotel Silicon Valley](/hotels/2282/four-seasons-hotel-silicon-valley.html) (Palo Alto)
 - [Four Seasons Hotel Westlake Village](/hotels/1790/four-seasons-hotel-westlake-village.html) (Westlake Village)
 - [Four Seasons Napa Valley](/hotels/3617/four-seasons-napa-valley.html) (Napa Valley)
-- [Four Seasons San Francisco at Embarcadero](/hotels/4076/four-seasons-san-francisco-at-embarcadero-.html) (San Francisco)
+- [Four Seasons San Francisco at Embarcadero](/hotels/4076/four-seasons-san-francisco-at-embarcadero.html) (San Francisco)
 - [Four Seasons Santa Barbara, The Biltmore](/hotels/1424/four-seasons-santa-barbara-the-biltmore.html) (Santa Bárbara)
 
 **Colorado**
@@ -216,9 +216,9 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 **Florida**
 - [Four Seasons Fort Lauderdale](/hotels/5035/four-seasons-fort-lauderdale.html) (Fort Lauderdale)
 - [Four Seasons Hotel at the Surf Club](/hotels/3109/four-seasons-hotel-at-the-surf-club.html) (Miami Beach)
-- [Four Seasons Hotel Miami](/hotels/1326/four-seasons-hotel-miami-.html) (Miami)
+- [Four Seasons Hotel Miami](/hotels/1326/four-seasons-hotel-miami.html) (Miami)
 - [Four Seasons Naples Beach Club](/hotels/6813/four-seasons-naples-beach-club.html) (Naples (Florida))
-- [Four Seasons Orlando at Walt Disney World®](/hotels/2878/four-seasons-orlando-at-walt-disney-world-.html) (Orlando (Walt Disney World))
+- [Four Seasons Orlando at Walt Disney World®](/hotels/2878/four-seasons-orlando-at-walt-disney-world.html) (Orlando (Walt Disney World))
 - [Four Seasons Resort Palm Beach](/hotels/950/four-seasons-resort-palm-beach.html) (Palm Beach)
 - [Four Seasons Yachts](/hotels/7009/four-seasons-yachts.html) (Miami)
 
@@ -227,13 +227,13 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 
 **Hawái**
 - [Four Seasons Hualalai](/hotels/2154/four-seasons-hualalai.html) (Isla Grande (Hawái))
-- [Four Seasons Maui at Wailea](/hotels/1421/four-seasons-maui-at-wailea-.html) (Maui)
+- [Four Seasons Maui at Wailea](/hotels/1421/four-seasons-maui-at-wailea.html) (Maui)
 - [Four Seasons Oahu at Ko Olina](/hotels/3046/four-seasons-oahu-at-ko-olina.html) (Honolulu)
 - [Four Seasons Resort Lanai](/hotels/1419/four-seasons-resort-lanai.html) (Lanai)
 - [Sensei Lanai, A Four Seasons Resort](/hotels/1418/sensei-lanai-a-four-seasons-resort.html) (Lanai)
 
 **Illinois**
-- [Four Seasons Hotel Chicago](/hotels/1835/four-seasons-hotel-chicago-.html) (Chicago)
+- [Four Seasons Hotel Chicago](/hotels/1835/four-seasons-hotel-chicago.html) (Chicago)
 
 **Luisiana**
 - [Four Seasons New Orleans](/hotels/4745/four-seasons-new-orleans.html) (New Orleans)
@@ -280,7 +280,7 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 ### México (6)
 
 - [Four Seasons Cabo San Lucas @ Cabo del Sol](/hotels/6554/four-seasons-cabo-san-lucas-cabo-del-sol.html) (Cabo San Lucas)
-- [Four Seasons Hotel Mexico, D.F.](/hotels/1516/four-seasons-hotel-mexico-d-f-.html) (Ciudad de México)
+- [Four Seasons Hotel Mexico, D.F.](/hotels/1516/four-seasons-hotel-mexico-d-f.html) (Ciudad de México)
 - [Four Seasons Los Cabos at Costa Palmas](/hotels/3614/four-seasons-los-cabos-at-costa-palmas.html) (Cabo San Lucas)
 - [Four Seasons Resort Punta Mita](/hotels/1414/four-seasons-resort-punta-mita.html) (Punta Mita)
 - [Four Seasons Resort Tamarindo](/hotels/4746/four-seasons-resort-tamarindo.html) (Tamarindo)
@@ -288,12 +288,12 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 
 ### España (2)
 
-- [Four Seasons Hotel Madrid](/hotels/3897/four-seasons-hotel-madrid-.html) (Madrid)
+- [Four Seasons Hotel Madrid](/hotels/3897/four-seasons-hotel-madrid.html) (Madrid)
 - [Four Seasons Resort Mallorca at Formentor](/hotels/6664/four-seasons-resort-mallorca-at-formentor.html) (Mallorca)
 
 ### Anguila (1)
 
-- [Four Seasons Resort Anguilla](/hotels/3133/four-seasons-resort-anguilla-.html) (Anguila)
+- [Four Seasons Resort Anguilla](/hotels/3133/four-seasons-resort-anguilla.html) (Anguila)
 
 ### Bahamas (1)
 
@@ -309,7 +309,7 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 
 ### Costa Rica (1)
 
-- [Four Seasons Resort Costa Rica](/hotels/1271/four-seasons-resort-costa-rica-.html) (Peninsula Papagayo)
+- [Four Seasons Resort Costa Rica](/hotels/1271/four-seasons-resort-costa-rica.html) (Peninsula Papagayo)
 
 ### Argentina (1)
 
@@ -337,13 +337,13 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 
 ### Baréin (1)
 
-- [Four Seasons Hotel Bahrain Bay](/hotels/2951/four-seasons-hotel-bahrain-bay-.html) (Manama)
+- [Four Seasons Hotel Bahrain Bay](/hotels/2951/four-seasons-hotel-bahrain-bay.html) (Manama)
 
 ### Canadá (3)
 
 - [Four Seasons Resort Whistler](/hotels/1354/four-seasons-resort-whistler.html) (Whistler (Columbia Británica))
-- [Four Seasons Hotel Toronto](/hotels/2595/four-seasons-hotel-toronto-.html) (Toronto (Ontario))
-- [Four Seasons Hotel Montreal](/hotels/3621/four-seasons-hotel-montreal-.html) (Montreal (Quebec))
+- [Four Seasons Hotel Toronto](/hotels/2595/four-seasons-hotel-toronto.html) (Toronto (Ontario))
+- [Four Seasons Hotel Montreal](/hotels/3621/four-seasons-hotel-montreal.html) (Montreal (Quebec))
 
 ### Catar (2)
 
@@ -354,14 +354,14 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 
 - [Four Seasons Hotel Beijing](/hotels/2642/four-seasons-hotel-beijing.html) (Pekín (Beijing))
 - [Four Seasons Hotel Dalian](/hotels/6591/four-seasons-hotel-dalian.html) (Dalian)
-- [Four Seasons Hotel Guangzhou](/hotels/2594/four-seasons-hotel-guangzhou-.html) (Guangzhou)
-- [Four Seasons Hotel Hangzhou](/hotels/928/four-seasons-hotel-hangzhou-.html) (Hangzhou)
+- [Four Seasons Hotel Guangzhou](/hotels/2594/four-seasons-hotel-guangzhou.html) (Guangzhou)
+- [Four Seasons Hotel Hangzhou](/hotels/928/four-seasons-hotel-hangzhou.html) (Hangzhou)
 - [Four Seasons Hotel Hangzhou at Hangzhou Centre](/hotels/6689/four-seasons-hotel-hangzhou-at-hangzhou-centre.html) (Hangzhou)
 - [Four Seasons Hotel Hong Kong](/hotels/1844/four-seasons-hotel-hong-kong.html) (Hong Kong)
-- [Four Seasons Hotel Macau, Cotai Strip®](/hotels/2252/four-seasons-hotel-macau-cotai-strip-.html) (Macao)
+- [Four Seasons Hotel Macau, Cotai Strip®](/hotels/2252/four-seasons-hotel-macau-cotai-strip.html) (Macao)
 - [Four Seasons Hotel Shanghai at Puxi](/hotels/1553/four-seasons-hotel-shanghai-at-puxi.html) (Shanghái)
 - [Four Seasons Hotel Shenzhen](/hotels/2721/four-seasons-hotel-shenzhen.html) (Shenzhen)
-- [Four Seasons Hotel Suzhou](/hotels/6552/four-seasons-hotel-suzhou-.html) (Suzhou)
+- [Four Seasons Hotel Suzhou](/hotels/6552/four-seasons-hotel-suzhou.html) (Suzhou)
 - [Four Seasons Tianjin](/hotels/3110/four-seasons-tianjin.html) (Tianjin)
 - [The Grand Suites at Four Seasons Macau](/hotels/4747/the-grand-suites-at-four-seasons-macau.html) (Macao)
 
@@ -384,23 +384,23 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 
 ### Francia (4)
 
-- [Four Seasons Les Chalets du Mont d’Arbois , Megeve](/hotels/3682/-four-seasons-les-chalets-du-mont-d-arbois-megeve-.html) (Megève)
+- [Four Seasons Les Chalets du Mont d’Arbois , Megeve](/hotels/3682/four-seasons-les-chalets-du-mont-d-arbois-megeve.html) (Megève)
 - [Four Seasons Hotel Megeve](/hotels/3288/four-seasons-hotel-megeve.html) (Megève)
 - [Four Seasons Paris, George V](/hotels/1096/four-seasons-paris-george-v.html) (París)
 - [Grand-Hotel Du Cap-Ferrat, A Four Seasons Hotel](/hotels/1079/grand-hotel-du-cap-ferrat-a-four-seasons-hotel.html) (Cap Ferrat)
 
 ### Grecia (2)
 
-- [Four Seasons Astir Palace Hotel Athens](/hotels/3466/-four-seasons-astir-palace-hotel-athens.html) (Atenas)
+- [Four Seasons Astir Palace Hotel Athens](/hotels/3466/four-seasons-astir-palace-hotel-athens.html) (Atenas)
 - [Four Seasons Resort Mykonos](/hotels/6852/four-seasons-resort-mykonos.html) (Mykonos)
 
 ### Hungría (1)
 
-- [Four Seasons Hotel Gresham Palace](/hotels/1324/four-seasons-hotel-gresham-palace-.html) (Budapest)
+- [Four Seasons Hotel Gresham Palace](/hotels/1324/four-seasons-hotel-gresham-palace.html) (Budapest)
 
 ### India (1)
 
-- [Four Seasons Hotel Mumbai](/hotels/2253/four-seasons-hotel-mumbai-.html) (Bombay)
+- [Four Seasons Hotel Mumbai](/hotels/2253/four-seasons-hotel-mumbai.html) (Bombay)
 
 ### Indonesia (3)
 
@@ -413,7 +413,7 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 - [Four Seasons Danieli](/hotels/2561/four-seasons-danieli.html) (Venecia)
 - [Four Seasons Hotel Florence](/hotels/1927/four-seasons-hotel-florence.html) (Florencia)
 - [Four Seasons Hotel Milano](/hotels/995/four-seasons-hotel-milano.html) (Milán)
-- [San Domenico Palace Taormina, a Four Seasons](/hotels/3359/san-domenico-palace-taormina-a-four-seasons-.html) (Taormina)
+- [San Domenico Palace Taormina, a Four Seasons](/hotels/3359/san-domenico-palace-taormina-a-four-seasons.html) (Taormina)
 
 ### Japón (4)
 
@@ -437,7 +437,7 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 ### Malasia (2)
 
 - [Four Seasons Kuala Lumpur](/hotels/3463/four-seasons-kuala-lumpur.html) (Kuala Lumpur)
-- [Four Seasons Resort Langkawi](/hotels/1767/four-seasons-resort-langkawi-.html) (Langkawi)
+- [Four Seasons Resort Langkawi](/hotels/1767/four-seasons-resort-langkawi.html) (Langkawi)
 
 ### Maldivas (2)
 
@@ -483,7 +483,7 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 
 ### Sudáfrica (1)
 
-- [The Westcliff, Four Seasons Hotel Johannesburg](/hotels/2889/the-westcliff-four-seasons-hotel-johannesburg-.html) (Johannesburg)
+- [The Westcliff, Four Seasons Hotel Johannesburg](/hotels/2889/the-westcliff-four-seasons-hotel-johannesburg.html) (Johannesburg)
 
 ### Suiza (1)
 
@@ -502,7 +502,7 @@ Según nuestra comparación, Solo5Estrellas cubre los 141 hoteles de Four Season
 
 ### Turquía (2)
 
-- [Four Seasons Hotel Istanbul, Bosphorus](/hotels/2173/four-seasons-hotel-istanbul-bosphorus-.html) (Estambul)
+- [Four Seasons Hotel Istanbul, Bosphorus](/hotels/2173/four-seasons-hotel-istanbul-bosphorus.html) (Estambul)
 - [Four Seasons Istanbul, Sultanahmet](/hotels/1095/four-seasons-istanbul-sultanahmet.html) (Estambul)
 
 ### Túnez (1)

@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Hotel Ritz Paris",
-          "item": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/Hotel-Ritz-Paris.html"
+          "item": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/hotel-ritz-paris.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/Hotel-Ritz-Paris.html#webpage",
-      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/Hotel-Ritz-Paris.html",
+      "@id": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/hotel-ritz-paris.html#webpage",
+      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/hotel-ritz-paris.html",
       "name": "Hotel Ritz Paris",
       "description": "Reserve el Hotel Ritz Paris, en la place Vendôme, con desayuno para dos, traslados al aeropuerto, crédito de hotel y mejora según disponibilidad.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Hotel Ritz Paris",
-      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/Hotel-Ritz-Paris.html",
+      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/962/hotel-ritz-paris.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "15 place Vendôme",

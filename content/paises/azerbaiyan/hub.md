@@ -55,7 +55,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Oriente Medio](/regions/18/middle_east.html)
+- [Hoteles de lujo en Oriente Medio](/regions/18/middle-east.html)
 - [Hoteles Fairmont Hotels](/collection/1/)
 - [Hoteles Four Seasons](/collection/2/)
 - [Hoteles JW Marriott Hotel](/collection/67/)

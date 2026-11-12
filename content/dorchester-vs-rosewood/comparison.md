@@ -48,17 +48,17 @@ Las ventajas exactas de cada hotel aparecen en su ficha. Vea también [qué incl
 ## Hoteles de cada marca
 
 **Dorchester Collection en Solo5Estrellas (9):**
-- Londres: [The Dorchester](/hotels/1002/The-Dorchester.html) y [45 Park Lane](/hotels/3622/45-Park-Lane.html)
-- París: [Le Meurice](/hotels/1121/Le-Meurice.html) y [Hôtel Plaza Athénée](/hotels/1008/Hotel-Plaza-Athenee-Paris.html)
-- Roma: [Hotel Eden](/hotels/1009/Hotel-Eden-.html)
-- Milán: [Hotel Principe di Savoia](/hotels/1032/Hotel-Principe-di-Savoia-Milano-.html), que cierra por restauración el 1 de enero de 2027 y prevé reabrir en 2029
-- Beverly Hills y Los Ángeles: [The Beverly Hills Hotel](/hotels/1035/The-Beverly-Hills-Hotel.html) y [Hotel Bel-Air](/hotels/1005/Hotel-Bel-Air.html)
-- Dubái: [The Lana](/hotels/6583/The-Lana-Dubai.html)
+- Londres: [The Dorchester](/hotels/1002/the-dorchester.html) y [45 Park Lane](/hotels/3622/45-park-lane.html)
+- París: [Le Meurice](/hotels/1121/le-meurice.html) y [Hôtel Plaza Athénée](/hotels/1008/hotel-plaza-athenee-paris.html)
+- Roma: [Hotel Eden](/hotels/1009/hotel-eden.html)
+- Milán: [Hotel Principe di Savoia](/hotels/1032/hotel-principe-di-savoia-milano.html), que cierra por restauración el 1 de enero de 2027 y prevé reabrir en 2029
+- Beverly Hills y Los Ángeles: [The Beverly Hills Hotel](/hotels/1035/the-beverly-hills-hotel.html) y [Hotel Bel-Air](/hotels/1005/hotel-bel-air.html)
+- Dubái: [The Lana](/hotels/6583/the-lana-dubai.html)
 
 **Rosewood en México, España y Estados Unidos:**
 - México: [Las Ventanas al Paraíso](/hotels/985/las-ventanas-al-paraiso.html), [Rosewood Mayakoba](/hotels/1896/rosewood-mayakoba.html), [Rosewood San Miguel de Allende](/hotels/3479/rosewood-san-miguel-allende.html) y [Rosewood Mandarina](/hotels/6764/rosewood-mandarina.html). Rosewood Mexico City abrirá en 2027, según Rosewood.
 - España: [Rosewood Villa Magna](/hotels/2920/rosewood-villa-magna.html)
-- Estados Unidos: [The Carlyle](/hotels/1119/the-carlyle-a-rosewood-hotel.html), [Rosewood Washington, D.C.](/hotels/3092/rosewood-washington-d-c-.html), [Rosewood Mansion on Turtle Creek](/hotels/1439/rosewood-mansion-on-turtle-creek-.html), [Rosewood Inn of the Anasazi](/hotels/1907/rosewood-inn-of-the-anasazi.html), [Rosewood Miramar Beach](/hotels/3483/rosewood-miramar-beach-hotel.html), [Rosewood Sand Hill](/hotels/2295/rosewood-sand-hill.html) y [Kona Village](/hotels/6370/kona-village-a-rosewood-resort.html)
+- Estados Unidos: [The Carlyle](/hotels/1119/the-carlyle-a-rosewood-hotel.html), [Rosewood Washington, D.C.](/hotels/3092/rosewood-washington-d-c.html), [Rosewood Mansion on Turtle Creek](/hotels/1439/rosewood-mansion-on-turtle-creek.html), [Rosewood Inn of the Anasazi](/hotels/1907/rosewood-inn-of-the-anasazi.html), [Rosewood Miramar Beach](/hotels/3483/rosewood-miramar-beach-hotel.html), [Rosewood Sand Hill](/hotels/2295/rosewood-sand-hill.html) y [Kona Village](/hotels/6370/kona-village-a-rosewood-resort.html)
 - Sudamérica: [Rosewood São Paulo](/hotels/6069/rosewood-sao-paulo.html)
 
 La lista completa de cada marca está en [Hoteles Dorchester Collection](/collection/37/) y [Hoteles Rosewood](/collection/10/).

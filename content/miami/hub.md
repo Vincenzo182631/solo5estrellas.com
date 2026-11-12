@@ -13,11 +13,11 @@ Miami se reparte entre el continente (Brickell, el centro, Coconut Grove, Coral 
 Extremo sur de la isla de Miami Beach: edificios art déco, dos millas de playa y la oferta de restaurantes y vida nocturna de Ocean Drive. Es la zona más animada.
 
 - [The Setai](/hotels/1387/the-setai.html)
-- [The Ritz-Carlton, South Beach](/hotels/2415/the-ritz-carlton-south-beach-.html)
+- [The Ritz-Carlton, South Beach](/hotels/2415/the-ritz-carlton-south-beach.html)
 - [Delano Hotel Miami](/hotels/1933/delano-hotel-miami.html)
 - [1 Hotel South Beach](/hotels/6412/1-hotel-south-beach.html)
 - [Lennox Hotel Miami Beach](/hotels/4342/lennox-hotel-miami-beach.html)
-- [Marriott Stanton South Beach](/hotels/4686/marriott-stanton-south-beach-.html)
+- [Marriott Stanton South Beach](/hotels/4686/marriott-stanton-south-beach.html)
 
 ### Mid-Beach y Surfside
 
@@ -34,7 +34,7 @@ Más al norte en la isla: hoteles de gran tamaño frente al mar, más calma que 
 
 El distrito financiero y residencial del continente, con rascacielos, restaurantes y bares en azotea. Sin playa propia; South Beach queda al otro lado de la bahía y el trayecto depende del tráfico. Una zona práctica para viajes de negocios o escapadas urbanas.
 
-- [Four Seasons Hotel Miami](/hotels/1326/four-seasons-hotel-miami-.html)
+- [Four Seasons Hotel Miami](/hotels/1326/four-seasons-hotel-miami.html)
 - [W Miami](/hotels/2625/w-miami.html)
 - [EAST Miami](/hotels/3149/east-miami.html)
 - [Brickell Arch, a Luxury Collection Hotel, Miami](/hotels/7105/brickell-arch-a-luxury-collection-hotel-miami.html)
@@ -67,7 +67,7 @@ Barrio residencial de calles arboladas y arquitectura mediterránea, al suroeste
 
 Trump National Doral, en Doral, y JW Marriott Miami Turnberry Resort, en Aventura, son resorts con campos de golf.
 
-- [Trump National Doral Miami](/hotels/2882/trump-national-doral-miami-.html)
+- [Trump National Doral Miami](/hotels/2882/trump-national-doral-miami.html)
 - [JW Marriott Miami Turnberry Resort](/hotels/3269/jw-marriott-miami-turnberry-resort.html)
 
 Esta lista es una selección. Los hoteles de Miami aparecen en la colección bajo varias áreas (Miami, South Beach, Miami Beach y Coral Gables); sus beneficios y tarifas se consultan en cada ficha.
@@ -139,8 +139,8 @@ Sí: Four Seasons Hotel Miami, en Brickell, y Four Seasons Hotel at the Surf Clu
 
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles Ritz-Carlton](/chains/13/ritz_carlton.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
-- [Hoteles de lujo en Las Vegas](/cities/142/Las_vegas.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
+- [Hoteles de lujo en Las Vegas](/cities/142/las-vegas.html)
 - [Hoteles de lujo en el Caribe](/regions/6/caribbean.html)
 
 *Fuentes: [Ciudad de Miami Beach: temporada de huracanes](https://www.miamibeachfl.gov/?p=37327); [Four Seasons Miami: cómo llegar](https://www.fourseasons.com/preferredpartner/miami/getting-here/); [Inside Our Suitcase: del aeropuerto de Miami a Brickell](https://insideoursuitcase.com/how-to-get-from-miami-airport-to-brickell/); [The Hotel Guru: dónde alojarse en Miami](https://www.thehotelguru.com/en-gb/where-to-stay/miami). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

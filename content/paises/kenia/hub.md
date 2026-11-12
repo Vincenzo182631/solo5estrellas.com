@@ -32,8 +32,8 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ke
 
 - Malindi: [Diamonds Dream of Africa](/hotels/4486/diamonds-dream-of-africa.html)
 - Masai Mara: [Fairmont Mara Safari Club](/hotels/2373/fairmont-mara-safari-club.html); [Mahali Mzuri Safari Camp](/hotels/3551/mahali-mzuri-safari-camp.html); [Ritz-Carlton, Masai Mara Safari Camp](/hotels/7007/ritz-carlton-masai-mara-safari-camp.html)
-- Nairobi: [Fairmont The Norfolk](/hotels/2375/fairmont-the-norfolk-.html); [Hemingways Nairobi](/hotels/6073/hemingways-nairobi.html); [JW Marriott Hotel Nairobi](/hotels/6986/jw-marriott-hotel-nairobi.html); [Karen Blixen Camp](/hotels/3311/karen-blixen-camp.html); [Sankara Nairobi, Autograph Collection](/hotels/7024/sankara-nairobi-autograph-collection.html)
-- Nanyuki: [Fairmont Mount Kenya Safari Club](/hotels/2376/fairmont-mount-kenya-safari-club-.html); [JW Marriott Mount Kenya Rhino Reserve Safari Camp](/hotels/7061/-jw-marriott-mount-kenya-rhino-reserve-safari-camp.html)
+- Nairobi: [Fairmont The Norfolk](/hotels/2375/fairmont-the-norfolk.html); [Hemingways Nairobi](/hotels/6073/hemingways-nairobi.html); [JW Marriott Hotel Nairobi](/hotels/6986/jw-marriott-hotel-nairobi.html); [Karen Blixen Camp](/hotels/3311/karen-blixen-camp.html); [Sankara Nairobi, Autograph Collection](/hotels/7024/sankara-nairobi-autograph-collection.html)
+- Nanyuki: [Fairmont Mount Kenya Safari Club](/hotels/2376/fairmont-mount-kenya-safari-club.html); [JW Marriott Mount Kenya Rhino Reserve Safari Camp](/hotels/7061/jw-marriott-mount-kenya-rhino-reserve-safari-camp.html)
 
 ## Preguntas frecuentes sobre hoteles en Kenia
 

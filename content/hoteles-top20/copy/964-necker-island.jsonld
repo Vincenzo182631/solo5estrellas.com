@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Necker Island",
-          "item": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/Necker-Island.html"
+          "item": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/necker-island.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/Necker-Island.html#webpage",
-      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/Necker-Island.html",
+      "@id": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/necker-island.html#webpage",
+      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/necker-island.html",
       "name": "Necker Island",
       "description": "Necker Island, la isla privada de Richard Branson en las Islas Vírgenes Británicas. Consulte las semanas de celebración y los beneficios de Solo5Estrellas.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Necker Island",
-      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/Necker-Island.html",
+      "url": "https://solo5estrellas.comhttps://solo5estrellas.com/hotels/964/necker-island.html",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Necker Island",

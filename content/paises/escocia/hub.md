@@ -41,15 +41,15 @@ Un hotel no tiene una marca o colección asociada en la lista.
 ## Los 19 hoteles de Escocia
 
 - Alexandria: [Cameron House on Loch Lomond](/hotels/3285/cameron-house-on-loch-lomond.html)
-- Argyll: [Isle of Eriska Hotel, Spa and Island](/hotels/1780/isle-of-eriska-hotel-spa-and-island-.html)
+- Argyll: [Isle of Eriska Hotel, Spa and Island](/hotels/1780/isle-of-eriska-hotel-spa-and-island.html)
 - Ayrshire: [Trump Turnberry Resort](/hotels/1443/trump-turnberry-resort.html)
-- Edimburgo: [100 Princes Street](/hotels/6790/100-princes-street.html); [InterContinental Edinburgh The George](/hotels/4787/intercontinental-edinburgh-the-george.html); [Kimpton Charlotte Square](/hotels/3610/kimpton-charlotte-square.html); [Nira Caledonia](/hotels/4480/nira-caledonia.html); [Rocco Forte The Balmoral, Edinburgh](/hotels/1084/rocco-forte-the-balmoral-edinburgh-.html); [The Caledonian Edinburgh](/hotels/2758/the-caledonian-edinburgh.html); [The Glasshouse Edinburgh](/hotels/3253/the-glasshouse-edinburgh.html); [Virgin Hotels Edinburgh](/hotels/6631/virgin-hotels-edinburgh.html); [W Hotel Edinburgh](/hotels/6537/w-hotel-edinburgh.html)
+- Edimburgo: [100 Princes Street](/hotels/6790/100-princes-street.html); [InterContinental Edinburgh The George](/hotels/4787/intercontinental-edinburgh-the-george.html); [Kimpton Charlotte Square](/hotels/3610/kimpton-charlotte-square.html); [Nira Caledonia](/hotels/4480/nira-caledonia.html); [Rocco Forte The Balmoral, Edinburgh](/hotels/1084/rocco-forte-the-balmoral-edinburgh.html); [The Caledonian Edinburgh](/hotels/2758/the-caledonian-edinburgh.html); [The Glasshouse Edinburgh](/hotels/3253/the-glasshouse-edinburgh.html); [Virgin Hotels Edinburgh](/hotels/6631/virgin-hotels-edinburgh.html); [W Hotel Edinburgh](/hotels/6537/w-hotel-edinburgh.html)
 - Glasgow: [Crossbasket Castle](/hotels/4479/crossbasket-castle.html); [Kimpton Blythswood Square Hotel](/hotels/3606/kimpton-blythswood-square-hotel.html)
 - Gullane: [Greywalls Hotel](/hotels/1652/greywalls-hotel.html)
 - Inverness: [Ness Walk](/hotels/6637/ness-walk.html)
 - Kelso: [Schloss Roxburghe Hotel & Golf Course](/hotels/6402/schloss-roxburghe-hotel-golf-course.html)
 - Perthshire: [The Gleneagles Hotel](/hotels/1446/the-gleneagles-hotel.html)
-- St. Andrews: [Fairmont St. Andrews](/hotels/3605/fairmont-st-andrews-.html)
+- St. Andrews: [Fairmont St. Andrews](/hotels/3605/fairmont-st-andrews.html)
 
 ## Preguntas frecuentes sobre hoteles en Escocia
 

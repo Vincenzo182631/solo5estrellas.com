@@ -38,7 +38,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Co
 
 - Bogotá: [Four Seasons Hotel Bogota](/hotels/3069/four-seasons-hotel-bogota.html); [Four Seasons Hotel Casa Medina Bogota](/hotels/3043/four-seasons-hotel-casa-medina-bogota.html); [Grand Hyatt Bogota](/hotels/3637/grand-hyatt-bogota.html); [JW Marriott Hotel Bogota](/hotels/3709/jw-marriott-hotel-bogota.html); [Sofitel Bogota Victoria Regia](/hotels/4852/sofitel-bogota-victoria-regia.html); [W Bogota Hotel](/hotels/2973/w-bogota-hotel.html)
 - Cali: [Movich Casa de Alferez](/hotels/4327/movich-casa-de-alferez.html)
-- Cartagena: [Casa Pestagua](/hotels/6731/casa-pestagua.html); [Four Seasons Resort & Residences Cartagena](/hotels/6868/four-seasons-resort-residences-cartagena.html); [HOTEL CASA SAN AGUSTIN](/hotels/6609/hotel-casa-san-agustin.html); [Hotel Charleston Santa Teresa](/hotels/4511/hotel-charleston-santa-teresa.html); [Hotel Las Islas Baru](/hotels/6421/hotel-las-islas-baru.html); [Hyatt Regency Cartagena](/hotels/3648/hyatt-regency-cartagena.html); [InterContinental Cartagena de Indias](/hotels/4771/intercontinental-cartagena-de-indias.html); [Movich Cartagena de Indias](/hotels/4328/movich-cartagena-de-indias.html); [Sofitel Baru Calablanca Beach Resort](/hotels/6608/sofitel-baru-calablanca-beach-resort.html); [Sofitel Hotel Boutique Bovedas de Santa Clara](/hotels/4853/sofitel-hotel-boutique-bovedas-de-santa-clara-.html); [Sofitel Legend Santa Clara Cartagena](/hotels/4752/sofitel-legend-santa-clara-cartagena.html)
+- Cartagena: [Casa Pestagua](/hotels/6731/casa-pestagua.html); [Four Seasons Resort & Residences Cartagena](/hotels/6868/four-seasons-resort-residences-cartagena.html); [HOTEL CASA SAN AGUSTIN](/hotels/6609/hotel-casa-san-agustin.html); [Hotel Charleston Santa Teresa](/hotels/4511/hotel-charleston-santa-teresa.html); [Hotel Las Islas Baru](/hotels/6421/hotel-las-islas-baru.html); [Hyatt Regency Cartagena](/hotels/3648/hyatt-regency-cartagena.html); [InterContinental Cartagena de Indias](/hotels/4771/intercontinental-cartagena-de-indias.html); [Movich Cartagena de Indias](/hotels/4328/movich-cartagena-de-indias.html); [Sofitel Baru Calablanca Beach Resort](/hotels/6608/sofitel-baru-calablanca-beach-resort.html); [Sofitel Hotel Boutique Bovedas de Santa Clara](/hotels/4853/sofitel-hotel-boutique-bovedas-de-santa-clara.html); [Sofitel Legend Santa Clara Cartagena](/hotels/4752/sofitel-legend-santa-clara-cartagena.html)
 - Santa Marta: [Santa Marta Marriott Resort Playa Dormida](/hotels/4693/santa-marta-marriott-resort-playa-dormida.html)
 
 ## Preguntas frecuentes sobre hoteles en Colombia
@@ -69,7 +69,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Sudamérica](/regions/13/south_america.html)
+- [Hoteles de lujo en Sudamérica](/regions/13/south-america.html)
 - [Hoteles Four Seasons](/collection/2/)
 - [Hoteles Sofitel Hotels](/collection/36/)
 - [Hoteles The Signature Collection](/collection/79/)

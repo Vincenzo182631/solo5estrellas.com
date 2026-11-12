@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Hotel U14, Autograph Collection",
-          "item": "https://solo5estrellas.com/hotels/6920/Hotel-U14-Autograph-Collection.html"
+          "item": "https://solo5estrellas.com/hotels/6920/hotel-u14-autograph-collection.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/6920/Hotel-U14-Autograph-Collection.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/6920/Hotel-U14-Autograph-Collection.html",
+      "@id": "https://solo5estrellas.com/hotels/6920/hotel-u14-autograph-collection.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6920/hotel-u14-autograph-collection.html",
       "name": "Hotel U14, Autograph Collection",
       "description": "Hotel U14, hotel de diseño junto a la Esplanadi de Helsinki, con sauna finlandesa. Con Solo5Estrellas: desayuno para dos y detalle de bienvenida.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Hotel U14, Autograph Collection",
-      "url": "https://solo5estrellas.com/hotels/6920/Hotel-U14-Autograph-Collection.html",
+      "url": "https://solo5estrellas.com/hotels/6920/hotel-u14-autograph-collection.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Unioninkatu 14",

@@ -45,7 +45,7 @@ Conrad Hotels & Resorts es la marca de lujo contemporáneo de Hilton, que lleva 
 - [Conrad Washington DC](/hotels/4102/conrad-washington-dc.html) (Washington D. C.)
 - [Conrad Fort Lauderdale Beach](/hotels/3333/conrad-fort-lauderdale-beach.html) (Fort Lauderdale)
 - [Conrad Orlando](/hotels/6384/conrad-orlando.html) (Orlando and Disney World)
-- [Conrad Indianapolis](/hotels/1842/conrad-indianapolis-.html) (Indianapolis)
+- [Conrad Indianapolis](/hotels/1842/conrad-indianapolis.html) (Indianapolis)
 - [Conrad New York Downtown](/hotels/4145/conrad-new-york-downtown.html) (Nueva York)
 - [Conrad Nashville](/hotels/6199/conrad-nashville.html) (Nashville)
 
@@ -204,6 +204,6 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles LXR](/collection/81/)
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles de lujo en Londres](/cities/150/london.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 
 *Fuentes externas: [One Mile at a Time: Hilton for Luxury](https://onemileatatime.com/guides/hilton-for-luxury/). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

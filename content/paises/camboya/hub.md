@@ -36,7 +36,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ca
 
 - Laos: [The Luang Say Residence](/hotels/4273/the-luang-say-residence.html)
 - Nom Pen: [Raffles Hotel Le Royal](/hotels/1039/raffles-hotel-le-royal.html); [Rosewood Phnom Penh](/hotels/3481/rosewood-phnom-penh.html); [Sofitel Phnom Penh Phokeethra](/hotels/4965/sofitel-phnom-penh-phokeethra.html)
-- Siem Reap: [Amansara](/hotels/1534/amansara.html); [Belmond La Residence D'Angkor](/hotels/2730/belmond-la-residence-d-angkor-.html); [Le Meridien Angkor](/hotels/3737/le-meridien-angkor.html); [Park Hyatt Siem Reap](/hotels/2062/park-hyatt-siem-reap.html); [Raffles Grand Hotel d'Angkor](/hotels/1040/raffles-grand-hotel-d-angkor.html); [Sofitel Angkor Phokeethra](/hotels/4966/sofitel-angkor-phokeethra.html)
+- Siem Reap: [Amansara](/hotels/1534/amansara.html); [Belmond La Residence D'Angkor](/hotels/2730/belmond-la-residence-d-angkor.html); [Le Meridien Angkor](/hotels/3737/le-meridien-angkor.html); [Park Hyatt Siem Reap](/hotels/2062/park-hyatt-siem-reap.html); [Raffles Grand Hotel d'Angkor](/hotels/1040/raffles-grand-hotel-d-angkor.html); [Sofitel Angkor Phokeethra](/hotels/4966/sofitel-angkor-phokeethra.html)
 - Sihanoukville: [Alila Villas Koh Russey](/hotels/3947/alila-villas-koh-russey.html); [Six Senses Krabey Island](/hotels/6748/six-senses-krabey-island.html)
 
 ## Preguntas frecuentes sobre hoteles en Camboya
@@ -67,7 +67,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles Raffles Hotels](/collection/11/)
 - [Hoteles Sofitel Hotels](/collection/36/)
 - [Hoteles Small Luxury Hotels of The World](/collection/47/)

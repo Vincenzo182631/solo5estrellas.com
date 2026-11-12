@@ -49,7 +49,7 @@ Shangri-La Group es una compañía hotelera con sede en Hong Kong, cuyo primer h
 - [Shangri-La Bosphorus, Istanbul](/hotels/2783/shangri-la-bosphorus-istanbul.html) (Estambul)
 
 **Francia (1)**
-- [Shangri-La Hotel Paris](/hotels/2490/shangri-la-hotel-paris-.html) (París)
+- [Shangri-La Hotel Paris](/hotels/2490/shangri-la-hotel-paris.html) (París)
 
 **Reino Unido (1)**
 - [Shangri-La Hotel at The Shard](/hotels/2855/shangri-la-hotel-at-the-shard.html) (Londres)
@@ -78,7 +78,7 @@ Shangri-La Group es una compañía hotelera con sede en Hong Kong, cuyo primer h
 - [Sule Shangri-La, Yangon](/hotels/3511/sule-shangri-la-yangon.html) (Yangon)
 
 **Filipinas (3)**
-- [Makati Shangri-La, Manila](/hotels/2379/makati-shangri-la-manila-.html) (Makati)
+- [Makati Shangri-La, Manila](/hotels/2379/makati-shangri-la-manila.html) (Makati)
 - [Shangri-La at the Fort, Manila](/hotels/3093/shangri-la-at-the-fort-manila.html) (Taguig)
 - [Shangri-La's Mactan Resort & Spa, Cebu](/hotels/3090/shangri-la-s-mactan-resort-spa-cebu.html) (Mactan)
 

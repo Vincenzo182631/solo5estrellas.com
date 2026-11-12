@@ -43,8 +43,8 @@ InterContinental Hotels & Resorts es la marca de lujo de IHG, fundada en 1946 po
 - [Intercontinental Los Angeles Downtown](/hotels/3332/intercontinental-los-angeles-downtown.html) (Los Ángeles)
 - [InterContinental San Francisco](/hotels/3588/intercontinental-san-francisco.html) (San Francisco, California)
 - [InterContinental Washington D.C. - The Wharf](/hotels/3558/intercontinental-washington-d-c-the-wharf.html) (Washington D. C., District of Columbia)
-- [The Willard InterContinental](/hotels/1365/the-willard-intercontinental-.html) (Washington D. C., District of Columbia)
-- [Hotel Zamora](/hotels/4020/hotel-zamora-.html) (St Pete Beach, Florida)
+- [The Willard InterContinental](/hotels/1365/the-willard-intercontinental.html) (Washington D. C., District of Columbia)
+- [Hotel Zamora](/hotels/4020/hotel-zamora.html) (St Pete Beach, Florida)
 - [InterContinental Miami](/hotels/3561/intercontinental-miami.html) (Miami, Florida)
 - [Lighthouse Hotel](/hotels/4781/lighthouse-hotel.html) (Key West, Florida)
 - [InterContinental Buckhead Atlanta](/hotels/1688/intercontinental-buckhead-atlanta.html) (Atlanta, Georgia)
@@ -56,7 +56,7 @@ InterContinental Hotels & Resorts es la marca de lujo de IHG, fundada en 1946 po
 
 **México (3)**
 - [InterContinental Presidente Cancun Resort](/hotels/3589/intercontinental-presidente-cancun-resort.html) (Cancún)
-- [Intercontinental Presidente Cozumel Resort](/hotels/3590/intercontinental-presidente-cozumel-resort-.html) (Cozumel)
+- [Intercontinental Presidente Cozumel Resort](/hotels/3590/intercontinental-presidente-cozumel-resort.html) (Cozumel)
 - [Presidente InterContinental Mexico City](/hotels/2458/presidente-intercontinental-mexico-city.html) (Ciudad de México)
 
 **República Dominicana (1)**
@@ -86,7 +86,7 @@ InterContinental Hotels & Resorts es la marca de lujo de IHG, fundada en 1946 po
 - [Intercontinental Lyon](/hotels/4092/intercontinental-lyon.html) (Lyon)
 - [InterContinental Marseille - Hotel Dieu](/hotels/2731/intercontinental-marseille-hotel-dieu.html) (Marsella)
 - [Intercontinental Paris - Avenue Marceau](/hotels/3541/intercontinental-paris-avenue-marceau.html) (París)
-- [InterContinental Paris Le Grand Hotel](/hotels/1359/intercontinental-paris-le-grand-hotel-.html) (París)
+- [InterContinental Paris Le Grand Hotel](/hotels/1359/intercontinental-paris-le-grand-hotel.html) (París)
 
 **Alemania (1)**
 - [InterContinental Duesseldorf](/hotels/3543/intercontinental-duesseldorf.html) (Düsseldorf)
@@ -120,14 +120,14 @@ InterContinental Hotels & Resorts es la marca de lujo de IHG, fundada en 1946 po
 - [InterContinental Madrid](/hotels/1383/intercontinental-madrid.html) (Madrid)
 
 **Suiza (2)**
-- [Alpengold Hotel Davos](/hotels/3980/alpengold-hotel-davos-.html) (Davos)
-- [InterContinental Geneve](/hotels/3981/intercontinental-geneve-.html) (Ginebra)
+- [Alpengold Hotel Davos](/hotels/3980/alpengold-hotel-davos.html) (Davos)
+- [InterContinental Geneve](/hotels/3981/intercontinental-geneve.html) (Ginebra)
 
 **Ucrania (1)**
 - [InterContinental Kyiv](/hotels/3520/intercontinental-kyiv.html) (Kiev)
 
 **Reino Unido (2)**
-- [InterContinental London Park Lane](/hotels/3983/intercontinental-london-park-lane-.html) (Londres)
+- [InterContinental London Park Lane](/hotels/3983/intercontinental-london-park-lane.html) (Londres)
 - [Nomad London](/hotels/6734/nomad-london.html) (Londres)
 
 ### Oriente Medio y norte de África
@@ -142,7 +142,7 @@ InterContinental Hotels & Resorts es la marca de lujo de IHG, fundada en 1946 po
 - [David InterContinental Tel Aviv](/hotels/2032/david-intercontinental-tel-aviv.html) (Tel Aviv)
 
 **Jordania (1)**
-- [InterContinental Jordan](/hotels/3998/intercontinental-jordan-.html) (Ammán)
+- [InterContinental Jordan](/hotels/3998/intercontinental-jordan.html) (Ammán)
 
 **Omán (1)**
 - [InterContinental Muscat](/hotels/4797/intercontinental-muscat.html) (Muscat)
@@ -156,9 +156,9 @@ InterContinental Hotels & Resorts es la marca de lujo de IHG, fundada en 1946 po
 
 **Emiratos Árabes Unidos (5)**
 - [InterContinental Dubai Festival City](/hotels/6818/intercontinental-dubai-festival-city.html) (Dubái)
-- [InterContinental Dubai Marina](/hotels/4003/intercontinental-dubai-marina-.html) (Dubái)
+- [InterContinental Dubai Marina](/hotels/4003/intercontinental-dubai-marina.html) (Dubái)
 - [InterContinental Fujairah Resort](/hotels/4004/intercontinental-fujairah-resort.html) (Al-Fujairah)
-- [InterContinental Hotel Festival City](/hotels/4002/intercontinental-hotel-festival-city-.html) (Dubái)
+- [InterContinental Hotel Festival City](/hotels/4002/intercontinental-hotel-festival-city.html) (Dubái)
 - [InterContinental Ras Al Khaimah Mina Al Arab Resort & Spa](/hotels/5045/intercontinental-ras-al-khaimah-mina-al-arab-resort-spa.html) (Ras Al Khaimah)
 
 ### Asia
@@ -167,22 +167,22 @@ InterContinental Hotels & Resorts es la marca de lujo de IHG, fundada en 1946 po
 - [InterContinental Dhaka](/hotels/4785/intercontinental-dhaka.html) (Dhaka)
 
 **China (12)**
-- [InterContinental Beijing Sanlitun](/hotels/4005/intercontinental-beijing-sanlitun-.html) (Pekín)
-- [InterContinental Century City Chengdu](/hotels/4007/intercontinental-century-city-chengdu-.html) (Chengdu)
-- [InterContinental Changsha](/hotels/4008/intercontinental-changsha-.html) (Changsha)
-- [InterContinental Chengdu Global Center](/hotels/4006/intercontinental-chengdu-global-center-.html) (Chengdu)
+- [InterContinental Beijing Sanlitun](/hotels/4005/intercontinental-beijing-sanlitun.html) (Pekín)
+- [InterContinental Century City Chengdu](/hotels/4007/intercontinental-century-city-chengdu.html) (Chengdu)
+- [InterContinental Changsha](/hotels/4008/intercontinental-changsha.html) (Changsha)
+- [InterContinental Chengdu Global Center](/hotels/4006/intercontinental-chengdu-global-center.html) (Chengdu)
 - [InterContinental Chongqing Raffles City](/hotels/4772/intercontinental-chongqing-raffles-city.html) (Chongqing)
 - [Intercontinental Kunming](/hotels/4009/intercontinental-kunming.html) (Kunming)
 - [InterContinental Lhasa Paradise](/hotels/4793/intercontinental-lhasa-paradise.html) (Lhasa)
 - [InterContinental Nanjing](/hotels/4798/intercontinental-nanjing.html) (Nanjing)
-- [InterContinental Shanghai Puxi Hotel](/hotels/4011/intercontinental-shanghai-puxi-hotel-.html) (Shanghái)
+- [InterContinental Shanghai Puxi Hotel](/hotels/4011/intercontinental-shanghai-puxi-hotel.html) (Shanghái)
 - [InterContinental Shanghai Wonderland](/hotels/4805/intercontinental-shanghai-wonderland.html) (Shanghái)
 - [InterContinental Shenzhen](/hotels/4012/intercontinental-shenzhen.html) (Shenzhen)
 - [InterContinental Suzhou](/hotels/3521/intercontinental-suzhou.html) (Suzhou)
 
 **Indonesia (2)**
 - [InterContinental Jakarta Pondok Indah](/hotels/4791/intercontinental-jakarta-pondok-indah.html) (Jakarta)
-- [InterContinental Resort Bali](/hotels/3985/intercontinental-resort-bali-.html) (Bali)
+- [InterContinental Resort Bali](/hotels/3985/intercontinental-resort-bali.html) (Bali)
 
 **Japón (5)**
 - [InterContinental - ANA Tokyo](/hotels/3593/intercontinental-ana-tokyo.html) (Tokio)
@@ -216,14 +216,14 @@ InterContinental Hotels & Resorts es la marca de lujo de IHG, fundada en 1946 po
 - [InterContinental Hayman Island Resort](/hotels/3609/intercontinental-hayman-island-resort.html) (Hayman Island)
 - [InterContinental Perth City Centre](/hotels/3601/intercontinental-perth-city-centre.html) (Perth)
 - [InterContinental Sydney](/hotels/3624/intercontinental-sydney.html) (Sídney)
-- [InterContinental Sydney Double Bay](/hotels/3996/intercontinental-sydney-double-bay-.html) (Sídney)
+- [InterContinental Sydney Double Bay](/hotels/3996/intercontinental-sydney-double-bay.html) (Sídney)
 - [InterContinental Melbourne The Rialto](/hotels/4795/intercontinental-melbourne-the-rialto.html) (Melbourne, Virginia)
 
 **Fiyi (1)**
 - [InterContinental Fiji Golf Resort & Spa](/hotels/4788/intercontinental-fiji-golf-resort-spa.html) (Fiji)
 
 **Polinesia Francesa (Tahití) (1)**
-- [InterContinental Bora Bora & Thalasso](/hotels/1970/intercontinental-bora-bora-thalasso-.html) (Bora Bora)
+- [InterContinental Bora Bora & Thalasso](/hotels/1970/intercontinental-bora-bora-thalasso.html) (Bora Bora)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -287,6 +287,6 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles de lujo en Londres](/cities/150/london.html)
 - [Hoteles de lujo en París](/cities/207/paris.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 
 *Fuentes externas: [IHG: programa Destined](https://www.ihg.com/destined/destined-program); [Milepro: beneficios de IHG Destined](https://milepro.com/ihg-destined-benefits/). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

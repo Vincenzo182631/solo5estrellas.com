@@ -40,16 +40,16 @@ Oetker Collection es un grupo familiar de hoteles de lujo que incluye Le Bristol
 ### México, Caribe y Centroamérica
 
 **San Bartolomé (1)**
-- [Eden Rock Hotel](/hotels/1116/Eden-Rock-Hotel.html) (St. Barth)
+- [Eden Rock Hotel](/hotels/1116/eden-rock-hotel.html) (St. Barth)
 
 **Antigua (1)**
-- [Jumby Bay Island Resort](/hotels/1124/Jumby-Bay-Island-Resort.html) (St. Johns (Antigua))
+- [Jumby Bay Island Resort](/hotels/1124/jumby-bay-island-resort.html) (St. Johns (Antigua))
 
 ### Europa
 
 **Francia (2)**
-- [Chateau Saint-Martin & Spa](/hotels/1004/Chateau-Saint-Martin-Spa.html) (Vence)
-- [Le Bristol Paris](/hotels/1452/Le-Bristol-Paris.html) (París)
+- [Chateau Saint-Martin & Spa](/hotels/1004/chateau-saint-martin-spa.html) (Vence)
+- [Le Bristol Paris](/hotels/1452/le-bristol-paris.html) (París)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

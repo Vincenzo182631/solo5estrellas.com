@@ -53,10 +53,10 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Cuántas estrellas tiene?",
+          "name": "¿Dónde está?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cuatro."
+            "text": "En el bulevar Haussmann, distrito 9, cerca de la Ópera Garnier."
           }
         },
         {

@@ -57,7 +57,7 @@ JW Marriott es la marca de lujo de Marriott International, bautizada con el nomb
 - [JW Marriott Tampa Water Street](/hotels/4705/jw-marriott-tampa-water-street.html) (Tampa)
 - [JW Marriott Atlanta Buckhead](/hotels/3736/jw-marriott-atlanta-buckhead.html) (Atlanta)
 - [JW Marriott Atlanta Downtown](/hotels/7123/jw-marriott-atlanta-downtown.html) (Atlanta)
-- [JW Marriott Savannah Plant Riverside District](/hotels/4062/jw-marriott-savannah-plant-riverside-district-.html) (Savannah)
+- [JW Marriott Savannah Plant Riverside District](/hotels/4062/jw-marriott-savannah-plant-riverside-district.html) (Savannah)
 - [JW Marriott Chicago](/hotels/3734/jw-marriott-chicago.html) (Chicago)
 - [JW Marriott New Orleans](/hotels/3728/jw-marriott-new-orleans.html) (New Orleans)
 - [JW Marriott Minneapolis Mall of America](/hotels/3804/jw-marriott-minneapolis-mall-of-america.html) (Minneapolis)
@@ -137,7 +137,7 @@ JW Marriott es la marca de lujo de Marriott International, bautizada con el nomb
 ### África
 
 **Kenia (2)**
-- [JW Marriott Mount Kenya Rhino Reserve Safari Camp](/hotels/7061/-jw-marriott-mount-kenya-rhino-reserve-safari-camp.html) (Nanyuki)
+- [JW Marriott Mount Kenya Rhino Reserve Safari Camp](/hotels/7061/jw-marriott-mount-kenya-rhino-reserve-safari-camp.html) (Nanyuki)
 - [JW Marriott Hotel Nairobi](/hotels/6986/jw-marriott-hotel-nairobi.html) (Nairobi)
 
 ### Oriente Medio y norte de África
@@ -149,7 +149,7 @@ JW Marriott es la marca de lujo de Marriott International, bautizada con el nomb
 - [JW Marriott Hotel Muscat](/hotels/6873/jw-marriott-hotel-muscat.html) (Muscat)
 
 **Emiratos Árabes Unidos (2)**
-- [JW Marriott Hotel Marina](/hotels/7015/jw-marriott-hotel-marina-.html) (Dubái)
+- [JW Marriott Hotel Marina](/hotels/7015/jw-marriott-hotel-marina.html) (Dubái)
 - [JW Marriott Marquis Hotel Dubai](/hotels/3739/jw-marriott-marquis-hotel-dubai.html) (Dubái)
 
 ### Asia
@@ -161,8 +161,8 @@ JW Marriott es la marca de lujo de Marriott International, bautizada con el nomb
 - [JW Marriott Absheron Baku](/hotels/6678/jw-marriott-absheron-baku.html) (Bakú)
 
 **Maldivas (2)**
-- [JW Marriott Maldives Resort & Spa](/hotels/3890/jw-marriott-maldives-resort-spa-.html) (Maldivas)
-- [JW Marriott Resort Kaafu Atoll Island](/hotels/7031/jw-marriott-resort-kaafu-atoll-island-.html) (Maldivas)
+- [JW Marriott Maldives Resort & Spa](/hotels/3890/jw-marriott-maldives-resort-spa.html) (Maldivas)
+- [JW Marriott Resort Kaafu Atoll Island](/hotels/7031/jw-marriott-resort-kaafu-atoll-island.html) (Maldivas)
 
 **Corea del Sur (3)**
 - [JW Marriott Dongdaemun Square](/hotels/4982/jw-marriott-dongdaemun-square.html) (Seúl)

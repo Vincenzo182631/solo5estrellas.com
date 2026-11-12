@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Carmel Valley Ranch",
-          "item": "https://solo5estrellas.com/hotels/2556/Carmel-Valley-Ranch.html"
+          "item": "https://solo5estrellas.com/hotels/2556/carmel-valley-ranch.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/2556/Carmel-Valley-Ranch.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/2556/Carmel-Valley-Ranch.html",
+      "@id": "https://solo5estrellas.com/hotels/2556/carmel-valley-ranch.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2556/carmel-valley-ranch.html",
       "name": "Carmel Valley Ranch",
       "description": "Carmel Valley Ranch, resort de suites con chimenea, golf de Pete Dye y viñedo. Con Solo5Estrellas: crédito de desayuno y crédito de hotel de 100 USD.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Carmel Valley Ranch",
-      "url": "https://solo5estrellas.com/hotels/2556/Carmel-Valley-Ranch.html",
+      "url": "https://solo5estrellas.com/hotels/2556/carmel-valley-ranch.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "One Old Ranch Road",

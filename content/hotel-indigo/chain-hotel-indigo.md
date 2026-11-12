@@ -38,41 +38,41 @@ Hotel Indigo es la marca boutique de IHG, con cada hotel diseñado en torno a la
 ### Norteamérica
 
 **Estados Unidos (4)**
-- [Hotel Indigo Miami Brickell](/hotels/4820/Hotel-Indigo-Miami-Brickell.html) (Miami)
-- [Hotel Indigo Lower East Side New York](/hotels/4030/Hotel-Indigo-Lower-East-Side-New-York-.html) (Nueva York)
-- [Hotel Indigo Williamsburg](/hotels/4779/Hotel-Indigo-Williamsburg.html) (Nueva York)
-- [Hotel Indigo Spokane](/hotels/4774/Hotel-Indigo-Spokane.html) (Spokane)
+- [Hotel Indigo Miami Brickell](/hotels/4820/hotel-indigo-miami-brickell.html) (Miami)
+- [Hotel Indigo Lower East Side New York](/hotels/4030/hotel-indigo-lower-east-side-new-york.html) (Nueva York)
+- [Hotel Indigo Williamsburg](/hotels/4779/hotel-indigo-williamsburg.html) (Nueva York)
+- [Hotel Indigo Spokane](/hotels/4774/hotel-indigo-spokane.html) (Spokane)
 
 ### Europa
 
 **Italia (2)**
-- [Hotel Indigo Venice Sant Elena](/hotels/4776/Hotel-Indigo-Venice-Sant-Elena.html) (Venecia)
-- [Hotel Indigo Verona Grand Hotel](/hotels/4778/Hotel-Indigo-Verona-Grand-Hotel-.html) (Verona)
+- [Hotel Indigo Venice Sant Elena](/hotels/4776/hotel-indigo-venice-sant-elena.html) (Venecia)
+- [Hotel Indigo Verona Grand Hotel](/hotels/4778/hotel-indigo-verona-grand-hotel.html) (Verona)
 
 ### Oriente Medio y norte de África
 
 **Emiratos Árabes Unidos (1)**
-- [Hotel Indigo Dubai Downtown](/hotels/4762/Hotel-Indigo-Dubai-Downtown.html) (Dubái)
+- [Hotel Indigo Dubai Downtown](/hotels/4762/hotel-indigo-dubai-downtown.html) (Dubái)
 
 ### Asia
 
 **China (2)**
-- [Hotel Indigo Shanghai on the Bund](/hotels/4028/Hotel-Indigo-Shanghai-on-the-Bund-.html) (Shanghái)
-- [Hotel Indigo Xiamen Harbour](/hotels/4780/Hotel-Indigo-Xiamen-Harbour.html) (Xiamen)
+- [Hotel Indigo Shanghai on the Bund](/hotels/4028/hotel-indigo-shanghai-on-the-bund.html) (Shanghái)
+- [Hotel Indigo Xiamen Harbour](/hotels/4780/hotel-indigo-xiamen-harbour.html) (Xiamen)
 
 **Indonesia (1)**
-- [Hotel Indigo Bali Seminyak Beach](/hotels/4031/Hotel-Indigo-Bali-Seminyak-Beach-.html) (Seminyak)
+- [Hotel Indigo Bali Seminyak Beach](/hotels/4031/hotel-indigo-bali-seminyak-beach.html) (Seminyak)
 
 **Japón (1)**
-- [Hotel Indigo Hakone Gora](/hotels/4763/Hotel-Indigo-Hakone-Gora.html) (Hakone)
+- [Hotel Indigo Hakone Gora](/hotels/4763/hotel-indigo-hakone-gora.html) (Hakone)
 
 **Tailandia (1)**
-- [Hotel Indigo Bangkok Wireless Road](/hotels/4761/Hotel-Indigo-Bangkok-Wireless-Road.html) (Bangkok)
+- [Hotel Indigo Bangkok Wireless Road](/hotels/4761/hotel-indigo-bangkok-wireless-road.html) (Bangkok)
 
 ### Oceanía y Pacífico
 
 **Australia (1)**
-- [Hotel Indigo Adelaide Markets](/hotels/4760/Hotel-Indigo-Adelaide-Markets.html) (Adelaide)
+- [Hotel Indigo Adelaide Markets](/hotels/4760/hotel-indigo-adelaide-markets.html) (Adelaide)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

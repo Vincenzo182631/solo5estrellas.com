@@ -50,89 +50,89 @@ Los 2 hoteles restantes no tienen una marca o colección asociada en la lista.
 ## Los 103 hoteles de África por país
 
 **Marruecos (22)**
-- Agadir: [Sofitel Agadir Thalassa Sea & Spa](/hotels/6952/sofitel_agadir_thalassa_sea_&_spa.html)
-- Casablanca: [Four Seasons Hotel Casablanca](/hotels/3040/four_seasons_hotel_casablanca.html); [Sofitel Casablanca Tour Blanche](/hotels/6133/sofitel_casablanca_tour_blanche.html)
-- El Jadida: [Mazagan Beach & Golf Resort](/hotels/2552/mazagan_beach_&_golf_resort.html)
-- Fez: [Hotel Sahrai](/hotels/4468/hotel_sahrai.html); [Palais Jamai](/hotels/7161/palais_jamai.html)
-- Marrakech: [Fairmont Royal Palm Marrakech](/hotels/4886/fairmont_royal_palm_marrakech_.html); [Four Seasons Hotel Marrakech](/hotels/2492/four_seasons_hotel_marrakech.html); [Ksar Char-Bagh](/hotels/4469/ksar_char-bagh.html); [La Mamounia](/hotels/1043/la_mamounia.html); [Mandarin Oriental, Marrakech](/hotels/6194/mandarin_oriental,_marrakech.html); [Nobu Hotel Marrakech](/hotels/6377/nobu_hotel_marrakech.html); [Royal Mansour Marrakech](/hotels/2378/royal_mansour_marrakech_.html); [Sofitel Marrakech Palais Imperial & Spa](/hotels/2179/sofitel_marrakech_palais_imperial_&_spa.html); [The Oberoi Marrakech](/hotels/4822/the_oberoi_marrakech.html)
-- Rabat: [Conrad Rabat Arzana](/hotels/6326/conrad_rabat_arzana.html); [Fairmont La Marina Rabat Sale](/hotels/6616/fairmont_la_marina_rabat_sale.html); [Four Seasons Rabat at Kasr Al Bahr](/hotels/6553/four_seasons_rabat_at_kasr_al_bahr.html); [Sofitel Rabat Jardin des Roses](/hotels/4893/sofitel_rabat_jardin_des_roses_.html)
-- Taghazout: [Fairmont Taghazout Bay](/hotels/4884/fairmont_taghazout_bay.html)
-- Tamuda Bay: [St. Regis La Bahia Blanca Resort, Tamuda Bay](/hotels/6503/st._regis_la_bahia_blanca_resort,_tamuda_bay.html)
-- Tangier: [Fairmont Tazi Palace Tangier](/hotels/6610/fairmont_tazi_palace_tangier.html)
+- Agadir: [Sofitel Agadir Thalassa Sea & Spa](/hotels/6952/sofitel-agadir-thalassa-sea-spa.html)
+- Casablanca: [Four Seasons Hotel Casablanca](/hotels/3040/four-seasons-hotel-casablanca.html); [Sofitel Casablanca Tour Blanche](/hotels/6133/sofitel-casablanca-tour-blanche.html)
+- El Jadida: [Mazagan Beach & Golf Resort](/hotels/2552/mazagan-beach-golf-resort.html)
+- Fez: [Hotel Sahrai](/hotels/4468/hotel-sahrai.html); [Palais Jamai](/hotels/7161/palais-jamai.html)
+- Marrakech: [Fairmont Royal Palm Marrakech](/hotels/4886/fairmont-royal-palm-marrakech.html); [Four Seasons Hotel Marrakech](/hotels/2492/four-seasons-hotel-marrakech.html); [Ksar Char-Bagh](/hotels/4469/ksar-char-bagh.html); [La Mamounia](/hotels/1043/la-mamounia.html); [Mandarin Oriental, Marrakech](/hotels/6194/mandarin-oriental-marrakech.html); [Nobu Hotel Marrakech](/hotels/6377/nobu-hotel-marrakech.html); [Royal Mansour Marrakech](/hotels/2378/royal-mansour-marrakech.html); [Sofitel Marrakech Palais Imperial & Spa](/hotels/2179/sofitel-marrakech-palais-imperial-spa.html); [The Oberoi Marrakech](/hotels/4822/the-oberoi-marrakech.html)
+- Rabat: [Conrad Rabat Arzana](/hotels/6326/conrad-rabat-arzana.html); [Fairmont La Marina Rabat Sale](/hotels/6616/fairmont-la-marina-rabat-sale.html); [Four Seasons Rabat at Kasr Al Bahr](/hotels/6553/four-seasons-rabat-at-kasr-al-bahr.html); [Sofitel Rabat Jardin des Roses](/hotels/4893/sofitel-rabat-jardin-des-roses.html)
+- Taghazout: [Fairmont Taghazout Bay](/hotels/4884/fairmont-taghazout-bay.html)
+- Tamuda Bay: [St. Regis La Bahia Blanca Resort, Tamuda Bay](/hotels/6503/st-regis-la-bahia-blanca-resort-tamuda-bay.html)
+- Tangier: [Fairmont Tazi Palace Tangier](/hotels/6610/fairmont-tazi-palace-tangier.html)
 
 **Sudáfrica (19)**
-- Ciudad del Cabo: [Belmond Mount Nelson Hotel](/hotels/945/belmond_mount_nelson_hotel.html); [Cape Cadogan Boutique Hotel](/hotels/2948/cape_cadogan_boutique_hotel.html); [Erinvale Estate Hotel and Spa](/hotels/4548/erinvale_estate_hotel_and_spa.html); [Hyatt Regency Cape Town](/hotels/6523/hyatt_regency_cape_town.html); [Last Word Constantia](/hotels/4549/last_word_constantia.html); [One&Only Cape Town](/hotels/2290/one&only_cape_town_.html); [Taj Cape Town](/hotels/2887/taj_cape_town.html); [The Silo Cape Town](/hotels/3210/the_silo_cape_town.html); [The Twelve Apostles Hotel & Spa](/hotels/1562/the_twelve_apostles_hotel_&_spa.html)
-- Franschhoek: [Mont Rochelle Hotel](/hotels/3208/mont_rochelle_hotel.html)
-- Hermanus: [The Marine Hermanus](/hotels/4465/the_marine_hermanus.html)
-- Hoedspruit: [Royal Malewane, An All-Inclusive Resort](/hotels/1524/royal_malewane,_an_all-inclusive_resort_.html)
-- Johannesburg: [Johannesburg Marriott Hotel Melrose Arch](/hotels/7093/johannesburg_marriott_hotel_melrose_arch.html); [Park Hyatt Johannesburg](/hotels/6772/park_hyatt_johannesburg.html); [Saxon Hotel, Villas & Spa](/hotels/2493/saxon_hotel,_villas_&_spa_.html); [The Westcliff, Four Seasons Hotel Johannesburg](/hotels/2889/the_westcliff,_four_seasons_hotel_johannesburg____________________________________________________________________________________________________________________________.html)
-- Kruger National Park: [Ulusaba Private Game Reserve](/hotels/1120/ulusaba_private_game_reserve.html)
-- Mpumalanga: [Savanna Private Game](/hotels/2239/savanna_private_game_.html)
-- Zululand: [andBEYOND Phinda Private Game](/hotels/1224/andbeyond_phinda_private_game.html)
+- Ciudad del Cabo: [Belmond Mount Nelson Hotel](/hotels/945/belmond-mount-nelson-hotel.html); [Cape Cadogan Boutique Hotel](/hotels/2948/cape-cadogan-boutique-hotel.html); [Erinvale Estate Hotel and Spa](/hotels/4548/erinvale-estate-hotel-and-spa.html); [Hyatt Regency Cape Town](/hotels/6523/hyatt-regency-cape-town.html); [Last Word Constantia](/hotels/4549/last-word-constantia.html); [One&Only Cape Town](/hotels/2290/one-only-cape-town.html); [Taj Cape Town](/hotels/2887/taj-cape-town.html); [The Silo Cape Town](/hotels/3210/the-silo-cape-town.html); [The Twelve Apostles Hotel & Spa](/hotels/1562/the-twelve-apostles-hotel-spa.html)
+- Franschhoek: [Mont Rochelle Hotel](/hotels/3208/mont-rochelle-hotel.html)
+- Hermanus: [The Marine Hermanus](/hotels/4465/the-marine-hermanus.html)
+- Hoedspruit: [Royal Malewane, An All-Inclusive Resort](/hotels/1524/royal-malewane-an-all-inclusive-resort.html)
+- Johannesburg: [Johannesburg Marriott Hotel Melrose Arch](/hotels/7093/johannesburg-marriott-hotel-melrose-arch.html); [Park Hyatt Johannesburg](/hotels/6772/park-hyatt-johannesburg.html); [Saxon Hotel, Villas & Spa](/hotels/2493/saxon-hotel-villas-spa.html); [The Westcliff, Four Seasons Hotel Johannesburg](/hotels/2889/the-westcliff-four-seasons-hotel-johannesburg.html)
+- Kruger National Park: [Ulusaba Private Game Reserve](/hotels/1120/ulusaba-private-game-reserve.html)
+- Mpumalanga: [Savanna Private Game](/hotels/2239/savanna-private-game.html)
+- Zululand: [andBEYOND Phinda Private Game](/hotels/1224/andbeyond-phinda-private-game.html)
 
 **Kenia (11)**
-- Malindi: [Diamonds Dream of Africa](/hotels/4486/diamonds_dream_of_africa.html)
-- Masai Mara: [Fairmont Mara Safari Club](/hotels/2373/fairmont_mara_safari_club.html); [Mahali Mzuri Safari Camp](/hotels/3551/mahali_mzuri_safari_camp.html); [Ritz-Carlton, Masai Mara Safari Camp](/hotels/7007/ritz-carlton,_masai_mara_safari_camp.html)
-- Nairobi: [Fairmont The Norfolk](/hotels/2375/fairmont_the_norfolk_.html); [Hemingways Nairobi](/hotels/6073/hemingways_nairobi.html); [JW Marriott Hotel Nairobi](/hotels/6986/jw_marriott_hotel_nairobi.html); [Karen Blixen Camp](/hotels/3311/karen_blixen_camp.html); [Sankara Nairobi, Autograph Collection](/hotels/7024/sankara_nairobi,_autograph_collection.html)
-- Nanyuki: [Fairmont Mount Kenya Safari Club](/hotels/2376/fairmont_mount_kenya_safari_club__.html); [JW Marriott Mount Kenya Rhino Reserve Safari Camp](/hotels/7061/_jw_marriott_mount_kenya_rhino_reserve_safari_camp.html)
+- Malindi: [Diamonds Dream of Africa](/hotels/4486/diamonds-dream-of-africa.html)
+- Masai Mara: [Fairmont Mara Safari Club](/hotels/2373/fairmont-mara-safari-club.html); [Mahali Mzuri Safari Camp](/hotels/3551/mahali-mzuri-safari-camp.html); [Ritz-Carlton, Masai Mara Safari Camp](/hotels/7007/ritz-carlton-masai-mara-safari-camp.html)
+- Nairobi: [Fairmont The Norfolk](/hotels/2375/fairmont-the-norfolk.html); [Hemingways Nairobi](/hotels/6073/hemingways-nairobi.html); [JW Marriott Hotel Nairobi](/hotels/6986/jw-marriott-hotel-nairobi.html); [Karen Blixen Camp](/hotels/3311/karen-blixen-camp.html); [Sankara Nairobi, Autograph Collection](/hotels/7024/sankara-nairobi-autograph-collection.html)
+- Nanyuki: [Fairmont Mount Kenya Safari Club](/hotels/2376/fairmont-mount-kenya-safari-club.html); [JW Marriott Mount Kenya Rhino Reserve Safari Camp](/hotels/7061/jw-marriott-mount-kenya-rhino-reserve-safari-camp.html)
 
 **Egipto (10)**
-- Alexandria, Egipto: [Four Seasons Hotel Alexandria](/hotels/1840/four_seasons_hotel_alexandria.html)
-- Aswan: [Sofitel Legend Old Cataract Aswan](/hotels/2548/sofitel_legend_old_cataract_aswan_.html)
-- El Cairo: [Fairmont Nile City Hotel](/hotels/6131/fairmont_nile_city_hotel.html); [Four Seasons Cairo at The First Residence](/hotels/1137/four_seasons_cairo_at_the_first_residence.html); [Four Seasons Hotel Cairo at Nile Plaza](/hotels/1410/four_seasons_hotel_cairo_at_nile_plaza.html); [JW Marriott Hotel Cairo](/hotels/4983/jw_marriott_hotel_cairo.html); [Renaissance Cairo Mirage City Hotel](/hotels/6922/renaissance_cairo_mirage_city_hotel.html); [The Nile Ritz Carlton, Cairo](/hotels/3218/the_nile_ritz_carlton,_cairo.html); [The Westin Cairo Golf Resort & Spa, Katameya Dunes](/hotels/6921/the_westin_cairo_golf_resort_&_spa,_katameya_dunes.html)
-- Sharm El Sheikh: [Four Seasons Resort Sharm El Sheikh](/hotels/1846/four_seasons_resort_sharm_el_sheikh.html)
+- Alexandria, Egipto: [Four Seasons Hotel Alexandria](/hotels/1840/four-seasons-hotel-alexandria.html)
+- Aswan: [Sofitel Legend Old Cataract Aswan](/hotels/2548/sofitel-legend-old-cataract-aswan.html)
+- El Cairo: [Fairmont Nile City Hotel](/hotels/6131/fairmont-nile-city-hotel.html); [Four Seasons Cairo at The First Residence](/hotels/1137/four-seasons-cairo-at-the-first-residence.html); [Four Seasons Hotel Cairo at Nile Plaza](/hotels/1410/four-seasons-hotel-cairo-at-nile-plaza.html); [JW Marriott Hotel Cairo](/hotels/4983/jw-marriott-hotel-cairo.html); [Renaissance Cairo Mirage City Hotel](/hotels/6922/renaissance-cairo-mirage-city-hotel.html); [The Nile Ritz Carlton, Cairo](/hotels/3218/the-nile-ritz-carlton-cairo.html); [The Westin Cairo Golf Resort & Spa, Katameya Dunes](/hotels/6921/the-westin-cairo-golf-resort-spa-katameya-dunes.html)
+- Sharm El Sheikh: [Four Seasons Resort Sharm El Sheikh](/hotels/1846/four-seasons-resort-sharm-el-sheikh.html)
 
 **Tanzania (10)**
-- Sin ciudad indicada: [Hyatt Regency Dar es Salaam, The Kilimanjaro](/hotels/3653/hyatt_regency_dar_es_salaam,_the_kilimanjaro.html)
-- Arusha: [Gran Melia Arusha](/hotels/4260/gran_melia_arusha.html)
-- Ngorongoro: [Elewana The Manor at Ngorongoro](/hotels/3568/elewana_the_manor_at_ngorongoro.html)
-- Paje: [Amani Boutique Hotel](/hotels/4449/amani_boutique_hotel.html)
-- Serengeti: [Four Seasons Safari Lodge Serengeti](/hotels/2682/four_seasons_safari_lodge_serengeti.html); [Meliá Serengeti Lodge](/hotels/4237/meliá_serengeti_lodge.html); [Singita Faru Faru Lodge](/hotels/6655/singita_faru_faru_lodge.html); [Singita Sabora Tented Camp](/hotels/1924/singita_sabora_tented_camp.html); [Singita Sasakwa Lodge](/hotels/6654/singita_sasakwa_lodge.html)
-- Stone Town: [Park Hyatt Zanzibar](/hotels/3445/park_hyatt_zanzibar.html)
+- Sin ciudad indicada: [Hyatt Regency Dar es Salaam, The Kilimanjaro](/hotels/3653/hyatt-regency-dar-es-salaam-the-kilimanjaro.html)
+- Arusha: [Gran Melia Arusha](/hotels/4260/gran-melia-arusha.html)
+- Ngorongoro: [Elewana The Manor at Ngorongoro](/hotels/3568/elewana-the-manor-at-ngorongoro.html)
+- Paje: [Amani Boutique Hotel](/hotels/4449/amani-boutique-hotel.html)
+- Serengeti: [Four Seasons Safari Lodge Serengeti](/hotels/2682/four-seasons-safari-lodge-serengeti.html); [Meliá Serengeti Lodge](/hotels/4237/melia-serengeti-lodge.html); [Singita Faru Faru Lodge](/hotels/6655/singita-faru-faru-lodge.html); [Singita Sabora Tented Camp](/hotels/1924/singita-sabora-tented-camp.html); [Singita Sasakwa Lodge](/hotels/6654/singita-sasakwa-lodge.html)
+- Stone Town: [Park Hyatt Zanzibar](/hotels/3445/park-hyatt-zanzibar.html)
 
 **Mauricio (6)**
-- Mauricio: [Four Seasons Resort Mauritius](/hotels/2281/four_seasons_resort_mauritius.html); [Heritage Le Telfair Golf & Wellness Resort](/hotels/4287/heritage_le_telfair_golf_&_wellness_resort.html); [Le Méridien Ile Maurice](/hotels/6723/le_méridien_ile_maurice.html); [Paradise Cove Boutique Hotel](/hotels/4289/paradise_cove_boutique_hotel.html); [Shangri-La's Le Touessrok Resort & Spa, Mauritius](/hotels/3087/shangri-la's_le_touessrok_resort_&_spa,_mauritius.html); [St. Regis Le Morne Resort](/hotels/6867/_st._regis_le_morne_resort.html)
+- Mauricio: [Four Seasons Resort Mauritius](/hotels/2281/four-seasons-resort-mauritius.html); [Heritage Le Telfair Golf & Wellness Resort](/hotels/4287/heritage-le-telfair-golf-wellness-resort.html); [Le Méridien Ile Maurice](/hotels/6723/le-meridien-ile-maurice.html); [Paradise Cove Boutique Hotel](/hotels/4289/paradise-cove-boutique-hotel.html); [Shangri-La's Le Touessrok Resort & Spa, Mauritius](/hotels/3087/shangri-la-s-le-touessrok-resort-spa-mauritius.html); [St. Regis Le Morne Resort](/hotels/6867/st-regis-le-morne-resort.html)
 
 **Seychelles (5)**
-- Seychelles: [Four Seasons Resort Seychelles](/hotels/2287/four_seasons_resort_seychelles.html); [Four Seasons Resort Seychelles at Desroches Island](/hotels/3289/four_seasons_resort_seychelles_at_desroches_island.html); [Mango House Seychelles](/hotels/4651/mango_house_seychelles.html); [North Island, a Luxury Collection Resort, Seychelles](/hotels/4045/north_island,_a_luxury_collection_resort,_seychelles.html); [Raffles Seychelles](/hotels/4898/raffles_seychelles.html)
+- Seychelles: [Four Seasons Resort Seychelles](/hotels/2287/four-seasons-resort-seychelles.html); [Four Seasons Resort Seychelles at Desroches Island](/hotels/3289/four-seasons-resort-seychelles-at-desroches-island.html); [Mango House Seychelles](/hotels/4651/mango-house-seychelles.html); [North Island, a Luxury Collection Resort, Seychelles](/hotels/4045/north-island-a-luxury-collection-resort-seychelles.html); [Raffles Seychelles](/hotels/4898/raffles-seychelles.html)
 
 **Jordania (4)**
-- Amán: [The St. Regis Amman](/hotels/3885/the_st._regis_amman.html)
-- Aqaba: [Al Manara](/hotels/3863/al_manara.html); [Hyatt Regency Aqaba Ayla](/hotels/4204/hyatt_regency_aqaba_ayla.html)
-- Suweima: [Dead Sea Marriott Resort & Spa](/hotels/3755/dead_sea_marriott_resort_&_spa.html)
+- Amán: [The St. Regis Amman](/hotels/3885/the-st-regis-amman.html)
+- Aqaba: [Al Manara](/hotels/3863/al-manara.html); [Hyatt Regency Aqaba Ayla](/hotels/4204/hyatt-regency-aqaba-ayla.html)
+- Suweima: [Dead Sea Marriott Resort & Spa](/hotels/3755/dead-sea-marriott-resort-spa.html)
 
 **Botsuana (3)**
-- Khwai River: [Belmond Khwai River Lodge](/hotels/1676/belmond_khwai_river_lodge.html)
-- Makgadikgadi Pans: [Jack's Camp](/hotels/4270/jack's_camp.html)
-- Maun: [Belmond Savute Elephant Lodge](/hotels/2463/belmond_savute_elephant_lodge.html)
+- Khwai River: [Belmond Khwai River Lodge](/hotels/1676/belmond-khwai-river-lodge.html)
+- Makgadikgadi Pans: [Jack's Camp](/hotels/4270/jack-s-camp.html)
+- Maun: [Belmond Savute Elephant Lodge](/hotels/2463/belmond-savute-elephant-lodge.html)
 
 **Túnez (3)**
-- Carthage: [Maison Dedine](/hotels/6171/maison_dedine.html)
-- Sousse: [Movenpick Resort And Marine Spa Sousse](/hotels/4901/movenpick_resort_and_marine_spa_sousse.html)
-- Túnez: [Four Seasons Hotel Tunis](/hotels/3273/four_seasons_hotel_tunis.html)
+- Carthage: [Maison Dedine](/hotels/6171/maison-dedine.html)
+- Sousse: [Movenpick Resort And Marine Spa Sousse](/hotels/4901/movenpick-resort-and-marine-spa-sousse.html)
+- Túnez: [Four Seasons Hotel Tunis](/hotels/3273/four-seasons-hotel-tunis.html)
 
 **Etiopía (2)**
-- Addis Ababa: [Hyatt Regency Addis Ababa](/hotels/4631/hyatt_regency_addis_ababa.html); [Sheraton Addis](/hotels/2818/sheraton_addis.html)
+- Addis Ababa: [Hyatt Regency Addis Ababa](/hotels/4631/hyatt-regency-addis-ababa.html); [Sheraton Addis](/hotels/2818/sheraton-addis.html)
 
 **Namibia (2)**
-- Sin ciudad indicada: [Habitas Namibia](/hotels/6345/habitas_namibia.html)
-- Kulala Wilderness Reserve: [Little Kulala](/hotels/2851/little_kulala.html)
+- Sin ciudad indicada: [Habitas Namibia](/hotels/6345/habitas-namibia.html)
+- Kulala Wilderness Reserve: [Little Kulala](/hotels/2851/little-kulala.html)
 
 **Ruanda (2)**
-- Kigali: [One & Only Gorilla's Nest](/hotels/4610/one_&_only_gorilla's_nest.html)
-- Nyungwe: [One&Only Nyungwe House](/hotels/4271/one&only_nyungwe_house.html)
+- Kigali: [One & Only Gorilla's Nest](/hotels/4610/one-only-gorilla-s-nest.html)
+- Nyungwe: [One&Only Nyungwe House](/hotels/4271/one-only-nyungwe-house.html)
 
 **Mozambique (1)**
-- Bazaruto: [Anantara Bazaruto Island Resort](/hotels/5047/anantara_bazaruto_island_resort.html)
+- Bazaruto: [Anantara Bazaruto Island Resort](/hotels/5047/anantara-bazaruto-island-resort.html)
 
 **República del Congo (1)**
-- Brazzaville: [Kempinski Hotel Brazzaville](/hotels/7066/kempinski_hotel_brazzaville_.html)
+- Brazzaville: [Kempinski Hotel Brazzaville](/hotels/7066/kempinski-hotel-brazzaville.html)
 
 **Zambia (1)**
-- Livingstone: [The Royal Livingstone Hotel Victoria Falls Zambia by Anantara](/hotels/1708/the_royal_livingstone_hotel_victoria_falls_zambia_by_anantara.html)
+- Livingstone: [The Royal Livingstone Hotel Victoria Falls Zambia by Anantara](/hotels/1708/the-royal-livingstone-hotel-victoria-falls-zambia-by-anantara.html)
 
 **Zimbabue (1)**
-- Victoria Falls: [Anantara Stanley and Livingstone Victoria Falls Hotel](/hotels/7052/anantara_stanley_and_livingstone_victoria_falls_hotel.html)
+- Victoria Falls: [Anantara Stanley and Livingstone Victoria Falls Hotel](/hotels/7052/anantara-stanley-and-livingstone-victoria-falls-hotel.html)
 
 ## Preguntas frecuentes sobre hoteles en África
 
@@ -163,9 +163,9 @@ Debajo, agrupada por país y ciudad. Los nombres de los hoteles no se traducen.
 ## Siga explorando
 
 - [Hoteles de lujo en Europa](/regions/8/europe.html)
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
-- [Hoteles de lujo en Norteamérica](/regions/10/north_america.html)
-- [Hoteles de lujo en Sudamérica](/regions/13/south_america.html)
-- [Hoteles de lujo en Oriente Medio](/regions/18/middle_east.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
+- [Hoteles de lujo en Norteamérica](/regions/10/north-america.html)
+- [Hoteles de lujo en Sudamérica](/regions/13/south-america.html)
+- [Hoteles de lujo en Oriente Medio](/regions/18/middle-east.html)
 
 *Fuente: lista de hoteles de la página en vivo. Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

@@ -22,7 +22,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ar
 
 ## El hotel de Armenia
 
-- Yerevan: [The Alexander, A luxury Collection Hotel](/hotels/3540/the-alexander-a-luxury-collection-hotel-.html)
+- Yerevan: [The Alexander, A luxury Collection Hotel](/hotels/3540/the-alexander-a-luxury-collection-hotel.html)
 
 ## Preguntas frecuentes sobre hoteles en Armenia
 
@@ -52,7 +52,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles The Luxury Collection](/collection/51/)
 
 *Fuente: lista de hoteles de la página en vivo. Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

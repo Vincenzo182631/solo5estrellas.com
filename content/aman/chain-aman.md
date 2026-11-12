@@ -147,6 +147,6 @@ Amanpuri, en Phuket (Tailandia), que abrió en 1988. Se puede reservar con las v
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles Ritz-Carlton](/chains/13/ritz_carlton.html)
 - [Hoteles de lujo en Islas Turcas y Caicos](/countries/64/)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 
 *Fuentes externas: [Aman Club: información para socios fundadores](https://www.aman.com/sites/default/files/2023-08/Aman_Club_Founder_Information_2023.pdf); [One Mile at a Time: Aman Resorts](https://onemileatatime.com/guides/aman-resorts). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

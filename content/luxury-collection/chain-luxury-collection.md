@@ -43,8 +43,8 @@ The Luxury Collection es el portafolio de hoteles de lujo de Marriott Internatio
 - [The Canyon Suites at The Phoenician](/hotels/2395/the-canyon-suites-at-the-phoenician.html) (Scottsdale)
 - [The Phoenician](/hotels/2816/the-phoenician.html) (Scottsdale)
 - [Palace Hotel, San Francisco](/hotels/2793/palace-hotel-san-francisco.html) (San Francisco)
-- [THE US GRANT](/hotels/1757/the-us-grant-.html) (San Diego)
-- [Hotel Clio, A Luxury Collection Hotel, Denver Cherry Creek](/hotels/6200/hotel-clio-a-luxury-collection-hotel-denver-cherry-creek-.html) (Denver)
+- [THE US GRANT](/hotels/1757/the-us-grant.html) (San Diego)
+- [Hotel Clio, A Luxury Collection Hotel, Denver Cherry Creek](/hotels/6200/hotel-clio-a-luxury-collection-hotel-denver-cherry-creek.html) (Denver)
 - [St Regis Residence Club, Aspen](/hotels/2835/st-regis-residence-club-aspen.html) (Aspen)
 - [The Hythe , A Luxury Collection Resort](/hotels/6981/the-hythe-a-luxury-collection-resort.html) (Vail)
 - [Sea Oats Private Estate](/hotels/4178/sea-oats-private-estate.html) (Captiva Island)
@@ -55,9 +55,9 @@ The Luxury Collection es el portafolio de hoteles de lujo de Marriott Internatio
 - [The GWEN](/hotels/3042/the-gwen.html) (Chicago)
 - [The Liberty](/hotels/2806/the-liberty.html) (Boston)
 - [Hotel Ivy, a Luxury Collection Hotel, Minneapolis](/hotels/2219/hotel-ivy-a-luxury-collection-hotel-minneapolis.html) (Minneapolis)
-- [The Chatwal, New York](/hotels/2791/the-chatwal-new-york-.html) (Nueva York)
+- [The Chatwal, New York](/hotels/2791/the-chatwal-new-york.html) (Nueva York)
 - [The London, New York City](/hotels/2006/the-london-new-york-city.html) (Nueva York)
-- [The Ballantyne](/hotels/1547/the-ballantyne-.html) (Charlotte)
+- [The Ballantyne](/hotels/1547/the-ballantyne.html) (Charlotte)
 - [The Nines](/hotels/2305/the-nines.html) (Portland)
 - [The Joseph Nashville](/hotels/4251/the-joseph-nashville.html) (Nashville)
 - [The St. Anthony](/hotels/2978/the-st-anthony.html) (San Antonio)
@@ -72,7 +72,7 @@ The Luxury Collection es el portafolio de hoteles de lujo de Marriott Internatio
 - [The Santa Maria Hotel & Golf Resort](/hotels/3526/the-santa-maria-hotel-golf-resort.html) (Ciudad de Panamá)
 
 **Islas Turcas y Caicos (1)**
-- [Salterra, a Luxury Collection Resort](/hotels/6684/salterra-a-luxury-collection-resort-.html) (Islas Turcas y Caicos)
+- [Salterra, a Luxury Collection Resort](/hotels/6684/salterra-a-luxury-collection-resort.html) (Islas Turcas y Caicos)
 
 **México (2)**
 - [Las Alcobas Mexico City](/hotels/2452/las-alcobas-mexico-city.html) (Ciudad de México)
@@ -187,12 +187,12 @@ The Luxury Collection es el portafolio de hoteles de lujo de Marriott Internatio
 **Emiratos Árabes Unidos (3)**
 - [Ajman Saray Resort](/hotels/2847/ajman-saray-resort.html) (Ajman)
 - [Al Maha](/hotels/2817/al-maha.html) (Dubái)
-- [Grosvenor House](/hotels/1769/grosvenor-house-.html) (Dubái)
+- [Grosvenor House](/hotels/1769/grosvenor-house.html) (Dubái)
 
 ### Asia
 
 **Armenia (1)**
-- [The Alexander, A luxury Collection Hotel](/hotels/3540/the-alexander-a-luxury-collection-hotel-.html) (Yerevan)
+- [The Alexander, A luxury Collection Hotel](/hotels/3540/the-alexander-a-luxury-collection-hotel.html) (Yerevan)
 
 **Corea del Sur (1)**
 - [L’Escape, a Luxury Collection Hotel](/hotels/7111/l-escape-a-luxury-collection-hotel.html) (Seúl)

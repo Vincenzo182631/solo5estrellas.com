@@ -71,7 +71,7 @@ Le Méridien es una marca de Marriott International fundada en 1972 por Air Fran
 - [Le Méridien Visconti Rome](/hotels/6904/le-m-ridien-visconti-rome.html) (Roma)
 
 **España (1)**
-- [Le Meridien Barcelona](/hotels/2221/le-meridien-barcelona-.html) (Barcelona)
+- [Le Meridien Barcelona](/hotels/2221/le-meridien-barcelona.html) (Barcelona)
 
 ### África
 

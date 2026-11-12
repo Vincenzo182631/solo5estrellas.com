@@ -24,7 +24,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Di
 
 ## Los 5 hoteles de Dinamarca
 
-- Copenhague: [71 Nyhavn Hotel](/hotels/4090/71-nyhavn-hotel.html); [Hotel D'Angleterre Copenhagen](/hotels/3236/hotel-d-angleterre-copenhagen-.html); [Nimb Hotel](/hotels/3659/nimb-hotel.html); [Nobis Hotel Copenhagen](/hotels/3316/nobis-hotel-copenhagen.html); [Villa Copenhagen](/hotels/4530/villa-copenhagen.html)
+- Copenhague: [71 Nyhavn Hotel](/hotels/4090/71-nyhavn-hotel.html); [Hotel D'Angleterre Copenhagen](/hotels/3236/hotel-d-angleterre-copenhagen.html); [Nimb Hotel](/hotels/3659/nimb-hotel.html); [Nobis Hotel Copenhagen](/hotels/3316/nobis-hotel-copenhagen.html); [Villa Copenhagen](/hotels/4530/villa-copenhagen.html)
 
 ## Preguntas frecuentes sobre hoteles en Dinamarca
 

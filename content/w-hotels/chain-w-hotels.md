@@ -46,7 +46,7 @@ W Hotels es la marca de lujo lifestyle de Marriott International, centrada en el
 - [W San Francisco](/hotels/2839/w-san-francisco.html) (San Francisco)
 - [The Sky Residences at W Aspen](/hotels/4195/the-sky-residences-at-w-aspen.html) (Aspen)
 - [W Aspen](/hotels/4057/w-aspen.html) (Aspen)
-- [W Fort Lauderdale](/hotels/2430/w-fort-lauderdale-.html) (Fort Lauderdale)
+- [W Fort Lauderdale](/hotels/2430/w-fort-lauderdale.html) (Fort Lauderdale)
 - [W Miami](/hotels/2625/w-miami.html) (Miami)
 - [W Atlanta Midtown](/hotels/2218/w-atlanta-midtown.html) (Atlanta)
 - [W Atlanta-Downtown](/hotels/2841/w-atlanta-downtown.html) (Atlanta)
@@ -61,7 +61,7 @@ W Hotels es la marca de lujo lifestyle de Marriott International, centrada en el
 - [W Philadelphia](/hotels/5009/w-philadelphia.html) (Filadelfia)
 - [W Nashville](/hotels/4736/w-nashville.html) (Nashville)
 - [W Austin](/hotels/2559/w-austin.html) (Austin)
-- [W Dallas Victory](/hotels/2732/w-dallas-victory-.html) (Dallas)
+- [W Dallas Victory](/hotels/2732/w-dallas-victory.html) (Dallas)
 - [W Bellevue](/hotels/3880/w-bellevue.html) (Bellevue)
 - [W Seattle](/hotels/2455/w-seattle.html) (Seattle)
 
@@ -87,7 +87,7 @@ W Hotels es la marca de lujo lifestyle de Marriott International, centrada en el
 - [W Sao Paulo](/hotels/6794/w-sao-paulo.html) (São Paulo)
 
 **Chile (1)**
-- [W Santiago](/hotels/2634/w-santiago-.html) (Santiago)
+- [W Santiago](/hotels/2634/w-santiago.html) (Santiago)
 
 **Colombia (1)**
 - [W Bogota Hotel](/hotels/2973/w-bogota-hotel.html) (Bogotá)
@@ -146,7 +146,7 @@ W Hotels es la marca de lujo lifestyle de Marriott International, centrada en el
 ### Asia
 
 **Maldivas (1)**
-- [W Maldives](/hotels/2866/w-maldives-.html) (Maldivas)
+- [W Maldives](/hotels/2866/w-maldives.html) (Maldivas)
 
 **Taiwán (1)**
 - [W Taipei](/hotels/2868/w-taipei.html) (Taipei)
@@ -182,7 +182,7 @@ W Hotels es la marca de lujo lifestyle de Marriott International, centrada en el
 
 **Australia (3)**
 - [W Brisbane](/hotels/3533/w-brisbane.html) (Brisbane)
-- [W Melbourne](/hotels/5010/w-melbourne-.html) (Melbourne)
+- [W Melbourne](/hotels/5010/w-melbourne.html) (Melbourne)
 - [W Sydney](/hotels/6545/w-sydney.html) (Sídney)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
@@ -248,6 +248,6 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles Renaissance](/collection/70/)
 - [Hoteles EDITION](/collection/74/)
 - [Hoteles de lujo en Londres](/cities/150/london.html)
-- [Hoteles de lujo en Miami](/cities/168/Miami.html)
+- [Hoteles de lujo en Miami](/cities/168/miami.html)
 
 *Fuentes externas: [One Mile at a Time: Marriott STARS y Luminous](https://onemileatatime.com/guides/marriott-stars-luminous/); [Upgraded Points: Marriott STARS y Luminous](https://upgradedpoints.com/travel/hotels/marriott-stars-luminous-programs/). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

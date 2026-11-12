@@ -54,7 +54,7 @@ The Ritz-Carlton es la marca de lujo de Marriott International, con hoteles urba
 - [The Ritz-Carlton, Denver](/hotels/1858/the-ritz-carlton-denver.html) (Denver)
 - [The Ritz Carlton, Pentagon City](/hotels/1608/the-ritz-carlton-pentagon-city.html) (Washington D. C.)
 - [The Ritz-Carlton Georgetown](/hotels/1607/the-ritz-carlton-georgetown.html) (Washington D. C.)
-- [The Ritz-Carlton, Washington D.C.](/hotels/1610/the-ritz-carlton-washington-d-c-.html) (Washington D. C.)
+- [The Ritz-Carlton, Washington D.C.](/hotels/1610/the-ritz-carlton-washington-d-c.html) (Washington D. C.)
 - [Ritz Carlton Coconut Grove, Miami](/hotels/1584/ritz-carlton-coconut-grove-miami.html) (Miami)
 - [Ritz Carlton Orlando, Grande Lakes](/hotels/1286/ritz-carlton-orlando-grande-lakes.html) (Orlando and Disney World)
 - [Ritz-Carlton Naples](/hotels/1434/ritz-carlton-naples.html) (Naples FL)
@@ -62,26 +62,26 @@ The Ritz-Carlton es la marca de lujo de Marriott International, con hoteles urba
 - [The Ritz-Carlton Naples, Tiburon](/hotels/6643/the-ritz-carlton-naples-tiburon.html) (Naples FL)
 - [The Ritz-Carlton, Amelia Island](/hotels/1432/the-ritz-carlton-amelia-island.html) (Amelia Island)
 - [The Ritz-Carlton, Bal Harbour](/hotels/1954/the-ritz-carlton-bal-harbour.html) (Miami Beach)
-- [The Ritz-Carlton, Fort Lauderdale](/hotels/2401/the-ritz-carlton-fort-lauderdale-.html) (Fort Lauderdale)
+- [The Ritz-Carlton, Fort Lauderdale](/hotels/2401/the-ritz-carlton-fort-lauderdale.html) (Fort Lauderdale)
 - [The Ritz-Carlton, Key Biscayne](/hotels/1198/the-ritz-carlton-key-biscayne.html) (Miami)
 - [The Ritz-Carlton, Sarasota](/hotels/1314/the-ritz-carlton-sarasota.html) (Sarasota)
-- [The Ritz-Carlton, South Beach](/hotels/2415/the-ritz-carlton-south-beach-.html) (South Beach, Miami)
+- [The Ritz-Carlton, South Beach](/hotels/2415/the-ritz-carlton-south-beach.html) (South Beach, Miami)
 - [Ritz Carlton Atlanta](/hotels/1587/ritz-carlton-atlanta.html) (Atlanta)
 - [The Ritz-Carlton Reynolds, Lake Oconee](/hotels/3505/the-ritz-carlton-reynolds-lake-oconee.html) (Greensboro)
-- [Ritz Carlton Oahu, Turtle Bay](/hotels/2141/ritz-carlton-oahu-turtle-bay-.html) (Honolulu)
+- [Ritz Carlton Oahu, Turtle Bay](/hotels/2141/ritz-carlton-oahu-turtle-bay.html) (Honolulu)
 - [The Ritz Carlton Kapalua](/hotels/951/the-ritz-carlton-kapalua.html) (Maui)
 - [The Ritz-Carlton Residences, Waikiki Beach](/hotels/3287/the-ritz-carlton-residences-waikiki-beach.html) (Honolulu)
 - [The Ritz-Carlton, Chicago](/hotels/1843/the-ritz-carlton-chicago.html) (Chicago)
 - [The Ritz-Carlton, New Orleans](/hotels/1143/the-ritz-carlton-new-orleans.html) (New Orleans)
 - [The Ritz-Carlton, Boston Common](/hotels/1590/the-ritz-carlton-boston-common.html) (Boston)
 - [The Ritz-Carlton, St. Louis](/hotels/2928/the-ritz-carlton-st-louis.html) (St. Louis)
-- [Ritz-Carlton Central Park](/hotels/1214/ritz-carlton-central-park-.html) (Nueva York)
+- [Ritz-Carlton Central Park](/hotels/1214/ritz-carlton-central-park.html) (Nueva York)
 - [The Ritz-Carlton New York, NoMad](/hotels/6220/the-ritz-carlton-new-york-nomad.html) (Nueva York)
 - [The Ritz Carlton Charlotte](/hotels/2446/the-ritz-carlton-charlotte.html) (Charlotte)
 - [The Ritz Carlton, Cleveland](/hotels/1600/the-ritz-carlton-cleveland.html) (Cleveland)
 - [The Ritz-Carlton, Portland](/hotels/6434/the-ritz-carlton-portland.html) (Portland)
 - [The Ritz Carlton Philadelphia](/hotels/1601/the-ritz-carlton-philadelphia.html) (Filadelfia)
-- [Ritz Carlton Dallas, Las Colinas Resort](/hotels/1836/ritz-carlton-dallas-las-colinas-resort-.html) (Dallas)
+- [Ritz Carlton Dallas, Las Colinas Resort](/hotels/1836/ritz-carlton-dallas-las-colinas-resort.html) (Dallas)
 - [The Ritz-Carlton, Dallas](/hotels/1851/the-ritz-carlton-dallas.html) (Dallas)
 - [The Ritz-Carlton, Tysons Corner](/hotels/1609/the-ritz-carlton-tysons-corner.html) (Tysons)
 
@@ -93,26 +93,26 @@ The Ritz-Carlton es la marca de lujo de Marriott International, con hoteles urba
 
 **Islas Turcas y Caicos (2)**
 - [Ritz Carlton Residences, Turks & Caicos](/hotels/6705/ritz-carlton-residences-turks-caicos.html) (Islas Turcas y Caicos)
-- [Ritz-Carlton, Turks & Caicos](/hotels/4670/ritz-carlton-turks-caicos-.html) (Islas Turcas y Caicos)
+- [Ritz-Carlton, Turks & Caicos](/hotels/4670/ritz-carlton-turks-caicos.html) (Islas Turcas y Caicos)
 
 **México (4)**
 - [Siari, a Ritz-Carlton Reserve](/hotels/7083/siari-a-ritz-carlton-reserve.html) (Riviera Nayarit)
 - [The Ritz Carlton Mexico City](/hotels/4050/the-ritz-carlton-mexico-city.html) (Ciudad de México)
 - [The Ritz-Carlton Residences Mexico City](/hotels/6706/the-ritz-carlton-residences-mexico-city.html) (Ciudad de México)
-- [Zadun, a Ritz-Carlton Reserve](/hotels/3703/zadun-a-ritz-carlton-reserve-.html) (Cabo San Lucas)
+- [Zadun, a Ritz-Carlton Reserve](/hotels/3703/zadun-a-ritz-carlton-reserve.html) (Cabo San Lucas)
 
 **Aruba (1)**
 - [The Ritz-Carlton, Aruba](/hotels/2754/the-ritz-carlton-aruba.html) (Palm Beach Aruba)
 
 **Puerto Rico (2)**
-- [Dorado Beach, a Ritz Carlton Reserve](/hotels/2705/dorado-beach-a-ritz-carlton-reserve-.html) (Dorado)
+- [Dorado Beach, a Ritz Carlton Reserve](/hotels/2705/dorado-beach-a-ritz-carlton-reserve.html) (Dorado)
 - [The Ritz Carlton Residences at Dorado Beach](/hotels/3879/the-ritz-carlton-residences-at-dorado-beach.html) (Dorado)
 
 **Islas Vírgenes de EE. UU. (1)**
 - [The Ritz-Carlton, St. Thomas](/hotels/4101/the-ritz-carlton-st-thomas.html) (St. Thomas)
 
 **Gran Caimán (1)**
-- [Ritz Carlton, Grand Cayman](/hotels/1512/ritz-carlton-grand-cayman-.html) (Gran Caimán)
+- [Ritz Carlton, Grand Cayman](/hotels/1512/ritz-carlton-grand-cayman.html) (Gran Caimán)
 
 **Costa Rica (1)**
 - [Nekajui, A Ritz Carlton Reserve](/hotels/6781/nekajui-a-ritz-carlton-reserve.html) (Peninsula Papagayo)
@@ -304,6 +304,6 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles St. Regis](/collection/16/)
 - [Hoteles Bulgari](/collection/71/)
 - [Hoteles EDITION](/collection/74/)
-- [Hoteles de lujo en Miami](/cities/168/Miami.html)
+- [Hoteles de lujo en Miami](/cities/168/miami.html)
 
 *Fuentes externas: [One Mile at a Time: Marriott STARS y Luminous](https://onemileatatime.com/guides/marriott-stars-luminous/); [Upgraded Points: Marriott STARS y Luminous](https://upgradedpoints.com/travel/hotels/marriott-stars-luminous-programs/). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

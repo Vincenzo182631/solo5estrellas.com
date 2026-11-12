@@ -52,55 +52,55 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Hotel Bel-Air",
-          "url": "https://solo5estrellas.com/hotels/1005/Hotel-Bel-Air.html"
+          "url": "https://solo5estrellas.com/hotels/1005/hotel-bel-air.html"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "The Beverly Hills Hotel",
-          "url": "https://solo5estrellas.com/hotels/1035/The-Beverly-Hills-Hotel.html"
+          "url": "https://solo5estrellas.com/hotels/1035/the-beverly-hills-hotel.html"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Hôtel Plaza Athénée",
-          "url": "https://solo5estrellas.com/hotels/1008/Hotel-Plaza-Athenee-Paris.html"
+          "url": "https://solo5estrellas.com/hotels/1008/hotel-plaza-athenee-paris.html"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "Le Meurice",
-          "url": "https://solo5estrellas.com/hotels/1121/Le-Meurice.html"
+          "url": "https://solo5estrellas.com/hotels/1121/le-meurice.html"
         },
         {
           "@type": "ListItem",
           "position": 5,
           "name": "Hotel Eden",
-          "url": "https://solo5estrellas.com/hotels/1009/Hotel-Eden-.html"
+          "url": "https://solo5estrellas.com/hotels/1009/hotel-eden.html"
         },
         {
           "@type": "ListItem",
           "position": 6,
           "name": "Hotel Principe di Savoia Milano",
-          "url": "https://solo5estrellas.com/hotels/1032/Hotel-Principe-di-Savoia-Milano-.html"
+          "url": "https://solo5estrellas.com/hotels/1032/hotel-principe-di-savoia-milano.html"
         },
         {
           "@type": "ListItem",
           "position": 7,
           "name": "The Lana Dubai",
-          "url": "https://solo5estrellas.com/hotels/6583/The-Lana-Dubai.html"
+          "url": "https://solo5estrellas.com/hotels/6583/the-lana-dubai.html"
         },
         {
           "@type": "ListItem",
           "position": 8,
           "name": "45 Park Lane",
-          "url": "https://solo5estrellas.com/hotels/3622/45-Park-Lane.html"
+          "url": "https://solo5estrellas.com/hotels/3622/45-park-lane.html"
         },
         {
           "@type": "ListItem",
           "position": 9,
           "name": "The Dorchester",
-          "url": "https://solo5estrellas.com/hotels/1002/The-Dorchester.html"
+          "url": "https://solo5estrellas.com/hotels/1002/the-dorchester.html"
         }
       ]
     },

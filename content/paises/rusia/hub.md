@@ -29,8 +29,8 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ru
 
 ## Los 7 hoteles de Rusia
 
-- Moscú: [Ararat Park Hyatt Moscow](/hotels/3389/ararat-park-hyatt-moscow-.html); [Hotel National](/hotels/2810/hotel-national.html); [Hyatt Regency Moscow Petrovsky Park](/hotels/3644/hyatt-regency-moscow-petrovsky-park.html); [The St. Regis Moscow Nikolskaya](/hotels/2970/the-st-regis-moscow-nikolskaya.html)
-- San Petersburgo: [Belmond Grand Hotel Europe](/hotels/1195/belmond-grand-hotel-europe.html); [Sofitel St. Petersburg](/hotels/2872/sofitel-st-petersburg-.html)
+- Moscú: [Ararat Park Hyatt Moscow](/hotels/3389/ararat-park-hyatt-moscow.html); [Hotel National](/hotels/2810/hotel-national.html); [Hyatt Regency Moscow Petrovsky Park](/hotels/3644/hyatt-regency-moscow-petrovsky-park.html); [The St. Regis Moscow Nikolskaya](/hotels/2970/the-st-regis-moscow-nikolskaya.html)
+- San Petersburgo: [Belmond Grand Hotel Europe](/hotels/1195/belmond-grand-hotel-europe.html); [Sofitel St. Petersburg](/hotels/2872/sofitel-st-petersburg.html)
 - Sochi: [Hyatt Regency Sochi](/hotels/3972/hyatt-regency-sochi.html)
 
 ## Preguntas frecuentes sobre hoteles en Rusia
@@ -61,7 +61,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles Hyatt Regency Hotels](/collection/29/)
 - [Hoteles Park Hyatt Hotels](/collection/8/)
 - [Hoteles The Luxury Collection](/collection/51/)

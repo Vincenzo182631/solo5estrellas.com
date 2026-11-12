@@ -24,7 +24,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Is
 
 ## Los 3 hoteles de Islas Vírgenes de EE. UU.
 
-- St. Thomas: [Buoy Haus Beach Resort](/hotels/6563/buoy-haus-beach-resort-.html); [The Ritz-Carlton, St. Thomas](/hotels/4101/the-ritz-carlton-st-thomas.html); [The Westin Beach Resort & Spa at Frenchman’s Reef](/hotels/6658/the-westin-beach-resort-spa-at-frenchman-s-reef-.html)
+- St. Thomas: [Buoy Haus Beach Resort](/hotels/6563/buoy-haus-beach-resort.html); [The Ritz-Carlton, St. Thomas](/hotels/4101/the-ritz-carlton-st-thomas.html); [The Westin Beach Resort & Spa at Frenchman’s Reef](/hotels/6658/the-westin-beach-resort-spa-at-frenchman-s-reef.html)
 
 ## Preguntas frecuentes sobre hoteles en Islas Vírgenes de EE. UU.
 

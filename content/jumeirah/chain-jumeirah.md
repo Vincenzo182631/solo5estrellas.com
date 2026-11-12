@@ -41,17 +41,17 @@ Jumeirah es un grupo hotelero de lujo con sede en Dubái, fundado en 1997 y cono
 ### Europa
 
 **Alemania (1)**
-- [Jumeirah Frankfurt](/hotels/2656/jumeirah-frankfurt-.html) (Frankfurt)
+- [Jumeirah Frankfurt](/hotels/2656/jumeirah-frankfurt.html) (Frankfurt)
 
 **Italia (1)**
-- [Capri Palace](/hotels/1086/capri-palace-.html) (Capri)
+- [Capri Palace](/hotels/1086/capri-palace.html) (Capri)
 
 **España (1)**
 - [Jumeirah Mallorca](/hotels/2753/jumeirah-mallorca.html) (Mallorca)
 
 **Reino Unido (2)**
-- [Jumeirah Carlton Tower](/hotels/2750/jumeirah-carlton-tower-.html) (Londres)
-- [Jumeirah Lowndes Hotel](/hotels/2751/jumeirah-lowndes-hotel-.html) (Londres)
+- [Jumeirah Carlton Tower](/hotels/2750/jumeirah-carlton-tower.html) (Londres)
+- [Jumeirah Lowndes Hotel](/hotels/2751/jumeirah-lowndes-hotel.html) (Londres)
 
 ### Oriente Medio y norte de África
 
@@ -61,10 +61,10 @@ Jumeirah es un grupo hotelero de lujo con sede en Dubái, fundado en 1997 y cono
 **Emiratos Árabes Unidos (11)**
 - [Jumeirah Al Naseem, Dubai](/hotels/3503/jumeirah-al-naseem-dubai.html) (Dubái)
 - [Jumeirah Al Qasr](/hotels/4660/jumeirah-al-qasr.html) (Dubái)
-- [Jumeirah at Etihad Towers](/hotels/2738/jumeirah-at-etihad-towers-.html) (Abu Dhabi)
+- [Jumeirah at Etihad Towers](/hotels/2738/jumeirah-at-etihad-towers.html) (Abu Dhabi)
 - [Jumeirah at Saadiyat Island Resort](/hotels/4658/jumeirah-at-saadiyat-island-resort.html) (Abu Dhabi)
 - [Jumeirah Beach Hotel](/hotels/1165/jumeirah-beach-hotel.html) (Dubái)
-- [Jumeirah Creekside](/hotels/2740/jumeirah-creekside-.html) (Dubái)
+- [Jumeirah Creekside](/hotels/2740/jumeirah-creekside.html) (Dubái)
 - [Jumeirah Dar Al Masyaf](/hotels/4657/jumeirah-dar-al-masyaf.html) (Dubái)
 - [Jumeirah Emirates Towers](/hotels/2739/jumeirah-emirates-towers.html) (Dubái)
 - [Jumeirah Marsa Al Arab](/hotels/6771/jumeirah-marsa-al-arab.html) (Dubái)
@@ -74,11 +74,11 @@ Jumeirah es un grupo hotelero de lujo con sede en Dubái, fundado en 1997 y cono
 ### Asia
 
 **Maldivas (1)**
-- [Jumeirah Vittaveli](/hotels/2745/jumeirah-vittaveli-.html) (Maldivas)
+- [Jumeirah Vittaveli](/hotels/2745/jumeirah-vittaveli.html) (Maldivas)
 
 **China (3)**
 - [Jumeirah Guangzhou](/hotels/4663/jumeirah-guangzhou.html) (Guangzhou)
-- [Jumeirah Himalayas Hotel](/hotels/2747/jumeirah-himalayas-hotel-.html) (Shanghái)
+- [Jumeirah Himalayas Hotel](/hotels/2747/jumeirah-himalayas-hotel.html) (Shanghái)
 - [Jumeirah Living Guangzhou](/hotels/4664/jumeirah-living-guangzhou.html) (Guangzhou)
 
 **Indonesia (1)**

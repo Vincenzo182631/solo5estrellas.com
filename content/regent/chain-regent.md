@@ -39,32 +39,32 @@ Regent Hotels & Resorts es la marca de lujo de máximo nivel de IHG, fundada en 
 ### Norteamérica
 
 **Estados Unidos (1)**
-- [Regent Santa Monica Beach](/hotels/6686/Regent-Santa-Monica-Beach.html) (Santa Monica)
+- [Regent Santa Monica Beach](/hotels/6686/regent-santa-monica-beach.html) (Santa Monica)
 
 ### Europa
 
 **Montenegro (1)**
-- [Regent Porto Montenegro](/hotels/4757/Regent-Porto-Montenegro.html) (Tivat)
+- [Regent Porto Montenegro](/hotels/4757/regent-porto-montenegro.html) (Tivat)
 
 **Francia (1)**
-- [Regent Carlton Cannes](/hotels/6373/Regent-Carlton-Cannes.html) (Cannes)
+- [Regent Carlton Cannes](/hotels/6373/regent-carlton-cannes.html) (Cannes)
 
 ### Asia
 
 **Taiwán (1)**
-- [Regent Taipei](/hotels/2284/Regent-Taipei-.html) (Taipei)
+- [Regent Taipei](/hotels/2284/regent-taipei.html) (Taipei)
 
 **China (4)**
-- [Regent Beijing](/hotels/4756/Regent-Beijing.html) (Pekín)
-- [Regent Hong Kong](/hotels/6388/Regent-Hong-Kong.html) (Hong Kong)
-- [Regent Shanghai on the Bund](/hotels/6750/Regent-Shanghai-on-the-Bund.html) (Shanghái)
-- [Regent Shanghai Pudong](/hotels/4758/Regent-Shanghai-Pudong.html) (Shanghái)
+- [Regent Beijing](/hotels/4756/regent-beijing.html) (Pekín)
+- [Regent Hong Kong](/hotels/6388/regent-hong-kong.html) (Hong Kong)
+- [Regent Shanghai on the Bund](/hotels/6750/regent-shanghai-on-the-bund.html) (Shanghái)
+- [Regent Shanghai Pudong](/hotels/4758/regent-shanghai-pudong.html) (Shanghái)
 
 **Indonesia (1)**
-- [Regent Bali Canggu](/hotels/6954/Regent-Bali-Canggu-.html) (Bali)
+- [Regent Bali Canggu](/hotels/6954/regent-bali-canggu.html) (Bali)
 
 **Vietnam (1)**
-- [Regent Phu Quoc](/hotels/4751/Regent-Phu-Quoc.html) (Phu Quoc)
+- [Regent Phu Quoc](/hotels/4751/regent-phu-quoc.html) (Phu Quoc)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

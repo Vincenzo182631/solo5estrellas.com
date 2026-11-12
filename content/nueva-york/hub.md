@@ -12,9 +12,9 @@ Nueva York se elige por barrio más que por hotel: la zona define si va a pie a 
 
 La zona clásica para un primer viaje: Quinta Avenida, tiendas, teatros de Broadway y el borde sur de Central Park. Concentra buena parte de los hoteles de nuestra selección. Es una opción práctica si quiere caminar a todo y no depender del metro.
 
-- [Ritz-Carlton Central Park](/hotels/1214/ritz-carlton-central-park-.html)
-- [The Peninsula New York](/hotels/1048/the-peninsula-new-york-.html)
-- [St. Regis New York](/hotels/1437/st-regis-new-york-.html)
+- [Ritz-Carlton Central Park](/hotels/1214/ritz-carlton-central-park.html)
+- [The Peninsula New York](/hotels/1048/the-peninsula-new-york.html)
+- [St. Regis New York](/hotels/1437/st-regis-new-york.html)
 - [Park Hyatt New York](/hotels/2896/park-hyatt-new-york.html)
 - [Mandarin Oriental, New York](/hotels/1323/mandarin-oriental-new-york.html)
 - [Four Seasons Hotel New York](/hotels/1838/four-seasons-hotel-new-york.html)
@@ -33,7 +33,7 @@ La zona clásica para un primer viaje: Quinta Avenida, tiendas, teatros de Broad
 Zona residencial al este de Central Park, con la Milla de los Museos (el Metropolitan y el Guggenheim) a pocas calles. Tranquila por la noche y adecuada para estancias de cultura y compras.
 
 - [The Carlyle, A Rosewood Hotel](/hotels/1119/the-carlyle-a-rosewood-hotel.html)
-- [The Mark](/hotels/1118/the-mark-.html)
+- [The Mark](/hotels/1118/the-mark.html)
 - [The Surrey, a Corinthia Hotel](/hotels/2438/the-surrey-a-corinthia-hotel.html)
 - [The Lowell](/hotels/1456/the-lowell.html)
 
@@ -44,8 +44,8 @@ Hoteles más recientes y de escala menor, cerca de restaurantes, galerías y del
 - [Four Seasons New York Downtown](/hotels/3103/four-seasons-new-york-downtown.html)
 - [The Beekman](/hotels/3025/the-beekman.html)
 - [The Greenwich Hotel](/hotels/2950/the-greenwich-hotel.html)
-- [Soho Grand Hotel](/hotels/2278/soho-grand-hotel-.html)
-- [Nine Orchard](/hotels/7062/nine-orchard-.html)
+- [Soho Grand Hotel](/hotels/2278/soho-grand-hotel.html)
+- [Nine Orchard](/hotels/7062/nine-orchard.html)
 - [Conrad New York Downtown](/hotels/4145/conrad-new-york-downtown.html)
 - [Casa Cipriani New York](/hotels/6065/casa-cipriani-new-york.html)
 - [Hotel 50 Bowery](/hotels/3917/hotel-50-bowery.html)
@@ -57,7 +57,7 @@ Zona del oeste y centro de Manhattan con el High Line, Hudson Yards y NoMad. Zon
 - [Pendry Manhattan West](/hotels/5021/pendry-manhattan-west.html)
 - [Equinox Hotel, Hudson Yard](/hotels/4033/equinox-hotel-hudson-yard.html)
 - [The Standard Highline](/hotels/6876/the-standard-highline.html)
-- [The James NoMad](/hotels/3324/the-james-nomad-.html)
+- [The James NoMad](/hotels/3324/the-james-nomad.html)
 - [The Ritz-Carlton New York, NoMad](/hotels/6220/the-ritz-carlton-new-york-nomad.html)
 
 ### Brooklyn
@@ -138,7 +138,7 @@ Sí: Four Seasons Hotel New York, en Midtown, y Four Seasons New York Downtown, 
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles Ritz-Carlton](/chains/13/ritz_carlton.html)
 - [Hoteles Aman](/chains/21/Aman_Resorts.html)
-- [Hoteles de lujo en Miami](/cities/168/Miami.html)
-- [Hoteles de lujo en Las Vegas](/cities/142/Las_vegas.html)
+- [Hoteles de lujo en Miami](/cities/168/miami.html)
+- [Hoteles de lujo en Las Vegas](/cities/142/las-vegas.html)
 
 *Fuentes: [Lonely Planet: mejor época para visitar Nueva York](https://www.lonelyplanet.com/articles/best-time-to-visit-new-york-city); [NYC Tourism: cómo llegar](https://www.nyctourism.com/getting-here/); [Blade: de los aeropuertos a Manhattan](https://www.blade.com/transportation-to-manhattan-from-local-airports). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

@@ -45,7 +45,7 @@ Tribute Portfolio es la colección de hoteles independientes de gama alta de Mar
 - [The Guild Hotel, San Diego, a Tribute Portfolio Hotel](/hotels/3900/the-guild-hotel-san-diego-a-tribute-portfolio-hotel.html) (San Diego)
 - [The Ven at Embassy Row, Washington, DC](/hotels/6492/the-ven-at-embassy-row-washington-dc.html) (Washington D. C.)
 - [Hotel Landy Orlando, a Tribute Portfolio Hotel](/hotels/6681/hotel-landy-orlando-a-tribute-portfolio-hotel.html) (Orlando and Disney World)
-- [The Alida Savannah, a Tribute Portfolio Hotel](/hotels/3899/the-alida-savannah-a-tribute-portfolio-hotel-.html) (Savannah)
+- [The Alida Savannah, a Tribute Portfolio Hotel](/hotels/3899/the-alida-savannah-a-tribute-portfolio-hotel.html) (Savannah)
 - [Rand Tower Minneapolis, a Tribute Portfolio Hotel](/hotels/5030/rand-tower-minneapolis-a-tribute-portfolio-hotel.html) (Minneapolis)
 - [Hotel Thaynes, a Tribute Portfolio Hotel](/hotels/7106/hotel-thaynes-a-tribute-portfolio-hotel.html) (Park City)
 

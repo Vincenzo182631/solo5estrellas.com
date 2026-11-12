@@ -44,7 +44,7 @@ Un hotel no tiene una marca o colección asociada en la lista.
 - Alahsa: [InterContinental al Ahsa](/hotels/4753/intercontinental-al-ahsa.html)
 - Jeddah: [Park Hyatt Jeddah Marina Club & Spa](/hotels/3448/park-hyatt-jeddah-marina-club-spa.html); [Rosewood Jeddah](/hotels/1910/rosewood-jeddah.html); [Shangri-La Jeddah](/hotels/6493/shangri-la-jeddah.html); [The Ritz-Carlton Jeddah](/hotels/3491/the-ritz-carlton-jeddah.html); [Waldorf Astoria Jeddah Qasr Al Sharq](/hotels/4173/waldorf-astoria-jeddah-qasr-al-sharq.html)
 - La Meca: [Conrad Makkah](/hotels/4143/conrad-makkah.html); [Jabal Omar Hyatt Regency Makkah](/hotels/3649/jabal-omar-hyatt-regency-makkah.html); [Raffles Makkah Palace](/hotels/6475/raffles-makkah-palace.html)
-- Riad: [Al Faisaliah Hotel](/hotels/6204/al-faisaliah-hotel.html); [Fairmont Riyadh](/hotels/6134/fairmont-riyadh.html); [Four Seasons Hotel Riyadh](/hotels/1847/four-seasons-hotel-riyadh.html); [Hyatt Regency Riyadh Olaya](/hotels/4199/hyatt-regency-riyadh-olaya.html); [Mansard Riyadh, a Radisson Collection Hotel](/hotels/6735/mansard-riyadh-a-radisson-collection-hotel-.html); [The Ritz-Carlton, Riyadh Palace](/hotels/2937/the-ritz-carlton-riyadh-palace.html); [The St. Regis Riyadh](/hotels/6565/the-st-regis-riyadh-.html); [W Riyadh - KAFD](/hotels/7112/w-riyadh-kafd.html)
+- Riad: [Al Faisaliah Hotel](/hotels/6204/al-faisaliah-hotel.html); [Fairmont Riyadh](/hotels/6134/fairmont-riyadh.html); [Four Seasons Hotel Riyadh](/hotels/1847/four-seasons-hotel-riyadh.html); [Hyatt Regency Riyadh Olaya](/hotels/4199/hyatt-regency-riyadh-olaya.html); [Mansard Riyadh, a Radisson Collection Hotel](/hotels/6735/mansard-riyadh-a-radisson-collection-hotel.html); [The Ritz-Carlton, Riyadh Palace](/hotels/2937/the-ritz-carlton-riyadh-palace.html); [The St. Regis Riyadh](/hotels/6565/the-st-regis-riyadh.html); [W Riyadh - KAFD](/hotels/7112/w-riyadh-kafd.html)
 - Shura Island: [Four Seasons Resort and Residences Red Sea at Shura Island](/hotels/7084/four-seasons-resort-and-residences-red-sea-at-shura-island.html); [The Red Sea EDITION](/hotels/7039/the-red-sea-edition.html)
 - The Red Sea: [Four Seasons Resort AMAALA at Triple Bay](/hotels/7082/four-seasons-resort-amaala-at-triple-bay.html); [Rosewood AMAALA](/hotels/7114/rosewood-amaala.html); [Six Senses AMAALA](/hotels/7115/six-senses-amaala.html); [Six Senses Southern Dunes](/hotels/6741/six-senses-southern-dunes.html)
 - Ummahat Island: [Nujuma, a Ritz-Carlton Reserve](/hotels/6669/nujuma-a-ritz-carlton-reserve.html); [The St. Regis Red Sea Resort](/hotels/6670/the-st-regis-red-sea-resort.html)
@@ -77,7 +77,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Oriente Medio](/regions/18/middle_east.html)
+- [Hoteles de lujo en Oriente Medio](/regions/18/middle-east.html)
 - [Hoteles Ritz Carlton Hotels & Resorts](/collection/13/)
 - [Hoteles Four Seasons](/collection/2/)
 - [Hoteles Rosewood Hotels & Resorts](/collection/10/)

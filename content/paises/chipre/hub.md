@@ -52,7 +52,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Oriente Medio](/regions/18/middle_east.html)
+- [Hoteles de lujo en Oriente Medio](/regions/18/middle-east.html)
 - [Hoteles Small Luxury Hotels of The World](/collection/47/)
 
 *Fuente: lista de hoteles de la página en vivo. Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

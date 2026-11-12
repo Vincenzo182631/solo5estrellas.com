@@ -39,7 +39,7 @@ Sheraton Hotels & Resorts es la marca global de servicio completo de Marriott In
 ### Norteamérica
 
 **Estados Unidos (4)**
-- [Sheraton Kauai Coconut Beach Resort](/hotels/4721/sheraton-kauai-coconut-beach-resort-.html) (Kauai)
+- [Sheraton Kauai Coconut Beach Resort](/hotels/4721/sheraton-kauai-coconut-beach-resort.html) (Kauai)
 - [Sheraton Kauai Resort](/hotels/4723/sheraton-kauai-resort.html) (Kauai)
 - [Sheraton Maui Resort & Spa](/hotels/4708/sheraton-maui-resort-spa.html) (Maui)
 - [Sheraton Waikiki](/hotels/4707/sheraton-waikiki.html) (Honolulu)

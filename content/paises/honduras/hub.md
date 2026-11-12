@@ -52,7 +52,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Centroamérica](/regions/7/central_america.html)
+- [Hoteles de lujo en Centroamérica](/regions/7/central-america.html)
 - [Hoteles Kimpton Hotels](/collection/87/)
 
 *Fuente: lista de hoteles de la página en vivo. Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

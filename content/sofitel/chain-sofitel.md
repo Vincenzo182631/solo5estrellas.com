@@ -43,7 +43,7 @@ Sofitel Hotels & Resorts es la marca de lujo francesa de Accor, fundada en 1964.
 - [Sofitel Washington DC Lafayette Square](/hotels/4855/sofitel-washington-dc-lafayette-square.html) (Washington D. C., District of Columbia)
 - [Sofitel Chicago Magnificent Mile](/hotels/1237/sofitel-chicago-magnificent-mile.html) (Chicago, Illinois)
 - [Sofitel New York](/hotels/2121/sofitel-new-york.html) (Nueva York)
-- [Sofitel Philadelphia](/hotels/2454/sofitel-philadelphia-.html) (Filadelfia, Pennsylvania)
+- [Sofitel Philadelphia](/hotels/2454/sofitel-philadelphia.html) (Filadelfia, Pennsylvania)
 
 **Canadá (1)**
 - [Sofitel Montreal Golden Mile](/hotels/3199/sofitel-montreal-golden-mile.html) (Montreal, Quebec)
@@ -59,15 +59,15 @@ Sofitel Hotels & Resorts es la marca de lujo francesa de Accor, fundada en 1964.
 ### Sudamérica
 
 **Argentina (2)**
-- [Sofitel Buenos Aires Recoleta](/hotels/4858/sofitel-buenos-aires-recoleta-.html) (Buenos Aires)
-- [Sofitel La Reserva Cardales](/hotels/4859/sofitel-la-reserva-cardales-.html) (Buenos Aires)
+- [Sofitel Buenos Aires Recoleta](/hotels/4858/sofitel-buenos-aires-recoleta.html) (Buenos Aires)
+- [Sofitel La Reserva Cardales](/hotels/4859/sofitel-la-reserva-cardales.html) (Buenos Aires)
 
 **Uruguay (1)**
 - [Hotel Sofitel Montevideo Casino Carrasco and Spa](/hotels/4857/hotel-sofitel-montevideo-casino-carrasco-and-spa.html) (Montevideo)
 
 **Colombia (3)**
 - [Sofitel Bogota Victoria Regia](/hotels/4852/sofitel-bogota-victoria-regia.html) (Bogotá)
-- [Sofitel Hotel Boutique Bovedas de Santa Clara](/hotels/4853/sofitel-hotel-boutique-bovedas-de-santa-clara-.html) (Cartagena)
+- [Sofitel Hotel Boutique Bovedas de Santa Clara](/hotels/4853/sofitel-hotel-boutique-bovedas-de-santa-clara.html) (Cartagena)
 - [Sofitel Legend Santa Clara Cartagena](/hotels/4752/sofitel-legend-santa-clara-cartagena.html) (Cartagena)
 
 ### Europa
@@ -81,7 +81,7 @@ Sofitel Hotels & Resorts es la marca de lujo francesa de Accor, fundada en 1964.
 - [Sofitel Warsaw Victoria](/hotels/6146/sofitel-warsaw-victoria.html) (Varsovia)
 
 **Rusia (1)**
-- [Sofitel St. Petersburg](/hotels/2872/sofitel-st-petersburg-.html) (San Petersburgo)
+- [Sofitel St. Petersburg](/hotels/2872/sofitel-st-petersburg.html) (San Petersburgo)
 
 **Bélgica (1)**
 - [Sofitel Brussels Europe](/hotels/4874/sofitel-brussels-europe.html) (Bruselas)
@@ -91,7 +91,7 @@ Sofitel Hotels & Resorts es la marca de lujo francesa de Accor, fundada en 1964.
 
 **Francia (6)**
 - [Hotel Molitor Paris](/hotels/3228/hotel-molitor-paris.html) (París)
-- [Hotel Sofitel Le Faubourg](/hotels/1131/hotel-sofitel-le-faubourg-.html) (París)
+- [Hotel Sofitel Le Faubourg](/hotels/1131/hotel-sofitel-le-faubourg.html) (París)
 - [Sofitel Lyon Bellecour](/hotels/2953/sofitel-lyon-bellecour.html) (Lyon)
 - [Sofitel Paris Arc de Triomphe](/hotels/4878/sofitel-paris-arc-de-triomphe.html) (París)
 - [Sofitel Paris Baltimore Tour Eiffel](/hotels/4877/sofitel-paris-baltimore-tour-eiffel.html) (París)
@@ -118,16 +118,16 @@ Sofitel Hotels & Resorts es la marca de lujo francesa de Accor, fundada en 1964.
 **Marruecos (3)**
 - [Sofitel Agadir Thalassa Sea & Spa](/hotels/6952/sofitel-agadir-thalassa-sea-spa.html) (Agadir)
 - [Sofitel Casablanca Tour Blanche](/hotels/6133/sofitel-casablanca-tour-blanche.html) (Casablanca)
-- [Sofitel Rabat Jardin des Roses](/hotels/4893/sofitel-rabat-jardin-des-roses-.html) (Rabat)
+- [Sofitel Rabat Jardin des Roses](/hotels/4893/sofitel-rabat-jardin-des-roses.html) (Rabat)
 
 **Egipto (2)**
-- [Sofitel Legend Old Cataract Aswan](/hotels/2548/sofitel-legend-old-cataract-aswan-.html) (Aswan)
+- [Sofitel Legend Old Cataract Aswan](/hotels/2548/sofitel-legend-old-cataract-aswan.html) (Aswan)
 - [Sofitel Winter Palace Luxor](/hotels/6898/sofitel-winter-palace-luxor.html) (Luxor/ Aswan / Upper Egypt)
 
 **Emiratos Árabes Unidos (5)**
 - [Sofitel Abu Dhabi Corniche](/hotels/4929/sofitel-abu-dhabi-corniche.html) (Abu Dhabi)
 - [Sofitel Dubai Downtown](/hotels/4930/sofitel-dubai-downtown.html) (Dubái)
-- [Sofitel Dubai Jumeirah Beach Resort](/hotels/6136/sofitel-dubai-jumeirah-beach-resort-.html) (Dubái)
+- [Sofitel Dubai Jumeirah Beach Resort](/hotels/6136/sofitel-dubai-jumeirah-beach-resort.html) (Dubái)
 - [Sofitel Dubai The Obelisk](/hotels/4928/sofitel-dubai-the-obelisk.html) (Dubái)
 - [Sofitel Dubai The Palm](/hotels/6135/sofitel-dubai-the-palm.html) (Dubái)
 
@@ -162,7 +162,7 @@ Sofitel Hotels & Resorts es la marca de lujo francesa de Accor, fundada en 1964.
 - [Sofitel Krabi Phokeethra Golf & Spa](/hotels/4964/sofitel-krabi-phokeethra-golf-spa.html) (Nong Thale)
 
 **Vietnam (2)**
-- [Sofitel Legend Metropole Hanoi](/hotels/1900/sofitel-legend-metropole-hanoi-.html) (Hanoi)
+- [Sofitel Legend Metropole Hanoi](/hotels/1900/sofitel-legend-metropole-hanoi.html) (Hanoi)
 - [Sofitel Saigon Plaza](/hotels/6486/sofitel-saigon-plaza.html) (Ho Chi Minh)
 
 ### Oceanía y Pacífico
@@ -179,10 +179,10 @@ Sofitel Hotels & Resorts es la marca de lujo francesa de Accor, fundada en 1964.
 - [Sofitel Fiji Resort & Spa](/hotels/6162/sofitel-fiji-resort-spa.html) (Fiji)
 
 **Polinesia Francesa (Tahití) (1)**
-- [Sofitel Kia Ora Moorea Beach Resort](/hotels/2388/sofitel-kia-ora-moorea-beach-resort-.html) (Moorea)
+- [Sofitel Kia Ora Moorea Beach Resort](/hotels/2388/sofitel-kia-ora-moorea-beach-resort.html) (Moorea)
 
 **Nueva Zelanda (4)**
-- [Sofitel Auckland](/hotels/2242/sofitel-auckland-.html) (Auckland)
+- [Sofitel Auckland](/hotels/2242/sofitel-auckland.html) (Auckland)
 - [Sofitel Auckland Viaduct Harbour](/hotels/2955/sofitel-auckland-viaduct-harbour.html) (Auckland)
 - [Sofitel Queenstown - Hotel & Spa](/hotels/2369/sofitel-queenstown-hotel-spa.html) (Queenstown)
 - [Sofitel Wellington](/hotels/6698/sofitel-wellington.html) (Wellington)

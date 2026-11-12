@@ -25,12 +25,12 @@ El 8.º distrito y los alrededores del Arco del Triunfo: avenida Montaigne, aven
 - [Hotel du Collectionneur Arc de Triomphe Paris](/hotels/3129/hotel-du-collectionneur-arc-de-triomphe-paris.html)
 - [Hotel Napoleon Paris](/hotels/3130/hotel-napoleon-paris.html)
 - [Hyatt Paris Madeleine](/hotels/4608/hyatt-paris-madeleine.html)
-- [Hotel Sofitel Le Faubourg](/hotels/1131/hotel-sofitel-le-faubourg-.html)
+- [Hotel Sofitel Le Faubourg](/hotels/1131/hotel-sofitel-le-faubourg.html)
 - [Paris Marriott Champs Elysees Hotel](/hotels/3757/paris-marriott-champs-elysees-hotel.html)
 - [Sofitel Paris Arc de Triomphe](/hotels/4878/sofitel-paris-arc-de-triomphe.html)
 - [Renaissance Paris Arc de Triomphe Hotel](/hotels/3761/renaissance-paris-arc-de-triomphe-hotel.html)
 - [Intercontinental Paris - Avenue Marceau](/hotels/3541/intercontinental-paris-avenue-marceau.html)
-- [Hotel Keppler](/hotels/4124/hotel-keppler-.html)
+- [Hotel Keppler](/hotels/4124/hotel-keppler.html)
 
 ### Tullerías, Concorde, Louvre y Vendôme
 
@@ -54,7 +54,7 @@ Entre la plaza de la Concordia, el jardín de las Tullerías, el Louvre y la pla
 
 Alrededor de la Ópera Garnier y los grandes almacenes. Buena conexión de metro y RER.
 
-- [InterContinental Paris Le Grand Hotel](/hotels/1359/intercontinental-paris-le-grand-hotel-.html)
+- [InterContinental Paris Le Grand Hotel](/hotels/1359/intercontinental-paris-le-grand-hotel.html)
 - [Paris Marriott Opera Ambassador Hotel](/hotels/6502/paris-marriott-opera-ambassador-hotel.html)
 
 ### Saint-Germain y la orilla izquierda
@@ -63,7 +63,7 @@ Calles de cafés, librerías y galerías, al sur del Sena. Ambiente más tranqui
 
 - [Mandarin Oriental Lutetia Paris](/hotels/1006/mandarin-oriental-lutetia-paris.html)
 - [Hotel Pont Royal](/hotels/2071/hotel-pont-royal.html)
-- [Hotel Bel Ami](/hotels/2522/hotel-bel-ami-.html)
+- [Hotel Bel Ami](/hotels/2522/hotel-bel-ami.html)
 - [Pavillon Faubourg Saint-Germain](/hotels/6301/pavillon-faubourg-saint-germain.html)
 - [Le Narcisse Blanc Hotel & Spa](/hotels/4399/le-narcisse-blanc-hotel-spa.html)
 - [L'Hotel](/hotels/4367/l-hotel.html)
@@ -73,7 +73,7 @@ Calles de cafés, librerías y galerías, al sur del Sena. Ambiente más tranqui
 Hoteles cerca de la Torre Eiffel y de los jardines del Trocadéro, en la orilla derecha del Sena frente a la torre.
 
 - [The Peninsula Paris](/hotels/2881/the-peninsula-paris.html)
-- [Shangri-La Hotel Paris](/hotels/2490/shangri-la-hotel-paris-.html)
+- [Shangri-La Hotel Paris](/hotels/2490/shangri-la-hotel-paris.html)
 - [Sofitel Paris Baltimore Tour Eiffel](/hotels/4877/sofitel-paris-baltimore-tour-eiffel.html)
 - [Renaissance Paris Nobel Tour Eiffel Hotel](/hotels/4988/renaissance-paris-nobel-tour-eiffel-hotel.html)
 - [Le Dokhan's, a Tribute Portfolio Hotel](/hotels/3842/le-dokhan-s-a-tribute-portfolio-hotel.html)
@@ -90,10 +90,10 @@ El Marais histórico y la plaza de la República: callejuelas, galerías y resta
 
 Hoteles de la colección cuyo barrio se indica en la ficha de cada hotel.
 
-- [Château des Fleurs](/hotels/6760/ch-teau-des-fleurs-.html)
+- [Château des Fleurs](/hotels/6760/ch-teau-des-fleurs.html)
 - [Grand Powers](/hotels/4363/grand-powers.html)
 - [Hotel Molitor Paris](/hotels/3228/hotel-molitor-paris.html)
-- [Hotel Norman Paris](/hotels/6761/hotel-norman-paris-.html)
+- [Hotel Norman Paris](/hotels/6761/hotel-norman-paris.html)
 - [Kimpton St Honore Paris](/hotels/6300/kimpton-st-honore-paris.html)
 - [Maison Delano Paris](/hotels/6460/maison-delano-paris.html)
 - [SO/Paris](/hotels/6343/so-paris.html)

@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Fontainebleau Miami Beach",
-          "item": "https://solo5estrellas.com/hotels/4103/Fontainebleau-Miami-Beach.html"
+          "item": "https://solo5estrellas.com/hotels/4103/fontainebleau-miami-beach.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/4103/Fontainebleau-Miami-Beach.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/4103/Fontainebleau-Miami-Beach.html",
+      "@id": "https://solo5estrellas.com/hotels/4103/fontainebleau-miami-beach.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/4103/fontainebleau-miami-beach.html",
       "name": "Fontainebleau Miami Beach",
       "description": "Fontainebleau Miami Beach, el resort de Morris Lapidus de 1954 frente al océano, con playa y Lapis Spa. Con Solo5Estrellas: desayuno para dos y crédito.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Fontainebleau Miami Beach",
-      "url": "https://solo5estrellas.com/hotels/4103/Fontainebleau-Miami-Beach.html",
+      "url": "https://solo5estrellas.com/hotels/4103/fontainebleau-miami-beach.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "4441 Collins Avenue",

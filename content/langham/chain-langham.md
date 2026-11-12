@@ -40,36 +40,36 @@ Langham Hospitality Group es una compañía hotelera de lujo con sede en Hong Ko
 ### Norteamérica
 
 **Estados Unidos (4)**
-- [The Langham Huntington, Pasadena, Los Angeles](/hotels/1328/The-Langham-Huntington-Pasadena-Los-Angeles.html) (Pasadena)
-- [The Langham, Chicago](/hotels/2769/The-Langham-Chicago.html) (Chicago)
-- [The Langham Boston](/hotels/4775/The-Langham-Boston.html) (Boston)
-- [The Langham, New York, Fifth Avenue](/hotels/2768/The-Langham-New-York-Fifth-Avenue.html) (Nueva York)
+- [The Langham Huntington, Pasadena, Los Angeles](/hotels/1328/the-langham-huntington-pasadena-los-angeles.html) (Pasadena)
+- [The Langham, Chicago](/hotels/2769/the-langham-chicago.html) (Chicago)
+- [The Langham Boston](/hotels/4775/the-langham-boston.html) (Boston)
+- [The Langham, New York, Fifth Avenue](/hotels/2768/the-langham-new-york-fifth-avenue.html) (Nueva York)
 
 ### Europa
 
 **Reino Unido (1)**
-- [The Langham, London](/hotels/2153/The-Langham-London-.html) (Londres)
+- [The Langham, London](/hotels/2153/the-langham-london.html) (Londres)
 
 ### Asia
 
 **China (1)**
-- [The Langham Hotel, Hong Kong](/hotels/1112/The-Langham-Hotel-Hong-Kong-.html) (Hong Kong)
+- [The Langham Hotel, Hong Kong](/hotels/1112/the-langham-hotel-hong-kong.html) (Hong Kong)
 
 **Indonesia (1)**
-- [The Langham Jakarta](/hotels/6284/The-Langham-Jakarta.html) (Jakarta)
+- [The Langham Jakarta](/hotels/6284/the-langham-jakarta.html) (Jakarta)
 
 **Tailandia (1)**
-- [The Langham, Custom House, Bangkok](/hotels/7119/The-Langham-Custom-House-Bangkok.html) (Bangkok)
+- [The Langham, Custom House, Bangkok](/hotels/7119/the-langham-custom-house-bangkok.html) (Bangkok)
 
 ### Oceanía y Pacífico
 
 **Australia (3)**
-- [Langham Gold Coast & Jewel Residence](/hotels/6218/Langham-Gold-Coast-Jewel-Residence-.html) (Queensland)
-- [Langham Hotel, Melbourne](/hotels/1247/Langham-Hotel-Melbourne.html) (Melbourne)
-- [The Langham, Sydney](/hotels/1451/The-Langham-Sydney.html) (Sídney)
+- [Langham Gold Coast & Jewel Residence](/hotels/6218/langham-gold-coast-jewel-residence.html) (Queensland)
+- [Langham Hotel, Melbourne](/hotels/1247/langham-hotel-melbourne.html) (Melbourne)
+- [The Langham, Sydney](/hotels/1451/the-langham-sydney.html) (Sídney)
 
 **Nueva Zelanda (1)**
-- [Cordis Hotel Auckland](/hotels/6215/Cordis-Hotel-Auckland.html) (Auckland)
+- [Cordis Hotel Auckland](/hotels/6215/cordis-hotel-auckland.html) (Auckland)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -134,6 +134,6 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles Mandarin Oriental](/collection/5/)
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles de lujo en Londres](/cities/150/london.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 
 *Fuentes externas: [AFAR: COUTURE by Langham](https://www.afar.com/magazine/the-langham-announces-new-couture-program-for-travel-advisors); [Milepro: COUTURE by Langham](https://milepro.com/couture-by-langham-benefits/). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

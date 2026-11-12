@@ -36,7 +36,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Eg
 ## Los 14 hoteles de Egipto
 
 - Alexandria, Egypt: [Four Seasons Hotel Alexandria](/hotels/1840/four-seasons-hotel-alexandria.html)
-- Aswan: [Sofitel Legend Old Cataract Aswan](/hotels/2548/sofitel-legend-old-cataract-aswan-.html)
+- Aswan: [Sofitel Legend Old Cataract Aswan](/hotels/2548/sofitel-legend-old-cataract-aswan.html)
 - El Cairo: [Conrad Cairo](/hotels/4157/conrad-cairo.html); [Fairmont Nile City Hotel](/hotels/6131/fairmont-nile-city-hotel.html); [Four Seasons Cairo at The First Residence](/hotels/1137/four-seasons-cairo-at-the-first-residence.html); [Four Seasons Hotel Cairo at Nile Plaza](/hotels/1410/four-seasons-hotel-cairo-at-nile-plaza.html); [InterContinental Cairo Semiramis](/hotels/4770/intercontinental-cairo-semiramis.html); [JW Marriott Hotel Cairo](/hotels/4983/jw-marriott-hotel-cairo.html); [Renaissance Cairo Mirage City Hotel](/hotels/6922/renaissance-cairo-mirage-city-hotel.html); [The Nile Ritz Carlton, Cairo](/hotels/3218/the-nile-ritz-carlton-cairo.html); [The Westin Cairo Golf Resort & Spa, Katameya Dunes](/hotels/6921/the-westin-cairo-golf-resort-spa-katameya-dunes.html); [Waldorf Astoria Cairo Heliopolis](/hotels/4166/waldorf-astoria-cairo-heliopolis.html)
 - Luxor/ Aswan / Upper Egypt: [Sofitel Winter Palace Luxor](/hotels/6898/sofitel-winter-palace-luxor.html)
 - Sharm El Sheikh: [Four Seasons Resort Sharm El Sheikh](/hotels/1846/four-seasons-resort-sharm-el-sheikh.html)

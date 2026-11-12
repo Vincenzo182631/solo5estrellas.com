@@ -36,7 +36,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Is
 ## Los 14 hoteles de Israel
 
 - Herzliya: [The Ritz-Carlton, Herzliya](/hotels/2935/the-ritz-carlton-herzliya.html)
-- Jerusalén: [David Citadel Hotel](/hotels/3570/david-citadel-hotel.html); [Inbal Jerusalem Hotel](/hotels/2382/inbal-jerusalem-hotel-.html); [Mamilla Hotel](/hotels/3032/mamilla-hotel.html); [The American Colony Hotel](/hotels/4826/the-american-colony-hotel.html); [Waldorf Astoria Jerusalem](/hotels/3122/waldorf-astoria-jerusalem.html)
+- Jerusalén: [David Citadel Hotel](/hotels/3570/david-citadel-hotel.html); [Inbal Jerusalem Hotel](/hotels/2382/inbal-jerusalem-hotel.html); [Mamilla Hotel](/hotels/3032/mamilla-hotel.html); [The American Colony Hotel](/hotels/4826/the-american-colony-hotel.html); [Waldorf Astoria Jerusalem](/hotels/3122/waldorf-astoria-jerusalem.html)
 - Shaharut: [Six Senses Shaharut](/hotels/6334/six-senses-shaharut.html)
 - Tel Aviv: [Dan Tel Aviv](/hotels/1128/dan-tel-aviv.html); [David InterContinental Tel Aviv](/hotels/2032/david-intercontinental-tel-aviv.html); [Sheraton Tel Aviv](/hotels/7005/sheraton-tel-aviv.html); [Tel Aviv Jaffa](/hotels/3532/tel-aviv-jaffa.html); [The Carlton Tel Aviv](/hotels/4539/the-carlton-tel-aviv.html); [The David Kempinski](/hotels/6812/the-david-kempinski.html); [The Setai Tel Aviv Hotel](/hotels/3954/the-setai-tel-aviv-hotel.html)
 
@@ -68,7 +68,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Oriente Medio](/regions/18/middle_east.html)
+- [Hoteles de lujo en Oriente Medio](/regions/18/middle-east.html)
 - [Hoteles The Signature Collection](/collection/79/)
 - [Hoteles Leading Hotels of the World](/collection/38/)
 - [Hoteles Ritz Carlton Hotels & Resorts](/collection/13/)

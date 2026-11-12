@@ -40,46 +40,46 @@ One&Only Resorts es la marca de resorts de lujo de Kerzner International, lanzad
 ### Norteamérica
 
 **Estados Unidos (1)**
-- [One&Only Moonlight Basin, Montana](/hotels/6829/One-Only-Moonlight-Basin-Montana.html) (Big Sky)
+- [One&Only Moonlight Basin, Montana](/hotels/6829/one-only-moonlight-basin-montana.html) (Big Sky)
 
 ### México, Caribe y Centroamérica
 
 **México (2)**
-- [One&Only Mandarina](/hotels/4247/One-Only-Mandarina.html) (Puerto Vallarta)
-- [One&Only Palmilla](/hotels/1031/One-Only-Palmilla.html) (Cabo San Lucas)
+- [One&Only Mandarina](/hotels/4247/one-only-mandarina.html) (Puerto Vallarta)
+- [One&Only Palmilla](/hotels/1031/one-only-palmilla.html) (Cabo San Lucas)
 
 ### Europa
 
 **Montenegro (1)**
-- [One&Only Portonovi, Montenegro](/hotels/4252/One-Only-Portonovi-Montenegro.html) (Boka Bay)
+- [One&Only Portonovi, Montenegro](/hotels/4252/one-only-portonovi-montenegro.html) (Boka Bay)
 
 **Grecia (2)**
-- [One&Only Aesthesis](/hotels/6647/One-Only-Aesthesis.html) (Atenas)
-- [One&Only Kea Island](/hotels/6539/One-Only-Kea-Island.html) (Atenas)
+- [One&Only Aesthesis](/hotels/6647/one-only-aesthesis.html) (Atenas)
+- [One&Only Kea Island](/hotels/6539/one-only-kea-island.html) (Atenas)
 
 ### África
 
 **Ruanda (2)**
-- [One & Only Gorilla's Nest](/hotels/4610/One-Only-Gorilla-s-Nest.html) (Kigali)
-- [One&Only Nyungwe House](/hotels/4271/One-Only-Nyungwe-House.html) (Nyungwe)
+- [One & Only Gorilla's Nest](/hotels/4610/one-only-gorilla-s-nest.html) (Kigali)
+- [One&Only Nyungwe House](/hotels/4271/one-only-nyungwe-house.html) (Nyungwe)
 
 **Sudáfrica (1)**
-- [One&Only Cape Town](/hotels/2290/One-Only-Cape-Town-.html) (Ciudad del Cabo)
+- [One&Only Cape Town](/hotels/2290/one-only-cape-town.html) (Ciudad del Cabo)
 
 ### Oriente Medio y norte de África
 
 **Emiratos Árabes Unidos (3)**
-- [One&Only One Za'abeel](/hotels/6588/One-Only-One-Za-abeel.html) (Dubái)
-- [One&Only Royal Mirage Dubai](/hotels/1364/One-Only-Royal-Mirage-Dubai.html) (Dubái)
-- [One&Only The Palm Dubai](/hotels/6663/One-Only-The-Palm-Dubai.html) (Dubái)
+- [One&Only One Za'abeel](/hotels/6588/one-only-one-za-abeel.html) (Dubái)
+- [One&Only Royal Mirage Dubai](/hotels/1364/one-only-royal-mirage-dubai.html) (Dubái)
+- [One&Only The Palm Dubai](/hotels/6663/one-only-the-palm-dubai.html) (Dubái)
 
 ### Asia
 
 **Maldivas (1)**
-- [One&Only Reethi Rah](/hotels/1399/One-Only-Reethi-Rah.html) (Maldivas)
+- [One&Only Reethi Rah](/hotels/1399/one-only-reethi-rah.html) (Maldivas)
 
 **Malasia (1)**
-- [One&Only Desaru Coast](/hotels/5027/One-Only-Desaru-Coast.html) (Bandar Penawar)
+- [One&Only Desaru Coast](/hotels/5027/one-only-desaru-coast.html) (Bandar Penawar)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -143,6 +143,6 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles Rosewood](/collection/10/)
 - [Hoteles Peninsula](/collection/9/)
-- [Hoteles de lujo en Miami](/cities/168/Miami.html)
+- [Hoteles de lujo en Miami](/cities/168/miami.html)
 
 *Fuentes externas: [Milepro: beneficios de One&Only](https://milepro.com/oneonly-benefits/); [American Express Travel: One&Only Resorts](https://www.americanexpress.com/en-AU/travel/discover/brand/one-and-only-resorts). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

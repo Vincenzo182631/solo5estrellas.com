@@ -55,14 +55,14 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de In
 - Ahmedabad: [Hyatt Regency Ahmedabad](/hotels/4113/hyatt-regency-ahmedabad.html)
 - Bangalore: [Conrad Bengaluru](/hotels/4156/conrad-bengaluru.html); [The Ritz-Carlton, Bangalore](/hotels/2770/the-ritz-carlton-bangalore.html)
 - Bengaluru: [Shangri-La Hotel, Bengaluru](/hotels/3079/shangri-la-hotel-bengaluru.html)
-- Bombay: [Four Seasons Hotel Mumbai](/hotels/2253/four-seasons-hotel-mumbai-.html); [Grand Hyatt Mumbai](/hotels/3412/grand-hyatt-mumbai-.html); [Sofitel Mumbai BKC](/hotels/4879/sofitel-mumbai-bkc.html); [The Taj Mahal Palace, Mumbai](/hotels/1161/the-taj-mahal-palace-mumbai.html)
+- Bombay: [Four Seasons Hotel Mumbai](/hotels/2253/four-seasons-hotel-mumbai.html); [Grand Hyatt Mumbai](/hotels/3412/grand-hyatt-mumbai.html); [Sofitel Mumbai BKC](/hotels/4879/sofitel-mumbai-bkc.html); [The Taj Mahal Palace, Mumbai](/hotels/1161/the-taj-mahal-palace-mumbai.html)
 - Chennai: [Hyatt Regency Chennai](/hotels/3365/hyatt-regency-chennai.html); [Park Hyatt Chennai](/hotels/3453/park-hyatt-chennai.html); [The Leela Palace Chennai](/hotels/4537/the-leela-palace-chennai.html)
 - Delhi: [Andaz Delhi](/hotels/3378/andaz-delhi.html)
-- Goa: [Alila Diwa Goa](/hotels/3959/alila-diwa-goa.html); [Grand Hyatt Goa](/hotels/3407/grand-hyatt-goa-.html); [Hyatt Centric Candolim Goa](/hotels/4841/hyatt-centric-candolim-goa.html); [W Goa](/hotels/3827/w-goa.html)
+- Goa: [Alila Diwa Goa](/hotels/3959/alila-diwa-goa.html); [Grand Hyatt Goa](/hotels/3407/grand-hyatt-goa.html); [Hyatt Centric Candolim Goa](/hotels/4841/hyatt-centric-candolim-goa.html); [W Goa](/hotels/3827/w-goa.html)
 - Gurgaon: [The Leela Palace Ambience Gurugram Hotel & Residence](/hotels/4538/the-leela-palace-ambience-gurugram-hotel-residence.html)
 - Hyderabad: [Park Hyatt Hyderabad](/hotels/3450/park-hyatt-hyderabad.html)
-- Jaipur: [Alila Fort Bishangarh](/hotels/3960/alila-fort-bishangarh.html); [Hyatt Regency Jaipur Mansarovar](/hotels/6395/hyatt-regency-jaipur-mansarovar.html); [Rambagh Palace](/hotels/1664/rambagh-palace-.html); [The Oberoi Rajvilas](/hotels/1024/the-oberoi-rajvilas.html)
-- Jodhpur: [Umaid Bhawan Palace](/hotels/1581/umaid-bhawan-palace-.html)
+- Jaipur: [Alila Fort Bishangarh](/hotels/3960/alila-fort-bishangarh.html); [Hyatt Regency Jaipur Mansarovar](/hotels/6395/hyatt-regency-jaipur-mansarovar.html); [Rambagh Palace](/hotels/1664/rambagh-palace.html); [The Oberoi Rajvilas](/hotels/1024/the-oberoi-rajvilas.html)
+- Jodhpur: [Umaid Bhawan Palace](/hotels/1581/umaid-bhawan-palace.html)
 - Kochi: [Grand Hyatt Kochi Bolgatty](/hotels/3647/grand-hyatt-kochi-bolgatty.html)
 - Mahabaleshwar: [Le Meridien Mahabaleshwar Resort & Spa](/hotels/3822/le-meridien-mahabaleshwar-resort-spa.html)
 - Nueva Delhi: [Leela Palace Hotel New Delhi](/hotels/3212/leela-palace-hotel-new-delhi.html); [Shangri-La's- Eros Hotel, New Delhi](/hotels/3078/shangri-la-s-eros-hotel-new-delhi.html); [Taj Mahal New Delhi](/hotels/1714/taj-mahal-new-delhi.html); [The Lodhi-Shima-Shi](/hotels/3117/the-lodhi-shima-shi.html)
@@ -101,7 +101,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles Taj Hotels](/collection/26/)
 - [Hoteles Hyatt Regency Hotels](/collection/29/)
 - [Hoteles Grand Hyatt](/collection/28/)

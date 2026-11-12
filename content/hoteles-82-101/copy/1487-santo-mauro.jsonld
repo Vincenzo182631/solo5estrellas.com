@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Santo Mauro, a Luxury Collection Hotel, Madrid",
-          "item": "https://solo5estrellas.com/hotels/1487/santo_mauro,_a_luxury_collection_hotel.html"
+          "item": "https://solo5estrellas.com/hotels/1487/santo-mauro-a-luxury-collection-hotel.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/1487/santo_mauro,_a_luxury_collection_hotel.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/1487/santo_mauro,_a_luxury_collection_hotel.html",
+      "@id": "https://solo5estrellas.com/hotels/1487/santo-mauro-a-luxury-collection-hotel.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1487/santo-mauro-a-luxury-collection-hotel.html",
       "name": "Santo Mauro, a Luxury Collection Hotel, Madrid",
       "description": "Santo Mauro, a Luxury Collection Hotel, palacete del duque de Santo Mauro en Chamberí, con piscina cubierta. Con Solo5Estrellas: desayuno y crédito.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Santo Mauro, a Luxury Collection Hotel, Madrid",
-      "url": "https://solo5estrellas.com/hotels/1487/santo_mauro,_a_luxury_collection_hotel.html",
+      "url": "https://solo5estrellas.com/hotels/1487/santo-mauro-a-luxury-collection-hotel.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Calle de Zurbano 36",

@@ -18,9 +18,9 @@ El barrio de hoteles clásicos de Londres, entre Hyde Park y Bond Street. Tienda
 - [Claridge's](/hotels/1429/claridge-s.html)
 - [Cambridge House, Auberge Collection](/hotels/7131/cambridge-house-auberge-collection.html)
 - [Como Metropolitan London](/hotels/1945/como-metropolitan-london.html)
-- [Flemings Mayfair](/hotels/2039/flemings-mayfair-.html)
+- [Flemings Mayfair](/hotels/2039/flemings-mayfair.html)
 - [Four Seasons London at Park Lane](/hotels/1423/four-seasons-london-at-park-lane.html)
-- [InterContinental London Park Lane](/hotels/3983/intercontinental-london-park-lane-.html)
+- [InterContinental London Park Lane](/hotels/3983/intercontinental-london-park-lane.html)
 - [JW Marriott Grosvenor House London](/hotels/3710/jw-marriott-grosvenor-house-london.html)
 - [London Marriott Hotel Grosvenor Square](/hotels/3793/london-marriott-hotel-grosvenor-square.html)
 - [London Marriott Hotel Park Lane](/hotels/3794/london-marriott-hotel-park-lane.html)
@@ -30,9 +30,9 @@ El barrio de hoteles clásicos de Londres, entre Hyde Park y Bond Street. Tienda
 - [The Athenaeum Hotel](/hotels/955/the-athenaeum-hotel.html)
 - [The Beaumont](/hotels/3114/the-beaumont.html)
 - [The Chesterfield Mayfair Hotel](/hotels/1950/the-chesterfield-mayfair-hotel.html)
-- [The Connaught](/hotels/1430/the-connaught-.html)
+- [The Connaught](/hotels/1430/the-connaught.html)
 - [The Dorchester](/hotels/1002/the-dorchester.html)
-- [The May Fair](/hotels/2509/the-may-fair-.html)
+- [The May Fair](/hotels/2509/the-may-fair.html)
 - [The St. Regis London](/hotels/7104/the-st-regis-london.html)
 
 ### St James's y Piccadilly
@@ -42,19 +42,19 @@ Zona histórica entre Piccadilly y St James's Park, con clubes, sastrerías y Gr
 - [Hotel Cafe Royal](/hotels/3009/hotel-cafe-royal.html)
 - [Sofitel London St. James](/hotels/4904/sofitel-london-st-james.html)
 - [The Ritz London](/hotels/1044/the-ritz-london.html)
-- [The Stafford London](/hotels/981/the-stafford-london-.html)
+- [The Stafford London](/hotels/981/the-stafford-london.html)
 
 ### Westminster, Victoria y Belgravia
 
 Cerca del Parlamento, Buckingham Palace y la estación Victoria. Adecuada si quiere ver los monumentos a pie o tomar el tren a Gatwick desde Victoria.
 
-- [41](/hotels/1944/41-.html)
+- [41](/hotels/1944/41.html)
 - [Conrad London St. James](/hotels/4140/conrad-london-st-james.html)
 - [Corinthia Hotel London](/hotels/2582/corinthia-hotel-london.html)
 - [Great Scotland Yard](/hotels/3909/great-scotland-yard.html)
 - [Raffles London at The OWO](/hotels/6444/raffles-london-at-the-owo.html)
 - [St. Ermin's Hotel](/hotels/3776/st-ermin-s-hotel.html)
-- [Taj 51 Buckingham Gate](/hotels/1157/taj-51-buckingham-gate-.html)
+- [Taj 51 Buckingham Gate](/hotels/1157/taj-51-buckingham-gate.html)
 - [The Goring Hotel](/hotels/1146/the-goring-hotel.html)
 - [The Guardsman](/hotels/4571/the-guardsman.html)
 - [The Peninsula London](/hotels/6422/the-peninsula-london.html)
@@ -66,10 +66,10 @@ Al sur de Hyde Park: tiendas de lujo y grandes almacenes, los museos de South Ke
 
 - [Belmond Cadogan Hotel](/hotels/3699/belmond-cadogan-hotel.html)
 - [Bvlgari Hotel London](/hotels/2940/bvlgari-hotel-london.html)
-- [Jumeirah Carlton Tower](/hotels/2750/jumeirah-carlton-tower-.html)
-- [Jumeirah Lowndes Hotel](/hotels/2751/jumeirah-lowndes-hotel-.html)
+- [Jumeirah Carlton Tower](/hotels/2750/jumeirah-carlton-tower.html)
+- [Jumeirah Lowndes Hotel](/hotels/2751/jumeirah-lowndes-hotel.html)
 - [Mandarin Oriental London](/hotels/1104/mandarin-oriental-london.html)
-- [Milestone Hotel](/hotels/1946/milestone-hotel-.html)
+- [Milestone Hotel](/hotels/1946/milestone-hotel.html)
 - [The Ampersand Hotel](/hotels/6242/the-ampersand-hotel.html)
 - [The Berkeley](/hotels/1770/the-berkeley.html)
 - [The Capital Hotel](/hotels/1428/the-capital-hotel.html)
@@ -84,10 +84,10 @@ Al sur de Hyde Park: tiendas de lujo y grandes almacenes, los museos de South Ke
 
 Al norte de Oxford Street, con calles de barrio, cafés y restaurantes. Se llega a Mayfair y al West End a pie o en metro.
 
-- [Hyatt Regency London Churchill](/hotels/3434/hyatt-regency-london-churchill-.html)
-- [Royal Lancaster London Hotel](/hotels/4557/royal-lancaster-london-hotel-.html)
+- [Hyatt Regency London Churchill](/hotels/3434/hyatt-regency-london-churchill.html)
+- [Royal Lancaster London Hotel](/hotels/4557/royal-lancaster-london-hotel.html)
 - [Six Senses London](/hotels/6987/six-senses-london.html)
-- [The Langham, London](/hotels/2153/the-langham-london-.html)
+- [The Langham, London](/hotels/2153/the-langham-london.html)
 - [The London EDITION](/hotels/2963/the-london-edition.html)
 - [The Prince Akatoki London](/hotels/6076/the-prince-akatoki-london.html)
 
@@ -111,14 +111,14 @@ Zona de museos y universidades, con la estación de St Pancras (Eurostar) y King
 
 - [Kimpton Fitzroy London](/hotels/5060/kimpton-fitzroy-london.html)
 - [St Pancras London](/hotels/2781/st-pancras-london.html)
-- [The Montague on the Gardens Hotel](/hotels/1947/the-montague-on-the-gardens-hotel-.html)
+- [The Montague on the Gardens Hotel](/hotels/1947/the-montague-on-the-gardens-hotel.html)
 - [The Standard London](/hotels/6880/the-standard-london.html)
 
 ### La City y el sur del Támesis
 
 El distrito financiero y la orilla sur del río, con vistas al Támesis, Tower Bridge y The Shard. Más tranquila los fines de semana y bien conectada por metro.
 
-- [Andaz London Liverpool Street](/hotels/3383/andaz-london-liverpool-street-.html)
+- [Andaz London Liverpool Street](/hotels/3383/andaz-london-liverpool-street.html)
 - [Bankside, Autograph Collection](/hotels/3833/bankside-autograph-collection.html)
 - [Four Seasons London at Tower Bridge](/hotels/3118/four-seasons-london-at-tower-bridge.html)
 - [Hyatt Regency London Blackfriars](/hotels/6672/hyatt-regency-london-blackfriars.html)
@@ -200,7 +200,7 @@ Sí: Four Seasons London at Park Lane, en Mayfair, y Four Seasons London at Towe
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles Ritz-Carlton](/chains/13/ritz_carlton.html)
 - [Hoteles Aman](/chains/21/Aman_Resorts.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 - [Hoteles de lujo en Europa](/regions/8/europe.html)
 
 *Fuentes: [Heathrow Express: tiempo de viaje](https://www.heathrowexpress.com/the-route/journey-time); [Heathrow: trenes](https://www.heathrow.com/transport-and-directions/trains); [GOV.UK: autorización electrónica de viaje (ETA)](https://www.gov.uk/eta). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

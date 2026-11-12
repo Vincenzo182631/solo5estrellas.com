@@ -40,24 +40,24 @@ Reservar 1 Hotels con Solo5Estrellas cuesta lo mismo que en la web del hotel, po
 ### Norteamérica
 
 **Estados Unidos (7)**
-- [1 Hotel San Francisco](/hotels/6497/1-Hotel-San-Francisco.html) (San Francisco)
-- [1 Hotel West Hollywood](/hotels/6499/1-Hotel-West-Hollywood.html) (West Hollywood)
-- [1 Hotel South Beach](/hotels/6412/1-Hotel-South-Beach.html) (South Beach)
-- [1 Hotel Hanalei Bay](/hotels/6374/1-Hotel-Hanalei-Bay.html) (Kauai)
-- [1 Hotel Brooklyn Bridge](/hotels/6494/1-Hotel-Brooklyn-Bridge.html) (Nueva York)
-- [1 Hotel Central Park](/hotels/6495/1-Hotel-Central-Park.html) (Nueva York)
-- [1 Hotel Nashville](/hotels/6496/1-Hotel-Nashville.html) (Nashville)
+- [1 Hotel San Francisco](/hotels/6497/1-hotel-san-francisco.html) (San Francisco)
+- [1 Hotel West Hollywood](/hotels/6499/1-hotel-west-hollywood.html) (West Hollywood)
+- [1 Hotel South Beach](/hotels/6412/1-hotel-south-beach.html) (South Beach)
+- [1 Hotel Hanalei Bay](/hotels/6374/1-hotel-hanalei-bay.html) (Kauai)
+- [1 Hotel Brooklyn Bridge](/hotels/6494/1-hotel-brooklyn-bridge.html) (Nueva York)
+- [1 Hotel Central Park](/hotels/6495/1-hotel-central-park.html) (Nueva York)
+- [1 Hotel Nashville](/hotels/6496/1-hotel-nashville.html) (Nashville)
 
 **Canadá (1)**
-- [1 Hotel Toronto](/hotels/6498/1-Hotel-Toronto.html) (Toronto)
+- [1 Hotel Toronto](/hotels/6498/1-hotel-toronto.html) (Toronto)
 
 ### Europa
 
 **Dinamarca (1)**
-- [Hotel SKT Petri Copenhagen](/hotels/6527/Hotel-SKT-Petri-Copenhagen.html) (Copenhague)
+- [Hotel SKT Petri Copenhagen](/hotels/6527/hotel-skt-petri-copenhagen.html) (Copenhague)
 
 **Reino Unido (1)**
-- [1 Hotel Mayfair](/hotels/6500/1-Hotel-Mayfair.html) (Londres)
+- [1 Hotel Mayfair](/hotels/6500/1-hotel-mayfair.html) (Londres)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -121,7 +121,7 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles Rosewood](/collection/10/)
 - [Hoteles Auberge Resorts](/collection/90/)
-- [Hoteles de lujo en Miami](/cities/168/Miami.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Miami](/cities/168/miami.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 
 *Fuentes externas: [Stars Desk: 1 Hotels Preferred Partner](https://www.starsdesk.com/1-hotels). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

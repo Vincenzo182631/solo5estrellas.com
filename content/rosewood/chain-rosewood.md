@@ -40,11 +40,11 @@ Rosewood Hotels & Resorts gestiona unas 44 propiedades de lujo de diseño indivi
 **Estados Unidos (7)**
 - [Rosewood Miramar Beach](/hotels/3483/rosewood-miramar-beach-hotel.html) (Montecito, California)
 - [Rosewood Sand Hill](/hotels/2295/rosewood-sand-hill.html) (Menlo Park, California)
-- [Rosewood Washington, D.C.](/hotels/3092/rosewood-washington-d-c-.html) (Washington D. C., District of Columbia)
+- [Rosewood Washington, D.C.](/hotels/3092/rosewood-washington-d-c.html) (Washington D. C., District of Columbia)
 - [Kona Village, A Rosewood Resort](/hotels/6370/kona-village-a-rosewood-resort.html) (Big Island, Hawaii)
 - [Rosewood Inn of the Anasazi](/hotels/1907/rosewood-inn-of-the-anasazi.html) (Santa Fe, New Mexico)
 - [The Carlyle, A Rosewood Hotel](/hotels/1119/the-carlyle-a-rosewood-hotel.html) (Nueva York)
-- [Rosewood Mansion On Turtle Creek](/hotels/1439/rosewood-mansion-on-turtle-creek-.html) (Dallas, Texas)
+- [Rosewood Mansion On Turtle Creek](/hotels/1439/rosewood-mansion-on-turtle-creek.html) (Dallas, Texas)
 
 **Canadá (1)**
 - [Rosewood Hotel Georgia](/hotels/2470/rosewood-hotel-georgia.html) (Vancouver, British Columbia)
@@ -74,7 +74,7 @@ Rosewood Hotels & Resorts gestiona unas 44 propiedades de lujo de diseño indivi
 ### Europa
 
 **Austria (2)**
-- [Rosewood Schloss Fuschl](/hotels/1728/rosewood-schloss-fuschl-.html) (Hof bei Salzburg)
+- [Rosewood Schloss Fuschl](/hotels/1728/rosewood-schloss-fuschl.html) (Hof bei Salzburg)
 - [Rosewood Vienna](/hotels/6291/rosewood-vienna.html) (Viena)
 
 **Francia (2)**

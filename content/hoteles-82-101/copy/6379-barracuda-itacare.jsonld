@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Barracuda Hotel & Villas",
-          "item": "https://solo5estrellas.com/hotels/6379/Barracuda-Hotel-and-Villas.html"
+          "item": "https://solo5estrellas.com/hotels/6379/barracuda-hotel-and-villas.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/6379/Barracuda-Hotel-and-Villas.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/6379/Barracuda-Hotel-and-Villas.html",
+      "@id": "https://solo5estrellas.com/hotels/6379/barracuda-hotel-and-villas.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6379/barracuda-hotel-and-villas.html",
       "name": "Barracuda Hotel & Villas",
       "description": "Barracuda Hotel & Villas, en un acantilado de Itacaré (Bahía), con villas con piscina privada. Desayuno incluido; con Solo5Estrellas: crédito de 100 USD.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Barracuda Hotel & Villas",
-      "url": "https://solo5estrellas.com/hotels/6379/Barracuda-Hotel-and-Villas.html",
+      "url": "https://solo5estrellas.com/hotels/6379/barracuda-hotel-and-villas.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Rua Pedro Longo 600",

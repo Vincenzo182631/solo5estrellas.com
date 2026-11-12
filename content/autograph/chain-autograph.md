@@ -44,7 +44,7 @@ Autograph Collection es el portafolio de hoteles independientes de Marriott Inte
 - [The Grand Hotel Golf Resort & Spa, Autograph Collection](/hotels/4163/the-grand-hotel-golf-resort-spa-autograph-collection.html) (Point Clear)
 - [Adero Scottsdale Resort](/hotels/6718/adero-scottsdale-resort.html) (Scottsdale)
 - [The Camby](/hotels/6863/the-camby.html) (Phoenix)
-- [Pier South, Autograph Collection](/hotels/3750/-pier-south-autograph-collection.html) (San Diego)
+- [Pier South, Autograph Collection](/hotels/3750/pier-south-autograph-collection.html) (San Diego)
 - [Hotel Nia, Autograph Collection](/hotels/3831/hotel-nia-autograph-collection.html) (Menlo Park)
 - [Inn at the Mission, Autograph Collection](/hotels/4065/inn-at-the-mission-autograph-collection.html) (San Juan Capistrano)
 - [Lido House, Autograph Collection](/hotels/3887/lido-house-autograph-collection.html) (Newport Beach)
@@ -70,14 +70,14 @@ Autograph Collection es el portafolio de hoteles independientes de Marriott Inte
 - [The Ben, Autograph Collection](/hotels/4995/the-ben-autograph-collection.html) (West Palm Beach)
 - [The Current Hotel, Autograph Collection](/hotels/4671/the-current-hotel-autograph-collection.html) (Tampa)
 - [The Daytona, Autograph Collection](/hotels/3821/the-daytona-autograph-collection.html) (Daytona Beach)
-- [The Vinoy® Resort & Golf Club](/hotels/4728/the-vinoy-resort-golf-club-.html) (San Petersburgo)
+- [The Vinoy® Resort & Golf Club](/hotels/4728/the-vinoy-resort-golf-club.html) (San Petersburgo)
 - [Walt Disney World Swan Reserve](/hotels/4739/walt-disney-world-swan-reserve.html) (Orlando and Disney World)
 - [Waterline Marina Resort & Beach Club, Autograph Collection](/hotels/3834/waterline-marina-resort-beach-club-autograph-collection.html) (Holmes Beach)
 - [Bohemian Hotel Savannah Riverfront, Autograph Collection](/hotels/3272/bohemian-hotel-savannah-riverfront-autograph-collection.html) (Savannah)
 - [Hotel Colee, Autograph Collection](/hotels/4729/hotel-colee-autograph-collection.html) (Atlanta)
 - [Mansion on Forsyth Park, Autograph Collection](/hotels/3271/mansion-on-forsyth-park-autograph-collection.html) (Savannah)
 - [Twelve Atlantic Station](/hotels/3813/twelve-atlantic-station.html) (Atlanta)
-- [Mauna Kea Beach Hotel](/hotels/2358/mauna-kea-beach-hotel-.html) (Big Island)
+- [Mauna Kea Beach Hotel](/hotels/2358/mauna-kea-beach-hotel.html) (Big Island)
 - [The Laylow - Autograph Collection](/hotels/3291/the-laylow-autograph-collection.html) (Honolulu)
 - [The Blackstone, Autograph Collection](/hotels/3838/the-blackstone-autograph-collection.html) (Chicago)
 - [The Drake Oakbrook](/hotels/6101/the-drake-oakbrook.html) (Oak Brook)
@@ -100,7 +100,7 @@ Autograph Collection es el portafolio de hoteles independientes de Marriott Inte
 - [Metropolitan at The 9, Autograph Collection](/hotels/3783/metropolitan-at-the-9-autograph-collection.html) (Cleveland)
 - [The Lytle Park Hotel](/hotels/5005/the-lytle-park-hotel.html) (Cincinnati)
 - [Ambassador Hotel Oklahoma City, Autograph Collection](/hotels/4682/ambassador-hotel-oklahoma-city-autograph-collection.html) (Oklahoma City)
-- [The Industrialist Hotel](/hotels/4697/the-industrialist-hotel-.html) (Pittsburgh)
+- [The Industrialist Hotel](/hotels/4697/the-industrialist-hotel.html) (Pittsburgh)
 - [The Notary Hotel](/hotels/4041/the-notary-hotel.html) (Filadelfia)
 - [The Oaklander Hotel, Autograph Collection](/hotels/3826/the-oaklander-hotel-autograph-collection.html) (Pittsburgh)
 - [Grand Bohemian Hotel Charleston, Autograph Collection](/hotels/3786/grand-bohemian-hotel-charleston-autograph-collection.html) (Charleston)
@@ -129,8 +129,8 @@ Autograph Collection es el portafolio de hoteles independientes de Marriott Inte
 - [Hacienda del Mar Los Cabos](/hotels/6911/hacienda-del-mar-los-cabos.html) (Cabo San Lucas)
 
 **Barbados (2)**
-- [Tamarind Barbados, An Autograph Collection All-Inclusive Resort](/hotels/7126/tamarind-barbados-an-autograph-collection-br-all-inclusive-resort-br-.html) (St. James (Barbados))
-- [Treasure Beach Art Hotel, Barbados, An Autograph Collection All-Inclusive Resort](/hotels/7128/treasure-beach-art-hotel-barbados-an-autograph-collection-br-all-inclusive-resort-br-.html) (St. James (Barbados))
+- [Tamarind Barbados, An Autograph Collection All-Inclusive Resort](/hotels/7126/tamarind-barbados-an-autograph-collection-br-all-inclusive-resort-br.html) (St. James (Barbados))
+- [Treasure Beach Art Hotel, Barbados, An Autograph Collection All-Inclusive Resort](/hotels/7128/treasure-beach-art-hotel-barbados-an-autograph-collection-br-all-inclusive-resort-br.html) (St. James (Barbados))
 
 **Belice (1)**
 - [Alaia Belize, Autograph Collection](/hotels/4715/alaia-belize-autograph-collection.html) (San Pedro)
@@ -139,7 +139,7 @@ Autograph Collection es el portafolio de hoteles independientes de Marriott Inte
 - [La Concha Resort](/hotels/3726/la-concha-resort.html) (San Juan)
 
 **Islas Vírgenes de EE. UU. (1)**
-- [Buoy Haus Beach Resort](/hotels/6563/buoy-haus-beach-resort-.html) (St. Thomas)
+- [Buoy Haus Beach Resort](/hotels/6563/buoy-haus-beach-resort.html) (St. Thomas)
 
 **Bahamas (1)**
 - [French Leave Resort](/hotels/3873/french-leave-resort.html) (Eleuthera)
@@ -160,26 +160,26 @@ Autograph Collection es el portafolio de hoteles independientes de Marriott Inte
 
 **Turquía (2)**
 - [Adahan Decamondo Pera](/hotels/6361/adahan-decamondo-pera.html) (Estambul)
-- [Orientbank Hotel](/hotels/6666/orientbank-hotel-.html) (Estambul)
+- [Orientbank Hotel](/hotels/6666/orientbank-hotel.html) (Estambul)
 
 **Austria (1)**
 - [Imperial Riding School Vienna](/hotels/6661/imperial-riding-school-vienna.html) (Viena)
 
 **Francia (2)**
-- [Hotel de Bourgtheroulde, Autograph Collection®](/hotels/3719/hotel-de-bourgtheroulde-autograph-collection-.html) (Rouen)
+- [Hotel de Bourgtheroulde, Autograph Collection®](/hotels/3719/hotel-de-bourgtheroulde-autograph-collection.html) (Rouen)
 - [La Caserne Chanzy Hotel & Spa, Autograph Collection](/hotels/4999/la-caserne-chanzy-hotel-spa-autograph-collection.html) (Reims)
 
 **Alemania (6)**
 - [Falkenstein Grand, Autograph Collection](/hotels/6508/falkenstein-grand-autograph-collection.html) (Hessen)
 - [Hotel am Steinplatz Autograph Collection](/hotels/3773/hotel-am-steinplatz-autograph-collection.html) (Berlín)
-- [Hotel Luc](/hotels/4106/hotel-luc-.html) (Berlín)
+- [Hotel Luc](/hotels/4106/hotel-luc.html) (Berlín)
 - [Roomers Baden-Baden](/hotels/3857/roomers-baden-baden.html) (Baden-Baden)
 - [Roomers Munich](/hotels/3859/roomers-munich.html) (Múnich)
 - [Schloss Lieser, Autograph Collection](/hotels/4992/schloss-lieser-autograph-collection.html) (Lieser)
 
 **Grecia (8)**
 - [Academias Hotel](/hotels/4985/academias-hotel.html) (Atenas)
-- [Domes Aulus Zante](/hotels/6360/domes-aulus-zante-.html) (Zante)
+- [Domes Aulus Zante](/hotels/6360/domes-aulus-zante.html) (Zante)
 - [Domes Noruz Chania](/hotels/3872/domes-noruz-chania.html) (Creta)
 - [Domes Novos Santorini](/hotels/6946/domes-novos-santorini.html) (Oia)
 - [Domes of Corfu](/hotels/6579/domes-of-corfu.html) (Corfú)
@@ -207,7 +207,7 @@ Autograph Collection es el portafolio de hoteles independientes de Marriott Inte
 
 **Portugal (3)**
 - [Domes Lake Algarve, Autograph Collection](/hotels/6564/domes-lake-algarve-autograph-collection.html) (Algarve)
-- [Forte de Gaia, Autograph Collection](/hotels/6834/forte-de-gaia-autograph-collection-.html) (Porto)
+- [Forte de Gaia, Autograph Collection](/hotels/6834/forte-de-gaia-autograph-collection.html) (Porto)
 - [The Ivens](/hotels/6086/the-ivens.html) (Lisboa)
 
 **Escocia (1)**
@@ -220,8 +220,8 @@ Autograph Collection es el portafolio de hoteles independientes de Marriott Inte
 - [Hacienda Son Antem Golf Resort](/hotels/7069/hacienda-son-antem-golf-resort.html) (Mallorca)
 - [Hotel Circulo Gran Via,  Autograph Collection](/hotels/3839/hotel-circulo-gran-via-autograph-collection.html) (Madrid)
 - [Hotel Ercilla de Bilbao, Autograph Collection](/hotels/4079/hotel-ercilla-de-bilbao-autograph-collection.html) (Bilbao)
-- [Hotel Palacio de Santa Paula](/hotels/2055/hotel-palacio-de-santa-paula-.html) (Granada)
-- [Hotel Palacio Del Carmen](/hotels/6357/hotel-palacio-del-carmen-.html) (Santiago de Compostela)
+- [Hotel Palacio de Santa Paula](/hotels/2055/hotel-palacio-de-santa-paula.html) (Granada)
+- [Hotel Palacio Del Carmen](/hotels/6357/hotel-palacio-del-carmen.html) (Santiago de Compostela)
 - [Hotel Palacio Del Retiro](/hotels/4981/hotel-palacio-del-retiro.html) (Madrid)
 - [Palacio Santa Clara, Autograph Collection](/hotels/6639/palacio-santa-clara-autograph-collection.html) (Valencia)
 - [Palacio Tondon, La Rioja Brinas](/hotels/6489/palacio-tondon-la-rioja-brinas.html) (La Rioja)
@@ -266,7 +266,7 @@ Autograph Collection es el portafolio de hoteles independientes de Marriott Inte
 - [Hotel Stripes Kuala Lumpur, Autograph Collection](/hotels/3829/hotel-stripes-kuala-lumpur-autograph-collection.html) (Kuala Lumpur)
 
 **Singapur (1)**
-- [Maxwell Reserve Singapore](/hotels/6363/maxwell-reserve-singapore-.html) (Singapur)
+- [Maxwell Reserve Singapore](/hotels/6363/maxwell-reserve-singapore.html) (Singapur)
 
 **Tailandia (1)**
 - [Madi Paidi Bangkok, Autograph Collection](/hotels/6507/madi-paidi-bangkok-autograph-collection.html) (Bangkok)

@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Rocco Forte House Via Manzoni Milano",
-          "item": "https://solo5estrellas.com/hotels/6697/Rocco-Forte-House-Milan.html"
+          "item": "https://solo5estrellas.com/hotels/6697/rocco-forte-house-milan.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/6697/Rocco-Forte-House-Milan.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/6697/Rocco-Forte-House-Milan.html",
+      "@id": "https://solo5estrellas.com/hotels/6697/rocco-forte-house-milan.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6697/rocco-forte-house-milan.html",
       "name": "Rocco Forte House Via Manzoni Milano",
       "description": "Rocco Forte House Via Manzoni Milano: 11 apartamentos con cocina en el Cuadrilátero de la Moda. Con Solo5Estrellas: desayuno y crédito de 100 USD.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Rocco Forte House Via Manzoni Milano",
-      "url": "https://solo5estrellas.com/hotels/6697/Rocco-Forte-House-Milan.html",
+      "url": "https://solo5estrellas.com/hotels/6697/rocco-forte-house-milan.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Via Manzoni 46",

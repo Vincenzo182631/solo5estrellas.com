@@ -40,14 +40,14 @@ The Oberoi Group es una compañía hotelera de lujo india fundada en 1934. Solo5
 ### Oriente Medio y norte de África
 
 **Marruecos (1)**
-- [The Oberoi Marrakech](/hotels/4822/The-Oberoi-Marrakech.html) (Marrakech)
+- [The Oberoi Marrakech](/hotels/4822/the-oberoi-marrakech.html) (Marrakech)
 
 ### Asia
 
 **India (3)**
-- [The Oberoi New Delhi](/hotels/1023/The-Oberoi-New-Delhi.html) (Nueva Delhi)
-- [The Oberoi Rajvilas](/hotels/1024/The-Oberoi-Rajvilas.html) (Jaipur)
-- [The Oberoi Udaivilas](/hotels/1242/The-Oberoi-Udaivilas.html) (Udaipur)
+- [The Oberoi New Delhi](/hotels/1023/the-oberoi-new-delhi.html) (Nueva Delhi)
+- [The Oberoi Rajvilas](/hotels/1024/the-oberoi-rajvilas.html) (Jaipur)
+- [The Oberoi Udaivilas](/hotels/1242/the-oberoi-udaivilas.html) (Udaipur)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -114,4 +114,4 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles Rosewood](/collection/10/)
 - [Hoteles Raffles](/collection/11/)
 
-*Fuentes externas: [The Oberoi Group](https://www.oberoihotels.com/); [WhataHotel: Oberoi Hotels & Resorts](https://www.whatahotel.com/collection/6/Oberoi_Hotels.html). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*
+*Fuentes externas: [The Oberoi Group](https://www.oberoihotels.com/); [WhataHotel: Oberoi Hotels & Resorts](https://www.whatahotel.com/collection/6/oberoi-hotels.html). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

@@ -60,7 +60,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles The Signature Collection](/collection/79/)
 - [Hoteles Marriott Hotels & Resorts](/collection/69/)
 - [Hoteles InterContinental Hotels & Resorts](/collection/15/)

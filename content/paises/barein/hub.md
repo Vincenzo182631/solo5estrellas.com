@@ -26,7 +26,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ba
 
 ## Los 5 hoteles de Baréin
 
-- Manama: [Conrad Bahrain Financial Harbor](/hotels/6709/conrad-bahrain-financial-harbor.html); [Four Seasons Hotel Bahrain Bay](/hotels/2951/four-seasons-hotel-bahrain-bay-.html); [InterContinental Bahrain](/hotels/4755/intercontinental-bahrain.html); [Jumeirah Royal Saray Bahrain](/hotels/4659/jumeirah-royal-saray-bahrain.html); [The Ritz Carlton Bahrain Hotel & Spa](/hotels/1627/the-ritz-carlton-bahrain-hotel-spa.html)
+- Manama: [Conrad Bahrain Financial Harbor](/hotels/6709/conrad-bahrain-financial-harbor.html); [Four Seasons Hotel Bahrain Bay](/hotels/2951/four-seasons-hotel-bahrain-bay.html); [InterContinental Bahrain](/hotels/4755/intercontinental-bahrain.html); [Jumeirah Royal Saray Bahrain](/hotels/4659/jumeirah-royal-saray-bahrain.html); [The Ritz Carlton Bahrain Hotel & Spa](/hotels/1627/the-ritz-carlton-bahrain-hotel-spa.html)
 
 ## Preguntas frecuentes sobre hoteles en Baréin
 
@@ -56,7 +56,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Oriente Medio](/regions/18/middle_east.html)
+- [Hoteles de lujo en Oriente Medio](/regions/18/middle-east.html)
 - [Hoteles Conrad Hotels & Resorts](/collection/80/)
 - [Hoteles Four Seasons](/collection/2/)
 - [Hoteles InterContinental Hotels & Resorts](/collection/15/)

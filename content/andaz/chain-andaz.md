@@ -42,9 +42,9 @@ Andaz es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, operado 
 
 **Estados Unidos (8)**
 - [Andaz Scottsdale Resort & Spa](/hotels/3231/andaz-scottsdale-resort-spa.html) (Scottsdale, Arizona)
-- [Andaz Napa](/hotels/3382/andaz-napa-.html) (Napa Valley, California)
+- [Andaz Napa](/hotels/3382/andaz-napa.html) (Napa Valley, California)
 - [Andaz San Diego](/hotels/3380/andaz-san-diego.html) (San Diego, California)
-- [Andaz West Hollywood](/hotels/2254/andaz-west-hollywood-.html) (West Hollywood, California)
+- [Andaz West Hollywood](/hotels/2254/andaz-west-hollywood.html) (West Hollywood, California)
 - [Andaz Miami Beach](/hotels/6768/andaz-miami-beach.html) (Miami Beach, Florida)
 - [Andaz Savannah](/hotels/2974/andaz-savannah.html) (Savannah, Georgia)
 - [Andaz Maui at Wailea](/hotels/2706/andaz-maui-at-wailea.html) (Maui, Hawaii)
@@ -64,7 +64,7 @@ Andaz es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, operado 
 - [Andaz Prague](/hotels/6096/andaz-prague.html) (Praga)
 
 **Austria (1)**
-- [Andaz Vienna Am Belvedere](/hotels/3635/andaz-vienna-am-belvedere-.html) (Viena)
+- [Andaz Vienna Am Belvedere](/hotels/3635/andaz-vienna-am-belvedere.html) (Viena)
 
 **Alemania (1)**
 - [Andaz Munich Schwabinger Tor](/hotels/3634/andaz-munich-schwabinger-tor.html) (Múnich)
@@ -76,7 +76,7 @@ Andaz es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, operado 
 - [Andaz Lisbon](/hotels/6934/andaz-lisbon.html) (Lisboa)
 
 **Reino Unido (1)**
-- [Andaz London Liverpool Street](/hotels/3383/andaz-london-liverpool-street-.html) (Londres)
+- [Andaz London Liverpool Street](/hotels/3383/andaz-london-liverpool-street.html) (Londres)
 
 ### Oriente Medio y norte de África
 
@@ -96,13 +96,13 @@ Andaz es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, operado 
 - [Andaz Shenzhen Bay](/hotels/4616/andaz-shenzhen-bay.html) (Shenzhen)
 - [Andaz Singapore](/hotels/3385/andaz-singapore.html) (Singapur)
 - [Andaz Xiamen](/hotels/4619/andaz-xiamen.html) (Xiamen)
-- [Andaz Xintiandi](/hotels/3387/andaz-xintiandi-.html) (Shanghái)
+- [Andaz Xintiandi](/hotels/3387/andaz-xintiandi.html) (Shanghái)
 
 **Indonesia (1)**
 - [Andaz Bali](/hotels/6229/andaz-bali.html) (Bali)
 
 **Japón (1)**
-- [Andaz Tokyo Toranomon Hills](/hotels/3386/andaz-tokyo-toranomon-hills-.html) (Tokio)
+- [Andaz Tokyo Toranomon Hills](/hotels/3386/andaz-tokyo-toranomon-hills.html) (Tokio)
 
 **Tailandia (2)**
 - [Andaz One Bangkok](/hotels/7132/andaz-one-bangkok.html) (Bangkok)

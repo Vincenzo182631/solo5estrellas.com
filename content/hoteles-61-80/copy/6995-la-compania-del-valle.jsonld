@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Hotel La Compañía del Valle",
-          "item": "https://solo5estrellas.com/hotels/6995/Hotel-La-Compa-a-de-Valle.html"
+          "item": "https://solo5estrellas.com/hotels/6995/hotel-la-compa-a-de-valle.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/6995/Hotel-La-Compa-a-de-Valle.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/6995/Hotel-La-Compa-a-de-Valle.html",
+      "@id": "https://solo5estrellas.com/hotels/6995/hotel-la-compa-a-de-valle.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6995/hotel-la-compa-a-de-valle.html",
       "name": "Hotel La Compañía del Valle",
       "description": "Hotel La Compañía del Valle, en el cráter de El Valle de Antón (Panamá), con Elysium Spa. Con Solo5Estrellas: desayuno para dos y crédito de 100 USD.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Hotel La Compañía del Valle",
-      "url": "https://solo5estrellas.com/hotels/6995/Hotel-La-Compa-a-de-Valle.html",
+      "url": "https://solo5estrellas.com/hotels/6995/hotel-la-compa-a-de-valle.html",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "El Valle de Antón",

@@ -46,7 +46,7 @@ Mandarin Oriental Hotel Group es un grupo hotelero de lujo con sede en Hong Kong
 ### México, Caribe y Centroamérica
 
 **San Vicente y las Granadinas (1)**
-- [Mandarin Oriental, Canouan](/hotels/2545/mandarin-oriental-canouan-.html) (Canouan Island)
+- [Mandarin Oriental, Canouan](/hotels/2545/mandarin-oriental-canouan.html) (Canouan Island)
 
 ### Sudamérica
 
@@ -81,7 +81,7 @@ Mandarin Oriental Hotel Group es un grupo hotelero de lujo con sede en Hong Kong
 - [Mandarin Oriental, Lago di Como](/hotels/3705/mandarin-oriental-lago-di-como.html) (Lake Como)
 
 **Países Bajos (1)**
-- [Mandarin Oriental Conservatorium](/hotels/2772/mandarin-oriental-conservatorium-.html) (Ámsterdam)
+- [Mandarin Oriental Conservatorium](/hotels/2772/mandarin-oriental-conservatorium.html) (Ámsterdam)
 
 **España (3)**
 - [Mandarin Oriental Barcelona](/hotels/2355/mandarin-oriental-barcelona.html) (Barcelona)
@@ -128,7 +128,7 @@ Mandarin Oriental Hotel Group es un grupo hotelero de lujo con sede en Hong Kong
 - [Mandarin Oriental Shenzhen](/hotels/7049/mandarin-oriental-shenzhen.html) (Shenzhen)
 - [Mandarin Oriental Wangfujing Beijing](/hotels/6196/mandarin-oriental-wangfujing-beijing.html) (Pekín)
 - [Mandarin Oriental, Hong Kong](/hotels/949/mandarin-oriental-hong-kong.html) (Hong Kong)
-- [Mandarin Oriental, Macau](/hotels/2469/mandarin-oriental-macau-.html) (Macao)
+- [Mandarin Oriental, Macau](/hotels/2469/mandarin-oriental-macau.html) (Macao)
 - [Mandarin Oriental, Sanya](/hotels/6206/mandarin-oriental-sanya.html) (Sanya)
 - [The Landmark Mandarin Oriental](/hotels/1654/the-landmark-mandarin-oriental.html) (Hong Kong)
 
@@ -147,7 +147,7 @@ Mandarin Oriental Hotel Group es un grupo hotelero de lujo con sede en Hong Kong
 - [Mandarin Oriental, Singapore](/hotels/6476/mandarin-oriental-singapore.html) (Singapur)
 
 **Tailandia (1)**
-- [Mandarin Oriental, Bangkok](/hotels/1045/mandarin-oriental-bangkok-.html) (Bangkok)
+- [Mandarin Oriental, Bangkok](/hotels/1045/mandarin-oriental-bangkok.html) (Bangkok)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

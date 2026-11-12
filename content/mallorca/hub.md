@@ -12,7 +12,7 @@ Muchos hoteles de playa y de montaña de la isla abren de marzo a octubre o novi
 
 | Hotel | Entorno | Beneficios al reservar con Solo5Estrellas |
 | --- | --- | --- |
-| [Can Bordoy Grand House & Garden](/hotels/4584/can-bordoy-grand-house-garden-hotel-.html) | Casco antiguo; 24 suites, jardín y piscina en la azotea | Desayuno para dos, crédito de 100 USD, mejora según disponibilidad |
+| [Can Bordoy Grand House & Garden](/hotels/4584/can-bordoy-grand-house-garden-hotel.html) | Casco antiguo; 24 suites, jardín y piscina en la azotea | Desayuno para dos, crédito de 100 USD, mejora según disponibilidad |
 | [Convent de la Missió](/hotels/4240/convent-de-la-missio.html) | Casco antiguo; edificio del siglo XVII; solo para mayores de 16 años | Desayuno para dos, crédito de 100 USD, mejora según disponibilidad |
 | [Castillo Hotel Son Vida](/hotels/2807/castillo-hotel-son-vida.html) | Colinas sobre Palma, junto al golf; solo para adultos | Desayuno para dos, crédito de 100 USD, mejora según disponibilidad, puntos Marriott Bonvoy |
 

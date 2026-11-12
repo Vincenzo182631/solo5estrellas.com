@@ -53,12 +53,12 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Su
 
 ## Los 44 hoteles de Suiza
 
-- Basilea: [Grand Hotel Les Trois Rois](/hotels/2526/grand-hotel-les-trois-rois-.html)
-- Berna: [Bellevue Palace](/hotels/1832/bellevue-palace-.html)
+- Basilea: [Grand Hotel Les Trois Rois](/hotels/2526/grand-hotel-les-trois-rois.html)
+- Berna: [Bellevue Palace](/hotels/1832/bellevue-palace.html)
 - Crans-Montana: [Crans Ambassador](/hotels/4441/crans-ambassador.html); [Six Senses Crans-Montana](/hotels/6336/six-senses-crans-montana.html)
-- Davos: [Alpengold Hotel Davos](/hotels/3980/alpengold-hotel-davos-.html)
+- Davos: [Alpengold Hotel Davos](/hotels/3980/alpengold-hotel-davos.html)
 - Engelberg: [Kempinski Palace Engelberg](/hotels/5022/kempinski-palace-engelberg.html)
-- Ginebra: [Beau-Rivage Geneva](/hotels/3500/beau-rivage-geneva.html); [Eastwest Hotel](/hotels/4442/eastwest-hotel.html); [Four Seasons Hotel des Bergues](/hotels/1552/four-seasons-hotel-des-bergues.html); [Hotel Metropole Geneva](/hotels/4587/hotel-metropole-geneva.html); [Hotel President Wilson](/hotels/2512/hotel-president-wilson.html); [Hôtel d’Angleterre Geneva](/hotels/2061/h-tel-d-angleterre-geneva.html); [InterContinental Geneve](/hotels/3981/intercontinental-geneve-.html); [La Reserve Geneve Hotel, Spa & Villa](/hotels/6111/la-reserve-geneve-hotel-spa-villa.html); [Mandarin Oriental, Geneva](/hotels/1436/mandarin-oriental-geneva.html); [The Ritz-Carlton Hotel de la Paix](/hotels/3485/the-ritz-carlton-hotel-de-la-paix.html)
+- Ginebra: [Beau-Rivage Geneva](/hotels/3500/beau-rivage-geneva.html); [Eastwest Hotel](/hotels/4442/eastwest-hotel.html); [Four Seasons Hotel des Bergues](/hotels/1552/four-seasons-hotel-des-bergues.html); [Hotel Metropole Geneva](/hotels/4587/hotel-metropole-geneva.html); [Hotel President Wilson](/hotels/2512/hotel-president-wilson.html); [Hôtel d’Angleterre Geneva](/hotels/2061/h-tel-d-angleterre-geneva.html); [InterContinental Geneve](/hotels/3981/intercontinental-geneve.html); [La Reserve Geneve Hotel, Spa & Villa](/hotels/6111/la-reserve-geneve-hotel-spa-villa.html); [Mandarin Oriental, Geneva](/hotels/1436/mandarin-oriental-geneva.html); [The Ritz-Carlton Hotel de la Paix](/hotels/3485/the-ritz-carlton-hotel-de-la-paix.html)
 - Grindelwald: [Bergwelt Grindelwald](/hotels/4830/bergwelt-grindelwald.html)
 - Gstaad: [Le Grand Bellevue](/hotels/4445/le-grand-bellevue.html)
 - Interlaken: [Victoria-Jungfrau Grand Hotel & Spa](/hotels/991/victoria-jungfrau-grand-hotel-spa.html)
@@ -68,12 +68,12 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Su
 - Lugano: [Grand Hotel Villa Castagnola](/hotels/4443/grand-hotel-villa-castagnola.html); [Hotel Splendide Royal Lugano](/hotels/3613/hotel-splendide-royal-lugano.html); [The View Lugano](/hotels/4446/the-view-lugano.html)
 - Montreux: [Fairmont Le Montreux Palace](/hotels/1312/fairmont-le-montreux-palace.html)
 - Orselina-Locarno: [Villa Orselina](/hotels/4447/villa-orselina.html)
-- Saas-Fee: [The Capra Hotel](/hotels/4561/the-capra-hotel-.html)
-- St. Moritz: [Grace La Margna, St Moritz](/hotels/6979/-grace-la-margna-st-moritz.html); [Grand Hotel des Bains Kempinski St. Moritz](/hotels/2174/grand-hotel-des-bains-kempinski-st-moritz.html)
+- Saas-Fee: [The Capra Hotel](/hotels/4561/the-capra-hotel.html)
+- St. Moritz: [Grace La Margna, St Moritz](/hotels/6979/grace-la-margna-st-moritz.html); [Grand Hotel des Bains Kempinski St. Moritz](/hotels/2174/grand-hotel-des-bains-kempinski-st-moritz.html)
 - Vals: [7132 Hotel](/hotels/4568/7132-hotel.html)
 - Verbier: [The Lodge](/hotels/2348/the-lodge.html); [W Verbier](/hotels/2873/w-verbier.html)
 - Zermatt: [Grand Hotel Zermatterhof](/hotels/1083/grand-hotel-zermatterhof.html); [Hotel Schweizerhof Zermatt](/hotels/4444/hotel-schweizerhof-zermatt.html)
-- Zúrich: [Baur au Lac](/hotels/1029/baur-au-lac.html); [Hyatt Regency Zurich Airport The Circle](/hotels/6767/hyatt-regency-zurich-airport-the-circle.html); [La Réserve Eden au Lac Zurich](/hotels/4038/la-r-serve-eden-au-lac-zurich.html); [Mandarin Oriental Savoy, Zurich](/hotels/6816/mandarin-oriental-savoy-zurich.html); [Park Hyatt Zurich](/hotels/1500/park-hyatt-zurich.html); [Storchen Zurich Hotel](/hotels/4569/storchen-zurich-hotel-.html); [The Dolder Grand](/hotels/2243/the-dolder-grand-.html)
+- Zúrich: [Baur au Lac](/hotels/1029/baur-au-lac.html); [Hyatt Regency Zurich Airport The Circle](/hotels/6767/hyatt-regency-zurich-airport-the-circle.html); [La Réserve Eden au Lac Zurich](/hotels/4038/la-r-serve-eden-au-lac-zurich.html); [Mandarin Oriental Savoy, Zurich](/hotels/6816/mandarin-oriental-savoy-zurich.html); [Park Hyatt Zurich](/hotels/1500/park-hyatt-zurich.html); [Storchen Zurich Hotel](/hotels/4569/storchen-zurich-hotel.html); [The Dolder Grand](/hotels/2243/the-dolder-grand.html)
 
 ## Preguntas frecuentes sobre hoteles en Suiza
 

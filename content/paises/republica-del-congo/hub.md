@@ -22,7 +22,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Re
 
 ## El hotel de República del Congo
 
-- Brazzaville: [Kempinski Hotel Brazzaville](/hotels/7066/kempinski-hotel-brazzaville-.html)
+- Brazzaville: [Kempinski Hotel Brazzaville](/hotels/7066/kempinski-hotel-brazzaville.html)
 
 ## Preguntas frecuentes sobre hoteles en República del Congo
 

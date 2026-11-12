@@ -41,47 +41,47 @@ Un hotel no tiene una marca o colección asociada en la lista.
 ## Los 73 hoteles de Sudamérica por país
 
 **Colombia (19)**
-- Bogotá: [Four Seasons Hotel Bogota](/hotels/3069/four_seasons_hotel_bogota.html); [Four Seasons Hotel Casa Medina Bogota](/hotels/3043/four_seasons_hotel_casa_medina_bogota.html); [Grand Hyatt Bogota](/hotels/3637/grand_hyatt_bogota.html); [JW Marriott Hotel Bogota](/hotels/3709/jw_marriott_hotel_bogota.html); [Sofitel Bogota Victoria Regia](/hotels/4852/sofitel_bogota_victoria_regia.html); [W Bogota Hotel](/hotels/2973/w_bogota_hotel.html)
-- Cali: [Movich Casa de Alferez](/hotels/4327/movich_casa_de_alferez.html)
-- Cartagena: [Casa Pestagua](/hotels/6731/casa_pestagua.html); [Four Seasons Resort & Residences Cartagena](/hotels/6868/four_seasons_resort_&_residences_cartagena.html); [HOTEL CASA SAN AGUSTIN](/hotels/6609/hotel_casa_san_agustin.html); [Hotel Charleston Santa Teresa](/hotels/4511/hotel_charleston_santa_teresa.html); [Hotel Las Islas Baru](/hotels/6421/hotel_las_islas_baru.html); [Hyatt Regency Cartagena](/hotels/3648/hyatt_regency_cartagena.html); [InterContinental Cartagena de Indias](/hotels/4771/intercontinental_cartagena_de_indias.html); [Movich Cartagena de Indias](/hotels/4328/movich_cartagena_de_indias.html); [Sofitel Baru Calablanca Beach Resort](/hotels/6608/sofitel_baru_calablanca_beach_resort.html); [Sofitel Hotel Boutique Bovedas de Santa Clara](/hotels/4853/sofitel_hotel_boutique_bovedas_de_santa_clara_.html); [Sofitel Legend Santa Clara Cartagena](/hotels/4752/sofitel_legend_santa_clara_cartagena.html)
-- Santa Marta: [Santa Marta Marriott Resort Playa Dormida](/hotels/4693/santa_marta_marriott_resort_playa_dormida.html)
+- Bogotá: [Four Seasons Hotel Bogota](/hotels/3069/four-seasons-hotel-bogota.html); [Four Seasons Hotel Casa Medina Bogota](/hotels/3043/four-seasons-hotel-casa-medina-bogota.html); [Grand Hyatt Bogota](/hotels/3637/grand-hyatt-bogota.html); [JW Marriott Hotel Bogota](/hotels/3709/jw-marriott-hotel-bogota.html); [Sofitel Bogota Victoria Regia](/hotels/4852/sofitel-bogota-victoria-regia.html); [W Bogota Hotel](/hotels/2973/w-bogota-hotel.html)
+- Cali: [Movich Casa de Alferez](/hotels/4327/movich-casa-de-alferez.html)
+- Cartagena: [Casa Pestagua](/hotels/6731/casa-pestagua.html); [Four Seasons Resort & Residences Cartagena](/hotels/6868/four-seasons-resort-residences-cartagena.html); [HOTEL CASA SAN AGUSTIN](/hotels/6609/hotel-casa-san-agustin.html); [Hotel Charleston Santa Teresa](/hotels/4511/hotel-charleston-santa-teresa.html); [Hotel Las Islas Baru](/hotels/6421/hotel-las-islas-baru.html); [Hyatt Regency Cartagena](/hotels/3648/hyatt-regency-cartagena.html); [InterContinental Cartagena de Indias](/hotels/4771/intercontinental-cartagena-de-indias.html); [Movich Cartagena de Indias](/hotels/4328/movich-cartagena-de-indias.html); [Sofitel Baru Calablanca Beach Resort](/hotels/6608/sofitel-baru-calablanca-beach-resort.html); [Sofitel Hotel Boutique Bovedas de Santa Clara](/hotels/4853/sofitel-hotel-boutique-bovedas-de-santa-clara.html); [Sofitel Legend Santa Clara Cartagena](/hotels/4752/sofitel-legend-santa-clara-cartagena.html)
+- Santa Marta: [Santa Marta Marriott Resort Playa Dormida](/hotels/4693/santa-marta-marriott-resort-playa-dormida.html)
 
 **Perú (17)**
-- Colca Canyon: [Belmond Las Casitas](/hotels/3280/belmond_las_casitas_.html)
-- Cusco: [Belmond Hotel Monasterio](/hotels/1077/belmond_hotel_monasterio_.html); [Belmond Hotel Rio Sagrado](/hotels/2461/belmond_hotel_rio_sagrado.html); [Belmond Palacio Nazarenas](/hotels/2623/belmond_palacio_nazarenas.html); [Explora Valle Sagrado](/hotels/3232/explora_valle_sagrado.html); [JW Marriott El Convento Cusco](/hotels/3743/jw_marriott_el_convento_cusco.html); [Palacio del Inka, a Luxury Collection Hotel, Cusco](/hotels/2796/palacio_del_inka,_a_luxury_collection_hotel,_cusco.html)
-- Lima: [Belmond Miraflores Park](/hotels/1519/belmond_miraflores_park_.html); [Hyatt Centric San Isidro Lima](/hotels/3934/hyatt_centric_san_isidro_lima.html); [JW Marriott Hotel Lima](/hotels/3718/jw_marriott_hotel_lima.html); [Manto Hotel Lima - Mgallery](/hotels/6164/manto_hotel_lima_-_mgallery.html); [Royal Park Hotel Lima](/hotels/4329/royal_park_hotel_lima.html); [Swissotel Lima](/hotels/4856/swissotel_lima_.html); [Westin Lima Hotel & Convention Center](/hotels/2737/westin_lima_hotel_&_convention_center.html)
-- Machu Picchu: [Belmond Sanctuary Lodge](/hotels/1990/belmond_sanctuary_lodge.html)
-- Paracas: [Hotel Paracas](/hotels/2798/hotel_paracas.html)
-- Urubamba: [Tambo del Inka, a Luxury Collection Resort & Spa, Valle Sagrado](/hotels/2797/tambo_del_inka,_a_luxury_collection_resort_&_spa,_valle_sagrado.html)
+- Colca Canyon: [Belmond Las Casitas](/hotels/3280/belmond-las-casitas.html)
+- Cusco: [Belmond Hotel Monasterio](/hotels/1077/belmond-hotel-monasterio.html); [Belmond Hotel Rio Sagrado](/hotels/2461/belmond-hotel-rio-sagrado.html); [Belmond Palacio Nazarenas](/hotels/2623/belmond-palacio-nazarenas.html); [Explora Valle Sagrado](/hotels/3232/explora-valle-sagrado.html); [JW Marriott El Convento Cusco](/hotels/3743/jw-marriott-el-convento-cusco.html); [Palacio del Inka, a Luxury Collection Hotel, Cusco](/hotels/2796/palacio-del-inka-a-luxury-collection-hotel-cusco.html)
+- Lima: [Belmond Miraflores Park](/hotels/1519/belmond-miraflores-park.html); [Hyatt Centric San Isidro Lima](/hotels/3934/hyatt-centric-san-isidro-lima.html); [JW Marriott Hotel Lima](/hotels/3718/jw-marriott-hotel-lima.html); [Manto Hotel Lima - Mgallery](/hotels/6164/manto-hotel-lima-mgallery.html); [Royal Park Hotel Lima](/hotels/4329/royal-park-hotel-lima.html); [Swissotel Lima](/hotels/4856/swissotel-lima.html); [Westin Lima Hotel & Convention Center](/hotels/2737/westin-lima-hotel-convention-center.html)
+- Machu Picchu: [Belmond Sanctuary Lodge](/hotels/1990/belmond-sanctuary-lodge.html)
+- Paracas: [Hotel Paracas](/hotels/2798/hotel-paracas.html)
+- Urubamba: [Tambo del Inka, a Luxury Collection Resort & Spa, Valle Sagrado](/hotels/2797/tambo-del-inka-a-luxury-collection-resort-spa-valle-sagrado.html)
 
 **Brasil (12)**
-- Barra de Sao Miguel: [Kenoa Beach Spa and Resort](/hotels/2778/kenoa_beach_spa_and_resort.html)
-- Iguassu Falls: [Belmond Hotel das Cataratas](/hotels/2324/belmond_hotel_das_cataratas__.html)
-- Río de Janeiro: [Belmond Copacabana Palace](/hotels/942/belmond_copacabana_palace.html); [Fairmont Rio de Janeiro Copacabana](/hotels/4849/fairmont_rio_de_janeiro_copacabana_.html); [Grand Hyatt Rio de Janeiro](/hotels/3416/grand_hyatt_rio_de_janeiro.html); [JW Marriott Hotel Rio de Janeiro](/hotels/4725/jw_marriott_hotel_rio_de_janeiro.html)
-- Salvador Da Bahia: [Barracuda Hotel and Villas](/hotels/6379/barracuda_hotel_and_villas.html)
-- São Paulo: [Grand Hyatt Sao Paulo](/hotels/2958/grand_hyatt_sao_paulo.html); [InterContinental Sao Paulo](/hotels/3522/intercontinental_sao_paulo.html); [Renaissance Sao Paulo Hotel](/hotels/3764/renaissance_sao_paulo_hotel.html); [Rosewood Sao Paulo](/hotels/6069/rosewood_sao_paulo.html); [W Sao Paulo](/hotels/6794/w_sao_paulo.html)
+- Barra de Sao Miguel: [Kenoa Beach Spa and Resort](/hotels/2778/kenoa-beach-spa-and-resort.html)
+- Iguassu Falls: [Belmond Hotel das Cataratas](/hotels/2324/belmond-hotel-das-cataratas.html)
+- Río de Janeiro: [Belmond Copacabana Palace](/hotels/942/belmond-copacabana-palace.html); [Fairmont Rio de Janeiro Copacabana](/hotels/4849/fairmont-rio-de-janeiro-copacabana.html); [Grand Hyatt Rio de Janeiro](/hotels/3416/grand-hyatt-rio-de-janeiro.html); [JW Marriott Hotel Rio de Janeiro](/hotels/4725/jw-marriott-hotel-rio-de-janeiro.html)
+- Salvador Da Bahia: [Barracuda Hotel and Villas](/hotels/6379/barracuda-hotel-and-villas.html)
+- São Paulo: [Grand Hyatt Sao Paulo](/hotels/2958/grand-hyatt-sao-paulo.html); [InterContinental Sao Paulo](/hotels/3522/intercontinental-sao-paulo.html); [Renaissance Sao Paulo Hotel](/hotels/3764/renaissance-sao-paulo-hotel.html); [Rosewood Sao Paulo](/hotels/6069/rosewood-sao-paulo.html); [W Sao Paulo](/hotels/6794/w-sao-paulo.html)
 
 **Argentina (11)**
-- Bariloche: [Arelauquen Lodge, a Tribute Portfolio](/hotels/3841/arelauquen_lodge,_a_tribute_portfolio.html)
-- Buenos Aires: [Four Seasons Hotel Buenos Aires](/hotels/1281/four_seasons_hotel_buenos_aires.html); [Palacio Duhau - Park Hyatt Buenos Aires](/hotels/1810/palacio_duhau_-_park_hyatt_buenos_aires_.html); [Palladio Hotel Buenos Aires - MGallery](/hotels/6446/palladio_hotel_buenos_aires_-_mgallery.html); [Park Tower](/hotels/2794/park_tower.html); [SLS Buenos Aires Puerto Madero](/hotels/6145/sls_buenos_aires_puerto_madero.html); [Sofitel Buenos Aires Recoleta](/hotels/4858/sofitel_buenos_aires_recoleta_.html); [Sofitel La Reserva Cardales](/hotels/4859/sofitel_la_reserva_cardales_.html)
-- East Grinstead: [Explora El Chalten](/hotels/6629/explora_el_chalten.html)
-- Mendoza: [Park Hyatt Mendoza Hotel](/hotels/1811/park_hyatt_mendoza_hotel.html)
-- Puerto Iguazu: [Gran Melia Iguazu](/hotels/4259/gran_melia_iguazu.html)
+- Bariloche: [Arelauquen Lodge, a Tribute Portfolio](/hotels/3841/arelauquen-lodge-a-tribute-portfolio.html)
+- Buenos Aires: [Four Seasons Hotel Buenos Aires](/hotels/1281/four-seasons-hotel-buenos-aires.html); [Palacio Duhau - Park Hyatt Buenos Aires](/hotels/1810/palacio-duhau-park-hyatt-buenos-aires.html); [Palladio Hotel Buenos Aires - MGallery](/hotels/6446/palladio-hotel-buenos-aires-mgallery.html); [Park Tower](/hotels/2794/park-tower.html); [SLS Buenos Aires Puerto Madero](/hotels/6145/sls-buenos-aires-puerto-madero.html); [Sofitel Buenos Aires Recoleta](/hotels/4858/sofitel-buenos-aires-recoleta.html); [Sofitel La Reserva Cardales](/hotels/4859/sofitel-la-reserva-cardales.html)
+- East Grinstead: [Explora El Chalten](/hotels/6629/explora-el-chalten.html)
+- Mendoza: [Park Hyatt Mendoza Hotel](/hotels/1811/park-hyatt-mendoza-hotel.html)
+- Puerto Iguazu: [Gran Melia Iguazu](/hotels/4259/gran-melia-iguazu.html)
 
 **Chile (9)**
-- Easter Island: [explora en Rapa Nui, Posada de Mike](/hotels/1821/explora_en_rapa_nui,_posada_de_mike_.html)
-- Patagonia: [Explora Patagonia Torres Del Paine](/hotels/1464/explora_patagonia_torres_del_paine.html); [The Singular Patagonia](/hotels/2590/the_singular_patagonia_.html)
-- San Pedro: [explora Atacama](/hotels/2047/explora_atacama.html)
-- Santiago: [Hyatt Centric Las Condes Santiago](/hotels/3906/hyatt_centric_las_condes_santiago.html); [Mandarin Oriental Santiago](/hotels/2044/mandarin_oriental_santiago.html); [Renaissance Santiago Hotel](/hotels/3738/renaissance_santiago_hotel.html); [The Ritz-Carlton, Santiago](/hotels/3347/the_ritz-carlton,_santiago.html); [W Santiago](/hotels/2634/w_santiago_.html)
+- Easter Island: [explora en Rapa Nui, Posada de Mike](/hotels/1821/explora-en-rapa-nui-posada-de-mike.html)
+- Patagonia: [Explora Patagonia Torres Del Paine](/hotels/1464/explora-patagonia-torres-del-paine.html); [The Singular Patagonia](/hotels/2590/the-singular-patagonia.html)
+- San Pedro: [explora Atacama](/hotels/2047/explora-atacama.html)
+- Santiago: [Hyatt Centric Las Condes Santiago](/hotels/3906/hyatt-centric-las-condes-santiago.html); [Mandarin Oriental Santiago](/hotels/2044/mandarin-oriental-santiago.html); [Renaissance Santiago Hotel](/hotels/3738/renaissance-santiago-hotel.html); [The Ritz-Carlton, Santiago](/hotels/3347/the-ritz-carlton-santiago.html); [W Santiago](/hotels/2634/w-santiago.html)
 
 **Uruguay (3)**
-- Montevideo: [Hotel Costanero Montevideo - Mgallery](/hotels/6165/hotel_costanero_montevideo_-_mgallery.html); [Hotel Sofitel Montevideo Casino Carrasco and Spa](/hotels/4857/hotel_sofitel_montevideo_casino_carrasco_and_spa.html); [Hyatt Centric Montevideo](/hotels/3904/hyatt_centric_montevideo.html)
+- Montevideo: [Hotel Costanero Montevideo - Mgallery](/hotels/6165/hotel-costanero-montevideo-mgallery.html); [Hotel Sofitel Montevideo Casino Carrasco and Spa](/hotels/4857/hotel-sofitel-montevideo-casino-carrasco-and-spa.html); [Hyatt Centric Montevideo](/hotels/3904/hyatt-centric-montevideo.html)
 
 **Ecuador (1)**
-- Quito: [JW Marriott Quito](/hotels/6985/jw_marriott_quito.html)
+- Quito: [JW Marriott Quito](/hotels/6985/jw-marriott-quito.html)
 
 **México (1)**
-- México: [Alexander Hotel](/hotels/6853/alexander_hotel.html)
+- México: [Alexander Hotel](/hotels/6853/alexander-hotel.html)
 
 ## Preguntas frecuentes sobre hoteles en Sudamérica
 
@@ -112,9 +112,9 @@ Debajo, agrupada por país y ciudad. Los nombres de los hoteles no se traducen.
 ## Siga explorando
 
 - [Hoteles de lujo en Europa](/regions/8/europe.html)
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
-- [Hoteles de lujo en Norteamérica](/regions/10/north_america.html)
-- [Hoteles de lujo en Oriente Medio](/regions/18/middle_east.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
+- [Hoteles de lujo en Norteamérica](/regions/10/north-america.html)
+- [Hoteles de lujo en Oriente Medio](/regions/18/middle-east.html)
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 
 *Fuente: lista de hoteles de la página en vivo. Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

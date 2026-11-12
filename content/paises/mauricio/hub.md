@@ -26,7 +26,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ma
 
 ## Los 6 hoteles de Mauricio
 
-- Mauricio: [Four Seasons Resort Mauritius](/hotels/2281/four-seasons-resort-mauritius.html); [Heritage Le Telfair Golf & Wellness Resort](/hotels/4287/heritage-le-telfair-golf-wellness-resort.html); [Le Méridien Ile Maurice](/hotels/6723/le-m-ridien-ile-maurice.html); [Paradise Cove Boutique Hotel](/hotels/4289/paradise-cove-boutique-hotel.html); [Shangri-La's Le Touessrok Resort & Spa, Mauritius](/hotels/3087/shangri-la-s-le-touessrok-resort-spa-mauritius.html); [St. Regis Le Morne Resort](/hotels/6867/-st-regis-le-morne-resort.html)
+- Mauricio: [Four Seasons Resort Mauritius](/hotels/2281/four-seasons-resort-mauritius.html); [Heritage Le Telfair Golf & Wellness Resort](/hotels/4287/heritage-le-telfair-golf-wellness-resort.html); [Le Méridien Ile Maurice](/hotels/6723/le-m-ridien-ile-maurice.html); [Paradise Cove Boutique Hotel](/hotels/4289/paradise-cove-boutique-hotel.html); [Shangri-La's Le Touessrok Resort & Spa, Mauritius](/hotels/3087/shangri-la-s-le-touessrok-resort-spa-mauritius.html); [St. Regis Le Morne Resort](/hotels/6867/st-regis-le-morne-resort.html)
 
 ## Preguntas frecuentes sobre hoteles en Mauricio
 

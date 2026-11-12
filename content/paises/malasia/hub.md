@@ -48,7 +48,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ma
 - Kenmare: [The Danna Langkawi](/hotels/6266/the-danna-langkawi.html)
 - Kota Kinabalu: [Shangri-La's Rasa Ria Resort & Spa, Kota Kinabalu](/hotels/3082/shangri-la-s-rasa-ria-resort-spa-kota-kinabalu.html); [Shangri-La's Tanjung Aru Resort and Spa, Kota Kinabalu](/hotels/3083/shangri-la-s-tanjung-aru-resort-and-spa-kota-kinabalu.html)
 - Kuala Lumpur: [Alila Bangsar Kuala Lumpur](/hotels/3958/alila-bangsar-kuala-lumpur.html); [Four Seasons Kuala Lumpur](/hotels/3463/four-seasons-kuala-lumpur.html); [Grand Hyatt Kuala Lumpur](/hotels/2665/grand-hyatt-kuala-lumpur.html); [Hotel Stripes Kuala Lumpur, Autograph Collection](/hotels/3829/hotel-stripes-kuala-lumpur-autograph-collection.html); [InterContinental Kuala Lumpur](/hotels/4792/intercontinental-kuala-lumpur.html); [JW Marriott Hotel Kuala Lumpur](/hotels/3711/jw-marriott-hotel-kuala-lumpur.html); [Mandarin Oriental, Kuala Lumpur](/hotels/1903/mandarin-oriental-kuala-lumpur.html); [Park Hyatt Kuala Lumpur](/hotels/6819/park-hyatt-kuala-lumpur.html); [Shangri-La Hotel, Kuala Lumpur](/hotels/3084/shangri-la-hotel-kuala-lumpur.html); [The Majestic Hotel Kuala Lumpur, Autograph Collection](/hotels/3832/the-majestic-hotel-kuala-lumpur-autograph-collection.html); [The St. Regis Kuala Lumpur](/hotels/3073/the-st-regis-kuala-lumpur.html); [W Kuala Lumpur](/hotels/3662/w-kuala-lumpur.html)
-- Langkawi: [Four Seasons Resort Langkawi](/hotels/1767/four-seasons-resort-langkawi-.html); [The Andaman](/hotels/2787/the-andaman.html); [The Ritz-Carlton Langkawi](/hotels/3486/the-ritz-carlton-langkawi.html); [The St. Regis Langkawi](/hotels/3075/the-st-regis-langkawi.html)
+- Langkawi: [Four Seasons Resort Langkawi](/hotels/1767/four-seasons-resort-langkawi.html); [The Andaman](/hotels/2787/the-andaman.html); [The Ritz-Carlton Langkawi](/hotels/3486/the-ritz-carlton-langkawi.html); [The St. Regis Langkawi](/hotels/3075/the-st-regis-langkawi.html)
 - Pangkor Island: [Pangkor Laut Resort](/hotels/4279/pangkor-laut-resort.html)
 - Penang: [The Edison George Town](/hotels/4282/the-edison-george-town.html)
 - Pulau Pinang: [Shangri-La's Rasa Sayang Resort & Spa, Penang](/hotels/3086/shangri-la-s-rasa-sayang-resort-spa-penang.html)
@@ -83,7 +83,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles Small Luxury Hotels of The World](/collection/47/)
 - [Hoteles Shangri-la Hotels](/collection/33/)
 - [Hoteles Mandarin Oriental](/collection/5/)

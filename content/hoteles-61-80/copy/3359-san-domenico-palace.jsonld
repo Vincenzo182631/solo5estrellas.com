@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "San Domenico Palace, Taormina, A Four Seasons Hotel",
-          "item": "https://solo5estrellas.com/hotels/3359/san-domenico-palace-taormina-a-four-seasons-.html"
+          "item": "https://solo5estrellas.com/hotels/3359/san-domenico-palace-taormina-a-four-seasons.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/3359/san-domenico-palace-taormina-a-four-seasons-.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/3359/san-domenico-palace-taormina-a-four-seasons-.html",
+      "@id": "https://solo5estrellas.com/hotels/3359/san-domenico-palace-taormina-a-four-seasons.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/3359/san-domenico-palace-taormina-a-four-seasons.html",
       "name": "San Domenico Palace, Taormina, A Four Seasons Hotel",
       "description": "San Domenico Palace, A Four Seasons Hotel, convento del siglo XIV en Taormina con vistas al Etna. Reserve con Solo5Estrellas y consulte ventajas.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "San Domenico Palace, Taormina, A Four Seasons Hotel",
-      "url": "https://solo5estrellas.com/hotels/3359/san-domenico-palace-taormina-a-four-seasons-.html",
+      "url": "https://solo5estrellas.com/hotels/3359/san-domenico-palace-taormina-a-four-seasons.html",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Taormina",

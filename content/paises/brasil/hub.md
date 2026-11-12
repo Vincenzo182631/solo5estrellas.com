@@ -36,8 +36,8 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Br
 ## Los 13 hoteles de Brasil
 
 - Barra de Sao Miguel: [Kenoa Beach Spa and Resort](/hotels/2778/kenoa-beach-spa-and-resort.html)
-- Iguassu Falls: [Belmond Hotel das Cataratas](/hotels/2324/belmond-hotel-das-cataratas-.html)
-- Río de Janeiro: [Belmond Copacabana Palace](/hotels/942/belmond-copacabana-palace.html); [Fairmont Rio de Janeiro Copacabana](/hotels/4849/fairmont-rio-de-janeiro-copacabana-.html); [Grand Hyatt Rio de Janeiro](/hotels/3416/grand-hyatt-rio-de-janeiro.html); [JW Marriott Hotel Rio de Janeiro](/hotels/4725/jw-marriott-hotel-rio-de-janeiro.html)
+- Iguassu Falls: [Belmond Hotel das Cataratas](/hotels/2324/belmond-hotel-das-cataratas.html)
+- Río de Janeiro: [Belmond Copacabana Palace](/hotels/942/belmond-copacabana-palace.html); [Fairmont Rio de Janeiro Copacabana](/hotels/4849/fairmont-rio-de-janeiro-copacabana.html); [Grand Hyatt Rio de Janeiro](/hotels/3416/grand-hyatt-rio-de-janeiro.html); [JW Marriott Hotel Rio de Janeiro](/hotels/4725/jw-marriott-hotel-rio-de-janeiro.html)
 - Salvador Da Bahia: [Barracuda Hotel and Villas](/hotels/6379/barracuda-hotel-and-villas.html)
 - São Paulo: [Grand Hyatt Sao Paulo](/hotels/2958/grand-hyatt-sao-paulo.html); [Hotel Unique](/hotels/2350/hotel-unique.html); [InterContinental Sao Paulo](/hotels/3522/intercontinental-sao-paulo.html); [Renaissance Sao Paulo Hotel](/hotels/3764/renaissance-sao-paulo-hotel.html); [Rosewood Sao Paulo](/hotels/6069/rosewood-sao-paulo.html); [W Sao Paulo](/hotels/6794/w-sao-paulo.html)
 
@@ -69,7 +69,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Sudamérica](/regions/13/south_america.html)
+- [Hoteles de lujo en Sudamérica](/regions/13/south-america.html)
 - [Hoteles Small Luxury Hotels of The World](/collection/47/)
 - [Hoteles Belmond Bellini Club](/collection/62/)
 - [Hoteles Grand Hyatt](/collection/28/)

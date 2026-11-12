@@ -34,7 +34,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ar
 ## Los 11 hoteles de Argentina
 
 - Bariloche: [Arelauquen Lodge, a Tribute Portfolio](/hotels/3841/arelauquen-lodge-a-tribute-portfolio.html)
-- Buenos Aires: [Four Seasons Hotel Buenos Aires](/hotels/1281/four-seasons-hotel-buenos-aires.html); [Palacio Duhau - Park Hyatt Buenos Aires](/hotels/1810/palacio-duhau-park-hyatt-buenos-aires-.html); [Palladio Hotel Buenos Aires - MGallery](/hotels/6446/palladio-hotel-buenos-aires-mgallery.html); [Park Tower](/hotels/2794/park-tower.html); [SLS Buenos Aires Puerto Madero](/hotels/6145/sls-buenos-aires-puerto-madero.html); [Sofitel Buenos Aires Recoleta](/hotels/4858/sofitel-buenos-aires-recoleta-.html); [Sofitel La Reserva Cardales](/hotels/4859/sofitel-la-reserva-cardales-.html)
+- Buenos Aires: [Four Seasons Hotel Buenos Aires](/hotels/1281/four-seasons-hotel-buenos-aires.html); [Palacio Duhau - Park Hyatt Buenos Aires](/hotels/1810/palacio-duhau-park-hyatt-buenos-aires.html); [Palladio Hotel Buenos Aires - MGallery](/hotels/6446/palladio-hotel-buenos-aires-mgallery.html); [Park Tower](/hotels/2794/park-tower.html); [SLS Buenos Aires Puerto Madero](/hotels/6145/sls-buenos-aires-puerto-madero.html); [Sofitel Buenos Aires Recoleta](/hotels/4858/sofitel-buenos-aires-recoleta.html); [Sofitel La Reserva Cardales](/hotels/4859/sofitel-la-reserva-cardales.html)
 - East Grinstead: [Explora El Chalten](/hotels/6629/explora-el-chalten.html)
 - Mendoza: [Park Hyatt Mendoza Hotel](/hotels/1811/park-hyatt-mendoza-hotel.html)
 - Puerto Iguazu: [Gran Melia Iguazu](/hotels/4259/gran-melia-iguazu.html)
@@ -67,7 +67,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Sudamérica](/regions/13/south_america.html)
+- [Hoteles de lujo en Sudamérica](/regions/13/south-america.html)
 - [Hoteles Park Hyatt Hotels](/collection/8/)
 - [Hoteles Sofitel Hotels](/collection/36/)
 - [Hoteles The Signature Collection](/collection/79/)

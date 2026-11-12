@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Fairmont La Hacienda Costa del Sol",
-          "item": "https://solo5estrellas.com/hotels/6788/Fairmont-La-Hacienda-Costa-Del-Sol.html"
+          "item": "https://solo5estrellas.com/hotels/6788/fairmont-la-hacienda-costa-del-sol.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/6788/Fairmont-La-Hacienda-Costa-Del-Sol.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/6788/Fairmont-La-Hacienda-Costa-Del-Sol.html",
+      "@id": "https://solo5estrellas.com/hotels/6788/fairmont-la-hacienda-costa-del-sol.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6788/fairmont-la-hacienda-costa-del-sol.html",
       "name": "Fairmont La Hacienda Costa del Sol",
       "description": "Fairmont La Hacienda Costa del Sol, en La Alcaidesa (Cádiz), con playa y dos campos de golf. Con Solo5Estrellas: desayuno para dos y crédito de 100 USD.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Fairmont La Hacienda Costa del Sol",
-      "url": "https://solo5estrellas.com/hotels/6788/Fairmont-La-Hacienda-Costa-Del-Sol.html",
+      "url": "https://solo5estrellas.com/hotels/6788/fairmont-la-hacienda-costa-del-sol.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Calle Faro de Punta Mala 2",

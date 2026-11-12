@@ -29,7 +29,7 @@ Un hotel no tiene una marca o colección asociada en la lista.
 
 ## Los 9 hoteles de Hungría
 
-- Budapest: [Aria Hotel Budapest](/hotels/2988/aria-hotel-budapest.html); [Budapest Marriott Hotel](/hotels/4727/budapest-marriott-hotel.html); [Corinthia Hotel Budapest](/hotels/2715/corinthia-hotel-budapest.html); [Dorothea Hotel, Budapest, Autograph Collection](/hotels/6914/dorothea-hotel-budapest-autograph-collection.html); [Four Seasons Hotel Gresham Palace](/hotels/1324/four-seasons-hotel-gresham-palace-.html); [Kempinski Hotel Corvinus Budapest](/hotels/4256/kempinski-hotel-corvinus-budapest.html); [Matild Palace,a Luxury Collection Hotel, Budapest](/hotels/6303/matild-palace-a-luxury-collection-hotel-budapest.html); [Parisi Udvar Hotel Budapest](/hotels/3915/parisi-udvar-hotel-budapest.html); [W Budapest](/hotels/6915/w-budapest.html)
+- Budapest: [Aria Hotel Budapest](/hotels/2988/aria-hotel-budapest.html); [Budapest Marriott Hotel](/hotels/4727/budapest-marriott-hotel.html); [Corinthia Hotel Budapest](/hotels/2715/corinthia-hotel-budapest.html); [Dorothea Hotel, Budapest, Autograph Collection](/hotels/6914/dorothea-hotel-budapest-autograph-collection.html); [Four Seasons Hotel Gresham Palace](/hotels/1324/four-seasons-hotel-gresham-palace.html); [Kempinski Hotel Corvinus Budapest](/hotels/4256/kempinski-hotel-corvinus-budapest.html); [Matild Palace,a Luxury Collection Hotel, Budapest](/hotels/6303/matild-palace-a-luxury-collection-hotel-budapest.html); [Parisi Udvar Hotel Budapest](/hotels/3915/parisi-udvar-hotel-budapest.html); [W Budapest](/hotels/6915/w-budapest.html)
 
 ## Preguntas frecuentes sobre hoteles en Hungría
 

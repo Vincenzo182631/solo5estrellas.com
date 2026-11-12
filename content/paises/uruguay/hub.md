@@ -54,7 +54,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Sudamérica](/regions/13/south_america.html)
+- [Hoteles de lujo en Sudamérica](/regions/13/south-america.html)
 - [Hoteles MGallery Hotels](/collection/85/)
 - [Hoteles Sofitel Hotels](/collection/36/)
 - [Hoteles Hyatt Centric Hotels](/collection/77/)

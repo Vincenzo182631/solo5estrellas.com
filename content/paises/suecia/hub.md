@@ -25,7 +25,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Su
 
 ## Los 7 hoteles de Suecia
 
-- Estocolmo: [At Six](/hotels/3315/at-six.html); [Bank Hotel](/hotels/4390/bank-hotel.html); [Ett Hem](/hotels/6180/ett-hem.html); [Grand Hotel Stockholm](/hotels/2524/grand-hotel-stockholm-.html); [Hotel Diplomat Stockholm](/hotels/4585/hotel-diplomat-stockholm.html); [Hotel Reisen](/hotels/7095/hotel-reisen.html); [Villa Dagmar Hotel](/hotels/4586/villa-dagmar-hotel-.html)
+- Estocolmo: [At Six](/hotels/3315/at-six.html); [Bank Hotel](/hotels/4390/bank-hotel.html); [Ett Hem](/hotels/6180/ett-hem.html); [Grand Hotel Stockholm](/hotels/2524/grand-hotel-stockholm.html); [Hotel Diplomat Stockholm](/hotels/4585/hotel-diplomat-stockholm.html); [Hotel Reisen](/hotels/7095/hotel-reisen.html); [Villa Dagmar Hotel](/hotels/4586/villa-dagmar-hotel.html)
 
 ## Preguntas frecuentes sobre hoteles en Suecia
 

@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "The Dylan Amsterdam",
-          "item": "https://solo5estrellas.com/hotels/2312/the-dylan-amsterdam-.html"
+          "item": "https://solo5estrellas.com/hotels/2312/the-dylan-amsterdam.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/2312/the-dylan-amsterdam-.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/2312/the-dylan-amsterdam-.html",
+      "@id": "https://solo5estrellas.com/hotels/2312/the-dylan-amsterdam.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2312/the-dylan-amsterdam.html",
       "name": "The Dylan Amsterdam",
       "description": "The Dylan, hotel boutique en el Keizersgracht, donde estuvo el primer teatro de Ámsterdam. Con Solo5Estrellas: desayuno bufé y crédito de 85 EUR.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "The Dylan Amsterdam",
-      "url": "https://solo5estrellas.com/hotels/2312/the-dylan-amsterdam-.html",
+      "url": "https://solo5estrellas.com/hotels/2312/the-dylan-amsterdam.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Keizersgracht 384",

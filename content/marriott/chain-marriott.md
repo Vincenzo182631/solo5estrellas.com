@@ -54,14 +54,14 @@ Marriott Hotels es la marca insignia de servicio completo de Marriott Internatio
 - [Gaylord Palms Resort & Convention Center](/hotels/6273/gaylord-palms-resort-convention-center.html) (Orlando and Disney World)
 - [Hotel Beaux Arts Miami](/hotels/2542/hotel-beaux-arts-miami.html) (Miami)
 - [Marriott Hutchinson Island Beach Resort](/hotels/6777/marriott-hutchinson-island-beach-resort.html) (Hutchinson Island)
-- [Marriott Stanton South Beach](/hotels/4686/marriott-stanton-south-beach-.html) (South Beach, Miami)
+- [Marriott Stanton South Beach](/hotels/4686/marriott-stanton-south-beach.html) (South Beach, Miami)
 - [Palm Beach Marriott Singer Island Beach Resort & Spa](/hotels/3790/palm-beach-marriott-singer-island-beach-resort-spa.html) (Singer Island)
 - [Sawgrass Marriott Resort & Spa](/hotels/4717/sawgrass-marriott-resort-spa.html) (Ponte Vedra Beach)
 - [Tampa Marriott Water Street](/hotels/4719/tampa-marriott-water-street.html) (Tampa)
 - [The Sarasota Modern](/hotels/6660/the-sarasota-modern.html) (Sarasota)
 - [Waikiki Beach Marriott Resort & Spa](/hotels/4722/waikiki-beach-marriott-resort-spa.html) (Honolulu)
 - [Waikoloa Beach Marriott Resort & Spa](/hotels/3791/waikoloa-beach-marriott-resort-spa.html) (Big Island)
-- [Wailea Beach Resort - Marriott, Maui](/hotels/2171/wailea-beach-resort-marriott-maui-.html) (Maui)
+- [Wailea Beach Resort - Marriott, Maui](/hotels/2171/wailea-beach-resort-marriott-maui.html) (Maui)
 - [New Orleans Marriott](/hotels/4730/new-orleans-marriott.html) (New Orleans)
 - [New Orleans Marriott Warehouse Arts District](/hotels/4738/new-orleans-marriott-warehouse-arts-district.html) (New Orleans)
 - [Boston Marriott Long Wharf](/hotels/4977/boston-marriott-long-wharf.html) (Boston)
@@ -95,8 +95,8 @@ Marriott Hotels es la marca insignia de servicio completo de Marriott Internatio
 - [Grand Cayman Marriott Beach Resort](/hotels/4979/grand-cayman-marriott-beach-resort.html) (Gran Caimán)
 
 **Costa Rica (2)**
-- [Costa Rica Marriott Hotel Hacienda Belén](/hotels/4685/costa-rica-marriott-hotel-hacienda-bel-n-.html) (San Jose CR)
-- [Los Sueños Marriott Ocean & Golf Resort](/hotels/4684/los-sue-os-marriott-ocean-golf-resort-.html) (Los Suenos)
+- [Costa Rica Marriott Hotel Hacienda Belén](/hotels/4685/costa-rica-marriott-hotel-hacienda-bel-n.html) (San Jose CR)
+- [Los Sueños Marriott Ocean & Golf Resort](/hotels/4684/los-sue-os-marriott-ocean-golf-resort.html) (Los Suenos)
 
 ### Sudamérica
 

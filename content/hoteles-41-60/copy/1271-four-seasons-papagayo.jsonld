@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Four Seasons Resort Peninsula Papagayo, Costa Rica",
-          "item": "https://solo5estrellas.com/hotels/1271/four-seasons-resort-costa-rica-.html"
+          "item": "https://solo5estrellas.com/hotels/1271/four-seasons-resort-costa-rica.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/1271/four-seasons-resort-costa-rica-.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/1271/four-seasons-resort-costa-rica-.html",
+      "@id": "https://solo5estrellas.com/hotels/1271/four-seasons-resort-costa-rica.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1271/four-seasons-resort-costa-rica.html",
       "name": "Four Seasons Resort Peninsula Papagayo, Costa Rica",
       "description": "Four Seasons Resort Peninsula Papagayo, en Guanacaste, con golf de Arnold Palmer y dos playas. Con Solo5Estrellas: desayuno para dos y crédito de hotel.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Four Seasons Resort Peninsula Papagayo, Costa Rica",
-      "url": "https://solo5estrellas.com/hotels/1271/four-seasons-resort-costa-rica-.html",
+      "url": "https://solo5estrellas.com/hotels/1271/four-seasons-resort-costa-rica.html",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Península Papagayo",

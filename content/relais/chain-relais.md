@@ -55,7 +55,7 @@ Relais & Châteaux es una asociación de hoteles y restaurantes de propiedad ind
 - [Secret Bay](/hotels/7027/secret-bay.html) (Portsmouth)
 
 **República Dominicana (1)**
-- [Eden Roc Cap Cana](/hotels/3939/eden-roc-cap-cana-.html) (Punta Cana)
+- [Eden Roc Cap Cana](/hotels/3939/eden-roc-cap-cana.html) (Punta Cana)
 
 ### Sudamérica
 
@@ -82,7 +82,7 @@ Relais & Châteaux es una asociación de hoteles y restaurantes de propiedad ind
 - [Hotel Londra Palace](/hotels/1222/hotel-londra-palace.html) (Venecia)
 - [Hotel Plaza e de Russie](/hotels/6632/hotel-plaza-e-de-russie.html) (Viareggio)
 - [Il Borro](/hotels/6474/il-borro.html) (Toscana)
-- [Il San Pietro di Positano](/hotels/1720/il-san-pietro-di-positano-.html) (Positano)
+- [Il San Pietro di Positano](/hotels/1720/il-san-pietro-di-positano.html) (Positano)
 
 **Portugal (3)**
 - [Bela Vista Hotel & Spa](/hotels/4218/bela-vista-hotel-spa.html) (Portimao)

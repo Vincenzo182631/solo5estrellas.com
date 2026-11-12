@@ -41,10 +41,10 @@ Kimpton Hotels & Restaurants es la marca de hoteles boutique de IHG, fundada en 
 
 Hoteles en Santa Bárbara, Los Ángeles, Palm Springs, Portland y Bozeman.
 
-- [Kimpton Canary Hotel](/hotels/2021/kimpton-canary-hotel-.html) (Santa Bárbara)
+- [Kimpton Canary Hotel](/hotels/2021/kimpton-canary-hotel.html) (Santa Bárbara)
 - [Kimpton La Peer Hotel](/hotels/3548/kimpton-la-peer-hotel.html) (Los Ángeles)
 - [Kimpton Rowan Palm Springs Hotel](/hotels/3328/kimpton-rowan-palm-springs-hotel.html) (Palm Springs)
-- [Kimpton Riverplace Hotel](/hotels/4019/kimpton-riverplace-hotel-.html) (Portland)
+- [Kimpton Riverplace Hotel](/hotels/4019/kimpton-riverplace-hotel.html) (Portland)
 - [Kimpton Armory Hotel](/hotels/4665/kimpton-armory-hotel.html) (Bozeman)
 
 ### Estados Unidos: Texas y centro
@@ -62,8 +62,8 @@ Hoteles en Fort Worth, Dallas, San Antonio, Chicago y Omaha.
 Un hotel en Nueva York, dos en Filadelfia y uno en Miami.
 
 - [Kimpton Era Midtown](/hotels/7055/kimpton-era-midtown.html) (Nueva York)
-- [Kimpton Hotel Monaco Philadelphia](/hotels/4017/kimpton-hotel-monaco-philadelphia-.html) (Filadelfia)
-- [Kimpton Hotel Palomar Philadelphia](/hotels/4018/kimpton-hotel-palomar-philadelphia-.html) (Filadelfia)
+- [Kimpton Hotel Monaco Philadelphia](/hotels/4017/kimpton-hotel-monaco-philadelphia.html) (Filadelfia)
+- [Kimpton Hotel Palomar Philadelphia](/hotels/4018/kimpton-hotel-palomar-philadelphia.html) (Filadelfia)
 - [Kimpton EPIC Miami](/hotels/2708/kimpton-epic-miami.html) (Miami)
 
 ### España
@@ -71,7 +71,7 @@ Un hotel en Nueva York, dos en Filadelfia y uno en Miami.
 Un hotel en Mallorca y otro en Barcelona.
 
 - [Kimpton Aysla Mallorca](/hotels/6306/kimpton-aysla-mallorca.html) (Mallorca)
-- [Kimpton Vividora Barcelona](/hotels/6258/kimpton-vividora-barcelona-.html) (Barcelona)
+- [Kimpton Vividora Barcelona](/hotels/6258/kimpton-vividora-barcelona.html) (Barcelona)
 
 ### Resto de Europa
 
@@ -79,7 +79,7 @@ Hoteles en París, Londres, Ámsterdam, Edimburgo, Glasgow y Mánchester.
 
 - [Kimpton St Honore Paris](/hotels/6300/kimpton-st-honore-paris.html) (París)
 - [Kimpton Fitzroy London](/hotels/5060/kimpton-fitzroy-london.html) (Londres)
-- [Kimpton De Witt Amsterdam](/hotels/4024/kimpton-de-witt-amsterdam-.html) (Ámsterdam)
+- [Kimpton De Witt Amsterdam](/hotels/4024/kimpton-de-witt-amsterdam.html) (Ámsterdam)
 - [Kimpton Charlotte Square](/hotels/3610/kimpton-charlotte-square.html) (Edimburgo)
 - [Kimpton Blythswood Square Hotel](/hotels/3606/kimpton-blythswood-square-hotel.html) (Glasgow)
 - [Kimpton Clocktower, Manchester](/hotels/6713/kimpton-clocktower-manchester.html) (Manchester)
@@ -97,15 +97,15 @@ Hoteles en Tokio, Hong Kong, Bangkok y Koh Samui.
 
 Un resort en Gran Caimán y otro en Roatán, Honduras.
 
-- [Kimpton Seafire Resort](/hotels/3214/kimpton-seafire-resort-.html) (Gran Caimán)
+- [Kimpton Seafire Resort](/hotels/3214/kimpton-seafire-resort.html) (Gran Caimán)
 - [Kimpton Grand Roatan Resort & Spa](/hotels/6423/kimpton-grand-roatan-resort-spa.html) (Roatán)
 
 ## Qué Kimpton elegir según el viaje
 
 | Si busca | Considere |
 | --- | --- |
-| Ciudades europeas | [Kimpton St Honore Paris](/hotels/6300/kimpton-st-honore-paris.html), [Kimpton Fitzroy London](/hotels/5060/kimpton-fitzroy-london.html), [Kimpton De Witt Amsterdam](/hotels/4024/kimpton-de-witt-amsterdam-.html), [Kimpton Charlotte Square](/hotels/3610/kimpton-charlotte-square.html), [Kimpton Vividora Barcelona](/hotels/6258/kimpton-vividora-barcelona-.html) |
-| Resorts de playa | [Kimpton Aysla Mallorca](/hotels/6306/kimpton-aysla-mallorca.html), [Kimpton Seafire Resort](/hotels/3214/kimpton-seafire-resort-.html), [Kimpton Grand Roatan Resort & Spa](/hotels/6423/kimpton-grand-roatan-resort-spa.html), [Kimpton Kitalay Samui](/hotels/6318/kimpton-kitalay-samui.html) |
+| Ciudades europeas | [Kimpton St Honore Paris](/hotels/6300/kimpton-st-honore-paris.html), [Kimpton Fitzroy London](/hotels/5060/kimpton-fitzroy-london.html), [Kimpton De Witt Amsterdam](/hotels/4024/kimpton-de-witt-amsterdam.html), [Kimpton Charlotte Square](/hotels/3610/kimpton-charlotte-square.html), [Kimpton Vividora Barcelona](/hotels/6258/kimpton-vividora-barcelona.html) |
+| Resorts de playa | [Kimpton Aysla Mallorca](/hotels/6306/kimpton-aysla-mallorca.html), [Kimpton Seafire Resort](/hotels/3214/kimpton-seafire-resort.html), [Kimpton Grand Roatan Resort & Spa](/hotels/6423/kimpton-grand-roatan-resort-spa.html), [Kimpton Kitalay Samui](/hotels/6318/kimpton-kitalay-samui.html) |
 | Ciudades de Estados Unidos | [Kimpton Era Midtown](/hotels/7055/kimpton-era-midtown.html), [Kimpton EPIC Miami](/hotels/2708/kimpton-epic-miami.html), [Kimpton La Peer Hotel](/hotels/3548/kimpton-la-peer-hotel.html), [Kimpton Gray Hotel Chicago](/hotels/3660/kimpton-gray-hotel-chicago.html) |
 | Ciudades de Asia | [Kimpton Shinjuku Tokyo](/hotels/6765/kimpton-shinjuku-tokyo.html), [Kimpton Tsim Sha Tsui Hong Kong](/hotels/6988/kimpton-tsim-sha-tsui-hong-kong.html), [Kimpton Maa-Lai Bangkok](/hotels/4666/kimpton-maa-lai-bangkok.html) |
 
@@ -169,8 +169,8 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 
 - [Hoteles de lujo en Londres](/cities/150/london.html)
 - [Hoteles de lujo en París](/cities/207/paris.html)
-- [Hoteles de lujo en Miami](/cities/168/Miami.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Miami](/cities/168/miami.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 
 *Fuentes externas: [IHG: programa Destined](https://www.ihg.com/destined/destined-program); [Milepro: beneficios de IHG Destined](https://milepro.com/ihg-destined-benefits/). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

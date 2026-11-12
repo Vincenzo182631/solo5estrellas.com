@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Fogo Island Inn",
-          "item": "https://solo5estrellas.com/hotels/5034/Fogo-Island-Inn.html"
+          "item": "https://solo5estrellas.com/hotels/5034/fogo-island-inn.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/5034/Fogo-Island-Inn.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/5034/Fogo-Island-Inn.html",
+      "@id": "https://solo5estrellas.com/hotels/5034/fogo-island-inn.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/5034/fogo-island-inn.html",
       "name": "Fogo Island Inn",
       "description": "Fogo Island Inn, 29 habitaciones frente al Atlántico en Terranova, con todas las comidas incluidas. Con Solo5Estrellas: regalo artesanal y mejora.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Fogo Island Inn",
-      "url": "https://solo5estrellas.com/hotels/5034/Fogo-Island-Inn.html",
+      "url": "https://solo5estrellas.com/hotels/5034/fogo-island-inn.html",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Fogo Island",

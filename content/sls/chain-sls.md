@@ -38,31 +38,31 @@ SLS es una marca de hoteles de lujo lifestyle dentro del portafolio Ennismore de
 ### Norteamérica
 
 **Estados Unidos (1)**
-- [SLS Hotel at Beverly Hills](/hotels/2294/SLS-Hotel-at-Beverly-Hills.html) (Beverly Hills)
+- [SLS Hotel at Beverly Hills](/hotels/2294/sls-hotel-at-beverly-hills.html) (Beverly Hills)
 
 ### México, Caribe y Centroamérica
 
 **México (2)**
-- [SLS Cancun Hotel](/hotels/6141/SLS-Cancun-Hotel.html) (Cancún)
-- [SLS Playa Mujeres](/hotels/6727/SLS-Playa-Mujeres.html) (Cancún)
+- [SLS Cancun Hotel](/hotels/6141/sls-cancun-hotel.html) (Cancún)
+- [SLS Playa Mujeres](/hotels/6727/sls-playa-mujeres.html) (Cancún)
 
 **Bahamas (1)**
-- [SLS Baha Mar](/hotels/3497/SLS-Baha-Mar.html) (Nassau)
+- [SLS Baha Mar](/hotels/3497/sls-baha-mar.html) (Nassau)
 
 ### Sudamérica
 
 **Argentina (1)**
-- [SLS Buenos Aires Puerto Madero](/hotels/6145/SLS-Buenos-Aires-Puerto-Madero.html) (Buenos Aires)
+- [SLS Buenos Aires Puerto Madero](/hotels/6145/sls-buenos-aires-puerto-madero.html) (Buenos Aires)
 
 ### Europa
 
 **España (1)**
-- [SLS Barcelona](/hotels/6798/SLS-Barcelona.html) (Barcelona)
+- [SLS Barcelona](/hotels/6798/sls-barcelona.html) (Barcelona)
 
 ### Oriente Medio y norte de África
 
 **Emiratos Árabes Unidos (1)**
-- [SLS Dubai Hotel & Residences](/hotels/4927/SLS-Dubai-Hotel-Residences.html) (Dubái)
+- [SLS Dubai Hotel & Residences](/hotels/4927/sls-dubai-hotel-residences.html) (Dubái)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

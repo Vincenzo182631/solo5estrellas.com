@@ -42,18 +42,18 @@ St. Regis Hotels & Resorts es la marca de lujo de Marriott International hereder
 **Estados Unidos (11)**
 - [St. Regis Hotel, San Francisco](/hotels/1480/st-regis-hotel-san-francisco.html) (San Francisco)
 - [The St. Regis Aspen](/hotels/984/the-st-regis-aspen.html) (Aspen)
-- [The St. Regis Hotel Washington D.C.](/hotels/1417/the-st-regis-hotel-washington-d-c-.html) (Washington D. C.)
+- [The St. Regis Hotel Washington D.C.](/hotels/1417/the-st-regis-hotel-washington-d-c.html) (Washington D. C.)
 - [The St. Regis Bal Harbour Resort](/hotels/2539/the-st-regis-bal-harbour-resort.html) (Miami Beach)
 - [The St. Regis Longboat Key Resort](/hotels/6659/the-st-regis-longboat-key-resort.html) (Sarasota)
 - [The St. Regis Atlanta](/hotels/2240/the-st-regis-atlanta.html) (Atlanta)
 - [The Resort at Kapalua Bay](/hotels/2879/the-resort-at-kapalua-bay.html) (Maui)
 - [St. Regis Chicago](/hotels/6405/st-regis-chicago.html) (Chicago)
-- [St. Regis New York](/hotels/1437/st-regis-new-york-.html) (Nueva York)
+- [St. Regis New York](/hotels/1437/st-regis-new-york.html) (Nueva York)
 - [The St. Regis Hotel, Houston](/hotels/1177/the-st-regis-hotel-houston.html) (Houston)
 - [The St. Regis Deer Valley](/hotels/2349/the-st-regis-deer-valley.html) (Deer Valley)
 
 **Canadá (1)**
-- [The St. Regis Toronto](/hotels/3592/the-st-regis-toronto-.html) (Toronto)
+- [The St. Regis Toronto](/hotels/3592/the-st-regis-toronto.html) (Toronto)
 
 ### México, Caribe y Centroamérica
 
@@ -67,7 +67,7 @@ St. Regis Hotels & Resorts es la marca de lujo de Marriott International hereder
 - [St. Regis Aruba Resort](/hotels/6792/st-regis-aruba-resort.html) (Palm Beach Aruba)
 
 **Puerto Rico (1)**
-- [The St. Regis Bahia Beach Resort](/hotels/2426/the-st-regis-bahia-beach-resort-.html) (Rio Grande)
+- [The St. Regis Bahia Beach Resort](/hotels/2426/the-st-regis-bahia-beach-resort.html) (Rio Grande)
 
 **Bermudas (1)**
 - [The St. Regis Bermuda Resort](/hotels/4838/the-st-regis-bermuda-resort.html) (St. George's)
@@ -86,8 +86,8 @@ St. Regis Hotels & Resorts es la marca de lujo de Marriott International hereder
 
 **Italia (3)**
 - [St. Regis Venice](/hotels/1027/st-regis-venice.html) (Venecia)
-- [The St. Regis Florence](/hotels/2571/the-st-regis-florence-.html) (Florencia)
-- [The St. Regis Rome](/hotels/1087/the-st-regis-rome-.html) (Roma)
+- [The St. Regis Florence](/hotels/2571/the-st-regis-florence.html) (Florencia)
+- [The St. Regis Rome](/hotels/1087/the-st-regis-rome.html) (Roma)
 
 **España (1)**
 - [The St Regis Mardavall Mallorca Resort](/hotels/1382/the-st-regis-mardavall-mallorca-resort.html) (Mallorca)
@@ -98,7 +98,7 @@ St. Regis Hotels & Resorts es la marca de lujo de Marriott International hereder
 ### África
 
 **Mauricio (1)**
-- [St. Regis Le Morne Resort](/hotels/6867/-st-regis-le-morne-resort.html) (Mauricio)
+- [St. Regis Le Morne Resort](/hotels/6867/st-regis-le-morne-resort.html) (Mauricio)
 
 ### Oriente Medio y norte de África
 
@@ -115,11 +115,11 @@ St. Regis Hotels & Resorts es la marca de lujo de Marriott International hereder
 - [The St. Regis Al Mouj Muscat Resort](/hotels/6872/the-st-regis-al-mouj-muscat-resort.html) (Muscat)
 
 **Catar (1)**
-- [The St. Regis Doha](/hotels/2622/the-st-regis-doha-.html) (Doha)
+- [The St. Regis Doha](/hotels/2622/the-st-regis-doha.html) (Doha)
 
 **Arabia Saudita (2)**
 - [The St. Regis Red Sea Resort](/hotels/6670/the-st-regis-red-sea-resort.html) (Ummahat Island)
-- [The St. Regis Riyadh](/hotels/6565/the-st-regis-riyadh-.html) (Riad)
+- [The St. Regis Riyadh](/hotels/6565/the-st-regis-riyadh.html) (Riad)
 
 **Emiratos Árabes Unidos (4)**
 - [The St. Regis Abu Dhabi](/hotels/2968/the-st-regis-abu-dhabi.html) (Abu Dhabi)
@@ -142,7 +142,7 @@ St. Regis Hotels & Resorts es la marca de lujo de Marriott International hereder
 - [The St. Regis Changsha](/hotels/6369/the-st-regis-changsha.html) (Changsha)
 - [The St. Regis Chengdu](/hotels/2916/the-st-regis-chengdu.html) (Chengdu)
 - [The St. Regis Hong Kong](/hotels/3700/the-st-regis-hong-kong.html) (Hong Kong)
-- [The St. Regis Lhasa Resort](/hotels/2456/the-st-regis-lhasa-resort-.html) (Lhasa)
+- [The St. Regis Lhasa Resort](/hotels/2456/the-st-regis-lhasa-resort.html) (Lhasa)
 - [The St. Regis Macao, Cotai Central](/hotels/3888/the-st-regis-macao-cotai-central.html) (Macao)
 - [The St. Regis Sanya Yalong Bay Resort](/hotels/2836/the-st-regis-sanya-yalong-bay-resort.html) (Sanya Yalong Bay)
 - [The St. Regis. Shenzhen Bao An](/hotels/6843/the-st-regis-shenzhen-bao-an.html) (Shenzhen)
@@ -151,7 +151,7 @@ St. Regis Hotels & Resorts es la marca de lujo de Marriott International hereder
 - [The St. Regis Bali](/hotels/2201/the-st-regis-bali.html) (Bali)
 
 **Japón (1)**
-- [The St. Regis Osaka](/hotels/2581/the-st-regis-osaka-.html) (Osaka)
+- [The St. Regis Osaka](/hotels/2581/the-st-regis-osaka.html) (Osaka)
 
 **Malasia (2)**
 - [The St. Regis Kuala Lumpur](/hotels/3073/the-st-regis-kuala-lumpur.html) (Kuala Lumpur)
@@ -166,7 +166,7 @@ St. Regis Hotels & Resorts es la marca de lujo de Marriott International hereder
 ### Oceanía y Pacífico
 
 **Polinesia Francesa (Tahití) (1)**
-- [The St. Regis Resort Bora Bora](/hotels/1801/the-st-regis-resort-bora-bora-.html) (Bora Bora)
+- [The St. Regis Resort Bora Bora](/hotels/1801/the-st-regis-resort-bora-bora.html) (Bora Bora)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -232,6 +232,6 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles Bulgari](/collection/71/)
 - [Hoteles EDITION](/collection/74/)
 - [Hoteles The Luxury Collection](/collection/51/)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 
 *Fuentes externas: [One Mile at a Time: Marriott STARS y Luminous](https://onemileatatime.com/guides/marriott-stars-luminous/); [Upgraded Points: Marriott STARS y Luminous](https://upgradedpoints.com/travel/hotels/marriott-stars-luminous-programs/). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

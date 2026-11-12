@@ -41,17 +41,17 @@ Grand Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, op
 ### Norteamérica
 
 **Estados Unidos (15)**
-- [Grand Hyatt Scottsdale Resort](/hotels/6993/-grand-hyatt-scottsdale-resort.html) (Scottsdale)
+- [Grand Hyatt Scottsdale Resort](/hotels/6993/grand-hyatt-scottsdale-resort.html) (Scottsdale)
 - [Grand Hyatt Indian Wells Resort & Villas](/hotels/1674/grand-hyatt-indian-wells-resort-villas.html) (Indian Wells)
 - [Grand Hyatt San Francisco](/hotels/2997/grand-hyatt-san-francisco.html) (San Francisco)
 - [Manchester Grand Hyatt San Diego](/hotels/2097/manchester-grand-hyatt-san-diego.html) (San Diego)
 - [Grand Hyatt Denver](/hotels/2042/grand-hyatt-denver.html) (Denver)
 - [Grand Hyatt Vail](/hotels/3945/grand-hyatt-vail.html) (Vail)
 - [Grand Hyatt Tampa Bay](/hotels/2048/grand-hyatt-tampa-bay.html) (Tampa)
-- [Grand Hyatt Atlanta in Buckhead](/hotels/3396/grand-hyatt-atlanta-in-buckhead-.html) (Atlanta)
+- [Grand Hyatt Atlanta in Buckhead](/hotels/3396/grand-hyatt-atlanta-in-buckhead.html) (Atlanta)
 - [Grand Hyatt Kauai Resort & Spa](/hotels/2043/grand-hyatt-kauai-resort-spa.html) (Kauai)
 - [Grand Hyatt Nashville](/hotels/4202/grand-hyatt-nashville.html) (Nashville)
-- [Grand Hyatt San Antonio](/hotels/3415/grand-hyatt-san-antonio-.html) (San Antonio)
+- [Grand Hyatt San Antonio](/hotels/3415/grand-hyatt-san-antonio.html) (San Antonio)
 - [Grand Hyatt San Antonio River Walk](/hotels/6949/grand-hyatt-san-antonio-river-walk.html) (San Antonio)
 - [Grand Hyatt Deer Valley](/hotels/6773/grand-hyatt-deer-valley.html) (Deer Valley)
 - [The Residences at Grand Hyatt Deer Valley](/hotels/6774/the-residences-at-grand-hyatt-deer-valley.html) (Deer Valley)
@@ -63,7 +63,7 @@ Grand Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, op
 - [Grand Hyatt Playa Del Carmen Resort](/hotels/3038/grand-hyatt-playa-del-carmen-resort.html) (Playa del Carmen)
 
 **Bahamas (1)**
-- [Grand Hyatt Baha Mar](/hotels/3397/grand-hyatt-baha-mar-.html) (Nassau)
+- [Grand Hyatt Baha Mar](/hotels/3397/grand-hyatt-baha-mar.html) (Nassau)
 
 **Gran Caimán (1)**
 - [Grand Hyatt Cayman Resort](/hotels/7011/grand-hyatt-cayman-resort.html) (Gran Caimán)
@@ -80,10 +80,10 @@ Grand Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, op
 ### Europa
 
 **Francia (1)**
-- [Hotel Martinez](/hotels/3402/hotel-martinez-.html) (Cannes)
+- [Hotel Martinez](/hotels/3402/hotel-martinez.html) (Cannes)
 
 **Alemania (1)**
-- [Grand Hyatt Berlin](/hotels/3401/grand-hyatt-berlin-.html) (Berlín)
+- [Grand Hyatt Berlin](/hotels/3401/grand-hyatt-berlin.html) (Berlín)
 
 **España (1)**
 - [Grand Hyatt Barcelona](/hotels/3913/grand-hyatt-barcelona.html) (Barcelona)
@@ -91,10 +91,10 @@ Grand Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, op
 ### Oriente Medio y norte de África
 
 **Jordania (1)**
-- [Grand Hyatt Amman](/hotels/3392/grand-hyatt-amman-.html) (Ammán)
+- [Grand Hyatt Amman](/hotels/3392/grand-hyatt-amman.html) (Ammán)
 
 **Omán (1)**
-- [Grand Hyatt Muscat](/hotels/3413/grand-hyatt-muscat-.html) (Muscat)
+- [Grand Hyatt Muscat](/hotels/3413/grand-hyatt-muscat.html) (Muscat)
 
 **Catar (1)**
 - [Grand Hyatt Doha](/hotels/1014/grand-hyatt-doha.html) (Doha)
@@ -104,7 +104,7 @@ Grand Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, op
 
 **Emiratos Árabes Unidos (2)**
 - [Grand Hyatt Abu Dhabi Hotel & Residences Emirates Pearl](/hotels/3636/grand-hyatt-abu-dhabi-hotel-residences-emirates-pearl.html) (Abu Dhabi)
-- [Grand Hyatt Dubai](/hotels/3403/grand-hyatt-dubai-.html) (Dubái)
+- [Grand Hyatt Dubai](/hotels/3403/grand-hyatt-dubai.html) (Dubái)
 
 ### Asia
 
@@ -118,17 +118,17 @@ Grand Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, op
 - [Grand Hyatt Seoul](/hotels/2045/grand-hyatt-seoul.html) (Seúl)
 
 **India (3)**
-- [Grand Hyatt Goa](/hotels/3407/grand-hyatt-goa-.html) (Goa)
+- [Grand Hyatt Goa](/hotels/3407/grand-hyatt-goa.html) (Goa)
 - [Grand Hyatt Kochi Bolgatty](/hotels/3647/grand-hyatt-kochi-bolgatty.html) (Kochi)
-- [Grand Hyatt Mumbai](/hotels/3412/grand-hyatt-mumbai-.html) (Bombay)
+- [Grand Hyatt Mumbai](/hotels/3412/grand-hyatt-mumbai.html) (Bombay)
 
 **China (10)**
 - [Grand Hyatt Beijing](/hotels/3400/grand-hyatt-beijing.html) (Pekín)
 - [Grand Hyatt Changsha](/hotels/6234/grand-hyatt-changsha.html) (Changsha)
 - [Grand Hyatt Chengdu](/hotels/4110/grand-hyatt-chengdu.html) (Chengdu)
 - [Grand Hyatt Guangzhou](/hotels/3638/grand-hyatt-guangzhou.html) (Guangzhou)
-- [Grand Hyatt Hong Kong](/hotels/3408/grand-hyatt-hong-kong-.html) (Hong Kong)
-- [Grand Hyatt Lijiang](/hotels/3410/grand-hyatt-lijiang-.html) (Lijiang)
+- [Grand Hyatt Hong Kong](/hotels/3408/grand-hyatt-hong-kong.html) (Hong Kong)
+- [Grand Hyatt Lijiang](/hotels/3410/grand-hyatt-lijiang.html) (Lijiang)
 - [Grand Hyatt Macau](/hotels/3411/grand-hyatt-macau.html) (Macao)
 - [Grand Hyatt Shanghai](/hotels/1097/grand-hyatt-shanghai.html) (Shanghái)
 - [Grand Hyatt Shenzhen](/hotels/6124/grand-hyatt-shenzhen.html) (Shenzhen)
@@ -139,11 +139,11 @@ Grand Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, op
 
 **Japón (2)**
 - [Grand Hyatt Fukuoka](/hotels/6394/grand-hyatt-fukuoka.html) (Fukuoka)
-- [Grand Hyatt Tokyo](/hotels/2428/grand-hyatt-tokyo-.html) (Tokio)
+- [Grand Hyatt Tokyo](/hotels/2428/grand-hyatt-tokyo.html) (Tokio)
 
 **Malasia (2)**
 - [Grand Hyatt Kuala Lumpur](/hotels/2665/grand-hyatt-kuala-lumpur.html) (Kuala Lumpur)
-- [Grand Hyatt Singapore](/hotels/3388/grand-hyatt-singapore-.html) (Singapur)
+- [Grand Hyatt Singapore](/hotels/3388/grand-hyatt-singapore.html) (Singapur)
 
 **Tailandia (1)**
 - [Grand Hyatt Erawan Bangkok](/hotels/3405/grand-hyatt-erawan-bangkok.html) (Bangkok)

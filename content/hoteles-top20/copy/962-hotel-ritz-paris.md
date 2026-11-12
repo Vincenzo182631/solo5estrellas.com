@@ -32,7 +32,7 @@ El Ritz Paris abrió el 1 de junio de 1898 en el número 15 de la place Vendôme
 
 ## Restaurantes y bares
 
-- **Espadon:** restaurante gastronómico con una estrella Michelin, frente al Grand Jardin.
+- **Espadon:** restaurante gastronómico, frente al Grand Jardin.
 - **Bar Vendôme:** brasserie bajo una cubierta de cristal, abierta todo el día.
 - **Salon Proust:** salón de té; bar de champán por la noche.
 - **Ritz Bar:** bar de cócteles.

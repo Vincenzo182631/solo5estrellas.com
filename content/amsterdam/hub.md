@@ -14,7 +14,7 @@ Muchos ocupan edificios con historia: un antiguo palacio de justicia, el antiguo
 | --- | --- | --- |
 | [Rosewood Amsterdam](/hotels/6785/rosewood-amsterdam.html) | Antiguo Palacio de Justicia en el Prinsengracht; 134 habitaciones y suites, spa Asaya con piscina cubierta; abrió en 2025 | Desayuno para dos, crédito de 100 EUR (200 EUR en suites), mejora según disponibilidad |
 | [Waldorf Astoria Amsterdam](/hotels/3242/waldorf-astoria-amsterdam.html) | Seis palacios de los siglos XVII y XVIII en el Herengracht; 93 habitaciones y suites, Guerlain Spa | Desayuno para dos, crédito de 85 EUR en comida y bebida, mejora según disponibilidad |
-| [The Dylan Amsterdam](/hotels/2312/the-dylan-amsterdam-.html) | En el Keizersgracht, donde estuvo el primer teatro de la ciudad (1637); restaurante Vinkeles | Desayuno bufé para dos, crédito de 85 EUR en comida y bebida, mejora según disponibilidad |
+| [The Dylan Amsterdam](/hotels/2312/the-dylan-amsterdam.html) | En el Keizersgracht, donde estuvo el primer teatro de la ciudad (1637); restaurante Vinkeles | Desayuno bufé para dos, crédito de 85 EUR en comida y bebida, mejora según disponibilidad |
 | [Pulitzer Amsterdam](/hotels/1126/hotel-pulitzer-amsterdam.html) | 25 casas de canal de los siglos XVII y XVIII en las Nueve Calles | Desayuno americano para dos, crédito de 100 USD, mejora según disponibilidad |
 | [Andaz Amsterdam Prinsengracht](/hotels/3377/andaz-amsterdam-prinsengracht.html) | Antigua biblioteca pública en el Prinsengracht, con interiores de Marcel Wanders; 122 habitaciones | Consulte con su asesor |
 | [Canal House](/hotels/4475/canal-house.html) | Tres casas de comerciantes del siglo XVII en el Keizersgracht, con jardín; 23 habitaciones | Desayuno continental para dos, crédito de 50 USD, mejora según disponibilidad (mínimo dos noches) |
@@ -23,17 +23,17 @@ Muchos ocupan edificios con historia: un antiguo palacio de justicia, el antiguo
 
 | Hotel | Entorno | Beneficios al reservar con Solo5Estrellas |
 | --- | --- | --- |
-| [De L'Europe Amsterdam](/hotels/2729/de-l-europe-.html) | A orillas del Amstel desde 1896; 107 habitaciones, 55 de ellas suites; restaurante Flore | Desayuno para dos, crédito de 85 EUR en comida y bebida, mejora según disponibilidad |
+| [De L'Europe Amsterdam](/hotels/2729/de-l-europe.html) | A orillas del Amstel desde 1896; 107 habitaciones, 55 de ellas suites; restaurante Flore | Desayuno para dos, crédito de 85 EUR en comida y bebida, mejora según disponibilidad |
 | [InterContinental Amstel Amsterdam](/hotels/939/intercontinental-amstel-amsterdam.html) | Hotel de 1867 a orillas del Amstel; 79 habitaciones y suites | Desayuno para dos, un servicio de hasta 100 USD, mejora según disponibilidad |
 | [Sofitel Legend The Grand Amsterdam](/hotels/2186/sofitel-legend-the-grand-amsterdam.html) | Antiguo convento y antiguo ayuntamiento entre dos canales; spa con piscina cubierta | Consulte con su asesor |
 | [W Amsterdam](/hotels/3823/w-amsterdam.html) | Junto a la plaza Dam, en una antigua central telefónica y un antiguo banco; piscina en la azotea | Consulte con su asesor |
-| [Kimpton De Witt Amsterdam](/hotels/4024/kimpton-de-witt-amsterdam-.html) | Cerca de la estación Centraal; 274 habitaciones; primer Kimpton de Europa (2017) | Agua y fruta a la llegada, amenidad de 50 USD, mejora según disponibilidad |
+| [Kimpton De Witt Amsterdam](/hotels/4024/kimpton-de-witt-amsterdam.html) | Cerca de la estación Centraal; 274 habitaciones; primer Kimpton de Europa (2017) | Agua y fruta a la llegada, amenidad de 50 USD, mejora según disponibilidad |
 
 ### Museumplein, Leidseplein y Oost
 
 | Hotel | Entorno | Beneficios al reservar con Solo5Estrellas |
 | --- | --- | --- |
-| [Mandarin Oriental Conservatorium](/hotels/2772/mandarin-oriental-conservatorium-.html) | Antiguo banco de 1897 y conservatorio de música, junto a los museos; 129 habitaciones, Akasha Spa de 1.000 m² | Desayuno completo para dos, crédito de 100 USD para comida, bebida o spa, mejora según disponibilidad |
+| [Mandarin Oriental Conservatorium](/hotels/2772/mandarin-oriental-conservatorium.html) | Antiguo banco de 1897 y conservatorio de música, junto a los museos; 129 habitaciones, Akasha Spa de 1.000 m² | Desayuno completo para dos, crédito de 100 USD para comida, bebida o spa, mejora según disponibilidad |
 | [Amsterdam Marriott Hotel](/hotels/4694/amsterdam-marriott-hotel.html) | En el Stadhouderskade, a pocos pasos del Leidseplein y el Vondelpark | Consulte con su asesor |
 | [Pillows Grand Boutique Hotel Maurits at the Park](/hotels/6095/pillows-grand-boutique-hotel-maurits-at-the-park.html) | Antiguo edificio universitario de 1908 junto al Oosterpark; Urban Spa | Desayuno continental para dos, crédito de 50 USD, mejora según disponibilidad (mínimo dos noches) |
 

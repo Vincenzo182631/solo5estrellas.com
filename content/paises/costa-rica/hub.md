@@ -49,12 +49,12 @@ Un hotel no tiene una marca o colección asociada en la lista.
 - Bajos Del Toro: [El Silencio Lodge & Spa](/hotels/4234/el-silencio-lodge-spa.html)
 - Escazu: [InterContinental Costa Rica at Multiplaza Mall](/hotels/4783/intercontinental-costa-rica-at-multiplaza-mall.html)
 - La Fortuna: [The Springs Resort & Spa](/hotels/6342/the-springs-resort-spa.html)
-- Los Suenos: [Los Sueños Marriott Ocean & Golf Resort](/hotels/4684/los-sue-os-marriott-ocean-golf-resort-.html)
+- Los Suenos: [Los Sueños Marriott Ocean & Golf Resort](/hotels/4684/los-sue-os-marriott-ocean-golf-resort.html)
 - Manuel Antonio: [Los Altos Resort](/hotels/3342/los-altos-resort.html)
 - Ojochal: [Three Sixty Boutique Hotel](/hotels/4295/three-sixty-boutique-hotel.html)
-- Peninsula Papagayo: [Andaz Costa Rica Resort at Peninsula Papagayo](/hotels/2760/andaz-costa-rica-resort-at-peninsula-papagayo.html); [El Mangroove, Autograph Collection](/hotels/3616/el-mangroove-autograph-collection.html); [Four Seasons Resort Costa Rica](/hotels/1271/four-seasons-resort-costa-rica-.html); [Nekajui, A Ritz Carlton Reserve](/hotels/6781/nekajui-a-ritz-carlton-reserve.html); [Secrets Papagayo Costa Rica](/hotels/6997/secrets-papagayo-costa-rica.html); [W Costa Rica - Reserva Conchal](/hotels/3896/w-costa-rica-reserva-conchal.html); [Waldorf Astoria Costa Rica Punta Cacique](/hotels/6850/waldorf-astoria-costa-rica-punta-cacique.html)
+- Peninsula Papagayo: [Andaz Costa Rica Resort at Peninsula Papagayo](/hotels/2760/andaz-costa-rica-resort-at-peninsula-papagayo.html); [El Mangroove, Autograph Collection](/hotels/3616/el-mangroove-autograph-collection.html); [Four Seasons Resort Costa Rica](/hotels/1271/four-seasons-resort-costa-rica.html); [Nekajui, A Ritz Carlton Reserve](/hotels/6781/nekajui-a-ritz-carlton-reserve.html); [Secrets Papagayo Costa Rica](/hotels/6997/secrets-papagayo-costa-rica.html); [W Costa Rica - Reserva Conchal](/hotels/3896/w-costa-rica-reserva-conchal.html); [Waldorf Astoria Costa Rica Punta Cacique](/hotels/6850/waldorf-astoria-costa-rica-punta-cacique.html)
 - San Isidro del General: [Hacienda AltaGracia, Auberge Collection](/hotels/3039/hacienda-altagracia-auberge-collection.html)
-- San Jose CR: [Costa Rica Marriott Hotel Hacienda Belén](/hotels/4685/costa-rica-marriott-hotel-hacienda-bel-n-.html)
+- San Jose CR: [Costa Rica Marriott Hotel Hacienda Belén](/hotels/4685/costa-rica-marriott-hotel-hacienda-bel-n.html)
 - Santa Teresa: [Nantipa Beach & Resort](/hotels/4085/nantipa-beach-resort.html)
 
 ## Preguntas frecuentes sobre hoteles en Costa Rica
@@ -85,7 +85,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Centroamérica](/regions/7/central_america.html)
+- [Hoteles de lujo en Centroamérica](/regions/7/central-america.html)
 - [Hoteles Small Luxury Hotels of The World](/collection/47/)
 - [Hoteles The Signature Collection](/collection/79/)
 - [Hoteles Marriott Hotels & Resorts](/collection/69/)

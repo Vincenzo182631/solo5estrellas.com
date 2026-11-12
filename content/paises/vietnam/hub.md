@@ -45,7 +45,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Vi
 
 - Sin ciudad indicada: [Six Senses Ninh Van Bay](/hotels/6747/six-senses-ninh-van-bay.html)
 - Da Nang: [Danang Marriott Resort & Spa](/hotels/6367/danang-marriott-resort-spa.html); [Danang Marriott Resort & Spa, Non Nuoc Beach Villas](/hotels/6662/danang-marriott-resort-spa-non-nuoc-beach-villas.html); [Hyatt Regency Danang Resort & Spa](/hotels/3395/hyatt-regency-danang-resort-spa.html); [InterContinental Danang Sun Peninsula Resort](/hotels/2910/intercontinental-danang-sun-peninsula-resort.html); [Sheraton Grand Danang Beach Resort & Spa](/hotels/7113/sheraton-grand-danang-beach-resort-spa.html)
-- Hanói: [Fairmont Hanoi](/hotels/7146/fairmont-hanoi.html); [InterContinental Hanoi Landmark72](/hotels/4790/intercontinental-hanoi-landmark72.html); [JW Marriott Hotel Hanoi](/hotels/3716/jw-marriott-hotel-hanoi.html); [MGallery Hanoi Hotel de L'Opera](/hotels/4949/mgallery-hanoi-hotel-de-l-opera.html); [Sofitel Legend Metropole Hanoi](/hotels/1900/sofitel-legend-metropole-hanoi-.html)
+- Hanói: [Fairmont Hanoi](/hotels/7146/fairmont-hanoi.html); [InterContinental Hanoi Landmark72](/hotels/4790/intercontinental-hanoi-landmark72.html); [JW Marriott Hotel Hanoi](/hotels/3716/jw-marriott-hotel-hanoi.html); [MGallery Hanoi Hotel de L'Opera](/hotels/4949/mgallery-hanoi-hotel-de-l-opera.html); [Sofitel Legend Metropole Hanoi](/hotels/1900/sofitel-legend-metropole-hanoi.html)
 - Ho Chi Minh: [Sheraton Saigon Grand Opera Hotel](/hotels/6962/sheraton-saigon-grand-opera-hotel.html); [Sofitel Saigon Plaza](/hotels/6486/sofitel-saigon-plaza.html); [Vinpearl Landmark 81, Autograph Collection](/hotels/7094/vinpearl-landmark-81-autograph-collection.html)
 - Hoi An: [Four Seasons Resort the Nam Hai](/hotels/1803/four-seasons-resort-the-nam-hai.html)
 - Hue: [Azerai La Residence, Hue](/hotels/3623/azerai-la-residence-hue.html); [La Residence Hue Ho & Spa](/hotels/2636/la-residence-hue-ho-spa.html)
@@ -83,7 +83,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles Marriott Hotels & Resorts](/collection/69/)
 - [Hoteles InterContinental Hotels & Resorts](/collection/15/)
 - [Hoteles Sheraton Hotels & Resorts](/collection/86/)

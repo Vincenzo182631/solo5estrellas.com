@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "La Mamounia",
-          "item": "https://solo5estrellas.com/hotels/1043/la_mamounia.html"
+          "item": "https://solo5estrellas.com/hotels/1043/la-mamounia.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/1043/la_mamounia.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/1043/la_mamounia.html",
+      "@id": "https://solo5estrellas.com/hotels/1043/la-mamounia.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1043/la-mamounia.html",
       "name": "La Mamounia",
       "description": "La Mamounia, desde 1923 junto a la medina de Marrakech, con jardines y spa de 2.500 m². Con Solo5Estrellas: desayuno bufé para dos y crédito.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "La Mamounia",
-      "url": "https://solo5estrellas.com/hotels/1043/la_mamounia.html",
+      "url": "https://solo5estrellas.com/hotels/1043/la-mamounia.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Avenue Bab Jdid",

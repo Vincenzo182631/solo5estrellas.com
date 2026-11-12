@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "The Langham, Hong Kong",
-          "item": "https://solo5estrellas.com/hotels/1112/the-langham-hotel-hong-kong-.html"
+          "item": "https://solo5estrellas.com/hotels/1112/the-langham-hotel-hong-kong.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/1112/the-langham-hotel-hong-kong-.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/1112/the-langham-hotel-hong-kong-.html",
+      "@id": "https://solo5estrellas.com/hotels/1112/the-langham-hotel-hong-kong.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1112/the-langham-hotel-hong-kong.html",
       "name": "The Langham, Hong Kong",
       "description": "The Langham, Hong Kong, en Tsim Sha Tsui, con T'ang Court y piscina en la azotea. Con Solo5Estrellas: desayuno bufé para dos y crédito de hotel.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "The Langham, Hong Kong",
-      "url": "https://solo5estrellas.com/hotels/1112/the-langham-hotel-hong-kong-.html",
+      "url": "https://solo5estrellas.com/hotels/1112/the-langham-hotel-hong-kong.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "8 Peking Road",

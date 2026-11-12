@@ -25,7 +25,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Ba
 
 ## Los 6 hoteles de Barbados
 
-- St. James (Barbados): [Coral Reef Club](/hotels/4590/coral-reef-club.html); [Sandy Lane](/hotels/935/sandy-lane.html); [Tamarind Barbados, An Autograph Collection](/hotels/7126/tamarind-barbados-an-autograph-collection.html); [The Fairmont Royal Pavilion](/hotels/2135/the-fairmont-royal-pavilion.html); [The Sandpiper](/hotels/4591/the-sandpiper.html); [Treasure Beach Art Hotel, Barbados, An Autograph Collection All-Inclusive Resort](/hotels/7128/treasure-beach-art-hotel-barbados-an-autograph-collection-br-all-inclusive-resort-br-.html)
+- St. James (Barbados): [Coral Reef Club](/hotels/4590/coral-reef-club.html); [Sandy Lane](/hotels/935/sandy-lane.html); [Tamarind Barbados, An Autograph Collection](/hotels/7126/tamarind-barbados-an-autograph-collection.html); [The Fairmont Royal Pavilion](/hotels/2135/the-fairmont-royal-pavilion.html); [The Sandpiper](/hotels/4591/the-sandpiper.html); [Treasure Beach Art Hotel, Barbados, An Autograph Collection All-Inclusive Resort](/hotels/7128/treasure-beach-art-hotel-barbados-an-autograph-collection-br-all-inclusive-resort-br.html)
 
 ## Preguntas frecuentes sobre hoteles en Barbados
 

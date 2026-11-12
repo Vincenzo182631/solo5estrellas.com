@@ -42,7 +42,7 @@ Park Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, ope
 **Estados Unidos (5)**
 - [Park Hyatt Aviara Resort, Golf Club & Spa](/hotels/1020/park-hyatt-aviara-resort-golf-club-spa.html) (San Diego, Aviara, California)
 - [Park Hyatt Beaver Creek Resort and Spa](/hotels/1262/park-hyatt-beaver-creek-resort-and-spa.html) (Beaver Creek, Colorado)
-- [Park Hyatt Washington D.C.](/hotels/1205/park-hyatt-washington-d-c-.html) (Washington D. C., District of Columbia)
+- [Park Hyatt Washington D.C.](/hotels/1205/park-hyatt-washington-d-c.html) (Washington D. C., District of Columbia)
 - [Park Hyatt Chicago](/hotels/1123/park-hyatt-chicago.html) (Chicago, Illinois)
 - [Park Hyatt New York](/hotels/2896/park-hyatt-new-york.html) (Nueva York)
 
@@ -61,19 +61,19 @@ Park Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, ope
 ### Sudamérica
 
 **Argentina (2)**
-- [Palacio Duhau - Park Hyatt Buenos Aires](/hotels/1810/palacio-duhau-park-hyatt-buenos-aires-.html) (Buenos Aires)
+- [Palacio Duhau - Park Hyatt Buenos Aires](/hotels/1810/palacio-duhau-park-hyatt-buenos-aires.html) (Buenos Aires)
 - [Park Hyatt Mendoza Hotel](/hotels/1811/park-hyatt-mendoza-hotel.html) (Mendoza)
 
 ### Europa
 
 **Rusia (1)**
-- [Ararat Park Hyatt Moscow](/hotels/3389/ararat-park-hyatt-moscow-.html) (Moscú)
+- [Ararat Park Hyatt Moscow](/hotels/3389/ararat-park-hyatt-moscow.html) (Moscú)
 
 **Turquía (1)**
 - [Park Hyatt Istanbul – Macka Palas](/hotels/2329/park-hyatt-istanbul-macka-palas.html) (Estambul)
 
 **Austria (1)**
-- [Park Hyatt Vienna](/hotels/2905/park-hyatt-vienna-.html) (Viena)
+- [Park Hyatt Vienna](/hotels/2905/park-hyatt-vienna.html) (Viena)
 
 **Francia (1)**
 - [Park Hyatt Paris-Vendome](/hotels/1259/park-hyatt-paris-vendome.html) (París)
@@ -114,7 +114,7 @@ Park Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, ope
 
 **Corea del Sur (2)**
 - [Park Hyatt Busan](/hotels/3459/park-hyatt-busan.html) (Busan)
-- [Park Hyatt Seoul](/hotels/1559/park-hyatt-seoul-.html) (Seúl)
+- [Park Hyatt Seoul](/hotels/1559/park-hyatt-seoul.html) (Seúl)
 
 **India (2)**
 - [Park Hyatt Chennai](/hotels/3453/park-hyatt-chennai.html) (Chennai)
@@ -128,9 +128,9 @@ Park Hyatt es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, ope
 - [Park Hyatt Changbaishan](/hotels/3460/park-hyatt-changbaishan.html) (Baishan)
 - [Park Hyatt Changsha](/hotels/6721/park-hyatt-changsha.html) (Changsha)
 - [Park Hyatt Guangzhou](/hotels/3974/park-hyatt-guangzhou.html) (Guangzhou)
-- [Park Hyatt Hangzhou](/hotels/3451/park-hyatt-hangzhou-.html) (Hangzhou)
+- [Park Hyatt Hangzhou](/hotels/3451/park-hyatt-hangzhou.html) (Hangzhou)
 - [Park Hyatt Ningbo Resort & Spa](/hotels/3447/park-hyatt-ningbo-resort-spa.html) (Ningbo)
-- [Park Hyatt Sanya Sunny Bay](/hotels/3446/park-hyatt-sanya-sunny-bay-.html) (Sanya)
+- [Park Hyatt Sanya Sunny Bay](/hotels/3446/park-hyatt-sanya-sunny-bay.html) (Sanya)
 - [Park Hyatt Shanghai](/hotels/2275/park-hyatt-shanghai.html) (Shanghái)
 - [Park Hyatt Shenzhen](/hotels/3910/park-hyatt-shenzhen.html) (Shenzhen)
 - [Park Hyatt Suzhou](/hotels/4201/park-hyatt-suzhou.html) (Suzhou)

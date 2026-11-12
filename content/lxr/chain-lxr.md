@@ -40,40 +40,40 @@ LXR Hotels & Resorts es la colección de hoteles de lujo independientes de Hilto
 ### Norteamérica
 
 **Estados Unidos (3)**
-- [Oceana Beach Club Hotel](/hotels/2331/Oceana-Beach-Club-Hotel.html) (Santa Monica)
-- [Ka La'i Waikiki Beach](/hotels/7096/Ka-La-i-Waikiki-Beach.html) (Honolulu)
-- [Crockfords Las Vegas, LXR Hotels & Resorts](/hotels/6320/Crockfords-Las-Vegas-LXR-Hotels-Resorts.html) (Las Vegas)
+- [Oceana Beach Club Hotel](/hotels/2331/oceana-beach-club-hotel.html) (Santa Monica)
+- [Ka La'i Waikiki Beach](/hotels/7096/ka-la-i-waikiki-beach.html) (Honolulu)
+- [Crockfords Las Vegas, LXR Hotels & Resorts](/hotels/6320/crockfords-las-vegas-lxr-hotels-resorts.html) (Las Vegas)
 
 ### México, Caribe y Centroamérica
 
 **Anguila (1)**
-- [Zemi Beach House](/hotels/3665/Zemi-Beach-House.html) (Anguila)
+- [Zemi Beach House](/hotels/3665/zemi-beach-house.html) (Anguila)
 
 ### Europa
 
 **Turquía (1)**
-- [Susona Bodrum](/hotels/4653/Susona-Bodrum.html) (Bodrum)
+- [Susona Bodrum](/hotels/4653/susona-bodrum.html) (Bodrum)
 
 ### África
 
 **Seychelles (1)**
-- [Mango House Seychelles](/hotels/4651/Mango-House-Seychelles.html) (Seychelles)
+- [Mango House Seychelles](/hotels/4651/mango-house-seychelles.html) (Seychelles)
 
 ### Oriente Medio y norte de África
 
 **Catar (1)**
-- [Maysan Doha, LXR Hotels & Resorts](/hotels/6324/Maysan-Doha-LXR-Hotels-Resorts.html) (Doha)
+- [Maysan Doha, LXR Hotels & Resorts](/hotels/6324/maysan-doha-lxr-hotels-resorts.html) (Doha)
 
 **Emiratos Árabes Unidos (1)**
-- [Habtoor Palace Dubai](/hotels/4162/Habtoor-Palace-Dubai.html) (Dubái)
+- [Habtoor Palace Dubai](/hotels/4162/habtoor-palace-dubai.html) (Dubái)
 
 ### Asia
 
 **Georgia (1)**
-- [Paragraph Freedom Square, a Luxury Collection Hotel, Tbilisi](/hotels/6917/Paragraph-Freedom-Square-a-Luxury-Collection-Hotel-Tbilisi.html) (Tbilisi)
+- [Paragraph Freedom Square, a Luxury Collection Hotel, Tbilisi](/hotels/6917/paragraph-freedom-square-a-luxury-collection-hotel-tbilisi.html) (Tbilisi)
 
 **Japón (1)**
-- [Roku Kyoto, LXR Hotels & Resorts](/hotels/6328/Roku-Kyoto-LXR-Hotels-Resorts.html) (Kioto)
+- [Roku Kyoto, LXR Hotels & Resorts](/hotels/6328/roku-kyoto-lxr-hotels-resorts.html) (Kioto)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -139,6 +139,6 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles Conrad](/collection/80/)
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles de lujo en Londres](/cities/150/london.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 
 *Fuentes externas: [One Mile at a Time: Hilton for Luxury](https://onemileatatime.com/guides/hilton-for-luxury/). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

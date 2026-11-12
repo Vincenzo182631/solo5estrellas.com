@@ -39,7 +39,7 @@ The Unbound Collection es una de las marcas de Hyatt Hotels Corporation. Solo5Es
 ### Norteamérica
 
 **Estados Unidos (15)**
-- [Royal Palms Resort and Spa](/hotels/1063/royal-palms-resort-and-spa-.html) (Phoenix)
+- [Royal Palms Resort and Spa](/hotels/1063/royal-palms-resort-and-spa.html) (Phoenix)
 - [Hotel Figueroa](/hotels/6208/hotel-figueroa.html) (Los Ángeles)
 - [Kissel Uptown Oakland](/hotels/6123/kissel-uptown-oakland.html) (San Francisco)
 - [Mar Monte Hotel](/hotels/4221/mar-monte-hotel.html) (Santa Bárbara)

@@ -10,7 +10,7 @@ Los nombres de los hoteles no se traducen.
 
 | Hotel | Zona | Entorno | Beneficios al reservar con Solo5Estrellas |
 | --- | --- | --- | --- |
-| [Splendido, A Belmond Hotel, Portofino](/hotels/944/belmond-hotel-splendido-.html) | Colina sobre la bahía (Salita Baratta) | Antiguo monasterio benedictino, reabierto en junio de 2025 con interiores de Martin Brudnizki; Dior Spa, piscina climatizada y tenis | Desayuno completo para dos, crédito de 90 USD (200 USD en suites), mejora según disponibilidad |
+| [Splendido, A Belmond Hotel, Portofino](/hotels/944/belmond-hotel-splendido.html) | Colina sobre la bahía (Salita Baratta) | Antiguo monasterio benedictino, reabierto en junio de 2025 con interiores de Martin Brudnizki; Dior Spa, piscina climatizada y tenis | Desayuno completo para dos, crédito de 90 USD (200 USD en suites), mejora según disponibilidad |
 | [Splendido Mare, A Belmond Hotel](/hotels/6110/belmond-hotel-splendido-mare.html) | La Piazzetta, junto al puerto | Antigua posada de pescadores con 14 habitaciones y suites, restaurante DaV Mare y traslado a las instalaciones de Splendido | Desayuno completo para dos, crédito de 90 USD (200 USD en suites), mejora según disponibilidad |
 | [Eight Hotel Portofino](/hotels/4433/eight-hotel-portofino.html) | A pocos pasos de la Piazzetta | Casa ligur renovada, miembro de Small Luxury Hotels of the World; spa con sauna y baño turco | Desayuno continental para dos, crédito de 50 USD, mejora según disponibilidad (mínimo dos noches) |
 

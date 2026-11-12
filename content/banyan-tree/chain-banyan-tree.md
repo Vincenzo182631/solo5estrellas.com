@@ -38,37 +38,37 @@ Banyan Tree Group es una compañía de resorts y spas con sede en Singapur, fund
 ### México, Caribe y Centroamérica
 
 **México (2)**
-- [Banyan Tree Cabo Marques](/hotels/3676/Banyan-Tree-Cabo-Marques.html) (Acapulco)
-- [Banyan Tree Mayakoba](/hotels/2314/Banyan-Tree-Mayakoba.html) (Mayakoba)
+- [Banyan Tree Cabo Marques](/hotels/3676/banyan-tree-cabo-marques.html) (Acapulco)
+- [Banyan Tree Mayakoba](/hotels/2314/banyan-tree-mayakoba.html) (Mayakoba)
 
 ### Europa
 
 **Grecia (1)**
-- [Angsana Corfu Resort & Spa](/hotels/6584/Angsana-Corfu-Resort-Spa.html) (Corfú)
+- [Angsana Corfu Resort & Spa](/hotels/6584/angsana-corfu-resort-spa.html) (Corfú)
 
 ### Oriente Medio y norte de África
 
 **Catar (1)**
-- [Banyan Tree Doha](/hotels/6470/Banyan-Tree-Doha.html) (Doha)
+- [Banyan Tree Doha](/hotels/6470/banyan-tree-doha.html) (Doha)
 
 ### Asia
 
 **Maldivas (1)**
-- [Banyan Tree Vabbinfaru](/hotels/6467/Banyan-Tree-Vabbinfaru.html) (Maldivas)
+- [Banyan Tree Vabbinfaru](/hotels/6467/banyan-tree-vabbinfaru.html) (Maldivas)
 
 **China (2)**
-- [Banyan Tree Hangzhou](/hotels/6455/Banyan-Tree-Hangzhou.html) (Hangzhou)
-- [Banyan Tree Shanghai On The Bund](/hotels/6458/Banyan-Tree-Shanghai-On-The-Bund.html) (Shanghái)
+- [Banyan Tree Hangzhou](/hotels/6455/banyan-tree-hangzhou.html) (Hangzhou)
+- [Banyan Tree Shanghai On The Bund](/hotels/6458/banyan-tree-shanghai-on-the-bund.html) (Shanghái)
 
 **Indonesia (1)**
-- [Buahan, A Banyan Tree Escape](/hotels/6465/Buahan-A-Banyan-Tree-Escape.html) (Bali)
+- [Buahan, A Banyan Tree Escape](/hotels/6465/buahan-a-banyan-tree-escape.html) (Bali)
 
 **Japón (1)**
-- [Banyan Tree Higashiyama Kyoto](/hotels/7054/Banyan-Tree-Higashiyama-Kyoto.html) (Kioto)
+- [Banyan Tree Higashiyama Kyoto](/hotels/7054/banyan-tree-higashiyama-kyoto.html) (Kioto)
 
 **Tailandia (2)**
-- [Banyan Tree Phuket](/hotels/6479/Banyan-Tree-Phuket.html) (Phuket)
-- [Banyan Tree Samui](/hotels/7073/Banyan-Tree-Samui.html) (Koh Samui)
+- [Banyan Tree Phuket](/hotels/6479/banyan-tree-phuket.html) (Phuket)
+- [Banyan Tree Samui](/hotels/7073/banyan-tree-samui.html) (Koh Samui)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

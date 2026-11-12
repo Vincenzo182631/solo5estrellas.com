@@ -41,37 +41,37 @@ The Peninsula Hotels es el grupo hotelero de lujo de The Hongkong and Shanghai H
 
 Seis hoteles en Hong Kong, Shanghái, Pekín, Tokio, Manila y Bangkok. El de Hong Kong es el hotel original del grupo.
 
-- [The Peninsula Hong Kong](/hotels/1426/The-Peninsula-Hong-Kong.html) (Hong Kong)
-- [The Peninsula Shanghai](/hotels/2316/The-Peninsula-Shanghai.html) (Shanghái)
-- [The Peninsula Beijing](/hotels/1245/The-Peninsula-Beijing.html) (Pekín)
-- [The Peninsula Tokyo](/hotels/1887/The-Peninsula-Tokyo.html) (Tokio)
-- [The Peninsula Manila](/hotels/1888/The-Peninsula-Manila.html) (Manila)
-- [The Peninsula Bangkok](/hotels/1056/The-Peninsula-Bangkok.html) (Bangkok)
+- [The Peninsula Hong Kong](/hotels/1426/the-peninsula-hong-kong.html) (Hong Kong)
+- [The Peninsula Shanghai](/hotels/2316/the-peninsula-shanghai.html) (Shanghái)
+- [The Peninsula Beijing](/hotels/1245/the-peninsula-beijing.html) (Pekín)
+- [The Peninsula Tokyo](/hotels/1887/the-peninsula-tokyo.html) (Tokio)
+- [The Peninsula Manila](/hotels/1888/the-peninsula-manila.html) (Manila)
+- [The Peninsula Bangkok](/hotels/1056/the-peninsula-bangkok.html) (Bangkok)
 
 ### Europa
 
 Tres hoteles urbanos: París, Londres y Estambul.
 
-- [The Peninsula Paris](/hotels/2881/The-Peninsula-Paris.html) (París)
-- [The Peninsula London](/hotels/6422/The-Peninsula-London.html) (Londres)
-- [The Peninsula Istanbul](/hotels/6347/The-Peninsula-Istanbul.html) (Estambul)
+- [The Peninsula Paris](/hotels/2881/the-peninsula-paris.html) (París)
+- [The Peninsula London](/hotels/6422/the-peninsula-london.html) (Londres)
+- [The Peninsula Istanbul](/hotels/6347/the-peninsula-istanbul.html) (Estambul)
 
 ### Estados Unidos
 
 Hoteles en Nueva York, Chicago y Beverly Hills.
 
-- [The Peninsula New York](/hotels/1048/The-Peninsula-New-York-.html) (Nueva York)
-- [The Peninsula Chicago](/hotels/1179/The-Peninsula-Chicago.html) (Chicago)
-- [The Peninsula Beverly Hills](/hotels/1427/The-Peninsula-Beverly-Hills.html) (Beverly Hills)
+- [The Peninsula New York](/hotels/1048/the-peninsula-new-york.html) (Nueva York)
+- [The Peninsula Chicago](/hotels/1179/the-peninsula-chicago.html) (Chicago)
+- [The Peninsula Beverly Hills](/hotels/1427/the-peninsula-beverly-hills.html) (Beverly Hills)
 
 ## Qué Peninsula elegir según el viaje
 
 | Si busca | Considere |
 | --- | --- |
-| Ciudades europeas | [The Peninsula Paris](/hotels/2881/The-Peninsula-Paris.html), [The Peninsula London](/hotels/6422/The-Peninsula-London.html), [The Peninsula Istanbul](/hotels/6347/The-Peninsula-Istanbul.html) |
-| Ciudades de Asia | [The Peninsula Hong Kong](/hotels/1426/The-Peninsula-Hong-Kong.html), [The Peninsula Tokyo](/hotels/1887/The-Peninsula-Tokyo.html), [The Peninsula Shanghai](/hotels/2316/The-Peninsula-Shanghai.html), [The Peninsula Beijing](/hotels/1245/The-Peninsula-Beijing.html) |
-| Sudeste asiático | [The Peninsula Bangkok](/hotels/1056/The-Peninsula-Bangkok.html), [The Peninsula Manila](/hotels/1888/The-Peninsula-Manila.html) |
-| Estados Unidos | [The Peninsula New York](/hotels/1048/The-Peninsula-New-York-.html), [The Peninsula Chicago](/hotels/1179/The-Peninsula-Chicago.html), [The Peninsula Beverly Hills](/hotels/1427/The-Peninsula-Beverly-Hills.html) |
+| Ciudades europeas | [The Peninsula Paris](/hotels/2881/the-peninsula-paris.html), [The Peninsula London](/hotels/6422/the-peninsula-london.html), [The Peninsula Istanbul](/hotels/6347/the-peninsula-istanbul.html) |
+| Ciudades de Asia | [The Peninsula Hong Kong](/hotels/1426/the-peninsula-hong-kong.html), [The Peninsula Tokyo](/hotels/1887/the-peninsula-tokyo.html), [The Peninsula Shanghai](/hotels/2316/the-peninsula-shanghai.html), [The Peninsula Beijing](/hotels/1245/the-peninsula-beijing.html) |
+| Sudeste asiático | [The Peninsula Bangkok](/hotels/1056/the-peninsula-bangkok.html), [The Peninsula Manila](/hotels/1888/the-peninsula-manila.html) |
+| Estados Unidos | [The Peninsula New York](/hotels/1048/the-peninsula-new-york.html), [The Peninsula Chicago](/hotels/1179/the-peninsula-chicago.html), [The Peninsula Beverly Hills](/hotels/1427/the-peninsula-beverly-hills.html) |
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -132,7 +132,7 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles Mandarin Oriental](/chains/5/mandarin_oriental.html)
 - [Hoteles Ritz-Carlton](/chains/13/ritz_carlton.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 - [Hoteles de lujo en París](/cities/207/paris.html)
 - [Hoteles de lujo en Londres](/cities/150/london.html)
 

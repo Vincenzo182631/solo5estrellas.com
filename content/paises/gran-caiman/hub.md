@@ -27,7 +27,7 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Gr
 
 ## Los 6 hoteles de Gran Caimán
 
-- Gran Caimán: [Grand Cayman Marriott Beach Resort](/hotels/4979/grand-cayman-marriott-beach-resort.html); [Grand Hyatt Cayman Resort](/hotels/7011/grand-hyatt-cayman-resort.html); [Hotel Indigo Grand Cayman](/hotels/6861/hotel-indigo-grand-cayman.html); [Kimpton Seafire Resort](/hotels/3214/kimpton-seafire-resort-.html); [Ritz Carlton, Grand Cayman](/hotels/1512/ritz-carlton-grand-cayman-.html); [The Westin Grand Cayman Seven Mile Beach Resort & Spa](/hotels/3788/the-westin-grand-cayman-seven-mile-beach-resort-spa.html)
+- Gran Caimán: [Grand Cayman Marriott Beach Resort](/hotels/4979/grand-cayman-marriott-beach-resort.html); [Grand Hyatt Cayman Resort](/hotels/7011/grand-hyatt-cayman-resort.html); [Hotel Indigo Grand Cayman](/hotels/6861/hotel-indigo-grand-cayman.html); [Kimpton Seafire Resort](/hotels/3214/kimpton-seafire-resort.html); [Ritz Carlton, Grand Cayman](/hotels/1512/ritz-carlton-grand-cayman.html); [The Westin Grand Cayman Seven Mile Beach Resort & Spa](/hotels/3788/the-westin-grand-cayman-seven-mile-beach-resort-spa.html)
 
 ## Preguntas frecuentes sobre hoteles en Gran Caimán
 

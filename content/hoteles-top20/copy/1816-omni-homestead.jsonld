@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "The Omni Homestead Resort",
-          "item": "https://solo5estrellas.com/hotels/1816/omni-homestead-.html"
+          "item": "https://solo5estrellas.com/hotels/1816/omni-homestead.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/1816/omni-homestead-.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/1816/omni-homestead-.html",
+      "@id": "https://solo5estrellas.com/hotels/1816/omni-homestead.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/1816/omni-homestead.html",
       "name": "The Omni Homestead Resort",
       "description": "The Omni Homestead Resort, resort histórico en Hot Springs, Virginia, en los montes Allegheny. Consulte tarifas y beneficios con Solo5Estrellas.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "The Omni Homestead Resort",
-      "url": "https://solo5estrellas.com/hotels/1816/omni-homestead-.html",
+      "url": "https://solo5estrellas.com/hotels/1816/omni-homestead.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "7696 Sam Snead Hwy",

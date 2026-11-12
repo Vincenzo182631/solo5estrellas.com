@@ -33,8 +33,8 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Po
 
 ## Los 10 hoteles de Polinesia Francesa (Tahití)
 
-- Bora Bora: [Conrad Bora Bora Nui](/hotels/2507/conrad-bora-bora-nui.html); [Four Seasons Resort Bora Bora](/hotels/2280/four-seasons-resort-bora-bora.html); [InterContinental Bora Bora & Thalasso](/hotels/1970/intercontinental-bora-bora-thalasso-.html); [The St. Regis Resort Bora Bora](/hotels/1801/the-st-regis-resort-bora-bora-.html); [The Westin Bora Bora Resort & Spa](/hotels/6918/the-westin-bora-bora-resort-spa.html)
-- Moorea: [Hilton Moorea Lagoon Resort](/hotels/2508/hilton-moorea-lagoon-resort.html); [Sofitel Kia Ora Moorea Beach Resort](/hotels/2388/sofitel-kia-ora-moorea-beach-resort-.html)
+- Bora Bora: [Conrad Bora Bora Nui](/hotels/2507/conrad-bora-bora-nui.html); [Four Seasons Resort Bora Bora](/hotels/2280/four-seasons-resort-bora-bora.html); [InterContinental Bora Bora & Thalasso](/hotels/1970/intercontinental-bora-bora-thalasso.html); [The St. Regis Resort Bora Bora](/hotels/1801/the-st-regis-resort-bora-bora.html); [The Westin Bora Bora Resort & Spa](/hotels/6918/the-westin-bora-bora-resort-spa.html)
+- Moorea: [Hilton Moorea Lagoon Resort](/hotels/2508/hilton-moorea-lagoon-resort.html); [Sofitel Kia Ora Moorea Beach Resort](/hotels/2388/sofitel-kia-ora-moorea-beach-resort.html)
 - Papeete: [The Brando](/hotels/2987/the-brando.html)
 - Rangiroa: [Hotel Kia Ora Resort & Spa](/hotels/3053/hotel-kia-ora-resort-spa.html)
 - Taha'a: [Le Taha'a Island Resort & Spa](/hotels/1346/le-taha-a-island-resort-spa.html)
@@ -67,7 +67,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia_pacific.html)
+- [Hoteles de lujo en Asia y el Pacífico](/regions/4/asia-pacific.html)
 - [Hoteles The Signature Collection](/collection/79/)
 - [Hoteles Conrad Hotels & Resorts](/collection/80/)
 - [Hoteles Four Seasons](/collection/2/)

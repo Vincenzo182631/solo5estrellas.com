@@ -12,7 +12,7 @@ Desde el aeropuerto, el metro llega a Kongens Nytorv en unos 13 minutos. Los nom
 
 | Hotel | Entorno | Beneficios al reservar con Solo5Estrellas |
 | --- | --- | --- |
-| [Hotel d'Angleterre](/hotels/3236/hotel-d-angleterre-copenhagen-.html) | Fundado en 1755 en Kongens Nytorv; 92 habitaciones, 55 de ellas suites, restaurante Marchal y spa con piscina | Desayuno para dos, crédito de 100 USD en comida y bebida, mejora según disponibilidad |
+| [Hotel d'Angleterre](/hotels/3236/hotel-d-angleterre-copenhagen.html) | Fundado en 1755 en Kongens Nytorv; 92 habitaciones, 55 de ellas suites, restaurante Marchal y spa con piscina | Desayuno para dos, crédito de 100 USD en comida y bebida, mejora según disponibilidad |
 | [71 Nyhavn Hotel](/hotels/4090/71-nyhavn-hotel.html) | Dos almacenes portuarios de principios del siglo XIX, con vigas originales, en la esquina de Nyhavn | Desayuno para dos, crédito de 350 DKK en comida y bebida, mejora según disponibilidad |
 
 ### Tivoli y la estación Central

@@ -1,6 +1,6 @@
 # Four Seasons Hotel Madrid
 
-*Hotel de lujo de cinco estrellas en el centro de Madrid, en Centro Canalejas*
+*Hotel de lujo en el centro de Madrid, en Centro Canalejas*
 
 > Draft for `/hotels/3897/`. Title: Four Seasons Hotel Madrid: beneficios | Solo5Estrellas (54). Description: Reserve el Four Seasons Hotel Madrid, en Centro Canalejas, con desayuno para dos, crédito de hotel y mejora de categoría. Solo5Estrellas. (137).
 

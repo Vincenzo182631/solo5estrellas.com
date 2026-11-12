@@ -39,13 +39,13 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Su
 
 ## Los 19 hoteles de Sudáfrica
 
-- Ciudad del Cabo: [Belmond Mount Nelson Hotel](/hotels/945/belmond-mount-nelson-hotel.html); [Cape Cadogan Boutique Hotel](/hotels/2948/cape-cadogan-boutique-hotel.html); [Erinvale Estate Hotel and Spa](/hotels/4548/erinvale-estate-hotel-and-spa.html); [Hyatt Regency Cape Town](/hotels/6523/hyatt-regency-cape-town.html); [Last Word Constantia](/hotels/4549/last-word-constantia.html); [One&Only Cape Town](/hotels/2290/one-only-cape-town-.html); [Taj Cape Town](/hotels/2887/taj-cape-town.html); [The Silo Cape Town](/hotels/3210/the-silo-cape-town.html); [The Twelve Apostles Hotel & Spa](/hotels/1562/the-twelve-apostles-hotel-spa.html)
+- Ciudad del Cabo: [Belmond Mount Nelson Hotel](/hotels/945/belmond-mount-nelson-hotel.html); [Cape Cadogan Boutique Hotel](/hotels/2948/cape-cadogan-boutique-hotel.html); [Erinvale Estate Hotel and Spa](/hotels/4548/erinvale-estate-hotel-and-spa.html); [Hyatt Regency Cape Town](/hotels/6523/hyatt-regency-cape-town.html); [Last Word Constantia](/hotels/4549/last-word-constantia.html); [One&Only Cape Town](/hotels/2290/one-only-cape-town.html); [Taj Cape Town](/hotels/2887/taj-cape-town.html); [The Silo Cape Town](/hotels/3210/the-silo-cape-town.html); [The Twelve Apostles Hotel & Spa](/hotels/1562/the-twelve-apostles-hotel-spa.html)
 - Franschhoek: [Mont Rochelle Hotel](/hotels/3208/mont-rochelle-hotel.html)
 - Hermanus: [The Marine Hermanus](/hotels/4465/the-marine-hermanus.html)
-- Hoedspruit: [Royal Malewane, An All-Inclusive Resort](/hotels/1524/royal-malewane-an-all-inclusive-resort-.html)
-- Johannesburg: [Johannesburg Marriott Hotel Melrose Arch](/hotels/7093/johannesburg-marriott-hotel-melrose-arch.html); [Park Hyatt Johannesburg](/hotels/6772/park-hyatt-johannesburg.html); [Saxon Hotel, Villas & Spa](/hotels/2493/saxon-hotel-villas-spa-.html); [The Westcliff, Four Seasons Hotel Johannesburg](/hotels/2889/the-westcliff-four-seasons-hotel-johannesburg-.html)
+- Hoedspruit: [Royal Malewane, An All-Inclusive Resort](/hotels/1524/royal-malewane-an-all-inclusive-resort.html)
+- Johannesburg: [Johannesburg Marriott Hotel Melrose Arch](/hotels/7093/johannesburg-marriott-hotel-melrose-arch.html); [Park Hyatt Johannesburg](/hotels/6772/park-hyatt-johannesburg.html); [Saxon Hotel, Villas & Spa](/hotels/2493/saxon-hotel-villas-spa.html); [The Westcliff, Four Seasons Hotel Johannesburg](/hotels/2889/the-westcliff-four-seasons-hotel-johannesburg.html)
 - Kruger National Park: [Ulusaba Private Game Reserve](/hotels/1120/ulusaba-private-game-reserve.html)
-- Mpumalanga: [Savanna Private Game](/hotels/2239/savanna-private-game-.html)
+- Mpumalanga: [Savanna Private Game](/hotels/2239/savanna-private-game.html)
 - Zululand: [andBEYOND Phinda Private Game](/hotels/1224/andbeyond-phinda-private-game.html)
 
 ## Preguntas frecuentes sobre hoteles en Sudáfrica

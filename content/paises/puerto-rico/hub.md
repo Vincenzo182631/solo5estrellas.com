@@ -34,9 +34,9 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Pu
 
 ## Los 11 hoteles de Puerto Rico
 
-- Dorado: [Dorado Beach, a Ritz Carlton Reserve](/hotels/2705/dorado-beach-a-ritz-carlton-reserve-.html); [The Ritz Carlton Residences at Dorado Beach](/hotels/3879/the-ritz-carlton-residences-at-dorado-beach.html)
+- Dorado: [Dorado Beach, a Ritz Carlton Reserve](/hotels/2705/dorado-beach-a-ritz-carlton-reserve.html); [The Ritz Carlton Residences at Dorado Beach](/hotels/3879/the-ritz-carlton-residences-at-dorado-beach.html)
 - Isla Verde: [The Royal Sonesta San Juan](/hotels/6645/the-royal-sonesta-san-juan.html)
-- Rio Grande: [Hyatt Regency Grand Reserve Puerto Rico](/hotels/4198/hyatt-regency-grand-reserve-puerto-rico.html); [The St. Regis Bahia Beach Resort](/hotels/2426/the-st-regis-bahia-beach-resort-.html)
+- Rio Grande: [Hyatt Regency Grand Reserve Puerto Rico](/hotels/4198/hyatt-regency-grand-reserve-puerto-rico.html); [The St. Regis Bahia Beach Resort](/hotels/2426/the-st-regis-bahia-beach-resort.html)
 - San Juan: [Condado Vanderbilt](/hotels/2998/condado-vanderbilt.html); [Fairmont El San Juan Hotel](/hotels/1940/fairmont-el-san-juan-hotel.html); [Four Seasons Puerto Rico](/hotels/6869/four-seasons-puerto-rico.html); [Hotel El Convento](/hotels/1514/hotel-el-convento.html); [La Concha Resort](/hotels/3726/la-concha-resort.html); [Sheraton Puerto Rico Resort & Casino](/hotels/6897/sheraton-puerto-rico-resort-casino.html)
 
 ## Preguntas frecuentes sobre hoteles en Puerto Rico

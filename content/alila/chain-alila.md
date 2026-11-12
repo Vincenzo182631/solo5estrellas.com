@@ -53,7 +53,7 @@ Alila es una de las marcas de Hyatt Hotels Corporation. Solo5Estrellas, operado 
 ### Oriente Medio y norte de África
 
 **Omán (1)**
-- [Alila Jabal Akhdar](/hotels/3608/-alila-jabal-akhdar.html) (Jebel Akhdar)
+- [Alila Jabal Akhdar](/hotels/3608/alila-jabal-akhdar.html) (Jebel Akhdar)
 
 ### Asia
 

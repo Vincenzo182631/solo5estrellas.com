@@ -33,8 +33,8 @@ En el bulevar Haussmann, distrito 9, cerca de la Ópera Garnier.
 
 ## Preguntas frecuentes
 
-### ¿Cuántas estrellas tiene?
-Cuatro.
+### ¿Dónde está?
+En el bulevar Haussmann, distrito 9, cerca de la Ópera Garnier.
 
 ### ¿Qué restaurante tiene?
 La brasserie Sixtine y el Bar Lindbergh.

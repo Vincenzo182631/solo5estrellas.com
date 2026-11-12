@@ -57,16 +57,16 @@ Belmond es una compañía de hoteles y viajes de lujo propiedad de LVMH, fundada
 ### Sudamérica
 
 **Perú (6)**
-- [Belmond Hotel Monasterio](/hotels/1077/belmond-hotel-monasterio-.html) (Cusco)
+- [Belmond Hotel Monasterio](/hotels/1077/belmond-hotel-monasterio.html) (Cusco)
 - [Belmond Hotel Rio Sagrado](/hotels/2461/belmond-hotel-rio-sagrado.html) (Cusco)
-- [Belmond Las Casitas](/hotels/3280/belmond-las-casitas-.html) (Colca Canyon)
-- [Belmond Miraflores Park](/hotels/1519/belmond-miraflores-park-.html) (Lima)
+- [Belmond Las Casitas](/hotels/3280/belmond-las-casitas.html) (Colca Canyon)
+- [Belmond Miraflores Park](/hotels/1519/belmond-miraflores-park.html) (Lima)
 - [Belmond Palacio Nazarenas](/hotels/2623/belmond-palacio-nazarenas.html) (Cusco)
 - [Belmond Sanctuary Lodge](/hotels/1990/belmond-sanctuary-lodge.html) (Machu Picchu)
 
 **Brasil (2)**
 - [Belmond Copacabana Palace](/hotels/942/belmond-copacabana-palace.html) (Río de Janeiro)
-- [Belmond Hotel das Cataratas](/hotels/2324/belmond-hotel-das-cataratas-.html) (Iguassu Falls)
+- [Belmond Hotel das Cataratas](/hotels/2324/belmond-hotel-das-cataratas.html) (Iguassu Falls)
 
 ### Europa
 
@@ -74,13 +74,13 @@ Belmond es una compañía de hoteles y viajes de lujo propiedad de LVMH, fundada
 - [Belmond Grand Hotel Europe](/hotels/1195/belmond-grand-hotel-europe.html) (San Petersburgo)
 
 **Italia (9)**
-- [Belmond Grand Hotel Timeo](/hotels/1784/belmond-grand-hotel-timeo-.html) (Taormina)
+- [Belmond Grand Hotel Timeo](/hotels/1784/belmond-grand-hotel-timeo.html) (Taormina)
 - [Belmond Hotel Caruso](/hotels/1655/belmond-hotel-caruso.html) (Amalfi Coast)
-- [Belmond Hotel Cipriani](/hotels/943/belmond-hotel-cipriani-.html) (Venecia)
-- [Belmond Hotel Splendido](/hotels/944/belmond-hotel-splendido-.html) (Portofino)
+- [Belmond Hotel Cipriani](/hotels/943/belmond-hotel-cipriani.html) (Venecia)
+- [Belmond Hotel Splendido](/hotels/944/belmond-hotel-splendido.html) (Portofino)
 - [Belmond Hotel Splendido Mare](/hotels/6110/belmond-hotel-splendido-mare.html) (Portofino)
 - [Belmond Villa San Michele](/hotels/946/belmond-villa-san-michele.html) (Florencia)
-- [Belmond Villa Sant’ Andrea](/hotels/2516/belmond-villa-sant-andrea-.html) (Taormina)
+- [Belmond Villa Sant’ Andrea](/hotels/2516/belmond-villa-sant-andrea.html) (Taormina)
 - [Castello di Casole](/hotels/3180/castello-di-casole.html) (Toscana)
 - [Romazzino](/hotels/1047/romazzino.html) (Porto Cervo)
 
@@ -106,13 +106,13 @@ Belmond es una compañía de hoteles y viajes de lujo propiedad de LVMH, fundada
 ### Asia
 
 **Camboya (1)**
-- [Belmond La Residence D'Angkor](/hotels/2730/belmond-la-residence-d-angkor-.html) (Siem Reap)
+- [Belmond La Residence D'Angkor](/hotels/2730/belmond-la-residence-d-angkor.html) (Siem Reap)
 
 **Indonesia (1)**
-- [Belmond Jimbaran Puri](/hotels/2406/belmond-jimbaran-puri-.html) (Bali)
+- [Belmond Jimbaran Puri](/hotels/2406/belmond-jimbaran-puri.html) (Bali)
 
 **Tailandia (1)**
-- [Belmond Napasai](/hotels/2513/belmond-napasai-.html) (Koh Samui)
+- [Belmond Napasai](/hotels/2513/belmond-napasai.html) (Koh Samui)
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

@@ -40,7 +40,7 @@ Kempinski Hotels es un grupo hotelero de lujo con sede en Ginebra, cuyo nombre s
 ### México, Caribe y Centroamérica
 
 **México (1)**
-- [Kempinski Grand Hotel Cancun](/hotels/2370/kempinski-grand-hotel-cancun-.html) (Cancún)
+- [Kempinski Grand Hotel Cancun](/hotels/2370/kempinski-grand-hotel-cancun.html) (Cancún)
 
 ### Europa
 
@@ -54,13 +54,13 @@ Kempinski Hotels es un grupo hotelero de lujo con sede en Ginebra, cuyo nombre s
 - [Kempinski Hotel Corvinus Budapest](/hotels/4256/kempinski-hotel-corvinus-budapest.html) (Budapest)
 
 **Turquía (2)**
-- [Ciragan Palace Hotel Kempinski](/hotels/1001/ciragan-palace-hotel-kempinski-.html) (Estambul)
+- [Ciragan Palace Hotel Kempinski](/hotels/1001/ciragan-palace-hotel-kempinski.html) (Estambul)
 - [Kempinski Hotel Barbaros Bay Bodrum](/hotels/6569/kempinski-hotel-barbaros-bay-bodrum.html) (Bodrum)
 
 **Alemania (3)**
 - [Hotel Adlon Kempinski Berlin](/hotels/1141/hotel-adlon-kempinski-berlin.html) (Berlín)
-- [Hotel Vier Jahreszeiten Kempinski Munich](/hotels/1762/hotel-vier-jahreszeiten-kempinski-munich-.html) (Múnich)
-- [Kempinski Dresden - Hotel Taschenbergpalais](/hotels/7051/kempinski-dresden-hotel-taschenbergpalais-.html) (Leipzig)
+- [Hotel Vier Jahreszeiten Kempinski Munich](/hotels/1762/hotel-vier-jahreszeiten-kempinski-munich.html) (Múnich)
+- [Kempinski Dresden - Hotel Taschenbergpalais](/hotels/7051/kempinski-dresden-hotel-taschenbergpalais.html) (Leipzig)
 
 **España (1)**
 - [Kempinski Hotel Bahia Estepona](/hotels/1505/kempinski-hotel-bahia-estepona.html) (Estepona)
@@ -71,7 +71,7 @@ Kempinski Hotels es un grupo hotelero de lujo con sede en Ginebra, cuyo nombre s
 ### África
 
 **República del Congo (1)**
-- [Kempinski Hotel Brazzaville](/hotels/7066/kempinski-hotel-brazzaville-.html) (Brazzaville)
+- [Kempinski Hotel Brazzaville](/hotels/7066/kempinski-hotel-brazzaville.html) (Brazzaville)
 
 ### Oriente Medio y norte de África
 

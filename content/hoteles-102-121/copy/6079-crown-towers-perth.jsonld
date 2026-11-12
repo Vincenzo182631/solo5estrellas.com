@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Crown Towers Perth",
-          "item": "https://solo5estrellas.com/hotels/6079/Crown-Towers-Perth.html"
+          "item": "https://solo5estrellas.com/hotels/6079/crown-towers-perth.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/6079/Crown-Towers-Perth.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/6079/Crown-Towers-Perth.html",
+      "@id": "https://solo5estrellas.com/hotels/6079/crown-towers-perth.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/6079/crown-towers-perth.html",
       "name": "Crown Towers Perth",
       "description": "Crown Towers Perth, el hotel de lujo del complejo Crown junto al río Swan, con Crown Spa. Con Solo5Estrellas: desayuno para dos y crédito de 100 USD.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Crown Towers Perth",
-      "url": "https://solo5estrellas.com/hotels/6079/Crown-Towers-Perth.html",
+      "url": "https://solo5estrellas.com/hotels/6079/crown-towers-perth.html",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Burswood, Perth",

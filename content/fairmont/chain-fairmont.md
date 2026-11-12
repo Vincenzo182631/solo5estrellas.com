@@ -49,8 +49,8 @@ Diecinueve hoteles, de las Rocosas de Alberta (Banff, Lake Louise, Jasper) a Van
 
 **Columbia Británica**
 - [Fairmont Empress](/hotels/1637/fairmont-empress.html) (Victoria)
-- [Fairmont Pacific Rim](/hotels/2362/fairmont-pacific-rim-.html) (Vancouver)
-- [Fairmont Waterfront](/hotels/1882/fairmont-waterfront-.html) (Vancouver)
+- [Fairmont Pacific Rim](/hotels/2362/fairmont-pacific-rim.html) (Vancouver)
+- [Fairmont Waterfront](/hotels/1882/fairmont-waterfront.html) (Vancouver)
 - [The Fairmont Chateau Whistler](/hotels/1026/the-fairmont-chateau-whistler.html) (Whistler)
 - [The Fairmont Hotel Vancouver](/hotels/1208/the-fairmont-hotel-vancouver.html) (Vancouver)
 - [The Fairmont Vancouver Airport](/hotels/2157/the-fairmont-vancouver-airport.html) (Vancouver)
@@ -80,8 +80,8 @@ Veinte hoteles, entre ellos ocho en California y dos en Hawái.
 - [Fairmont Breakers Long Beach](/hotels/7029/fairmont-breakers-long-beach.html) (Long Beach)
 - [Fairmont Century Plaza](/hotels/2080/fairmont-century-plaza.html) (Los Ángeles)
 - [Fairmont Grand Del Mar](/hotels/2238/fairmont-grand-del-mar.html) (San Diego)
-- [Fairmont Heritage Place, Ghirardelli Sq.](/hotels/2520/fairmont-heritage-place-ghirardelli-sq-.html) (San Francisco)
-- [Fairmont Miramar Hotel & Bungalows](/hotels/2133/fairmont-miramar-hotel-bungalows-.html) (Los Ángeles)
+- [Fairmont Heritage Place, Ghirardelli Sq.](/hotels/2520/fairmont-heritage-place-ghirardelli-sq.html) (San Francisco)
+- [Fairmont Miramar Hotel & Bungalows](/hotels/2133/fairmont-miramar-hotel-bungalows.html) (Los Ángeles)
 - [Fairmont Sonoma Mission Inn & Spa](/hotels/1136/fairmont-sonoma-mission-inn-spa.html) (Sonoma)
 - [The Claremont Resort](/hotels/4850/the-claremont-resort.html) (Berkeley)
 - [The Fairmont San Francisco](/hotels/2136/the-fairmont-san-francisco.html) (San Francisco)
@@ -110,7 +110,7 @@ Veinte hoteles, entre ellos ocho en California y dos en Hawái.
 
 **Texas**
 - [Fairmont Austin](/hotels/3325/fairmont-austin.html) (Austin)
-- [Fairmont Dallas](/hotels/2736/fairmont-dallas-.html) (Dallas)
+- [Fairmont Dallas](/hotels/2736/fairmont-dallas.html) (Dallas)
 
 **Washington**
 - [Fairmont Olympic Seattle](/hotels/1483/fairmont-olympic-seattle.html) (Seattle)
@@ -131,7 +131,7 @@ Del Savoy de Londres a la Costa del Sol, Montecarlo, Montreux y Praga.
 
 - [The Savoy](/hotels/2434/the-savoy.html) (Londres)
 - [Fairmont Windsor Park](/hotels/4902/fairmont-windsor-park.html) (Windsor)
-- [Fairmont St. Andrews](/hotels/3605/fairmont-st-andrews-.html) (St. Andrews)
+- [Fairmont St. Andrews](/hotels/3605/fairmont-st-andrews.html) (St. Andrews)
 - [Carton House - A Fairmont Hotel](/hotels/4888/carton-house-a-fairmont-hotel.html) (Maynooth)
 - [Fairmont Monte Carlo](/hotels/2650/fairmont-monte-carlo.html) (Montecarlo)
 - [Fairmont Le Montreux Palace](/hotels/1312/fairmont-le-montreux-palace.html) (Montreux)
@@ -144,9 +144,9 @@ Del Savoy de Londres a la Costa del Sol, Montecarlo, Montreux y Praga.
 
 Hoteles en los Emiratos, Catar, Arabia Saudita, Jordania, Egipto, Marruecos y Kenia, además de Bakú.
 
-- [Fairmont Dubai Hotel](/hotels/4924/fairmont-dubai-hotel-.html) (Dubái)
-- [Fairmont The Palm Dubai](/hotels/4923/fairmont-the-palm-dubai-.html) (Dubái)
-- [Fairmont Bab Al Bahr](/hotels/4922/fairmont-bab-al-bahr-.html) (Abu Dhabi)
+- [Fairmont Dubai Hotel](/hotels/4924/fairmont-dubai-hotel.html) (Dubái)
+- [Fairmont The Palm Dubai](/hotels/4923/fairmont-the-palm-dubai.html) (Dubái)
+- [Fairmont Bab Al Bahr](/hotels/4922/fairmont-bab-al-bahr.html) (Abu Dhabi)
 - [Fairmont Ajman](/hotels/4926/fairmont-ajman.html) (Ajman)
 - [Fairmont Fujairah Beach Resort](/hotels/4925/fairmont-fujairah-beach-resort.html) (Fujairah)
 - [Fairmont Doha](/hotels/6642/fairmont-doha.html) (Doha)
@@ -154,26 +154,26 @@ Hoteles en los Emiratos, Catar, Arabia Saudita, Jordania, Egipto, Marruecos y Ke
 - [Hotel Fairmont Amman](/hotels/6132/hotel-fairmont-amman.html) (Ammán)
 - [Fairmont Baku Flame Towers](/hotels/4873/fairmont-baku-flame-towers.html) (Bakú)
 - [Fairmont Nile City Hotel](/hotels/6131/fairmont-nile-city-hotel.html) (El Cairo)
-- [Fairmont Royal Palm Marrakech](/hotels/4886/fairmont-royal-palm-marrakech-.html) (Marrakech)
+- [Fairmont Royal Palm Marrakech](/hotels/4886/fairmont-royal-palm-marrakech.html) (Marrakech)
 - [Fairmont Taghazout Bay](/hotels/4884/fairmont-taghazout-bay.html) (Taghazout)
 - [Fairmont Mara Safari Club](/hotels/2373/fairmont-mara-safari-club.html) (Masái Mara)
-- [Fairmont Mount Kenya Safari Club](/hotels/2376/fairmont-mount-kenya-safari-club-.html) (Nanyuki)
-- [Fairmont The Norfolk](/hotels/2375/fairmont-the-norfolk-.html) (Nairobi)
+- [Fairmont Mount Kenya Safari Club](/hotels/2376/fairmont-mount-kenya-safari-club.html) (Nanyuki)
+- [Fairmont The Norfolk](/hotels/2375/fairmont-the-norfolk.html) (Nairobi)
 
 ### Asia y Brasil
 
 Cinco hoteles en China, y otros en Yakarta, Manila, Singapur, Seúl y Río de Janeiro.
 
-- [Fairmont Beijing](/hotels/2569/fairmont-beijing-.html) (Pekín)
+- [Fairmont Beijing](/hotels/2569/fairmont-beijing.html) (Pekín)
 - [Fairmont Chengdu](/hotels/4905/fairmont-chengdu.html) (Chengdu)
 - [Fairmont Peace Hotel](/hotels/2639/fairmont-peace-hotel.html) (Shanghái)
 - [Fairmont Sanya Haitang Bay](/hotels/6128/fairmont-sanya-haitang-bay.html) (Sanya)
 - [Fairmont Wuhan](/hotels/6130/fairmont-wuhan.html) (Wuhan)
 - [Fairmont Jakarta](/hotels/4935/fairmont-jakarta.html) (Jakarta)
 - [Fairmont Makati](/hotels/4967/fairmont-makati.html) (isla de Luzón)
-- [Fairmont Singapore](/hotels/2038/fairmont-singapore-.html) (Singapur)
+- [Fairmont Singapore](/hotels/2038/fairmont-singapore.html) (Singapur)
 - [Fairmont Ambassador Seoul](/hotels/4948/fairmont-ambassador-seoul.html) (Seúl)
-- [Fairmont Rio de Janeiro Copacabana](/hotels/4849/fairmont-rio-de-janeiro-copacabana-.html) (Río de Janeiro)
+- [Fairmont Rio de Janeiro Copacabana](/hotels/4849/fairmont-rio-de-janeiro-copacabana.html) (Río de Janeiro)
 
 ## Qué Fairmont elegir según el viaje
 
@@ -181,8 +181,8 @@ Cinco hoteles en China, y otros en Yakarta, Manila, Singapur, Seúl y Río de Ja
 | --- | --- |
 | Hoteles históricos | [Fairmont Banff Springs](/hotels/1203/fairmont-banff-springs.html), [Fairmont Empress](/hotels/1637/fairmont-empress.html), [Fairmont Royal York](/hotels/1229/fairmont-royal-york.html), [The Savoy](/hotels/2434/the-savoy.html), [Fairmont Peace Hotel](/hotels/2639/fairmont-peace-hotel.html), [The Fairmont Copley Plaza](/hotels/2004/the-fairmont-copley-plaza.html) |
 | Resorts de playa | [Fairmont Mayakoba](/hotels/1717/fairmont-mayakoba.html), [Fairmont Kea Lani, Maui](/hotels/1223/fairmont-kea-lani-maui.html), [Fairmont Orchid](/hotels/1638/fairmont-orchid.html), [Fairmont Sanya Haitang Bay](/hotels/6128/fairmont-sanya-haitang-bay.html), [Fairmont Taghazout Bay](/hotels/4884/fairmont-taghazout-bay.html), [The Fairmont Royal Pavilion](/hotels/2135/the-fairmont-royal-pavilion.html) |
-| Golf | [Fairmont Banff Springs](/hotels/1203/fairmont-banff-springs.html), [The Fairmont Jasper Park Lodge](/hotels/1459/the-fairmont-jasper-park-lodge.html), [Fairmont St. Andrews](/hotels/3605/fairmont-st-andrews-.html), [Fairmont Scottsdale Princess](/hotels/1639/fairmont-scottsdale-princess.html) |
-| Safari | [Fairmont Mara Safari Club](/hotels/2373/fairmont-mara-safari-club.html), [Fairmont Mount Kenya Safari Club](/hotels/2376/fairmont-mount-kenya-safari-club-.html) |
+| Golf | [Fairmont Banff Springs](/hotels/1203/fairmont-banff-springs.html), [The Fairmont Jasper Park Lodge](/hotels/1459/the-fairmont-jasper-park-lodge.html), [Fairmont St. Andrews](/hotels/3605/fairmont-st-andrews.html), [Fairmont Scottsdale Princess](/hotels/1639/fairmont-scottsdale-princess.html) |
+| Safari | [Fairmont Mara Safari Club](/hotels/2373/fairmont-mara-safari-club.html), [Fairmont Mount Kenya Safari Club](/hotels/2376/fairmont-mount-kenya-safari-club.html) |
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

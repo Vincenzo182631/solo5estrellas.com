@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "L'Hotel",
-          "item": "https://solo5estrellas.com/hotels/4367/l'hotel.html"
+          "item": "https://solo5estrellas.com/hotels/4367/l-hotel.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/4367/l'hotel.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/4367/l'hotel.html",
+      "@id": "https://solo5estrellas.com/hotels/4367/l-hotel.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/4367/l-hotel.html",
       "name": "L'Hotel",
       "description": "L'Hotel, en Saint-Germain-des-Prés, donde vivió Oscar Wilde, con piscina hammam privada. Con Solo5Estrellas: desayuno continental y crédito.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "L'Hotel",
-      "url": "https://solo5estrellas.com/hotels/4367/l'hotel.html",
+      "url": "https://solo5estrellas.com/hotels/4367/l-hotel.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "13 Rue des Beaux-Arts",

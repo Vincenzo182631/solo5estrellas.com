@@ -31,7 +31,7 @@ Un hotel no tiene una marca o colección asociada en la lista.
 
 - Amberes: [Hotel De Witte Lelie](/hotels/4348/hotel-de-witte-lelie.html)
 - Brujas: [Hotel de Tuilereen](/hotels/6376/hotel-de-tuilereen.html)
-- Bruselas: [Cardo Brussels, Autograph Collection](/hotels/6729/cardo-brussels-autograph-collection.html); [Corinthia Grand Hotel Astoria Brussels](/hotels/6778/corinthia-grand-hotel-astoria-brussels.html); [Juliana Hotel Brussels](/hotels/6417/juliana-hotel-brussels.html); [Le Louise Brussels - MGallery](/hotels/6870/le-louise-brussels-mgallery.html); [Rocco Forte Hotel Amigo](/hotels/1219/rocco-forte-hotel-amigo-.html); [Sofitel Brussels Europe](/hotels/4874/sofitel-brussels-europe.html); [Steigenberger Wiltcher’s](/hotels/6160/steigenberger-wiltcher-s.html)
+- Bruselas: [Cardo Brussels, Autograph Collection](/hotels/6729/cardo-brussels-autograph-collection.html); [Corinthia Grand Hotel Astoria Brussels](/hotels/6778/corinthia-grand-hotel-astoria-brussels.html); [Juliana Hotel Brussels](/hotels/6417/juliana-hotel-brussels.html); [Le Louise Brussels - MGallery](/hotels/6870/le-louise-brussels-mgallery.html); [Rocco Forte Hotel Amigo](/hotels/1219/rocco-forte-hotel-amigo.html); [Sofitel Brussels Europe](/hotels/4874/sofitel-brussels-europe.html); [Steigenberger Wiltcher’s](/hotels/6160/steigenberger-wiltcher-s.html)
 
 ## Preguntas frecuentes sobre hoteles en Bélgica
 

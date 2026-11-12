@@ -86,7 +86,7 @@ EDITION Hotels es una marca de lujo lifestyle creada por Ian Schrager junto con 
 - [The Shanghai EDITION](/hotels/3367/the-shanghai-edition.html) (Shanghái)
 
 **Japón (2)**
-- [The Tokyo EDITION Toranomon](/hotels/4183/the-tokyo-edition-toranomon-.html) (Tokio)
+- [The Tokyo EDITION Toranomon](/hotels/4183/the-tokyo-edition-toranomon.html) (Tokio)
 - [The Tokyo EDITION, Ginza](/hotels/6656/the-tokyo-edition-ginza.html) (Tokio)
 
 **Singapur (1)**
@@ -154,7 +154,7 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 - [Hoteles Bulgari](/collection/71/)
 - [Hoteles Ritz-Carlton](/chains/13/ritz_carlton.html)
 - [Hoteles de lujo en Londres](/cities/150/london.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
-- [Hoteles de lujo en Miami](/cities/168/Miami.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
+- [Hoteles de lujo en Miami](/cities/168/miami.html)
 
 *Fuentes externas: [One Mile at a Time: Marriott STARS y Luminous](https://onemileatatime.com/guides/marriott-stars-luminous/); [Upgraded Points: Marriott STARS y Luminous](https://upgradedpoints.com/travel/hotels/marriott-stars-luminous-programs/). Revisado por [nombre del asesor], [fecha]. Beneficios verificados el [fecha pendiente].*

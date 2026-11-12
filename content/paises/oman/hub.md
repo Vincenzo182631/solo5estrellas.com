@@ -35,9 +35,9 @@ Solo5Estrellas, operado por Lorraine Travel desde 1948, agrupa los hoteles de Om
 
 ## Los 12 hoteles de Omán
 
-- Jebel Akhdar: [Alila Jabal Akhdar](/hotels/3608/-alila-jabal-akhdar.html)
+- Jebel Akhdar: [Alila Jabal Akhdar](/hotels/3608/alila-jabal-akhdar.html)
 - Khasab: [Atana Musandam Resort](/hotels/4546/atana-musandam-resort.html)
-- Muscat: [Al Bustan Palace, A Ritz Carlton](/hotels/3707/al-bustan-palace-a-ritz-carlton.html); [Grand Hyatt Muscat](/hotels/3413/grand-hyatt-muscat-.html); [InterContinental Muscat](/hotels/4797/intercontinental-muscat.html); [JW Marriott Hotel Muscat](/hotels/6873/jw-marriott-hotel-muscat.html); [Mandarin Oriental Muscat](/hotels/6736/mandarin-oriental-muscat.html); [Shangri-La Al Husn Resort and Spa](/hotels/3509/shangri-la-al-husn-resort-and-spa.html); [Shangri-La’s Barr Al Jissah Resort](/hotels/2363/shangri-la-s-barr-al-jissah-resort.html); [The St. Regis Al Mouj Muscat Resort](/hotels/6872/the-st-regis-al-mouj-muscat-resort.html); [W Muscat](/hotels/6874/w-muscat.html)
+- Muscat: [Al Bustan Palace, A Ritz Carlton](/hotels/3707/al-bustan-palace-a-ritz-carlton.html); [Grand Hyatt Muscat](/hotels/3413/grand-hyatt-muscat.html); [InterContinental Muscat](/hotels/4797/intercontinental-muscat.html); [JW Marriott Hotel Muscat](/hotels/6873/jw-marriott-hotel-muscat.html); [Mandarin Oriental Muscat](/hotels/6736/mandarin-oriental-muscat.html); [Shangri-La Al Husn Resort and Spa](/hotels/3509/shangri-la-al-husn-resort-and-spa.html); [Shangri-La’s Barr Al Jissah Resort](/hotels/2363/shangri-la-s-barr-al-jissah-resort.html); [The St. Regis Al Mouj Muscat Resort](/hotels/6872/the-st-regis-al-mouj-muscat-resort.html); [W Muscat](/hotels/6874/w-muscat.html)
 - Nizwa: [Anantara Al Jabal Al Akhdar Resort](/hotels/4193/anantara-al-jabal-al-akhdar-resort.html)
 
 ## Preguntas frecuentes sobre hoteles en Omán
@@ -68,7 +68,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Oriente Medio](/regions/18/middle_east.html)
+- [Hoteles de lujo en Oriente Medio](/regions/18/middle-east.html)
 - [Hoteles Shangri-la Hotels](/collection/33/)
 - [Hoteles ALiLa](/collection/78/)
 - [Hoteles Preferred Hotels & Resorts](/collection/25/)

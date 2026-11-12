@@ -40,43 +40,43 @@ Dorchester Collection es un grupo de hoteles de lujo con sede en Londres que inc
 
 Dos hoteles en Mayfair, Londres, frente a Hyde Park.
 
-- [The Dorchester](/hotels/1002/The-Dorchester.html) (Londres)
-- [45 Park Lane](/hotels/3622/45-Park-Lane.html) (Londres)
+- [The Dorchester](/hotels/1002/the-dorchester.html) (Londres)
+- [45 Park Lane](/hotels/3622/45-park-lane.html) (Londres)
 
 ### Francia
 
 Dos hoteles en París: Le Meurice, frente a las Tullerías, y el Hôtel Plaza Athénée, en el Triángulo de Oro.
 
-- [Le Meurice](/hotels/1121/Le-Meurice.html) (París)
-- [Hôtel Plaza Athénée](/hotels/1008/Hotel-Plaza-Athenee-Paris.html) (París)
+- [Le Meurice](/hotels/1121/le-meurice.html) (París)
+- [Hôtel Plaza Athénée](/hotels/1008/hotel-plaza-athenee-paris.html) (París)
 
 ### Italia
 
 Un hotel en Roma y otro en Milán.
 
-- [Hotel Eden](/hotels/1009/Hotel-Eden-.html) (Roma)
-- [Hotel Principe di Savoia Milano](/hotels/1032/Hotel-Principe-di-Savoia-Milano-.html) (Milán; cerrado por restauración desde el 1 de enero de 2027)
+- [Hotel Eden](/hotels/1009/hotel-eden.html) (Roma)
+- [Hotel Principe di Savoia Milano](/hotels/1032/hotel-principe-di-savoia-milano.html) (Milán; cerrado por restauración desde el 1 de enero de 2027)
 
 ### Estados Unidos
 
 Dos hoteles clásicos de Los Ángeles: The Beverly Hills Hotel y Hotel Bel-Air.
 
-- [The Beverly Hills Hotel](/hotels/1035/The-Beverly-Hills-Hotel.html) (Beverly Hills)
-- [Hotel Bel-Air](/hotels/1005/Hotel-Bel-Air.html) (Los Ángeles)
+- [The Beverly Hills Hotel](/hotels/1035/the-beverly-hills-hotel.html) (Beverly Hills)
+- [Hotel Bel-Air](/hotels/1005/hotel-bel-air.html) (Los Ángeles)
 
 ### Emiratos Árabes Unidos
 
 Un hotel en Dubái.
 
-- [The Lana Dubai](/hotels/6583/The-Lana-Dubai.html) (Dubái)
+- [The Lana Dubai](/hotels/6583/the-lana-dubai.html) (Dubái)
 
 ## Qué Dorchester Collection elegir según el viaje
 
 | Si busca | Considere |
 | --- | --- |
-| Ciudades europeas | [The Dorchester](/hotels/1002/The-Dorchester.html), [45 Park Lane](/hotels/3622/45-Park-Lane.html), [Le Meurice](/hotels/1121/Le-Meurice.html), [Hôtel Plaza Athénée](/hotels/1008/Hotel-Plaza-Athenee-Paris.html), [Hotel Eden](/hotels/1009/Hotel-Eden-.html), [Hotel Principe di Savoia Milano](/hotels/1032/Hotel-Principe-di-Savoia-Milano-.html) |
-| Los Ángeles | [The Beverly Hills Hotel](/hotels/1035/The-Beverly-Hills-Hotel.html), [Hotel Bel-Air](/hotels/1005/Hotel-Bel-Air.html) |
-| Dubái | [The Lana Dubai](/hotels/6583/The-Lana-Dubai.html) |
+| Ciudades europeas | [The Dorchester](/hotels/1002/the-dorchester.html), [45 Park Lane](/hotels/3622/45-park-lane.html), [Le Meurice](/hotels/1121/le-meurice.html), [Hôtel Plaza Athénée](/hotels/1008/hotel-plaza-athenee-paris.html), [Hotel Eden](/hotels/1009/hotel-eden.html), [Hotel Principe di Savoia Milano](/hotels/1032/hotel-principe-di-savoia-milano.html) |
+| Los Ángeles | [The Beverly Hills Hotel](/hotels/1035/the-beverly-hills-hotel.html), [Hotel Bel-Air](/hotels/1005/hotel-bel-air.html) |
+| Dubái | [The Lana Dubai](/hotels/6583/the-lana-dubai.html) |
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 

@@ -27,7 +27,7 @@ Los 2 hoteles restantes no tienen una marca o colección asociada en la lista.
 
 ## Los 8 hoteles de Panamá
 
-- Ciudad de Panamá: [Bristol Panama](/hotels/2437/bristol-panama-.html); [Hotel La Compañía de Valle](/hotels/6995/hotel-la-compa-a-de-valle.html); [Hotel, La Compañía](/hotels/6122/hotel-la-compa-a.html); [Hyatt Regency Panama City](/hotels/6970/hyatt-regency-panama-city.html); [JW Marriott Panama](/hotels/4687/jw-marriott-panama.html); [Sofitel Legend Casco Viejo](/hotels/5049/sofitel-legend-casco-viejo.html); [The Santa Maria Hotel & Golf Resort](/hotels/3526/the-santa-maria-hotel-golf-resort.html); [Waldorf Astoria Panama](/hotels/4135/waldorf-astoria-panama.html)
+- Ciudad de Panamá: [Bristol Panama](/hotels/2437/bristol-panama.html); [Hotel La Compañía de Valle](/hotels/6995/hotel-la-compa-a-de-valle.html); [Hotel, La Compañía](/hotels/6122/hotel-la-compa-a.html); [Hyatt Regency Panama City](/hotels/6970/hyatt-regency-panama-city.html); [JW Marriott Panama](/hotels/4687/jw-marriott-panama.html); [Sofitel Legend Casco Viejo](/hotels/5049/sofitel-legend-casco-viejo.html); [The Santa Maria Hotel & Golf Resort](/hotels/3526/the-santa-maria-hotel-golf-resort.html); [Waldorf Astoria Panama](/hotels/4135/waldorf-astoria-panama.html)
 
 ## Preguntas frecuentes sobre hoteles en Panamá
 
@@ -57,7 +57,7 @@ Debajo, agrupada por ciudad. Los nombres de los hoteles no se traducen.
 
 ## Siga explorando
 
-- [Hoteles de lujo en Centroamérica](/regions/7/central_america.html)
+- [Hoteles de lujo en Centroamérica](/regions/7/central-america.html)
 - [Hoteles Leading Hotels of the World](/collection/38/)
 - [Hoteles The Unbound Collection](/collection/65/)
 - [Hoteles JW Marriott Hotel](/collection/67/)

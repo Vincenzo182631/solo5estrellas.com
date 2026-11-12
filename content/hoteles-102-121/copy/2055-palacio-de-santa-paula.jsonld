@@ -14,14 +14,14 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Hotel Palacio de Santa Paula, Autograph Collection",
-          "item": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula-.html"
+          "item": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula-.html#webpage",
-      "url": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula-.html",
+      "@id": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula.html#webpage",
+      "url": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula.html",
       "name": "Hotel Palacio de Santa Paula, Autograph Collection",
       "description": "Hotel Palacio de Santa Paula, en un convento del siglo XVI en el centro de Granada. Con Solo5Estrellas: desayuno para dos y amenidad de bienvenida.",
       "inLanguage": "es",
@@ -39,7 +39,7 @@
     {
       "@type": "Hotel",
       "name": "Hotel Palacio de Santa Paula, Autograph Collection",
-      "url": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula-.html",
+      "url": "https://solo5estrellas.com/hotels/2055/hotel-palacio-de-santa-paula.html",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Gran Vía de Colón 31",

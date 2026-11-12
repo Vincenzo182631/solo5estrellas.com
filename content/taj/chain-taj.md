@@ -40,46 +40,46 @@ Taj Hotels es la marca hotelera de Indian Hotels Company Limited, nacida con el 
 
 Cinco hoteles: Bombay y Nueva Delhi, y los palacios de Jaipur, Udaipur y Jodhpur.
 
-- [The Taj Mahal Palace, Mumbai](/hotels/1161/The-Taj-Mahal-Palace-Mumbai.html) (Bombay)
-- [Taj Mahal New Delhi](/hotels/1714/Taj-Mahal-New-Delhi.html) (Nueva Delhi)
-- [Rambagh Palace](/hotels/1664/Rambagh-Palace-.html) (Jaipur)
-- [Taj Lake Palace](/hotels/1332/Taj-Lake-Palace.html) (Udaipur)
-- [Umaid Bhawan Palace](/hotels/1581/Umaid-Bhawan-Palace-.html) (Jodhpur)
+- [The Taj Mahal Palace, Mumbai](/hotels/1161/the-taj-mahal-palace-mumbai.html) (Bombay)
+- [Taj Mahal New Delhi](/hotels/1714/taj-mahal-new-delhi.html) (Nueva Delhi)
+- [Rambagh Palace](/hotels/1664/rambagh-palace.html) (Jaipur)
+- [Taj Lake Palace](/hotels/1332/taj-lake-palace.html) (Udaipur)
+- [Umaid Bhawan Palace](/hotels/1581/umaid-bhawan-palace.html) (Jodhpur)
 
 ### Estados Unidos
 
 Un hotel en Nueva York y otro en San Francisco.
 
-- [The Pierre, New York](/hotels/1425/The-Pierre-New-York.html) (Nueva York)
-- [Taj Campton Place](/hotels/932/Taj-Campton-Place-.html) (San Francisco)
+- [The Pierre, New York](/hotels/1425/the-pierre-new-york.html) (Nueva York)
+- [Taj Campton Place](/hotels/932/taj-campton-place.html) (San Francisco)
 
 ### Reino Unido
 
 Un hotel en Londres.
 
-- [Taj 51 Buckingham Gate](/hotels/1157/Taj-51-Buckingham-Gate-.html) (Londres)
+- [Taj 51 Buckingham Gate](/hotels/1157/taj-51-buckingham-gate.html) (Londres)
 
 ### Emiratos Árabes Unidos
 
 Un hotel urbano y un resort en Dubái.
 
-- [Taj Dubai](/hotels/3006/Taj-Dubai.html) (Dubái)
-- [Taj Exotica Resort & Spa, The Palm, Dubai](/hotels/6316/Taj-Exotica-Resort-Spa-The-Palm-Dubai.html) (Dubái)
+- [Taj Dubai](/hotels/3006/taj-dubai.html) (Dubái)
+- [Taj Exotica Resort & Spa, The Palm, Dubai](/hotels/6316/taj-exotica-resort-spa-the-palm-dubai.html) (Dubái)
 
 ### Maldivas y Sudáfrica
 
 Un resort en Maldivas y un hotel en Ciudad del Cabo.
 
-- [Taj Exotica Resort & Spa Maldives](/hotels/1246/Taj-Exotica-Resort-Spa-Maldives-.html) (Maldivas)
-- [Taj Cape Town](/hotels/2887/Taj-Cape-Town.html) (Ciudad del Cabo)
+- [Taj Exotica Resort & Spa Maldives](/hotels/1246/taj-exotica-resort-spa-maldives.html) (Maldivas)
+- [Taj Cape Town](/hotels/2887/taj-cape-town.html) (Ciudad del Cabo)
 
 ## Qué Taj elegir según el viaje
 
 | Si busca | Considere |
 | --- | --- |
-| Palacios de India | [Rambagh Palace](/hotels/1664/Rambagh-Palace-.html), [Taj Lake Palace](/hotels/1332/Taj-Lake-Palace.html), [Umaid Bhawan Palace](/hotels/1581/Umaid-Bhawan-Palace-.html), [The Taj Mahal Palace, Mumbai](/hotels/1161/The-Taj-Mahal-Palace-Mumbai.html) |
-| Resorts de playa | [Taj Exotica Resort & Spa Maldives](/hotels/1246/Taj-Exotica-Resort-Spa-Maldives-.html), [Taj Exotica Resort & Spa, The Palm, Dubai](/hotels/6316/Taj-Exotica-Resort-Spa-The-Palm-Dubai.html) |
-| Ciudades | [Taj Mahal New Delhi](/hotels/1714/Taj-Mahal-New-Delhi.html), [The Pierre, New York](/hotels/1425/The-Pierre-New-York.html), [Taj Campton Place](/hotels/932/Taj-Campton-Place-.html), [Taj 51 Buckingham Gate](/hotels/1157/Taj-51-Buckingham-Gate-.html), [Taj Dubai](/hotels/3006/Taj-Dubai.html), [Taj Cape Town](/hotels/2887/Taj-Cape-Town.html) |
+| Palacios de India | [Rambagh Palace](/hotels/1664/rambagh-palace.html), [Taj Lake Palace](/hotels/1332/taj-lake-palace.html), [Umaid Bhawan Palace](/hotels/1581/umaid-bhawan-palace.html), [The Taj Mahal Palace, Mumbai](/hotels/1161/the-taj-mahal-palace-mumbai.html) |
+| Resorts de playa | [Taj Exotica Resort & Spa Maldives](/hotels/1246/taj-exotica-resort-spa-maldives.html), [Taj Exotica Resort & Spa, The Palm, Dubai](/hotels/6316/taj-exotica-resort-spa-the-palm-dubai.html) |
+| Ciudades | [Taj Mahal New Delhi](/hotels/1714/taj-mahal-new-delhi.html), [The Pierre, New York](/hotels/1425/the-pierre-new-york.html), [Taj Campton Place](/hotels/932/taj-campton-place.html), [Taj 51 Buckingham Gate](/hotels/1157/taj-51-buckingham-gate.html), [Taj Dubai](/hotels/3006/taj-dubai.html), [Taj Cape Town](/hotels/2887/taj-cape-town.html) |
 
 ## Reservar directamente frente a reservar con Solo5Estrellas
 
@@ -140,7 +140,7 @@ En general sí, si reserva la tarifa de la oferta a través de Solo5Estrellas. S
 ## Siga explorando
 
 - [Hoteles de lujo en Londres](/cities/150/london.html)
-- [Hoteles de lujo en Nueva York](/cities/192/new_york.html)
+- [Hoteles de lujo en Nueva York](/cities/192/new-york.html)
 - [Hoteles Four Seasons](/chains/2/four_seasons.html)
 - [Hoteles Aman](/chains/21/Aman_Resorts.html)
 - [Hoteles Dorchester Collection](/collection/37/)
